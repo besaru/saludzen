@@ -1,0 +1,25 @@
+[
+    {
+        "allDay": "",
+        "title": "Test event",
+        "id": "821",
+        "end": "2017-08-02 14:00:00",
+        "start": "2017-08-02 06:00:00"
+    },
+    {
+        "allDay": "",
+        "title": "Test event 2",
+        "id": "822",
+        "end": "2017-08-10 21:00:00",
+        "start": "2017-08-10 16:00:00"
+    },
+
+   {
+      "id": "999",
+      "title": "Repeating Event- Source Event",
+      "start": "2017-08-03 21:00:00",
+      "end": "2017-08-06 21:00:00",
+      "allDay": "false",
+      "className": "info"
+    }
+]
