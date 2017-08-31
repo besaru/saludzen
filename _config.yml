@@ -16,11 +16,11 @@ keep_files:
 # Site settings
 title: Salud-Zen
 subtitle: "A free HTML5 agency template"
-#url: "https://salud-zen.000webhostapp.com" # the base hostname & protocol for your site
+url: "https://salud-zen.000webhostapp.com" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
-#baseurl: ''
-url: "https://besaru.github.io"
-baseurl: '/saludzen'
+baseurl: ''
+#url: "https://besaru.github.io"
+#baseurl: '/saludzen'
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
 
