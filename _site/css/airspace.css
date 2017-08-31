@@ -703,8 +703,8 @@ font header .navbar-default .navbar-nav li a:hover {
 .social-icons {
   margin-top: 40px;
   margin-bottom:40px;
-  padding-left:25%;
-  position: relative;
+
+
 }
 .social-icons li {
   display: inline-block;
@@ -721,7 +721,6 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 .google-map {
   position: relative;
-  margin-top: 10px;
 }
 .google-map #map {
   width: 100%;

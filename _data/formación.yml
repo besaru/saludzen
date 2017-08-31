@@ -1,0 +1,12 @@
+- name: Seminario
+  id: "S0001"
+  title: Meditación
+  duration: "-3manzanas blabla"
+  description: "This company created an e-commerce site with the tools to make our business a success, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
+  image: img/formacion/item-img1.jpg
+- name: Seminario
+  id: "S0002"
+  title: Cerezas2
+  duration: "-3manzanas blabla"
+  description: "This company created an e-commerce site with the tools to make our business a success, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
+  image: img/item-img1.jpg
