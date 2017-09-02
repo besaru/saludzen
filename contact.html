@@ -22,35 +22,40 @@ permalink: /contact/
 <section id="contact-form">
   <div class="container">
     <div class="row">
+      <form action="https://formspree.io/besaru@gmail.com"
+            method="POST">
       <div class="col-md-6 col-sm-12">
         <div class="block">
 
-          <form>
+
+
+
             <div class="form-group">
-              <input type="text" class="form-control" placeholder="Nombre">
+              <input type="text" class="form-control" placeholder="Nombre" name="Nombre">
             </div>
             <div class="form-group">
-              <input type="text" class="form-control" placeholder="Correo Electrónico">
+              <input type="text" class="form-control" placeholder="Correo Electrónico" name="Correo Electrónico">
             </div>
             <div class="form-group">
-              <input type="text" class="form-control" placeholder="Asunto">
+              <input type="text" class="form-control" placeholder="Asunto" name="Asunto">
             </div>
-          </form>
+      <!--    </form> -->
 
         </div><!--block-->
       </div><!--col-->
       <div class="col-md-6 col-sm-12">
         <div class="block">
-
-          <form>
+<!--
+          <form>-->
             <div class="form-group-2">
-              <textarea class="form-control" rows="3" placeholder="Mensaje"></textarea>
+              <textarea class="form-control" rows="3" placeholder="Mensaje" name="mensaje"></textarea>
             </div>
             <button class="btn btn-default" type="submit">Enviar Mensaje</button>
-          </form>
+      <!--    </form>-->
 
         </div><!--block-->
       </div><!--col-->
+    </form>
     </div><!--row-->
 
     <div id="contact-box" class="row">
