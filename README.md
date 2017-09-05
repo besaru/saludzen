@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # _Airspace_ for Jekyll
 ![screenshot](screenshots/home.png "Description goes here")
 
@@ -15,3 +16,6 @@ Here are some projects that have used this Jekyll Theme:
 * [Coding Club](https://ourcodingclub.github.io/)
 * [Dev Empathy Book Club](http://www.devempathybook.club/)
 * [DKAN Open Data Catalog](http://getdkan.com) (modified version of this theme)
+=======
+# SaludZen
+>>>>>>> 3016a2707767391a6e2319964e6ba91eb9b36624
