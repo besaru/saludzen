@@ -1,121 +1,74 @@
 /*!
- * FullCalendar2 header fulcalendar.html
+ * FullCalendar2 header gcal.html
 
  */
 
- $(document).ready(function() {
-    var date = new Date();
-  var d = date.getDate();
-  var m = date.getMonth();
-  var y = date.getFullYear();
 
-  /*  className colors
+ 	$(document).ready(function() {
 
-  className: default(transparent), important(red), chill(pink), success(green), info(blue)
+ 		$('#calendar').fullCalendar({
 
-  */
-
-
-  /* initialize the external events
-  -----------------------------------------------------------------*/
-
-  $('#external-events div.external-event').each(function() {
-
-    // create an Event Object (http://arshaw.com/fullcalendar/docs/event_data/Event_Object/)
-    // it doesn't need to have a start or end
-    var eventObject = {
-      title: $.trim($(this).text()) // use the element's text as the event title
-    };
-
-    // store the Event Object in the DOM element so we can get to it later
-    $(this).data('eventObject', eventObject);
-
-    // make the event draggable using jQuery UI
-    $(this).draggable({
-      zIndex: 999,
-      revert: true,      // will cause the event to go back to its
-      revertDuration: 0  //  original position after the drag
-    });
-
-  });
-
-
-  /* initialize the calendar
-  -----------------------------------------------------------------*/
-
-  var calendar =  $('#calendar').fullCalendar({
-    header: {
+ 		/*	header: {
+ 				left: 'prev,next today',
+ 				center: 'title',
+ 				right: 'month,agendaWeek,agendaDay,listYear'
+ 			},*/
+      header: {
       left: 'title',
       center: 'agendaDay,agendaWeek,month',
       right: 'prev,next today'
     },
-    editable: true,
-    firstDay: 1, //  1(Monday) this can be changed to 0(Sunday) for the USA system
-    selectable: false,
-    defaultView: 'month',
 
-    axisFormat: 'h:mm',
-    columnFormat: {
-              month: 'ddd',    // Mon
-              week: 'ddd d', // Mon 7
-              day: 'dddd M/d',  // Monday 9/7
-              agendaDay: 'dddd d'
+      locale: 'es',
+      firstDay: 1,
+      timeFormat: 'H(:mm)',
+      businessHours: true,
+      fixedWeekCount: false,
+      showNonCurrentDates: true,
+      eventLimit: true,
+      displayEventTime:true,
+ 			//displayEventTime: false, // don't show the time column in list view
+
+ 			// THIS KEY WON'T WORK IN PRODUCTION!!!
+ 			// To make your own Google API key, follow the directions here:
+ 			// http://fullcalendar.io/docs/google_calendar/
+ 		 googleCalendarApiKey:'AIzaSyAAMhWuXaPjEI8YafyvRze8uPUQEXJ0elc',
+
+ 			// US Holidays
+ 		eventSources: [ {
+            googleCalendarId:'ggm4elj55rqd72jiveg21vrk9o@group.calendar.google.com',
+            className: 'taller'
           },
-          titleFormat: {
-              month: 'MMMM yyyy', // September 2009
-              week: "MMMM yyyy", // September 2009
-              day: 'MMMM yyyy'                  // Tuesday, Sep 8, 2009
-          },
-    allDaySlot: false,
-    selectHelper: true,
-    select: function(start, end, allDay) {
-      var title = prompt('Event Title:');
-      if (title) {
-        calendar.fullCalendar('renderEvent',
           {
-            title: title,
-            start: start,
-            end: end,
-            allDay: allDay
+            googleCalendarId:'n6uqmliu0no52mjea6qn4cnehs@group.calendar.google.com',
+            className: 'seminario'
           },
-          true // make the event "stick"
-        );
-      }
-      calendar.fullCalendar('unselect');
-    },
-    droppable: true, // this allows things to be dropped onto the calendar !!!
-    drop: function(date, allDay) { // this function is called when something is dropped
+          {
+          googleCalendarId:'fnjqbdufufr0ek0on5go20as3c@group.calendar.google.com',
+          className: 'curso'
+          }
+             ],
 
-      // retrieve the dropped element's stored Event Object
-      var originalEventObject = $(this).data('eventObject');
+    //  'en.usa#holiday@group.v.calendar.google.com',
+      //ggm4elj55rqd72jiveg21vrk9o@group.calendar.google.com
+ 			eventClick: function(event) {
+ 				// opens events in a popup window
+ 				window.open(event.url, 'gcalevent', 'width=700,height=600');
+ 				return false;
+ 			},
 
-      // we need to copy it, so that multiple events don't have a reference to the same object
-      var copiedEventObject = $.extend({}, originalEventObject);
+ 			loading: function(bool) {
+ 				$('#loading').toggle(bool);
+ 			}
 
-      // assign it the date that was reported
-      copiedEventObject.start = date;
-      copiedEventObject.allDay = allDay;
+ 		});
 
-      // render the event on the calendar
-      // the last `true` argument determines if the event "sticks" (http://arshaw.com/fullcalendar/docs/event_rendering/renderEvent/)
-      $('#calendar').fullCalendar('renderEvent', copiedEventObject, true);
+ 	});
 
-      // is the "remove after drop" checkbox checked?
-      if ($('#drop-remove').is(':checked')) {
-        // if so, remove the element from the "Draggable Events" list
-        $(this).remove();
-      }
 
-    },
-    eventSources: [
-        '../js/calendar/source.json'
-
-    ],
-  });
 //  $('#calendar').fullCalendar({
 
 //    eventSources: [
 //        '../js/calendar/source.json'
 //    ],
 //  });-->
-    });
