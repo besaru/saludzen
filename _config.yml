@@ -11,7 +11,8 @@ keep_files:
   - "CNAME"
   - ".git"
   - ".gitignore"
-
+  
+future: true
 
 # Site settings
 title: Salud-Zen

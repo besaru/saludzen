@@ -1,0 +1,148 @@
+---
+layout: page
+title: Salud-Zen Blog
+permalink: /eventos/
+category: evento
+---
+<!-- Slider Start -->
+<section id="global-header-eventos">
+  <section id="global-header" >
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="block">
+          <h1>Eventos</h1>
+          <p>No te pierdas los próximos cursos, talleres, seminarios ...</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+</section>
+<section id="intro">
+
+  <div class="container">
+
+    <div class="row">
+      <div class="col-md-12 col-sm-12">
+        <div class="block">
+          <div class="section-title">
+              <h2>Eventos</h2>
+            <!--<p>Este proyecto nace de uno de nuestros propósitos de vida: Poner a disposición del Universo y del Mundo Entero nuestro granito de arena aportando Conocimiento y creando Consciencia a través del Pensamiento, del Discernimiento y del Sentido Común para ser más Libres para elegir y así entre todos crear un Mundo Mejor, más sostenible, con más recursos naturales y desde una consciencia mucho más Humana, Global y Universal.</p>-->
+          </div>
+
+                  <p>Si estás interesado, no olvides
+                  <a href="mailto:estilodevida@salud-zen.com?Subject=Reserva%20de%20Plaza: {{ page.name}} {{page.date|date: '%d-%-m-%Y' }}&body=Me gustaría reservar una plaza para: {{page.title}} del {{ page.date_text}}. Mis datos Personales son:%0A%0A   -Nombre:%0A%0A   -Apellidos:%0A%0A   -Fecha de nacimiento:%0A%0A   -Teléfono:%0A%0A">reservar tu plaza</a>. Si tienes alguna consulta, ponte en <a href="{{site.url}}{{site.baseurl}}/contact">contacto</a> con nosotros:</p>
+
+         </div>
+      </div><!-- .col-md-7 close -->
+
+    </div>
+  </div>
+</section>
+
+<hr>
+
+<section id="portfolio-work">
+    <div class="container">
+      <div class="block">
+
+        {% assign sorted-posts = site.posts | where: "categories","evento" %}
+        {% assign sorted-posts2 = sorted-posts | where: "public","true" %}
+        {% assign postsByYear = sorted-posts2 | group_by_exp:"post", "post.date | date: '%-y'"|sort: 'date' | reverse %}
+        {% for year in postsByYear %}
+          {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%-m'"|sort: 'date' | reverse %}
+          {% for month in postsByMonth %}
+          <div class="row">
+            <div class="col-md-12">
+              <h2> {% case month.name %}
+
+                   {% when '1' %}Enero
+                   {% when '2' %}Febrero
+                   {% when '3' %}Marzo
+                   {% when '4' %}Abril
+                   {% when '5' %}Mayo
+                   {% when '6' %}Junio
+                   {% when '7' %}Julio
+                   {% when '8' %}Agosto
+                   {% when '9' %}Septiembre
+                   {% when '10' %}Octubre
+                   {% when '11' %}Noviembre
+                   {% when '12' %}Diciembre
+                 {% endcase %}
+                 '{{year.name}}
+               </h2>
+             <ul>
+               {%assign  events= month.items|sort: 'date' %}
+               {% for post in events %}
+
+                   <div class="portfolio-contant">
+                     <ul id="portfolio-contant-active">
+                       <li>
+                         <a href="{{ post.url | prepend: site.baseurl }}" class="bold">
+                             <img src="{{ site.url }}{{ site.baseurl }}/{{ post.image }}_prop.jpg"  alt="{{ post.title }} ">
+
+                             <div class="overly">
+                              <div class="position-left">
+
+                                 <h1>{{post.date | date: "%d"}}
+                                 <h2>{% case month.name %}
+
+                                          {% when '1' %}Ene
+                                          {% when '2' %}Feb
+                                          {% when '3' %}Mar
+                                          {% when '4' %}Abr
+                                          {% when '5' %}May
+                                          {% when '6' %}Jun
+                                          {% when '7' %}Jul
+                                          {% when '8' %}Ago
+                                          {% when '9' %}Sep
+                                          {% when '10' %}Oct
+                                          {% when '11' %}Nov
+                                          {% when '12' %}Dic
+                                        {% endcase %}
+                                 </h2></h1>
+                               </div><!--position-left-->
+                                 <div class="position-center">
+                                   <h1>{{ post.name }}</h1>
+                                   <p>
+                                     <i class="ion-clock"> &nbsp;&nbsp;{{ post.horario}}</i>
+                                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                     <i class="fa fa-map-marker">&nbsp;&nbsp;{{ post.localizacion }}</i>
+                                   </p>
+
+                               </div><!--position-center-->
+                             </div><!--overly-->
+                         </a>
+
+                       </li>
+                     </ul>
+                   </div>
+
+               {% endfor %}
+               </ul>
+
+               <br>
+             </div><!--col-->
+           </div><!--row-->
+         {% endfor %}
+          {% endfor %}
+        </div><!--block-->
+      </div><!--container-->
+ </section>
+
+
+ <section id="call-to-action">
+   <div class="container">
+     <div class="row">
+       <div class="col-md-12">
+         <div class="block">
+            <div id='loading'>loading...</div>
+            <div id='calendar'></div>
+
+
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </section>

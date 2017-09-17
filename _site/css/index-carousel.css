@@ -14,6 +14,7 @@
 
 .carousel-inner {
   border-radius: 15px;
+ overflow:inherit;
 }
 
 .carousel-caption {
@@ -50,22 +51,30 @@
 
 .section-white {
    padding: 10px 0;
-
 }
 
 .section-white {
   background-color: #fff;
   color: #555;
+  padding-right: 0px;
+  padding-left: 0px;
 }
 
+.col-md-12_carousel {
+  width: 100%;
+padding: 200px 0 280px 0;
+}
 @media screen and (min-width: 768px) {
 
   .section-white {
-     padding: 1.5em 0;
+     padding: 0px 0;
   }
-  .col-md-12 {
+  .col-md-12_carousel {
     width: 100%;
+    padding-right: 0px;
+    padding-left: 0px;
   }
+
 
 }
 
@@ -75,8 +84,11 @@
   /*  max-width: 930px;*/
     width: 930px;
   }
-  .col-md-12 {
+  .col-md-12_carousel
+ {
     width: 100%;
+    padding-right: 0px;
+    padding-left: 0px;
   }
 
 }

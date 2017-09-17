@@ -5,7 +5,8 @@ permalink: /contact/
 ---
 
 <!-- Slider Start -->
-<section id="global-header">
+<section id="global-header-contacto">
+  <section id="global-header">
   <div class="container">
     <div class="row">
       <div class="col-md-12">
@@ -17,7 +18,7 @@ permalink: /contact/
     </div>
   </div>
 </section>
-
+</section>
 <!-- contact form start -->
 <section id="contact-form">
   <div class="container">
@@ -63,7 +64,7 @@ permalink: /contact/
 
         <div class="col-md-6 col-sm-12">
           <div class="block">
-
+            <br>
             <ul class="address-block">
               <li>
                 <i class="fa fa-map-marker"></i><b>Sede central: </b>C/ Castellón de la Plana, 26 Arroyomolinos
@@ -71,6 +72,7 @@ permalink: /contact/
               <li>
                 <i class="fa fa-map-marker"></i><b>Sede adscrita: </b>Carretera de Guadarrama, 70 Alpedrete
               </li>
+              <br>
               <li>
                 <i class="fa fa-envelope-o"></i>Email: <a href="estilodevida@salud-zen.com">estilodevida@salud-zen.com</a>
               </li>
@@ -110,7 +112,21 @@ permalink: /contact/
           <div class="block">
             <ul class="address-block">
               <li>
-                <img src="{{ site.url }}{{ site.baseurl }}/img/instalaciones1.jpg" alt="Instalaciones">
+                {% if site.data.instalaciones.size > 0 %}
+                <div class="testimonial-carousel">
+                  <div id="testimonial-slider" class="owl-carousel">
+                    {% for instalaciones in site.data.instalaciones %}
+
+                    <div>
+                       <p><span>{{ instalaciones.name }}</span>: {{ instalaciones.title }}</p>
+                       <img src="{{ site.url }}{{ site.baseurl }}/{{ instalaciones.image }}" alt="Instalaciones-{{instalaciones.name}}">
+
+                    </div>
+                    {% endfor %}
+                  </div>
+                </div>
+                {% endif %}
+
 
               </li>
 

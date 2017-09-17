@@ -5,61 +5,60 @@ permalink: /
 ---
 
 <!-- Slider Start -->
-<!--
-<section id="slider">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-10 col-md-offset-2">
-        <div class="block">
-          <h1 class="animated fadeInUp">ALMA DE ZEN</h1>
-          <p class="animated fadeInUp"> Para todos aquellos que quieran responsabilizarse de su salud y despertar su consciencia.</p>
-          <p class="animated fadeInUp">
-            <table stlyle="background-color:#00FF00;"><tr><td>Próximos Eventos:
-              <br>15/09 Curso Introducción ...
-              <br>16/09 Taller Meditación
-            <br>
-            <a href="{{site.url}}{{site.baseurl}}/agenda" >Consultar Agenda</a>
-          </td></tr></table>
-        </p>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
--->
+
 <!-- Slider Start -->
 <section class="section-white">
-  <div class="container">
+<!--  <div class="container">-->
 
     <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
-     <div class="col-md-12">
+     <div class="col-md-12_carouse ">
       <!-- Indicators -->
       <ol class="carousel-indicators">
         <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
         <li data-target="#carousel-example-generic" data-slide-to="1"></li>
         <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+        <li data-target="#carousel-example-generic" data-slide-to="3"></li>
+        <li data-target="#carousel-example-generic" data-slide-to="4"></li>
       </ol>
 
       <!-- Wrapper for slides -->
       <div class="carousel-inner">
+
         <div class="item active">
           <img src="{{site.url}}{{site.baseurl}}/img/index/ppal.jpg" alt="...">
           <div class="carousel-caption">
-            <h2>Heading</h2>
+            <h1 class="animated fadeInUp">Salud ZEN - Escuela de Luz y Consciencia</h1>
           </div>
         </div>
+
         <div class="item">
           <img src="{{site.url}}{{site.baseurl}}/img/index/macro.jpg" alt="...">
           <div class="carousel-caption">
-            <h2>Heading</h2>
+            <h1 class="animated fadeInUp">Escuela de Macrobiótica, Medicina Oriental y Gestión de Emociones</h1>
           </div>
         </div>
+
         <div class="item">
           <img src="{{site.url}}{{site.baseurl}}/img/index/tnaturales.jpg" alt="...">
           <div class="carousel-caption">
-            <h2>Heading</h2>
+            <h1 class="animated fadeInUp">Escuela de Terapias Naturales y Artes Orientales</h1>
           </div>
         </div>
+
+
+      <div class="item">
+        <img src="{{site.url}}{{site.baseurl}}/img/index/tnaturales.jpg" alt="...">
+        <div class="carousel-caption">
+          <h1 class="animated fadeInUp"> Consultas de Nutrición y Salud, Terapias Naturales y Terapia Transpersonal</h1>
+        </div>
+      </div>
+
+      <div class="item">
+        <img src="{{site.url}}{{site.baseurl}}/img/index/eventos.jpg" alt="...">
+        <div class="carousel-caption">
+          <h1 class="animated fadeInUp"> Eventos: Cursos, Seminarios, Talleres ...</h1>
+        </div>
+      </div>
       </div>
 
       <!-- Controls -->
@@ -73,8 +72,54 @@ permalink: /
     </div>
     </div>
 
+  <!--</div>-->
+</section>
+
+
+<!--Events Start-->
+<section id="clients-logo-section">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="block">
+          <h2>Proximos Eventos:</h2>
+          <div id="clients-logo" class="owl-carousel">
+            {% assign sorted-posts = site.posts | where: "categories","evento" %}
+            {% assign sorted-posts2 = sorted-posts | where: "public","true"|sort: 'date' %}
+            {% capture now %}{{site.time | date: '%s'}}{% endcapture %}
+
+            {% for post in sorted-posts2 %}
+
+            {% capture posttime %}{{post.date | date: '%s'}}{% endcapture %}
+            {% if now <= posttime %}
+
+            <div class="clients-logo-img">
+
+
+              <a href="{{ post.url | prepend: site.baseurl }}" class="bold">
+
+                <img src="{{ site.url }}{{ site.baseurl }}/{{ post.image }}_min.jpg"  alt="{{ post.title }} ">
+                <p>{{ post.name }} <br>{{ post.date_imparticion}}</p>
+
+
+              </a>
+
+
+            </div>
+
+
+            {% endif %}
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
 </section>
+
+
+
+
 <!-- Service Start -->
 <section id="service">
   <div class="container">
@@ -168,7 +213,7 @@ permalink: /
 
 
 
-          <div class="col-md-4 col-sm-6" style="margin-left:15%">
+          <div class="col-md-6 col-sm-12" >
             <div class="card-container">
               <div class="card">
               <div class="front">
@@ -241,7 +286,7 @@ permalink: /
         </div>
       </div>
 
-  <div class="col-md-4 col-sm-6" >
+  <div class="col-md-6 col-sm-12" >
         <div class="card-container">
           <div class="card">
               <div class="front">

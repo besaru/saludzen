@@ -37,16 +37,22 @@
  			// US Holidays
  		eventSources: [ {
             googleCalendarId:'ggm4elj55rqd72jiveg21vrk9o@group.calendar.google.com',
-            className: 'taller'
+            className: 'proyecto'
           },
           {
             googleCalendarId:'n6uqmliu0no52mjea6qn4cnehs@group.calendar.google.com',
-            className: 'seminario'
+            className: 'terapias'
           },
           {
           googleCalendarId:'fnjqbdufufr0ek0on5go20as3c@group.calendar.google.com',
-          className: 'curso'
-          }
+          className: 'macrobiotica'
+        },
+        {
+        googleCalendarId:'nn88r760s9rncnho1j4dt1ua08@group.calendar.google.com',
+        className: 'biodanza'
+      }
+
+
              ],
 
     //  'en.usa#holiday@group.v.calendar.google.com',
