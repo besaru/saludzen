@@ -395,6 +395,15 @@ font header .navbar-default .navbar-nav li a:hover {
 /*--
 	Slider-work Start
 --*/
+#global-header-team  {
+  background: url("../img/index/ppal.jpg") no-repeat;
+  background-size: cover;
+  padding-top: 150px;
+  padding-bottom: 107px;
+  position: relative;
+  background-attachment: fixed;
+  }
+
 #global-header-escuelas  {
   background: url("../img/index/macro.jpg") no-repeat;
   background-size: cover;

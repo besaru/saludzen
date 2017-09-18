@@ -3,7 +3,7 @@ layout: event
 categories: evento
 name: Taller Sistémico
 title: Taller Sistémico
-public: yes
+public: no
 subtitle:
 date: 26-11-2017
 date_text: 26 de Noviembre de 2017
