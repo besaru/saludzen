@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Salud-Zen Blog
+title: Salud-Zen Calendario
 permalink: /calendario/
 category: evento
 ---
@@ -27,7 +27,7 @@ category: evento
       <div class="col-md-12 col-sm-12">
         <div class="block">
           <div class="section-title">
-              <h2>Eventos</h2>
+              <h2>Calendario</h2>
             <!--<p>Este proyecto nace de uno de nuestros propósitos de vida: Poner a disposición del Universo y del Mundo Entero nuestro granito de arena aportando Conocimiento y creando Consciencia a través del Pensamiento, del Discernimiento y del Sentido Común para ser más Libres para elegir y así entre todos crear un Mundo Mejor, más sostenible, con más recursos naturales y desde una consciencia mucho más Humana, Global y Universal.</p>-->
           </div>
             <p>Si estás interesado, no olvides
@@ -47,10 +47,10 @@ category: evento
       <div class="block">
 
         {% assign sorted-posts = site.posts | where: "categories","evento" %}
-        {% assign sorted-posts2 = sorted-posts | where: "public","true" %}
-        {% assign postsByYear = sorted-posts2 | group_by_exp:"post", "post.date | date: '%-y'"|sort: 'date' | reverse %}
+        {% assign sorted-posts2 = sorted-posts | where: "public","true" |sort: 'date'%}
+        {% assign postsByYear = sorted-posts2 | group_by_exp:"post", "post.date | date: '%-y'"|sort: 'date'  %}
         {% for year in postsByYear %}
-          {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%-m'"|sort: 'date' | reverse %}
+          {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%-m'"|sort: 'date'  %}
           {% for month in postsByMonth %}
           <div class="row">
             <div class="col-md-12">
@@ -134,14 +134,70 @@ category: evento
  <section id="call-to-action">
    <div class="container">
      <div class="row">
-       <div class="col-md-12">
+
+       <div class="col-md-8 col-sm-12">
          <div class="block">
             <div id='loading'>loading...</div>
             <div id='calendar'></div>
+          </div>
+        </div>
+
+      <div class="col-md-4 col-sm-12">
+          <div class="block">
+            <ul><h1>Próximos Eventos:</h1>
+              {% capture now %}{{site.time | date: '%s'}}{% endcapture %}
+              <table>
+              {% for post in sorted-posts2 %}
+
+              {% capture posttime %}{{post.date | date: '%s'}}{% endcapture %}
+              {% if now <= posttime %}
+              <tr>
 
 
-                    </div>
+                  <div >
+
+                    <ul >
+                      <li>
+                            <div class="position-center" style="text-align: left;font-size:160%;">
+                              <td style="text-align: left;font-size:120%;">
+                                {{post.date | date: "%d"}}
+                                  {% capture month %}{{post.date | date: "%m"}}{% endcapture %}
+                                    {% case month %}
+                                         {% when '1' %}Ene
+                                         {% when '2' %}Feb
+                                         {% when '3' %}Mar
+                                         {% when '4' %}Abr
+                                         {% when '5' %}May
+                                         {% when '6' %}Jun
+                                         {% when '7' %}Jul
+                                         {% when '8' %}Ago
+                                         {% when '09' %}Sep
+                                         {% when '10' %}Oct
+                                         {% when '11' %}Nov
+                                         {% when '12' %}Dic
+                                       {% endcase %}
+                                     </td>
+                                     <td style="text-align: left;font-size:140%;">
+                                - <a href="{{ post.url | prepend: site.baseurl }}" class="bold"  style="text-decoration: none;color: inherit;">
+                                    {{ post.name }}
+                                  </a>
+                              </td>
+                               </div><!--position-center-->
+
+
+
+                      </li>
+                    </ul>
                   </div>
+                </tr>
+              {% endif %}
+              {% endfor %}
+            </table>
+              </ul>
+          </div>
+      </div>
+
+
                 </div>
               </div>
             </section>
