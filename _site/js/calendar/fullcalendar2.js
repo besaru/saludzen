@@ -29,12 +29,30 @@
       displayEventTime:true,
  			//displayEventTime: false, // don't show the time column in list view
 
+
+
+     eventSources: [
+           '../../js/source.json'
+         ],
+/*
+      eventClick: function(event) {
+              if (event.url) {
+                  window.open(event.url);
+                  return false;
+              }
+          }*/
+          loading: function(bool) {
+     				$('#loading').toggle(bool);
+     			}
+      });
+  });
+
+/*
  			// THIS KEY WON'T WORK IN PRODUCTION!!!
  			// To make your own Google API key, follow the directions here:
  			// http://fullcalendar.io/docs/google_calendar/
  		 googleCalendarApiKey:'AIzaSyAAMhWuXaPjEI8YafyvRze8uPUQEXJ0elc',
-
- 			// US Holidays
+      // US Holidays
  		eventSources: [ {
             googleCalendarId:'ggm4elj55rqd72jiveg21vrk9o@group.calendar.google.com',
             className: 'proyecto'
@@ -71,10 +89,11 @@
 
  	});
 
-
+*/
+/*
 //  $('#calendar').fullCalendar({
 
 //    eventSources: [
 //        '../js/calendar/source.json'
 //    ],
-//  });-->
+//  });*/

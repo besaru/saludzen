@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: blog
+categories: 
 title: "Some articles are just so long they deserve a really long title to see if things will break well"
 ---
 

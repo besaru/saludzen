@@ -3,7 +3,7 @@ layout: event
 categories: evento
 public: yes
 name: Nutrición Enregética...
-title: Curso de Nutrición Enregética, Actividad Física y Deporte
+title: Curso de Nutrición Energética, Actividad Física y Deporte
 subtitle:
 date: 7-10-2017
 date_text: 7 y 8 de Octubre de 2017
