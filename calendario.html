@@ -78,7 +78,7 @@ category: evento
                    <div class="portfolio-contant">
                      <ul id="portfolio-contant-active">
                        <li>
-                         <a href="{{ post.url | prepend: site.baseurl| prepend: site.url }}" class="bold">
+                         <a href="{{ site.url }}{{ site.baseurl }}{{ post.url}}" class="bold">
                              <img src="{{ site.url }}{{ site.baseurl }}/{{ post.image }}_prop.jpg"  alt="{{ post.title }} ">
 
                              <div class="overly">
