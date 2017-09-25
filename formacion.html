@@ -5,6 +5,7 @@ permalink: /formacion/
 ---
 
     <!-- Slider Start -->
+<section id="global-header-macrobiotica">
 <section id="global-header">
     <div class="container">
         <div class="row">
@@ -17,18 +18,18 @@ permalink: /formacion/
         </div>
     </div>
 </section>
-
+</section>
 
 
 <!-- Wrapper Start -->
 <section id="intro">
-  <h2 style="margin-left:5%;"><a href="{{ site.url }}{{ site.baseurl }}/work/">Macrobiótica </a> > Formación </h2>
+  <h2 style="margin-left:5%;"><a href="{{ site.url }}{{ site.baseurl }}/macrobiotica/">Macrobiótica </a> > Formación </h2>
   <div class="container">
     <div class="row">
-      <div class="col-md-7 col-sm-12">
+      <div class="col-md-12 col-sm-12">
         <div class="block">
           <div class="section-title">
-            <h2>Título Consultor, Seminarios, Cursos</h2>
+            <h2>Título de consultor y experto en cocina macrobiótica, medicina Natural, medicina Oriental y Gestión de emociones.</h2>
               <p>En la escuela proponemos la siguiente formación:
 
               <br><br>  Hacemos <b>seminarios de un día y cursos de fin de semana</b>  donde habrá una parte Teórica específica del contenido a tratar, una parte de Cocina práctica donde cocinaremos Recetas Curativas para Mejorar la Salud, basadas en la Nutrición Moderna y en la Sabiduría de Medicinas Ancestrales, todo esto,  acompañado de una Práctica de Gestión Emocional.
@@ -42,11 +43,17 @@ permalink: /formacion/
 
               </p>
          </div>
-         <p>Listado de seminarios y cursos de formación:
-           {% if site.data.formacion.size > 0 %}
-             {% for formacion in site.data.formacion %}
+       </div>
+    </div><!-- .col-md-7 close -->
+    <div class="col-md-8 col-sm-12">
+      <div class="block">
+
+
+         <p>Listado de <b>seminarios de un dia</b>:
+           {% if site.data.seminario.size > 0 %}
+             {% for seminario in site.data.seminario %}
              <div>
-               <p><a href="#formacion" ><span>{{ formacion.name }}</span> {{ formacion.title }}</p></a>
+               <a href="#formacion" ><span>- {{ seminario.title }}</span> </a>
 
                </div>
              {% endfor %}
@@ -55,25 +62,69 @@ permalink: /formacion/
           </p>
        </div>
     </div><!-- .col-md-7 close -->
-    <div class="col-md-5 col-sm-12">
+    <div class="col-md-4 col-sm-12">
       <div class="block">
-        {% if site.data.formacion.size > 0 %}
+        {% if site.data.seminario.size > 0 %}
         <div class="testimonial-carousel">
           <div id="testimonial-slider" class="owl-carousel">
-            {% for formacion in site.data.formacion %}
+            {% for seminario in site.data.seminario %}
             <a href="#formacion" >
             <div>
-               <p><span>{{ formacion.name }}</span> {{ formacion.title }}</p>
-               <img src="{{ site.url }}{{ site.baseurl }}/{{ formacion.image }}" alt="Formacion-{{formacion.name}}">
+               <p><span>{{ seminario.title }}</span> </p>
+               <img src="{{ site.url }}{{ site.baseurl }}/{{ seminario.image }}" alt="Seminario-{{seminario.title}}">
 
             </div>
-            <a>
+          </a>
             {% endfor %}
           </div>
         </div>
         {% endif %}
       </div>
-    </div><!-- .col-md-5 close -->
+    </div><!-- .col-md-4 close -->
+
+    <div class="col-md-8 col-sm-12">
+      <div class="block">
+
+         <p>Listado de <b>cursos de fin de semana</b>:
+           {% if site.data.cursos.size > 0 %}
+             {% for curso in site.data.cursos %}
+             <div>
+               <a href="#formacion" ><span> - {{ curso.title }}</span> </a>
+
+               </div>
+             {% endfor %}
+           {% endif %}
+
+          </p>
+       </div>
+    </div><!-- .col-md-8 close -->
+    <div class="col-md-4 col-sm-12">
+      <div class="block">
+        {% if site.data.cursos.size > 0 %}
+        <div class="testimonial-carousel">
+          <div id="testimonial-slider" class="owl-carousel">
+            {% for curso in site.data.cursos %}
+            <a href="#formacion">
+
+            <div>
+               <p><span>{{ curso.title }}</span> </p>
+               <img src="{{ site.url }}{{ site.baseurl }}/{{ curso.image }}" alt="Curso-{{curso.title}}">
+
+            </div>
+          </a>
+            {% endfor %}
+          </div>
+        </div>
+        {% endif %}
+      </div>
+    </div><!-- .col-md-4 close -->
+
+
   </div>
   </div>
+
+
+  <p class="center-text" style="padding: 30px;">
+    <a href="{{ site.url }}{{ site.baseurl }}/macrobiotica/">Volver a Escuela de Macrobiótica, Medicina Oriental y Gestión de Emociones</a>
+  </p>
   </section>
