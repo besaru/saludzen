@@ -39,7 +39,7 @@ permalink: /formacion/
               <br><br>  De esta manera consideramos que nos adaptamos a la necesidad personal y social de cada momento, pudiendo cada persona elegir lo que más le resuena o necesita teniendo siempre acumulada toda aquella formación por si un día quisiera complementar hasta llegar a las 300 horas y, por que no, animarse a seguir creando Luz y Consciencia como consultor.
 
               <br><br> <u> * Importante:</u> Es imprescindible cursar el seminario de Introducción a las Bases de la Nutrición Energética y Cocina Macrobiótica para el mayor aprovechamiento del resto de seminarios y cursos.
-              <br><br>  Así que, atentos al <a href="{{ site.url }}{{ site.baseurl }}/agenda/">calendario </a>donde iremos publicando con antelación todos los seminarios y cursos.
+              <br><br>  Así que, atentos al <a href="{{ site.url }}{{ site.baseurl }}/calendario/">calendario </a>donde iremos publicando con antelación todos los seminarios y cursos.
 
               </p>
          </div>
@@ -100,15 +100,14 @@ permalink: /formacion/
     </div><!-- .col-md-8 close -->
     <div class="col-md-4 col-sm-12">
       <div class="block">
-        {% if site.data.cursos.size > 0 %}
+        {% if site.data.seminario.size > 0 %}
         <div class="testimonial-carousel">
-          <div id="testimonial-slider" class="owl-carousel">
-            {% for curso in site.data.cursos %}
-            <a href="#formacion">
-
+          <div id="testimonial-slider2" class="owl-carousel">
+            {% for seminario in site.data.seminario %}
+            <a href="#formacion" >
             <div>
-               <p><span>{{ curso.title }}</span> </p>
-               <img src="{{ site.url }}{{ site.baseurl }}/{{ curso.image }}" alt="Curso-{{curso.title}}">
+               <p><span>{{ seminario.title }}</span> </p>
+               <img src="{{ site.url }}{{ site.baseurl }}/{{ seminario.image }}" alt="Seminario-{{seminario.title}}">
 
             </div>
           </a>

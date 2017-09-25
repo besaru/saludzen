@@ -2,7 +2,7 @@
 layout: event
 categories: evento
 public: yes
-name: Nutrición Enregética...
+name: Nutrición Energética...
 title: Curso de Nutrición Energética, Actividad Física y Deporte
 subtitle:
 date: 7-10-2017
