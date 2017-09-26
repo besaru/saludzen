@@ -29,8 +29,6 @@
       displayEventTime:true,
  			//displayEventTime: false, // don't show the time column in list view
 
-
-
      events:[
 
      {
@@ -41,7 +39,7 @@
          "end": "2017-09-16 19:00:00",
          "start": "2017-09-16 09:00:00",
          "className": "macrobiotica",
-         "url":"/evento/2017/09/16/curso-iniciacion.html"
+         "url":"evento/2017/09/16/curso-iniciacion.html"
      },
 
 
