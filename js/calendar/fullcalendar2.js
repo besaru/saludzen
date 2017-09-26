@@ -32,7 +32,7 @@
 
 
      eventSources: [
-          {url:"/saludzen/js/source.json/"}
+          {url: 'https://besaru.github.io/saludzen/js/source.json/'}
 
          ],
 /*
