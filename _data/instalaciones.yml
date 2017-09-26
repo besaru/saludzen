@@ -1,7 +1,19 @@
 - name: Sede adscrita
   title: Dogo meditación
-  image: img/instalaciones1.jpg
+  image: img/contacto/instalaciones1.jpg
 
 - name: Sede adscrita
   title: Huerto ecológico
-  image: img/instalaciones2_prop.jpg
+  image: img/contacto/instalaciones2_prop.jpg
+
+- name: Sede central
+  title: Clase Formación
+  image: img/contacto/formacion.jpg
+
+- name: Sede central
+  title: Zona Exterior
+  image: img/contacto/escuela2.jpg
+
+- name: Sede central
+  title: Cocina
+  image: img/contacto/cocina.jpg
