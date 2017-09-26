@@ -31,10 +31,7 @@
 
 
 
-     eventSources: [
-          {url: 'https://salud-zen.000webhostapp.com/js/source.json/'}
-
-         ],
+     events:'https://salud-zen.000webhostapp.com/js/source.json/',
 /*
       eventClick: function(event) {
               if (event.url) {
