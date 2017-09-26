@@ -51,7 +51,7 @@
              "end": "2017-09-17 13:00:00",
              "start": "2017-09-17 10:00:00",
              "className": "terapias",
-             "url":"/evento/2017/09/17/taller-meditacion.html"
+             "url":"../evento/2017/09/17/taller-meditacion.html"
          },
          {
              "allDay": "false",
@@ -61,7 +61,7 @@
              "end": "2017-09-29 20:00:00",
              "start": "2017-09-29 19:00:00",
              "className": "proyecto",
-             "url":"/evento/2017/09/29/conferencia-nutricion.html"
+             "url":"../evento/2017/09/29/conferencia-nutricion.html"
          },
 
         {
@@ -72,7 +72,7 @@
           "end": "2017-10-08 18:00:00",
           "start": "2017-10-07 10:00:00",
           "className": "macrobiotica",
-          "url":"/evento/2017/10/07/curso-deporte.html"
+          "url":"../evento/2017/10/07/curso-deporte.html"
         },
 
 
@@ -85,7 +85,7 @@
               "end": "2017-10-14 19:00:00",
               "start": "2017-10-14 09:00:00",
               "className": "macrobiotica",
-              "url":"/evento/2017/10/14/curso-iniciacion.html"
+              "url":"../evento/2017/10/14/curso-iniciacion.html"
           },
           {
               "allDay": "false",
@@ -95,7 +95,7 @@
               "end": "2017-10-29 18:00:00",
               "start": "2017-10-29 10:00:00",
               "className": "macrobiotica",
-              "url":"/evento/2017/10/29/curso-desayunos.html"
+              "url":"../evento/2017/10/29/curso-desayunos.html"
           },
           {
               "allDay": "false",
@@ -105,7 +105,7 @@
               "end": "2017-11-05 13:00:00",
               "start": "2017-11-04 10:00:00",
               "className": "terapias",
-              "url":"/evento/2017/11/04/curso-CHI.html"
+              "url":"../evento/2017/11/04/curso-CHI.html"
           },
 
           {
@@ -116,7 +116,7 @@
               "end": "2017-11-12 18:00:00",
               "start": "2017-11-11 09:00:00",
               "className": "macrobiotica",
-              "url":"/evento/2017/11/12/curso-Metal.html"
+              "url":"../evento/2017/11/12/curso-Metal.html"
           },
 
           {
@@ -127,7 +127,7 @@
               "end": "2017-11-18 18:00:00",
               "start": "2017-11-18 09:00:00",
               "className": "terapias",
-              "url":"/evento/2017/11/18/taller-TAO.html"
+              "url":"../evento/2017/11/18/taller-TAO.html"
           },
 
           {
@@ -138,7 +138,7 @@
               "end": "2017-12-17 18:00:00",
               "start": "2017-12-17 10:00:00",
               "className": "macrobiotica",
-              "url":"/evento/2017/12/17/taller-navidad.html"
+              "url":"../evento/2017/12/17/taller-navidad.html"
           }
      ]
 ,
