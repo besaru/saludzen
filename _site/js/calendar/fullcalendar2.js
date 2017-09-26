@@ -31,7 +31,7 @@
 
 
 
-     events:'https://salud-zen.000webhostapp.com/js/source.json/',
+     events:'../js/source.json/',
 /*
       eventClick: function(event) {
               if (event.url) {
