@@ -32,7 +32,7 @@
 
 
      eventSources: [
-          {url: window.location.pathname + "/saludzen"+"/../js/source.json/"}
+          {url:"/saludzen/js/source.json/"}
 
          ],
 /*
