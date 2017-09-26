@@ -32,7 +32,7 @@
 
 
      eventSources: [
-          '../js/source.json'
+          {url: "http://" + window.location.host + "/js/source.json/"}
 
          ],
 /*
