@@ -32,7 +32,7 @@
 
 
      eventSources: [
-          '../js/source.json'
+          'saludzen/../js/source.json'
 
          ],
 /*
