@@ -52,7 +52,7 @@ category: blog
           <div class="post-area">
             <div class="row">
               <div class="col-md-12","col-sm-12">
-                  <a href="{{ post.url | prepend: site.baseurl }}" class="bold">{{ post.title }}</a>
+                  <a href="{{ site.url }}{{ site.baseurl }}/{{ post.url}}" class="bold">{{ post.title }}</a>
                   <p class="post-date">{{ post.date | date_to_long_string }}</p>
               </div>
             </div>
