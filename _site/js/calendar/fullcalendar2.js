@@ -32,7 +32,8 @@
 
 
      eventSources: [
-           '../../js/source.json'
+          '../js/source.json'
+
          ],
 /*
       eventClick: function(event) {
