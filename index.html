@@ -96,7 +96,7 @@ permalink: /
             <div class="clients-logo-img">
 
 
-              <a href="{{ post.url | prepend: site.baseurl }}" class="bold">
+              <a href="{{ site.url }}{{ site.baseurl }}/{{ post.url }}" class="bold">
 
                 <img src="{{ site.url }}{{ site.baseurl }}/{{ post.image }}_min.jpg"  alt="{{ post.title }} ">
                 <p>{{ post.name }} <br>{{ post.date_imparticion}}</p>
