@@ -32,7 +32,7 @@
 
 
      eventSources: [
-          {url:  + window.location.pathname + "/../../js/source.json/"}
+          {url: 'https://salud-zen.000webhostapp.com/js/source.json/'}
 
          ],
 /*
