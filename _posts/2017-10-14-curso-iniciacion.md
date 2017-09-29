@@ -3,8 +3,9 @@ layout: event
 categories: evento
 public: yes
 name: Seminario de Introducción
-title: Primer Seminario de Introducción. <br>Bases de la nutrición Energética y comida macrobiótica
+title: "Primer Seminario de Introducción. <br>Bases de la nutrición Energética y comida macrobiótica"
 subtitle:
+dateVisible: 2017-10-14 23:00:00
 date: 14-10-2017
 date_text: 14 de Octubre de 2017
 date_imparticion: 14-10-2017

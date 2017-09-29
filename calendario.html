@@ -149,7 +149,7 @@ category: evento
               <table>
               {% for post in sorted-posts2 %}
 
-              {% capture posttime %}{{post.date | date: '%s'}}{% endcapture %}
+              {% capture posttime %}{{post.dateVisible | dateVisible: '%s'}}{% endcapture %}
               {% if now <= posttime %}
               <tr>
 

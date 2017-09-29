@@ -87,10 +87,11 @@ permalink: /
             {% assign sorted-posts = site.posts | where: "categories","evento" %}
             {% assign sorted-posts2 = sorted-posts | where: "public","true"|sort: 'date' %}
             {% capture now %}{{site.time | date: '%s'}}{% endcapture %}
-
+            
             {% for post in sorted-posts2 %}
 
-            {% capture posttime %}{{post.date | date: '%s'}}{% endcapture %}
+            {% capture posttime %}{{post.dateVisible | dateVisible: '%s'}}{% endcapture %}
+
             {% if now <= posttime %}
 
             <div class="clients-logo-img">

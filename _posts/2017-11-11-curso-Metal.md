@@ -5,6 +5,7 @@ public: yes
 name: Curso Elemento Metal
 title: Curso Elemento Metal
 subtitle:
+dateVisible: 2017-11-11 23:00:00
 date: 11 y 12-11-2017
 date_text: 11 y 12 de Noviembre de 2017
 date_imparticion: 11 y 12-11-2017
