@@ -269,7 +269,7 @@ font header .navbar-default .navbar-nav li a:hover {
 	Feature Start
 --*/
 #feature {
-  background: url("../img/index/featue-bg.jpg");
+  background: url("../img/index/featue-bg-fondo.jpg");
   background-position: 50% 94px;
   width: 100%;
   display: block;
@@ -431,7 +431,7 @@ font header .navbar-default .navbar-nav li a:hover {
       background-attachment: fixed;
       }
       #global-header-consultas  {
-        background: url("../img/index/tnaturales.jpg") no-repeat;
+        background: url("../img/index/consulta.jpg") no-repeat;
         background-size: cover;
         padding-top: 150px;
         padding-bottom: 107px;
@@ -440,7 +440,7 @@ font header .navbar-default .navbar-nav li a:hover {
         }
 
         #global-header-eventos  {
-          background: url("../img/index/eventos.jpg") no-repeat;
+          background: url("../img/index/calendario.jpg") no-repeat;
           background-size: cover;
           padding-top: 150px;
           padding-bottom: 107px;

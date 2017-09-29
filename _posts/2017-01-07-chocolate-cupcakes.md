@@ -1,12 +1,13 @@
 ---
-layout: post
+layout: recipe
 date: 2017-01-07
 title: Chocolate Cupcakes
 categories:
   - Desayuno
   - Comida
   - Postres
-featured_image: https://source.unsplash.com/qJ0zGkrE1Zg/1560x940
+author: Salud-Zen
+featured_image: /img/portfolio/postres.jpg
 recipe:
   servings: 12 cupcakes
   prep: 5 minutes

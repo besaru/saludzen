@@ -40,27 +40,37 @@ permalink: /cterapias/
        </div>
     </div><!-- .col-md-7 close -->
     </div>
+    <div class="col-md-8 col-sm-12">
+      <div class="block">
     {% if site.data.tnaturales.size > 0 %}
       {% for terapia in site.data.tnaturales %}
-        <div class="row">
-          <div class="col-md-12 col-sm-12">
-            <div class="block">
-          <br><b>{{terapia.name}}</b>
-        </div>
-      </div><!-- .col-md-4 close -->
-          <div class="col-md-4 col-sm-12">
-            <div class="block">
-              <img src="{{ site.url }}{{ site.baseurl }}/{{ terapia.image }}" alt="{{terapia.name}}">
-            </div>
-          </div><!-- .col-md-4 close -->
-          <div class="col-md-8 col-sm-12">
-            <div class="block">
+
+
+
+              <br><b>{{terapia.name}}</b>
               <br>{{terapia.content}}
+              <br>
+              {% endfor %}
+            {% endif %}
             </div><!-- .col-md-4 close -->
           </div>
+
+          <div class="col-md-4 col-sm-12">
+            <div class="block">
+              <br><br>
+              <img src="{{ site.url }}{{ site.baseurl }}/img/tnaturales/acupuntura2.jpg" alt="">
+              <br><br>
+              <img src="{{ site.url }}{{ site.baseurl }}/img/tnaturales/tnaturales.jpg" alt="">
+
+              <br><br>
+              <img src="{{ site.url }}{{ site.baseurl }}/img/tnaturales/rpostural.jpg" alt="">
+                <br><br>
+              <img src="{{ site.url }}{{ site.baseurl }}/img/tnaturales/acupuntura3.jpg" alt="">
+
+
+            </div>
         </div>
-    {% endfor %}
-  {% endif %}
+
 </div>
 
 <p class="center-text" style="padding: 30px;">
