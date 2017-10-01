@@ -82,15 +82,15 @@ permalink: /
     <div class="row">
       <div class="col-md-12">
         <div class="block">
-          <h2>Proximos Eventos:</h2>
+          <h2>Próximos Eventos:</h2>
           <div id="clients-logo" class="owl-carousel">
             {% assign sorted-posts = site.posts | where: "categories","evento" %}
             {% assign sorted-posts2 = sorted-posts | where: "public","true"|sort: 'date' %}
             {% capture now %}{{site.time | date: '%s'}}{% endcapture %}
-            
+
             {% for post in sorted-posts2 %}
 
-            {% capture posttime %}{{post.dateVisible | dateVisible: '%s'}}{% endcapture %}
+            {% capture posttime %}{{post.dateVisible | date: '%s'}}{% endcapture %}
 
             {% if now <= posttime %}
 
