@@ -19,9 +19,9 @@ $(document).ready(function(){
 
 	$("#clients-logo").owlCarousel({
 		autoPlay: 3000,
-		items : 5,
-		itemsDesktop : [1199,5],
-		itemsDesktopSmall : [979,5],
+		items : 4,
+		itemsDesktop : [1250,4],
+		itemsDesktopSmall : [989,4],
 	});
 
 	$("#works-logo").owlCarousel({
