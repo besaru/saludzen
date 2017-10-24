@@ -35,17 +35,14 @@ permalink: /formacion_ter/
     <div class="col-md-8 col-sm-12">
       <div class="block">
 
-            <br>Chi Nei Tsang
-            <br>
-            <br>Reflexología podal
-            <br>
-            <br>Bioenergética
-            <br>
-            <br>Tecnica Metamórfica: 3 niveles.
-            <br>
-            <br>Terapia craneosacral
-            <br>
-            <br>Acupuntura: Auriculoterapia y auriculopuntura
+        {% if site.data.formacion_tn.size > 0 %}
+          {% for terapia in site.data.formacion_tn %}
+
+                  <br><b>{{terapia.name}}</b>
+                  <br>{{terapia.content}}
+                  <br>
+                  {% endfor %}
+                {% endif %}
 
 
 

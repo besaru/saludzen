@@ -1,41 +1,41 @@
 - name: Curso
   id: "C0001"
-  title: "Medicina oriental del elemento Metal: Nutrición Energética para la salud de los pulmones e intestino grueso"
+  title: "Medicina Oriental del elemento Metal: Nutrición Energética para la Salud de los Pulmones e Intestino Grueso"
   duration: "Fin de semana"
   description: "This company created an e-commerce site with the tools to make our business a success, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
   image: img/eventos/111117Metal_prop.jpg
 
 - name: Curso
   id: "C0002"
-  title: "Medicina oriental del elemento Agua: Nutrición Energética para la salud de los riñones"
+  title: "Medicina Oriental del elemento Agua: Nutrición Energética para la Salud de los Riñones"
   duration: "Fin de semana"
   description: "This company created an e-commerce site with the tools to make our business a success, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
   image: img/eventos/141017Introduccion_prop.jpg
 
 - name: Curso
   id: "C0003"
-  title: "Medicina oriental del elemento Tierra: Nutrición Energética para la salud del Estómago Bazo, páncreas"
+  title: "Medicina Oriental del elemento Tierra: Nutrición Energética para la Salud del Estómago, Bazo, Páncreas"
   duration: "Fin de semana"
   description: "This company created an e-commerce site with the tools to make our business a success, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
   image: img/eventos/141017Introduccion_prop.jpg
 
 - name: Curso
   id: "C0004"
-  title: "Medicina oriental del elemento Fuego: Nutrición Energética para la salud del Corazón y el intestino delgado"
+  title: "Medicina Oriental del elemento Fuego: Nutrición Energética para la Salud del Corazón y el Intestino delgado"
   duration: "Fin de semana"
   description: "This company created an e-commerce site with the tools to make our business a success, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
   image: img/eventos/141017Introduccion_prop.jpg
 
 - name: Curso
   id: "C0005"
-  title: "Medicina oriental del elemento Madera: Nutrición Energética para la salud del Hígado"
+  title: "Medicina Oriental del elemento Madera: Nutrición Energética para la Salud del Hígado"
   duration: "Fin de semana"
   description: "This company created an e-commerce site with the tools to make our business a success, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
   image: img/eventos/141017Introduccion_prop.jpg
 
 - name: Curso
   id: "C0006"
-  title: "Nutrición Energética para la salud del Aparato genital"
+  title: "Nutrición Energética para la Salud del Aparato Genital"
   duration: "Fin de semana"
   description: "This company created an e-commerce site with the tools to make our business a success, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
   image: img/eventos/141017Introduccion_prop.jpg
@@ -63,14 +63,14 @@
 
 - name: Curso
   id: "C0010"
-  title: "Nutrición Energética, cocina para embarazadas, bebés y niños"
+  title: "Nutrición Energética, cocina para Embarazadas, Bebés y Niños"
   duration: "Fin de semana"
   description: "This company created an e-commerce site with the tools to make our business a success, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
   image: img/eventos/141017Introduccion_prop.jpg
 
 - name: Curso
   id: "C0011"
-  title: "Las Relaciones (desmontando mitos y creencias): Relaciones de Pareja, Familiares y Sociales"
+  title: "Las Relaciones (desmontando Mitos y Creencias): Relaciones de Pareja, Familiares y Sociales"
   duration: "Fin de semana"
   description: "This company created an e-commerce site with the tools to make our business a success, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
   image: img/eventos/141017Introduccion_prop.jpg

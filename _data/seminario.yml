@@ -1,20 +1,20 @@
 - name: Seminario
   id: "S0001"
-  title: Introducción a las Bases de la Nutrición energética y cocina macrobiótica
+  title: Introducción a las Bases de la Nutrición Energética y Cocina Macrobiótica
   duration: "1 día"
   description: "This company created an e-commerce site with the tools to make our business a success, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
   image: img/eventos/141017Introduccion_prop.jpg
 
 - name: Seminario
   id: "S0002"
-  title: Desayunos saludables
+  title: Desayunos Saludables
   duration: "1 día"
   description: "This company created an e-commerce site with the tools to make our business a success, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
   image: img/eventos/291017Desayunos_prop.jpg
 
 - name: Seminario
   id: "S0003"
-  title: Almuerzos saludables
+  title: Almuerzos Saludables
   duration: "1 día"
   description: "This company created an e-commerce site with the tools to make our business a success, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
   image: img/eventos/291017Desayunos_prop.jpg
@@ -28,35 +28,35 @@
 
 - name: Seminario
   id: "S0005"
-  title: Cocina festiva y de Navidad
+  title: Cocina Festiva y de Navidad
   duration: "1 día"
   description: "This company created an e-commerce site with the tools to make our business a success, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
   image: img/eventos/171217TallerCMNavidenayFestiva_prop.jpg
 
 - name: Seminario
   id: "S0006"
-  title: Cocina de invierno
+  title: Cocina de Invierno
   duration: "1 día"
   description: "This company created an e-commerce site with the tools to make our business a success, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
   image: img/eventos/141017Introduccion_prop.jpg
 
 - name: Seminario
   id: "S0007"
-  title: Cocina de otoño
+  title: Cocina de Otoño
   duration: "1 día"
   description: "This company created an e-commerce site with the tools to make our business a success, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
   image: img/eventos/141017Introduccion_prop.jpg
 
 - name: Seminario
   id: "S0008"
-  title: Cocina de primavera
+  title: Cocina de Primavera
   duration: "1 día"
   description: "This company created an e-commerce site with the tools to make our business a success, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
   image: img/eventos/141017Introduccion_prop.jpg
 
 - name: Seminario
   id: "S0009"
-  title: Cocina de verano
+  title: Cocina de Verano
   duration: "1 día"
   description: "This company created an e-commerce site with the tools to make our business a success, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
   image: img/eventos/141017Introduccion_prop.jpg
@@ -70,49 +70,49 @@
 
 - name: Seminario
   id: "S0011"
-  title: "Monográficos: Semillas, algas, cereales, proteínas vegetales, fermentos, plantas medicinales, complementos. Detox"
+  title: "Monográficos: Semillas, Algas, Cereales, Proteínas Vegetales, Fermentos, Plantas Medicinales, Complementos. Détox"
   duration: "1 día"
   description: "This company created an e-commerce site with the tools to make our business a success, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
   image: img/eventos/141017Introduccion_prop.jpg
 
 - name: Seminario
   id: "S0012"
-  title: Alimentación para la Salud dental
+  title: Alimentación para la Salud Dental
   duration: "1 día"
   description: "This company created an e-commerce site with the tools to make our business a success, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
   image: img/eventos/141017Introduccion_prop.jpg
 
 - name: Seminario
   id: "S0013"
-  title: Alimentación para la Salud de los ojos
+  title: Alimentación para la Salud de los Ojos
   duration: "1 día"
   description: "This company created an e-commerce site with the tools to make our business a success, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
   image: img/eventos/141017Introduccion_prop.jpg
 
 - name: Seminario
   id: "S0014"
-  title: Alimentación y sistema nervioso
+  title: Alimentación y Sistema Nervioso
   duration: "1 día"
   description: "This company created an e-commerce site with the tools to make our business a success, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
   image: img/eventos/141017Introduccion_prop.jpg
 
 - name: Seminario
   id: "S0015"
-  title: Alimentación y eje endocrino
+  title: Alimentación y Eje Endocrino
   duration: "1 día"
   description: "This company created an e-commerce site with the tools to make our business a success, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
   image: img/eventos/141017Introduccion_prop.jpg
 
 - name: Seminario
   id: "S0016"
-  title: Cómo guiar una consulta
+  title: ¿Cómo guiar una Consulta?
   duration: "1 día"
   description: "This company created an e-commerce site with the tools to make our business a success, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
   image: img/eventos/141017Introduccion_prop.jpg
 
 - name: Seminario
   id: "S0017"
-  title: Taller de cocina macrobiótica para pequeños cocineros ( niños)
+  title: Taller de Cocina Macrobiótica para Pequeños Cocineros (niños)
   duration: "1 día"
   description: "This company created an e-commerce site with the tools to make our business a success, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
   image: img/eventos/141017Introduccion_prop.jpg
@@ -127,14 +127,14 @@
 
 - name: Seminario
   id: "S0016"
-  title: Taller terapia sistémica y  Constelaciones familiares como otra herramienta terapéutica más
+  title: Taller Terapia Sistémica y Constelaciones Familiares como otra herramienta Terapéutica más
   duration: "1 día"
   description: "This company created an e-commerce site with the tools to make our business a success, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
   image: img/eventos/141017Introduccion_prop.jpg
 
 - name: Seminario
   id: "S0019"
-  title: La muerte y acompañamiento y gestión del Duelo
+  title: La Muerte y Acompañamiento y gestión del Duelo
   duration: "1 día"
   description: "This company created an e-commerce site with the tools to make our business a success, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
   image: img/eventos/141017Introduccion_prop.jpg

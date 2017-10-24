@@ -1,55 +1,55 @@
-- name: OSTEOPATIA
+- name: OSTEOPATÍA
   id: "TN001"
-  content: "La Osteopatía es una terapia manual utilizada para dar movilidad y flexibilidad a los tejidos del organismo, mejorando así la circulación de la sangre, la linfa y la comunicación nerviosa e intercelular, eliminando los bloqueos y ayudando al cuerpo a que recupere su funcionalidad y armonía."
+  content: "La Osteopatía es una <i>Terapia Manual</i> utilizada para dar <i>Movilidad y Flexibilidad</i> a los tejidos del organismo, mejorando así la circulación de la Sangre, la Linfa y la Comunicación Nerviosa e Intercelular, eliminando los bloqueos y ayudando al cuerpo a que recupere su Funcionalidad y Armonía."
   image: img/tnaturales/osteopatia.jpg
 
 - name: TERAPIA SACRO-CRANEAL
   id: "TN002"
-  content: "Es una especialidad de la Osteopatía, y consiste en regular el ritmo del flujo del líquido cefalorraquídeo que circula por un sistema hidráulico semicerrado que forma el sistema sacro-craneal. Este ritmo provoca un movimiento de expansión y retracción por todo el cuerpo y puede ser palpado y corregido con nuestras manos, induciendo al sistema nervioso a una fase de vagotonía y tal relajación que permite que el cuerpo recupere el equilibrio."
+  content: "Es una especialidad de la Osteopatía, y consiste en <i>regular el ritmo del Flujo del Líquido Cefalorraquídeo</i> que circula por un sistema hidráulico semicerrado que forma el sistema sacro-craneal. Este ritmo provoca un movimiento de expansión y retracción por todo el cuerpo y puede ser palpado y corregido con nuestras manos, induciendo al sistema nervioso a una <i>Fase de Vagotonía</i> y tal relajación que permite que el cuerpo recupere el Equilibrio."
   image: img/tnaturales/sacro.jpg
 
 
-- name: OSTEOPATIA VISCERAL Y CHI NEI TSANG
+- name: OSTEOPATÍA VISCERAL Y CHI NEI TSANG
   id: "TN003"
-  content: "La Osteopatía Visceral que consiste en dar movilidad a todos los órganos y vísceras que están en disfunción regulando todas las funciones que dependen de estas vísceras. Esta visión más occidental se integra con el Chi Nei Tsang, Técnica ancestral oriental con la que los antiguos Taoístas liberaban bloqueos emocionales, energéticos y físicos a través de un masaje de órganos internos."
+  content: "La Osteopatía Visceral consiste en dar <i>movilidad a todos los órganos y vísceras</i> que están en disfunción regulando todas las funciones que dependen de estas vísceras. Esta visión más occidental se integra con el Chi Nei Tsang: Técnica Ancestral Oriental con la que los antiguos Taoístas <i>liberaban bloqueos emocionales, energéticos y físicos</i> a través de un masaje de Órganos Internos."
   image: img/tnaturales/chineitsang.jpg
 
 - name: MIOFASCIAL
   id: "TN004"
-  content: "La fascia es la membrana que recubre todas las estructuras del cuerpo (músculos, huesos, tendones, vísceras, órganos…) y a demás pone en comunicación todas estas parte del organismo. La Técnica Miofascial  consiste en liberar todas las restricciones fasciales y recuperar esa movilidad y comunicación entre las distintas partes del cuerpo, liberando los bloqueos"
+  content: "La Fascia es la membrana que recubre todas las estructuras del cuerpo (músculos, huesos, tendones, vísceras, órganos…) y además pone en comunicación todas estas partes del organismo. La <i>Técnica Miofascial</i> consiste en <i>liberar todas las restricciones fasciales y recuperar esa movilidad y comunicación</i> entre las distintas partes del Cuerpo, liberando los bloqueos."
   image: img/tnaturales/miofascial.jpg
 
-- name: REFLEXOLOGIA PODAL HOLISTICA
-  id: "TN003"
-  content: "A través de la pantalla refleja que hay en los pies se establece una correspondecia con los órganos, glándulas endocrinas y distintas partes del cuerpo. La Reflexología Podál Holistica trabaja y regula todas estas partes trabajando a distancia desde los pies desde un enfoque físico, emocional y energético integrados"
+- name: REFLEXOLOGÍA PODAL HOLÍSTICA
+  id: "TN005"
+  content: "A través de la Pantalla Refleja que hay en los Pies se establece una correspondencia con los Órganos, Glándulas Endocrinas y distintas partes del Cuerpo. La Reflexología Podal Holistica trabaja y regula todas estas partes <i>trabajando a distancia desde los Pies con un enfoque Físico, Emocional y Energético integrados.</i>"
   image: img/tnaturales/reflex.jpg
 
-- name: TECNICA METAMORFICA
-  id: "TN003"
-  content: "Es una técnica que a través de una pantalla que hay en los pies que refleja todas las fases de la etapa intrauterina, puede liberar muchos bloqueos a nivel emocional y energético que se quedaron bloqueados, estancados y reprimidos durante el embarazo, ayudando así a liberar esos bloqueos y de esta forma a no pasarlos a las generaciones que están por venir."
+- name: TÉCNICA METAMÓRFICA
+  id: "TN006"
+  content: "Es una Técnica que a través de una serie de caricias en  una pantalla que hay en los pies que refleja todas las <i>Fases de la Etapa Intrauterina</i>, puede liberar muchos bloqueos a Nivel Emocional y Energético que se quedaron bloqueados, estancados y reprimidos durante el embarazo, ayudando así a liberar esos bloqueos y de esta forma a no pasarlos a las generaciones que están por venir."
   image: img/tnaturales/metamorfica.jpg
 
 - name: ACUPUNTURA, MANOPUNTURA, CRANEOPUNTURA
-  id: "TN003"
-  content: "Técnica perteneciente a la Medicina Tradicional China que mediante un tratamiento con agujas en puntos específicos se consigue regular el flujo bioeléctrico, electromagnético y energético del cuerpo. De esta manera se recupera el movimiento y la integridad energética de la persona y todas las funciones del cuerpo que dependen de este flujo, mejorando así el proceso de salud de la persona."
+  id: "TN007"
+  content: "Técnica perteneciente a la Medicina Tradicional China que mediante un <i>tratamiento con agujas</i> en puntos específicos se consigue regular el Flujo Bioeléctrico, Electromagnético y Energético del cuerpo. De esta manera, se recupera el Movimiento y la Integridad Energética de la persona y todas las funciones del cuerpo que dependen de este flujo, mejorando así el proceso de salud de la persona."
   image: img/tnaturales/acupuntura.jpg
 
 - name: AURICULOTERAPIA
-  id: "TN003"
-  content: "Es la utilización de la acupuntura en las orejas, ya que en estas existe una pantalla que refleja todos los órganos, glándulas y estructuras del cuerpo regulando así al organismo ya que todas estas partes reciben una información de equilibrio para que se pueda abrir y poner en movimiento ese flujo bioelectrico desbloqueando los estancamientos energéticos que están produciendo los desequilibrios."
+  id: "TN008"
+  content: "Es la utilización de la <i>Acupuntura en las Orejas</i>, ya que en estas existe una pantalla que refleja todos los Órganos, Glándulas y Estructuras del cuerpo regulando así al organismo ya que todas estas partes reciben una información de equilibrio para que se pueda abrir y poner en movimiento ese Flujo Bioeléctrico desbloqueando los Estancamientos Energéticos que están produciendo los desequilibrios."
   image: img/tnaturales/auriculoterapia.jpg
 
-- name: BIOENERGETICA
-  id: "TN003"
-  content: "A través de nuestras manos podemos situarlas en distintas zonas del cuerpo y hacer una escucha respetuosa de todos los movimientos que están apareciendo en dichas zonas. Siguiendo estos movimientos podemos regular a la persona Energéticamente ayudándola a desbloquear emociones estancadas y a relajarse profundamente para que el cuerpo pueda recuperar el bienestar y la armonía."
+- name: BIOENERGÉTICA
+  id: "TN009"
+  content: "A través de nuestras <i>Manos</i> podemos situarlas en distintas zonas del cuerpo y hacer una <i>Escucha respetuosa</i> de todos los movimientos que están apareciendo en dichas zonas. Siguiendo estos movimientos podemos regular a la persona Energéticamente ayudándola a desbloquear Emociones estancadas y a relajarse profundamente para que el Cuerpo pueda recuperar el Bienestar y la Armonía."
   image: img/tnaturales/bioenergetica.jpg
 
 - name: BIOMAGNETISMO
-  id: "TN003"
-  content: "Terapia con imanes para regular el campo magnético de la persona, eliminando patógenos, regulando el funcionamiento de glándulas endocrinas, mejorando el ph de la sangre y también el estado anímico y emocional de la persona."
+  id: "TN010"
+  content: "<i>Terapia con imanes</i> para regular el Campo Magnético de la persona, eliminando Patógenos, regulando el funcionamiento de Glándulas Endocrinas, mejorando el pH de la Sangre y también el Estado Emocional de la persona"
   image: img/tnaturales/biomagnetismo.jpg
 
 - name: REEDUCACIÓN POSTURAL
-  id: "TN003"
-  content: "A través de unos ejercicios guiados en una camilla especial o en el suelo en combinación con la respiración y desde un enfoque global respetando las cadenas musculares y su relación con los órganos, el sistema nervioso y el aspecto psico-comportamental de la persona se consigue mejorar su postura y su alineación."
+  id: "TN011"
+  content: "A través de unos <i>ejercicios guiados</i> en una <i>camilla especial o en el suelo</i> en combinación con la respiración y desde un <i>Enfoque Global</i> respetando las cadenas musculares y su relación con los Órganos, el Sistema Nervioso y el Aspecto Psico-Comportamental de la persona se consigue <i>mejorar su postura y su alineación</i>."
   image: img/tnaturales/postural.jpg
