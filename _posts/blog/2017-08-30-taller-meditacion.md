@@ -12,4 +12,4 @@ Seguimos calentando motores... el día [17 de septiembre][agenda] se impartirá 
 
 Feliz miércoles estrellitas
 
-[agenda]: http://{{site.url}}{{site.baseurl}}/agenda/
+[agenda]: http://{{site.url}}{{site.baseurl}}/calendario/
