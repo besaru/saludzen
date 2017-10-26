@@ -396,7 +396,7 @@ font header .navbar-default .navbar-nav li a:hover {
 	Slider-work Start
 --*/
 #global-header-team  {
-  background: url("../img/index/equipo_l.jpg") no-repeat;
+  background: url("../img/team/equipo3.jpg") no-repeat;
   background-size: cover;
   padding-top: 150px;
   padding-bottom: 107px;
@@ -405,7 +405,7 @@ font header .navbar-default .navbar-nav li a:hover {
   }
 
 #global-header-escuelas  {
-  background: url("../img/index/conferencias_l.jpg") no-repeat;
+  background: url("../img/escuelas/conferencias.jpg") no-repeat;
   background-size: cover;
   padding-top: 150px;
   padding-bottom: 107px;
@@ -490,8 +490,8 @@ font header .navbar-default .navbar-nav li a:hover {
   right: 0;
   width: 100%;
   height: 100%;
-  /*background: linear-gradient(to left, #928dab, #1f1c2c 70%);*/
-  opacity: 0.3;
+  background: linear-gradient(to left, #928dab, #1f1c2c 70%);
+  opacity: 0.5;
 }
 #global-header .block {
 
