@@ -5,9 +5,9 @@ title: Crema de Zanahoria a la Naranja
 categories:
   - Cremas
 author: Salud-Zen
-featured_image: /img/portfolio/postres.jpg
+featured_image: /img/recetas/crema_zanahoria_lprop.jpg
 recipe:
-  servings: 10 raciones
+  servings: 4 raciones
   prep: 15'
   cook: 30'
   ingredients_markdown: |-

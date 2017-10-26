@@ -3,9 +3,9 @@ layout: recipe
 date: 2017-10-23
 title: Pastel Dulce de Polenta
 categories:
-  - Desayuno
+  - Postres
 author: Salud-Zen
-featured_image: /img/portfolio/postres.jpg
+featured_image: /img/recetas/pastel_polenta_lprop.jpg
 recipe:
   servings: 4 raciones
   prep: 5'

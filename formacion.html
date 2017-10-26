@@ -51,7 +51,9 @@ permalink: /formacion/
            {% if site.data.seminario.size > 0 %}
              {% for seminario in site.data.seminario %}
              <div>
-               <a href="#formacion" ><span>- {{ seminario.title }}</span> </a>
+               <!-- <a href="#formacion" >-->
+                 <span>- {{ seminario.title }}</span>
+              <!-- </a>-->
 
                </div>
              {% endfor %}
@@ -66,13 +68,15 @@ permalink: /formacion/
         <div class="testimonial-carousel">
           <div id="testimonial-slider" class="owl-carousel">
             {% for seminario in site.data.seminario %}
-            <a href="#formacion" >
+              {% if seminario.image != " " %}
+            <!-- <a href="#formacion" >-->
             <div>
                <p><span>{{ seminario.title | strip_html | truncatewords: 5 }}</span> </p>
                <img src="{{ site.url }}{{ site.baseurl }}/{{ seminario.image }}" alt="Seminario-{{seminario.title}}">
 
             </div>
-          </a>
+          <!--</a>-->
+              {% endif %}
             {% endfor %}
           </div>
         </div>
@@ -87,7 +91,9 @@ permalink: /formacion/
            {% if site.data.cursos.size > 0 %}
              {% for curso in site.data.cursos %}
              <div>
-               <a href="#formacion" ><span> - {{ curso.title }}</span> </a>
+               <!--<a href="#formacion" >-->
+                 <span> - {{ curso.title }}</span>
+               <!--</a>-->
 
                </div>
              {% endfor %}
@@ -102,12 +108,14 @@ permalink: /formacion/
         <div class="testimonial-carousel">
           <div id="testimonial-slider2" class="owl-carousel">
             {% for curso in site.data.cursos %}
-            <a href="#formacion" >
+            {% if curso.image != " " %}
+            <!-- <a href="#formacion" >-->
             <div>
                <p><span>{{ curso.title | strip_html | truncatewords: 5 }}</span> </p>
                <img src="{{ site.url }}{{ site.baseurl }}/{{ curso.image }}" alt="Curso-{{curso.title}}">
             </div>
-          </a>
+          <!--</a>-->
+            {% endif %}
             {% endfor %}
           </div>
         </div>

@@ -4,11 +4,10 @@ date: 2017-10-23
 title: Crema de Harina de Arroz
 categories:
   - Desayuno
-  - Postres
 author: Salud-Zen
-featured_image: /img/portfolio/postres.jpg
+featured_image: /img/recetas/crema_harina_arroz_lprop.jpg
 recipe:
-  servings: 10 raciones
+  servings: 5 raciones
   prep: 15'
   cook: 8-12 horas
   ingredients_markdown: |-

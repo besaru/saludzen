@@ -3,9 +3,7 @@ layout: recipe
 date: 2017-01-06
 title: Lemon Cake
 categories:
-  - Desayuno
   - Comida
-  - Postres
 image: img/item-img1.jpg
 featured_image: https://source.unsplash.com/NAN22eh754c/1560x940
 recipe:

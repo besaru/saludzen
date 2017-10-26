@@ -2,9 +2,9 @@
 layout: recipe
 date: 2017-10-23
 title: Tarta de Arándanos
-categories: Desayuno
+categories: Postres
 author: Salud-Zen
-featured_image: /img/portfolio/postres.jpg
+featured_image: /img/recetas/tarta_arandanos_lprop.jpg
 recipe:
   servings: 4 o 5 raciones
   prep: 15'

@@ -5,7 +5,7 @@ title: Estofado de Invierno de Soja Negra y Calabaza
 categories:
   - Principal
 author: Salud-Zen
-featured_image: /img/portfolio/postres.jpg
+featured_image: /img/recetas/estofado_ sojanegra_lprop.jpg
 recipe:
   servings: 4 raciones
   prep: 20'

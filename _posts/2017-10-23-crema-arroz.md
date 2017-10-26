@@ -5,13 +5,13 @@ title: Crema de Arroz
 categories:
   - Desayuno
 author: Salud-Zen
-featured_image: /img/portfolio/postres.jpg
+featured_image: /img/recetas/crema_arroz_lprop.jpg
 recipe:
   servings: 10 raciones
   prep: 5'
   cook: 90' - 2 horas
   ingredients_markdown: |-
-    *	-1 taza de arroz integral biologico
+    *	-1 taza de arroz integral biológico
     *	-10 tazas de agua filtrada
     *	-1 pellizco de sal marina
     * -1 trozo de 2 cm de alga Kombu

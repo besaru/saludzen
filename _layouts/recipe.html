@@ -9,7 +9,7 @@ layout: page
       <div class="row">
         <div>
           <div class="block">
-            <div class="col-md-10 col-sp-10 col-xsp-12">
+            <div class="col-md-12 col-sp-12 col-xsp-12">
                 <div class="block">
                   <h1>{{ page.title }}</h1>
                   <div class="post-info-wrapper">
@@ -29,27 +29,21 @@ layout: page
                   </div>
                   </div>
               <hr />
-              <div class="col-md-4 col-sp-4">
-                  <div class="block">
 
-              <div class="recipe-contents">
-                <div class="ingredients">
-                  <h2>Ingredientes</h2>
-                  <p>
-                  {{ page.recipe.ingredients_markdown | markdownify }}
-                </p>
-                </div>
-                </div>
-                </div>
-                </div>
-                <div class="col-md-8 col-sp-8">
-                    <div class="block">
-                  <img src="{{ site.url }}{{ site.baseurl }}{{ page.featured_image }}" alt="{{ page.title }}">
-                </div>
+                <div class="col-md-4 col-sp-4">
+                  <div class="block">
+                    <img src="{{ site.url }}{{ site.baseurl }}{{ page.featured_image }}" alt="{{ page.title }}">
+                  </div>
                 </div>
                 <div class="col-md-12 col-sp-12">
                     <div class="block">
                 <div class="recipe-contents">
+                  <div class="ingredients">
+                    <h2>Ingredientes</h2>
+                    <p>
+                    {{ page.recipe.ingredients_markdown | markdownify }}
+                  </p>
+                  </div>
                 <div class="directions">
                   <h2>Instrucciones</h2>
                   <p>
@@ -64,6 +58,11 @@ layout: page
     </div>
   </section>
 </div>
+
+<p class="center-text" style="padding: 30px;">
+  <a href="{{ site.url }}{{ site.baseurl }}/recetas/">Volver a Recetas</a>
+</p>
+<!--
 <p class="center-text" style="padding: 30px;">
 {% assign type = page.categories| markdownify %}
     {% if type contains 'Desayuno'%}
@@ -78,3 +77,4 @@ layout: page
     {% endif %}
 
 </p>
+-->

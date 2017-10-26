@@ -1,19 +1,23 @@
 - name: Sede adscrita
   title: Dojo meditación
-  image: img/contacto/instalaciones1.jpg
+  image: img/contacto/instalaciones1_l.jpg
 
 - name: Sede adscrita
   title: Huerto ecológico
-  image: img/contacto/instalaciones2_prop.jpg
+  image: img/contacto/instalaciones2_l.jpg
 
 - name: Sede central
   title: Clase Formación
-  image: img/contacto/formacion.jpg
+  image: img/contacto/formacion_l.jpg
 
 - name: Sede central
   title: Zona Exterior
-  image: img/contacto/escuela2.jpg
+  image: img/contacto/escuela2_l.jpg
+
+- name: Sede central
+  title: Espacio Principal
+  image: img/contacto/instalaciones3_l.jpg
 
 - name: Sede central
   title: Cocina
-  image: img/contacto/cocina.jpg
+  image: img/contacto/cocina_l.jpg

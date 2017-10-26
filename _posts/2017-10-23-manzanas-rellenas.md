@@ -3,9 +3,9 @@ layout: recipe
 date: 2017-10-23
 title: Manzanas Rellenas
 categories:
-  - Desayuno
+  - Postres
 author: Salud-Zen
-featured_image: /img/portfolio/postres.jpg
+featured_image: /img/recetas/manzanas_rellenas_lprop.jpg
 recipe:
   servings: 4 o 5 raciones
   prep: 15'

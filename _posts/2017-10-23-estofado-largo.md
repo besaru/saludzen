@@ -5,7 +5,7 @@ title: Estofado Largo de Verduras Dulces y Alga Dulse
 categories:
   - Principal
 author: Salud-Zen
-featured_image: /img/portfolio/postres.jpg
+featured_image: /img/recetas/estofado_largo_lprop.jpg
 recipe:
   servings: 4 raciones
   prep: 5'

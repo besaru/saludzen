@@ -14,7 +14,16 @@ $(document).ready(function(){
 			singleItem:true,
 			autoPlay: 3000,
 	});
-
+	$("#testimonial-slider3").owlCarousel({
+			paginationSpeed : 500,
+			singleItem:true,
+			autoPlay: 3000,
+	});
+	$("#testimonial-slider4").owlCarousel({
+			paginationSpeed : 500,
+			singleItem:true,
+			autoPlay: 3000,
+	});
 
 
 	$("#clients-logo").owlCarousel({
