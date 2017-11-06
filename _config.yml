@@ -11,12 +11,13 @@ keep_files:
   - "CNAME"
   - ".git"
   - ".gitignore"
-  
+
 future: true
 
 # Site settings
 title: Salud-Zen
 subtitle: "A free HTML5 agency template"
+#url: "http://salud-zen.sytechcom.com/" # the base hostname & protocol for your site
 url: "https://salud-zen.000webhostapp.com/" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
 baseurl: ''
