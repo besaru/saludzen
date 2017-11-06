@@ -5,7 +5,7 @@ title: Bolitas Horneadas de Arroz
 categories:
   - Principal
 author: Salud-Zen
-featured_image: /img/recetas/bolitas_arroz_lprop.jpg
+featured_image: " "
 recipe:
   servings: 4 raciones
   prep: 5'

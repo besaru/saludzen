@@ -57,12 +57,14 @@ category: Desayuno, Cremas, Principal
         <div class="testimonial-carousel">
           <div id="testimonial-slider" class="owl-carousel">
             {% for recipe in site.categories.Desayuno %}
+            {% if recipe.featured_image != " " %}
             <div>
               <a href="{{ recipe.url | prepend: site.baseurl |prepend: site.url }}" class="bold" target="_blank">
                 <p><span>{{ recipe.name }}</span> {{ recipe.title }}</p>
                 <img src="{{ recipe.featured_image }}" alt="Receta - {{ recipe.title }}">
               </a>
             </div>
+            {% endif %}
             {% endfor %}
           </div>
         </div>
@@ -95,12 +97,15 @@ category: Desayuno, Cremas, Principal
       <div class="testimonial-carousel">
         <div id="testimonial-slider2" class="owl-carousel">
           {% for recipe in site.categories.Cremas %}
+          {% if recipe.featured_image != " " %}
+
           <div>
             <a href="{{ recipe.url | prepend: site.baseurl |prepend: site.url }}" class="bold" target="_blank">
               <p><span>{{ recipe.name }}</span> {{ recipe.title }}</p>
               <img src="{{ recipe.featured_image }}" alt="Receta - {{ recipe.title }}">
             </a>
           </div>
+            {% endif %}
           {% endfor %}
         </div>
       </div>
@@ -133,12 +138,15 @@ category: Desayuno, Cremas, Principal
       <div class="testimonial-carousel">
         <div id="testimonial-slider3" class="owl-carousel">
           {% for recipe in site.categories.Principal %}
+          {% if recipe.featured_image != " " %}
+
           <div>
             <a href="{{ recipe.url | prepend: site.baseurl |prepend: site.url }}" class="bold" target="_blank">
               <p><span>{{ recipe.name }}</span> {{ recipe.title }}</p>
               <img src="{{ recipe.featured_image }}" alt="Receta - {{ recipe.title }}">
             </a>
           </div>
+          {% endif %}
           {% endfor %}
         </div>
       </div>

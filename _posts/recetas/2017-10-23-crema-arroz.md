@@ -5,7 +5,7 @@ title: Crema de Arroz
 categories:
   - Desayuno
 author: Salud-Zen
-featured_image: /img/recetas/crema_arroz_lprop.jpg
+featured_image: " "
 recipe:
   servings: 10 raciones
   prep: 5'
