@@ -16,7 +16,7 @@ future: true
 
 # Site settings
 title: Salud-Zen
-subtitle: "A free HTML5 agency template"
+subtitle: "Escuela de Luz y Consciencia"
 #url: "http://salud-zen.sytechcom.com/" # the base hostname & protocol for your site
 url: "https://salud-zen.000webhostapp.com/" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
@@ -31,12 +31,3 @@ markdown: kramdown
 
 # Google analytics
 # ga_tracking_id: "UA-XXXX-1"
-
-# Category descriptions (for archive pages)
-
-descriptions:
-  - cat: jekyll
-    desc: "Posts describing Jekyll setup techniques."
-
-  - cat: dummy
-    desc: "Just some placeholder posts, lorem ipsum and the rest."
