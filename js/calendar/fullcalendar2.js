@@ -116,7 +116,7 @@
               "end": "2017-11-12 18:00:00",
               "start": "2017-11-11 09:00:00",
               "className": "macrobiotica",
-              "url":"../evento/2017/11/12/curso-Metal.html"
+              "url":"../evento/2017/11/11/curso-Metal.html"
           },
 
           {

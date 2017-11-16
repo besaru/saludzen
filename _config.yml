@@ -17,6 +17,7 @@ future: true
 # Site settings
 title: Salud-Zen
 subtitle: "Escuela de Luz y Consciencia"
+#url: "http://www.salud-zen.com/" # the base hostname & protocol for your site
 #url: "http://salud-zen.sytechcom.com/" # the base hostname & protocol for your site
 url: "https://salud-zen.000webhostapp.com/" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
@@ -30,4 +31,4 @@ logo: "/assets/logo.png"
 markdown: kramdown
 
 # Google analytics
-# ga_tracking_id: "UA-XXXX-1"
+# ga_tracking_id: "UA-109788432-1"
