@@ -10,8 +10,13 @@ layout: page
         <div>
           <div class="block">
             <h1>{{ page.title }}</h1>
+            
             <div class="post-info-wrapper">
-              <p class="italic">Por <span class="bold">{{ page.author }}</span> el <span class="bold">{{ page.date | date: "%-d %b, %Y" }}</span></p>
+              <p class="italic">Por <span class="bold">{{ page.author }}</span> el <span class="bold">{{ page.date | date: "%-d %b, %Y" }}</span>
+                <div class="fb-share-button" data-href="{{ page.url}}" data-layout="button_count" data-size="small" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="{{page.linkfacebook}}">Compartir</a></div>
+
+              </p>
+
             </div>
             <hr/>
           <div class="col-md-3 col-sm-3"> </div>
@@ -26,7 +31,6 @@ layout: page
         </div><!-- .col-md-7 close -->
       </div>
     </div>
-
 
     <p class="center-text" style="padding: 30px;">
       <a href="{{ site.url }}{{ site.baseurl }}/blog">Volver al blog</a>

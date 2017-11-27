@@ -4,7 +4,6 @@ categories: blog
 title:  Relato - Buscando la magia
 subtitle: "Relato - Buscando la Magia"
 date: 2017-10-24 21:11:27
-date_imparticion: 2017-10-24 21:11:27
 author: Salud-Zen
 image: img/blog/241017BuscandoLaMagia.png
 ---

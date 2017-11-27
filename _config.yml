@@ -6,6 +6,7 @@ exclude:
   - "README.md"
   - "LICENSE.md"
   - "*.gemspec"
+include: ['.htaccess']
 
 keep_files:
   - "CNAME"
@@ -19,9 +20,9 @@ name: "Salud-Zen, Escuela de Luz y Consciencia"
 description: ""
 title: Salud-Zen
 subtitle: "Escuela de Luz y Consciencia"
-#url: "http://www.salud-zen.com/" # the base hostname & protocol for your site
+#url: "http://www.salud-zen.com" # the base hostname & protocol for your site
 #url: "http://salud-zen.sytechcom.com/" # the base hostname & protocol for your site
-url: "https://salud-zen.000webhostapp.com/" # the base hostname & protocol for your site
+url: "https://salud-zen.000webhostapp.com" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
 baseurl: ''
 #url: "https://besaru.github.io"
