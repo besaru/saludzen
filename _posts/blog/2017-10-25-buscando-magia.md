@@ -6,6 +6,7 @@ subtitle: "Relato - Buscando la Magia"
 date: 2017-10-24 21:11:27
 author: Salud-Zen
 image: img/blog/241017BuscandoLaMagia.png
+linkfacebook: https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.salud-zen.com%2Fblog%2F2017%2F10%2F24%2Fbuscando-magia.html&amp;src=sdkpreparse
 ---
 
 Momentos, instantes....eso es lo que hace que alguien con menos recursos físicos alcance la magia alcanzando lugares que para otros pasarían desapercibidos.

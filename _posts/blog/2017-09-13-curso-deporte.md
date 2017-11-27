@@ -6,6 +6,7 @@ subtitle: "Nuevo curso de fin de semana: Nutrición Energética, Actividad Físi
 date: 2017-09-13 21:11:27
 author: Salud-Zen
 image: img/eventos/071017Deporte_prop.jpg
+linkfacebook: https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.salud-zen.com%2Fblog%2F2017%2F09%2F13%2Fcurso-deporte.html&amp;src=sdkpreparse
 ---
 Sacamos nuevo curso de fin de semana,  [Nutrición Energética, Actividad Física y Deporte][curso]! Incluido además en la formación de consultor.  
 

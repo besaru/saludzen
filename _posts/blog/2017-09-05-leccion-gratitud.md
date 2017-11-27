@@ -6,6 +6,7 @@ subtitle: "Relato - Una Lección de Gratitud"
 date: 2017-09-05 21:11:27
 author: Salud-Zen, Verónica Postigo
 image: img/blog/20170905-LeccionGratitud.png
+linkfacebook: https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.salud-zen.com%2Fblog%2Fblog%2F2017%2F09%2F05%2Fleccion-gratitud.html&amp;src=sdkpreparse
 ---
 
 Cuentan hace mucho, mucho tiempo que todas nuestras almas se encontraban gozando del juego, la calma , riendo y correteando de aquí para allá... Estaban muy, muy felices. Pero una de ellas reparó en algo.... Se dio cuenta que era muy afortunada de verse en esa fabulosa situación de poder estar disfrutando de todo ello y sin saber cómo , sentía una maravillosa gratitud de que así fuera.
@@ -33,7 +34,7 @@ Hay almas que tuvieron la suerte de comprenderlo y no volver a olvidarlo.... Hay
 “Que no hay acto de amor más bonito que el decidir entregar todo tu ser para que alguien más pueda aprender lo que es el amor y la gratitud y la libertad de poder aportar eso nuevamente a la vida”
 
 Pero esas, esas ya son otras historias....
-  
+
 A todas las mamás que nos dieron el regalo de la vida... Gracias.... A todas esas mujeres que no pueden ser mamás y siguen anhelando, recordarles que quizá esa lección ya la tienen aprendida y están teniendo que aprender otra igualmente valiosa... a todas esas mujeres que deciden no ser mamás tan sólo recordarles que no olviden agradecer que todas ellas pueden elegir porque alguien alguna vez decidió premiarles con el don de la vida.
 Y a ti Mamá... a ti decirte que eres lo más bonito y valioso del mundo y que para mí... mi mayor regalo eres tú! Así que mi único regalo para tu día es que me hayas regalado el valor de la palabra “GRACIAS”.
 
