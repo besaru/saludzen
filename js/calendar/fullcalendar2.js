@@ -132,13 +132,33 @@
 
           {
               "allDay": "false",
-              "name": "Cocina Navideña y Festiva",
-              "title": "Taller de Cocina Macrobiótica Navideña y Festiva",
+              "name": "Conferencia Gratuita - Introducción a la Meditación",
+              "title": "Introducción a la Meditación",
               "id": "C0001",
-              "end": "2017-12-17 18:00:00",
+              "end": "2017-12-14 19:00:00",
+              "start": "2017-12-14 17:30:00",
+              "className": "terapias",
+              "url":"../evento/2017/12/14/introduccion-meditacion.html"
+          },
+          {
+              "allDay": "false",
+              "name": "Taller de Cocina Macrobiótica Navideña y Festiva",
+              "title": "Cocina Macrobiótica Navideña y Festiva",
+              "id": "C0001",
+              "end": "2017-12-17 15:00:00",
               "start": "2017-12-17 10:00:00",
               "className": "macrobiotica",
               "url":"../evento/2017/12/17/taller-navidad.html"
+          },
+          {
+              "allDay": "false",
+              "name": "Qui Gong - Taller práctico",
+              "title": "Qui Gong",
+              "id": "C0001",
+              "end": "2017-12-21 19:30:00",
+              "start": "2017-12-21 18:00:00",
+              "className": "terapias",
+              "url":"../evento/2017/12/21/Qui-Gong.html"
           }
      ]
 ,

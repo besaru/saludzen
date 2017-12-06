@@ -4,7 +4,7 @@
  * obtained from https://github.com/mojombo/tpw/blob/master/css/syntax.css
  *
  */
- 
+
 .highlight  { background: #ffffff; }
 .highlight .c { color: #999988; font-style: italic } /* Comment */
 .highlight .err { color: #a61717; background-color: #e3d2d2 } /* Error */
@@ -65,3 +65,15 @@
 .highlight .vg { color: #008080 } /* Name.Variable.Global */
 .highlight .vi { color: #008080 } /* Name.Variable.Instance */
 .highlight .il { color: #009999 } /* Literal.Number.Integer.Long */
+
+.btn-twitter {background-color: #2196F3; color: #fff}
+.btn-twitter:hover {color: #2196F3}
+.btn-facebook {background-color: #0D47A1; color: #fff}
+.btn-facebook:hover {color: #0D47A1}
+.btn-googlep {background-color: #B71C1C; color: #fff}
+.btn-googlep:hover {color: #B71C1C}
+.btn-whatsapp {background-color: #4CAF50; color: #fff}
+.btn-whatsapp:hover {color: #4CAF50}
+.btn-telegram {background-color: #00B0FF; color: #fff}
+.btn-telegram:hover {color: #00B0FF}
+.uk-button-group a[class*="btn-"] {width: 40px;}
