@@ -49,7 +49,10 @@ category: evento
         {% assign sorted-posts = site.posts | where: "categories","evento" %}
         {% assign sorted-posts2 = sorted-posts | where: "public","true" |sort: 'date'%}
         {% assign postsByYear = sorted-posts2 | group_by_exp:"post", "post.date | date: '%-y'"|sort: 'date'  %}
+        {% capture nowYear %} {{'now' | date: '%y'}} {% endcapture %}
+
         {% for year in postsByYear %}
+
           {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%-m'"|sort: 'date'  %}
           {% for month in postsByMonth %}
           <div class="row">
@@ -125,6 +128,7 @@ category: evento
              </div><!--col-->
            </div><!--row-->
          {% endfor %}
+         
           {% endfor %}
         </div><!--block-->
       </div><!--container-->
@@ -147,10 +151,13 @@ category: evento
             <ul><h1>Próximos Eventos:</h1>
               {% capture now %}{{site.time | date: '%s'}}{% endcapture %}
               <table>
+
               {% for post in sorted-posts2 %}
 
-              {% capture posttime %}{{post.dateVisible | date: '%s'}}{% endcapture %}
-              {% if now <= posttime %}
+
+                  {% capture posttime %}{{post.dateVisible | date: '%s'}}{% endcapture %}
+
+                  {% if now <= posttime %}
               <tr>
 
 
@@ -163,14 +170,14 @@ category: evento
                                 {{post.date | date: "%d"}}
                                   {% capture month %}{{post.date | date: "%m"}}{% endcapture %}
                                     {% case month %}
-                                         {% when '1' %}Ene
-                                         {% when '2' %}Feb
-                                         {% when '3' %}Mar
-                                         {% when '4' %}Abr
-                                         {% when '5' %}May
-                                         {% when '6' %}Jun
-                                         {% when '7' %}Jul
-                                         {% when '8' %}Ago
+                                         {% when '01' %}Ene
+                                         {% when '02' %}Feb
+                                         {% when '03' %}Mar
+                                         {% when '04' %}Abr
+                                         {% when '05' %}May
+                                         {% when '06' %}Jun
+                                         {% when '07' %}Jul
+                                         {% when '08' %}Ago
                                          {% when '09' %}Sep
                                          {% when '10' %}Oct
                                          {% when '11' %}Nov
@@ -183,14 +190,12 @@ category: evento
                                   </a>
                               </td>
                                </div><!--position-center-->
-
-
-
                       </li>
                     </ul>
                   </div>
                 </tr>
-              {% endif %}
+                {% endif %}
+
               {% endfor %}
             </table>
               </ul>

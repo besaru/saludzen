@@ -1,7 +1,7 @@
 ---
 layout: event
 categories: evento
-public: yes
+public: no
 name: Taller TAO
 title: Taller TAO
 subtitle:

@@ -8,6 +8,20 @@
 
     
       <item>
+        <title>¡Publicación del Calendario con nuevas actividades!</title>
+        <description>&lt;p&gt;Aquí teneis las nueva actividades para los próximos meses, puedes consultarlas en nuestro &lt;a href=&quot;http://localhost:4000/calendario/&quot;&gt;calendario&lt;/a&gt;. Os proponemos gran variedad de actividades, cursos,talleres,charlas …&lt;/p&gt;
+
+&lt;p&gt;Entre estas actividades  ofrecemos un &lt;a href=&quot;http://localhost:4000/evento/2018/02/17/taller-cosmetica.html&quot;&gt;Taller de Cosmética Natural&lt;/a&gt;, se trata de una colaboración con la escuela, que permite dar el enfoque holístico. Iremos invitando a gente de fuera de la escuela con otras disciplinas distintas a lo que nosotros hacemos.&lt;/p&gt;
+
+&lt;p&gt;Esperamos que os gusten, y recuerda reservar tu plaza,&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 04 Jan 2018 16:11:27 +0100</pubDate>
+        <link>http://localhost:4000//blog/2018/01/04/publicacion-calendario.html</link>
+        <guid isPermaLink="true">http://localhost:4000//blog/2018/01/04/publicacion-calendario.html</guid>
+      </item>
+    
+      <item>
         <title>Taller - Danza Terapéutica Transpersonal</title>
         <description>&lt;p&gt;Buenas tardes ☺, os dejo la información del siguiente &lt;a href=&quot;http://localhost:4000/evento/2018/01/13/taller-danza.html&quot;&gt;taller de danza terapéutica&lt;/a&gt; que voy a hacer para empezar el año sintiendo, bailando y aprovechando la energia del invierno para ver que podemos soltar de lo que hay por ahi adentro y que cositas podemos empezar a poder aceptar y acoger con mucho mucho amor.&lt;/p&gt;
 
@@ -238,15 +252,6 @@ Solo hace falta observar para aprender…Gracias flor por recordarme que da igua
         <pubDate>Wed, 13 Sep 2017 23:11:27 +0200</pubDate>
         <link>http://localhost:4000//blog/2017/09/13/curso-deporte.html</link>
         <guid isPermaLink="true">http://localhost:4000//blog/2017/09/13/curso-deporte.html</guid>
-      </item>
-    
-      <item>
-        <title>Ciclo de conferencias Gratuitas</title>
-        <description>&lt;p&gt;Continuamos con nuestro especial proyecto “crear luz y consciencia” en el mundo aportando nuestro granito con conferencias gratuitas. El día 29 os esperamos en Arroyomolinos, no olvidéis llamar antes para reservaos silla ;) feliz día estrellitas.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 06 Sep 2017 23:11:27 +0200</pubDate>
-        <link>http://localhost:4000//blog/2017/09/06/seminario-nutricion.html</link>
-        <guid isPermaLink="true">http://localhost:4000//blog/2017/09/06/seminario-nutricion.html</guid>
       </item>
     
   </channel>

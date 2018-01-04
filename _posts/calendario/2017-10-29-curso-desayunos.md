@@ -1,7 +1,7 @@
 ---
 layout: event
 categories: evento
-public: yes
+public: no
 name: Desayunos Energéticos
 title: Curso de Desayunos Energéticos
 subtitle:

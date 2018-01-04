@@ -159,6 +159,96 @@
               "start": "2017-12-21 18:00:00",
               "className": "terapias",
               "url":"../evento/2017/12/21/Qui-Gong.html"
+          },
+          {
+              "allDay": "false",
+              "name": "Taller de Danza Terapéutica",
+              "title": "Taller de Danza Terapéutica",
+              "id": "C0001",
+              "end": "2018-01-13 20:00:00",
+              "start": "2018-01-13 18:00:00",
+              "className": "macrobiotica",
+              "url":"../evento/2018/01/13/taller-danza.html"
+          },
+          {
+              "allDay": "false",
+              "title": "Charla - El Arte de Curar con el Agua",
+              "name":"Charla - El Arte de Curar con el Agua",
+              "id": "C0001",
+              "end": "2018-01-19 20:00:00",
+              "start": "2018-01-19 19:00:00",
+              "className": "macrobiotica",
+              "url":"../evento/2018/01/19/charla-agua.html"
+          },
+          {
+              "allDay": "false",
+              "title": "Primer Seminario de Introducción. Bases de la Nutrición Energética y Cocina Macrobiótica",
+              "name":"Seminario de Introducción",
+              "id": "C0001",
+              "end": "2018-01-20 19:00:00",
+              "start": "2018-01-20 09:00:00",
+              "className": "macrobiotica",
+              "url":"../evento/2018/01/20/curso-introduccion.html"
+          },
+          {
+              "allDay": "false",
+              "title": "Zazen - El Arte Japonés de Meditar Sentada",
+              "name":"Zazen",
+              "id": "C0001",
+              "end": "2018-01-24 20:30:00",
+              "start": "2018-01-24 19:00:00",
+              "className": "terapias",
+              "url":"../evento/2018/01/24/taller-zazen.html"
+          }
+          ,{
+              "allDay": "false",
+              "title": "Taller - Constelaciones Familiares",
+              "name":"Taller - Constelaciones Familiares",
+              "id": "C0001",
+              "end": "2018-01-27 14:00:00",
+              "start": "2018-01-27 09:30:00",
+              "className": "macrobiotica",
+              "url":"../evento/2018/01/27/taller-constelaciones.html"
+          }
+          ,{
+              "allDay": "false",
+              "title": "Cocina Tradicional y Energética",
+              "name":"Cocina Tradicional y Energética",
+              "id": "C0001",
+              "end": "2018-01-28 18:00:00",
+              "start": "2018-01-28 09:00:00",
+              "className": "macrobiotica",
+              "url":"../evento/evento/2018/01/28/cocina-tradicional.html"
+          },
+          {
+              "allDay": "false",
+              "title": "Primer Seminario de Introducción. Bases de la Nutrición Energética y Cocina Macrobiótica",
+              "name":"Seminario de Introducción",
+              "id": "C0001",
+              "end": "2018-02-09 19:00:00",
+              "start": "2018-02-09 09:00:00",
+              "className": "macrobiotica",
+              "url":"../evento/2018/02/09/curso-introduccion.html"
+          },
+          {
+              "allDay": "false",
+              "title": "Las Relaciones",
+              "name":"Las Relaciones, Las Relaciones: familiares, de pareja y con uno mismo",
+              "id": "C0001",
+              "end": "2018-02-11 18:00:00",
+              "start": "2018-02-10 09:00:00",
+              "className": "macrobiotica",
+              "url":"../evento/2018/02/10/curso-relaciones.html"
+          },
+          {
+              "allDay": "false",
+              "title": "Taller de Cosmética Natural Personalizada",
+              "name":"Cosmética Natural",
+              "id": "C0001",
+              "end": "2018-02-17 11:00:00",
+              "start": "2018-02-17 14:00:00",
+              "className": "macrobiotica",
+              "url":"../evento/2018/02/17/taller-cosmetica.html"
           }
      ]
 ,

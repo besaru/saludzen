@@ -1,7 +1,7 @@
 ---
 layout: event
 categories: evento
-public: yes
+public: no
 name: Taller de Meditación
 title: Taller de Meditación
 subtitle:

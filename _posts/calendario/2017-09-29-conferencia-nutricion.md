@@ -1,7 +1,7 @@
 ---
 layout: event
 categories: evento
-public: yes
+public: no
 name: Conferencia - Nutrición
 title: Conferencia - Los 4 alimentos más perjudiciales para tu salud
 subtitle:

@@ -1,7 +1,7 @@
 ---
 layout: event
 categories: evento
-public: yes
+public: no
 name: Curso Elemento Metal
 title: Curso Elemento Metal
 subtitle:

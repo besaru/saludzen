@@ -1,7 +1,7 @@
 ---
 layout: event
 categories: evento
-public: yes
+public: no
 name: Introducción a la Meditación
 title: Introducción a la Meditación
 subtitle:
