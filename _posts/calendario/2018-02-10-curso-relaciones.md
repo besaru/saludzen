@@ -10,7 +10,7 @@ date: 10-02-2018
 date_text: 10 y 11 de Febrero de 2018
 date_imparticion: 10 y 11 -02-2018
 horario: 9:00 del Sábado - 18:00 del Domingo
-localizacion: Sede Principal (Confirmar)
+localizacion: Sede Principal
 author: Salud-Zen
 image: img/eventos/100218Relaciones
 ---

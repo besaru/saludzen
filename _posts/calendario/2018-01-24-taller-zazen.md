@@ -10,7 +10,7 @@ date: 24-01-2018
 date_text: 24 de Enero de 2018
 date_imparticion: 24-01-2018
 horario: 19:00 - 20:30
-localizacion: Sede Principal (Confirmar)
+localizacion: Sede Principal
 author: Salud-Zen
 image: img/eventos/240118Zazen
 ---

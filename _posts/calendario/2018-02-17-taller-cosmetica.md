@@ -10,7 +10,7 @@ date: 17-02-2018
 date_text: 17 de Febrero de 2018
 date_imparticion: 17 -02-2018
 horario: 11:00 - 14:00
-localizacion: Sede Principal (Confirmar)
+localizacion: Sede Principal
 author: Salud-Zen
 image: img/eventos/170218Cosmetica
 ---
