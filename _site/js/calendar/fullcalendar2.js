@@ -233,7 +233,7 @@
           {
               "allDay": "false",
               "title": "Las Relaciones",
-              "name":"Las Relaciones, Las Relaciones: familiares, de pareja y con uno mismo",
+              "name":"Las Relaciones: familiares, de pareja y con uno mismo",
               "id": "C0001",
               "end": "2018-02-11 18:00:00",
               "start": "2018-02-10 09:00:00",

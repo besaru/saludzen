@@ -24,9 +24,9 @@ subtitle: "Escuela de Luz y Consciencia"
 #url: "https://salud-zen.000webhostapp.com" # the base hostname & protocol for your site
 #url: "https://besaru.github.io/saludzen/"
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
-#url: 'http://www.salud-zen.com'
+url: "http://www.salud-zen.com"
 baseurl: ""
-url: "https://besaru.github.io/saludzen/"
+#url: "https://besaru.github.io/saludzen/"
 #baseurl: '/saludzen'
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
