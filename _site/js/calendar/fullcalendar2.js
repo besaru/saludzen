@@ -250,6 +250,26 @@
               "className": "macrobiotica",
               "url":"../evento/2018/02/17/taller-cosmetica.html"
           }
+          ,
+          {
+                // a recurring event
+                "allDay": "false",
+                "title": "Curso de Reflexología Podal Holística",
+                "name": "Reflexología Podal Holística",
+                "id": "C0007",
+                "end": "2018-02-01 20:00:00",
+                "start": "2018-02-01 17:30:00",
+                "className": "terapias",
+                "url":"../2018/02/01/curso-reflexologia-podal.html",
+                /*"dow":"[4]",
+                "ranges":[{"start":"2018/02/01", "end":"2018/02/27"}]
+                "isRecurrring": "true",
+                  "ranges": [{
+                      "start": "2018/02/01",
+                      "end": "2018/02/27",
+                    }],*/
+                } ,
+
      ]
 ,
 /*
