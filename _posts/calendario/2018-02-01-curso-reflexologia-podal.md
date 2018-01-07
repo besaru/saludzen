@@ -3,7 +3,7 @@ layout: event
 categories: evento
 public: yes
 name: Curso de Reflexología Podal Holística
-title: Curso de Reflexología Podal Holística - Programa de certificación profesional
+title: Curso de Reflexología Podal Holística - Certificación Profesional
 subtitle:
 date: 01-02-2018
 dateVisible: 2018-02-01 23:00:00
