@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: blog
-title:  ¡Nuevo Curso de Reflexología Podal Holística!
+title:  Curso - Reflexología Podal Holística
 subtitle: ¡Nuevo Curso de Reflexología Podal Holística!
 date: 2018-01-08 09:11:27
 author: Salud-Zen
