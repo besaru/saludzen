@@ -160,16 +160,7 @@
               "className": "terapias",
               "url":"../evento/2017/12/21/Qui-Gong.html"
           },
-          {
-              "allDay": "false",
-              "name": "Taller de Danza Terapéutica",
-              "title": "Taller de Danza Terapéutica",
-              "id": "C0001",
-              "end": "2018-01-13 20:00:00",
-              "start": "2018-01-13 18:00:00",
-              "className": "macrobiotica",
-              "url":"../evento/2018/01/13/taller-danza.html"
-          },
+
           {
               "allDay": "false",
               "title": "Charla - El Arte de Curar con el Agua",
@@ -189,6 +180,16 @@
               "start": "2018-01-20 09:00:00",
               "className": "macrobiotica",
               "url":"../evento/2018/01/20/curso-introduccion.html"
+          },
+          {
+              "allDay": "false",
+              "name": "Taller de Danza Terapéutica",
+              "title": "Taller de Danza Terapéutica",
+              "id": "C0001",
+              "end": "2018-01-21 20:00:00",
+              "start": "2018-01-21 18:00:00",
+              "className": "macrobiotica",
+              "url":"../evento/2018/01/21/taller-danza.html"
           },
           {
               "allDay": "false",
