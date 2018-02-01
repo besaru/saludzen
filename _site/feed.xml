@@ -3,13 +3,75 @@
   <channel>
     <title>Salud-Zen, Escuela de Luz y Consciencia</title>
     <description></description>
-    <link>http://salud-zen.tk/</link>
-    <atom:link href="http://salud-zen.tk//feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
 
     
       <item>
+        <title>Resumen - Cursos Fin de semana completo</title>
+        <description>&lt;p&gt;Otro fin de Semana Increíble! El sábado un éxito el Taller de Constelaciones donde hubo movimientos maravillosos y el domingo volviendo a conectar con la cocina de nuestros ancestros … se notó todo ese Qi en la cocina, estaba todo riquísimo! :) Ahí van unas fotitos para abrir el apetito. Feliz Martes estrellitas!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/blog/300118ManosAlaMasa.jpg&quot; alt=&quot;Cocinando&quot; title=&quot;Cocinando&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/img/blog/300118Grupo.jpg&quot; alt=&quot;Asistentes&quot; title=&quot;AsistentesCurso&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/img/blog/300118torreznos.jpg&quot; alt=&quot;Patatas&quot; title=&quot;Patatas revolconas con sus torreznitos especiales&quot; /&gt;
+![Morcillas][img4]
+&lt;img src=&quot;http://localhost:4000/img/blog/300118Morcilla.jpg&quot; alt=&quot;Crema&quot; title=&quot;Las morcillitas del cocido... receta estrella&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/img/blog/300118CremaCatalana.jpg&quot; alt=&quot;Judiones&quot; title=&quot;Crema Catalana&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/img/blog/300118Judiones.jpg&quot; alt=&quot;Cocido&quot; title=&quot;Judiones con Almejas y Pulpo&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 30 Jan 2018 10:11:27 +0100</pubDate>
+        <link>http://localhost:4000//blog/2018/01/30/Cursos-FinSemanaCompleto.html</link>
+        <guid isPermaLink="true">http://localhost:4000//blog/2018/01/30/Cursos-FinSemanaCompleto.html</guid>
+      </item>
+    
+      <item>
+        <title>Taller Constelaciones - Siempre estamos acompañados</title>
+        <description>&lt;p&gt;“Siempre, estamos acompañados”… de nuestras Creencias, de nuestros Ancestros, de cada una de esas Estrellas que nos rodean y nos aportan distintos Aprendizajes, de Heridas Infantiles Creadas a veces de Necesidades no satisfechas por altas Expectativas… Pero siempre, estamos acompañados de la Luz que Somos, de un millón de Recursos internos que pueden con todas esas creencias que a veces usamos para autosabotearnos… Podemos poner un poco de “luz” a esas pequeñas “cosas” que nos “ atascan” a nivel Inconsciente desde el trabajo Sistémico y las Constelaciones Familiares. Así que recordad que si queréis probar la experiencia, este Sábado hacemos un &lt;a href=&quot;http://localhost:4000/evento/2018/01/27/taller-constelaciones.html&quot;&gt;Taller&lt;/a&gt; en la Escuela donde todos haremos algún Movimiento Sistémico y algunos podrán trabajar su propia Constelación Familiar.&lt;/p&gt;
+
+&lt;p&gt;Feliz Martes estrellitas, y no olvidéis &lt;a href=&quot;mailto:estilodevida@salud-zen.com?Subject=Taller - Constelaciones Familiares-Reserva de Plaza&amp;amp;body=%0A%0A Me gustaría reservar una plaza para el Taller - Constelaciones Familiares del 27 de Enero. Mis datos Personales son:%0A%0A   -Nombre:%0A%0A   -Apellidos:%0A%0A   -Fecha de nacimiento:%0A%0A    -Correo Electrónico:%0A%0A  -Teléfono:%0A%0A&quot;&gt;reservar vuestra plaza&lt;/a&gt; o pedirme más info.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 23 Jan 2018 10:11:27 +0100</pubDate>
+        <link>http://localhost:4000//blog/2018/01/23/Taller-Constelaciones.html</link>
+        <guid isPermaLink="true">http://localhost:4000//blog/2018/01/23/Taller-Constelaciones.html</guid>
+      </item>
+    
+      <item>
+        <title>Receta - Bizcocho de arroz y algarroba</title>
+        <description>&lt;p&gt;Hoy os dejamos una receta rica, rica para una buena merienda este fin de semana ;).&lt;/p&gt;
+
+&lt;p&gt;Feliz viernes dulces estrellitas :)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/postres/2018/01/19/bizcocho-arrozYalgarroba.html&quot;&gt;Bizcocho de arroz y algarroba&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Bon appetit!!&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 19 Jan 2018 10:11:27 +0100</pubDate>
+        <link>http://localhost:4000//blog/2018/01/19/Receta-BizcochoArrozAlgarroba.html</link>
+        <guid isPermaLink="true">http://localhost:4000//blog/2018/01/19/Receta-BizcochoArrozAlgarroba.html</guid>
+      </item>
+    
+      <item>
+        <title>Eventos - Conferencia Gratuita y Taller de Danza</title>
+        <description>&lt;p&gt;Buenos días de Invierno!&lt;/p&gt;
+
+&lt;p&gt;Recordaos que esta semana tenemos dos eventos que no os podéis perder! Viernes 19 &lt;a href=&quot;http://localhost:4000/evento/2018/01/19/charla-agua.html&quot;&gt;conferencia gratuita sobre “El poder Curativo del agua”&lt;/a&gt; y el Domingo 21 &lt;a href=&quot;http://localhost:4000/evento/2018/01/21/taller-danza.html&quot;&gt;taller “Danza terapéutica”&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;No dejéis la reserva de plaza para el último día!&lt;/p&gt;
+
+&lt;p&gt;Feliz día estrellitas&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 15 Jan 2018 10:11:27 +0100</pubDate>
+        <link>http://localhost:4000//blog/2018/01/15/Eventos-CharlaGratuitaYTallerDanza.html</link>
+        <guid isPermaLink="true">http://localhost:4000//blog/2018/01/15/Eventos-CharlaGratuitaYTallerDanza.html</guid>
+      </item>
+    
+      <item>
         <title>Importante - Cambio Fecha del Taller de Danza Terapéutica Transpersonal</title>
-        <description>&lt;p&gt;Buenos días! 😊 Por problemas técnicos hemos tenido que cambiar la fecha para el &lt;a href=&quot;http://salud-zen.tk//evento/2018/01/21/taller-danza.html&quot;&gt;Taller de Danza Terapeútica&lt;/a&gt; al día &lt;b&gt;21 de Enero&lt;/b&gt;, esperamos que este día podáis compartir muchos más con nosotros este momento.&lt;/p&gt;
+        <description>&lt;p&gt;Buenos días! 😊 Por problemas técnicos hemos tenido que cambiar la fecha para el &lt;a href=&quot;http://localhost:4000/evento/2018/01/21/taller-danza.html&quot;&gt;Taller de Danza Terapeútica&lt;/a&gt; al día &lt;b&gt;21 de Enero&lt;/b&gt;, esperamos que este día podáis compartir muchos más con nosotros este momento.&lt;/p&gt;
 
 &lt;p&gt;Si estás interesado, no olvides &lt;a href=&quot;mailto:estilodevida@salud-zen.com?Subject=Taller - Danza Terapéutica Transpersonal-Reserva de Plaza&amp;amp;body=%0A%0A Me gustaría reservar una plaza para el Taller - Danza Terapéutica Transpersonal del 21 de Enero. Mis datos Personales son:%0A%0A   -Nombre:%0A%0A   -Apellidos:%0A%0A   -Fecha de nacimiento:%0A%0A    -Correo Electrónico:%0A%0A  -Teléfono:%0A%0A&quot;&gt;reservar tu plaza&lt;/a&gt;.&lt;/p&gt;
 
@@ -17,44 +79,44 @@
 
 </description>
         <pubDate>Fri, 12 Jan 2018 10:11:27 +0100</pubDate>
-        <link>http://salud-zen.tk///blog/2018/01/12/Importante-CambioFechaCurso.html</link>
-        <guid isPermaLink="true">http://salud-zen.tk///blog/2018/01/12/Importante-CambioFechaCurso.html</guid>
+        <link>http://localhost:4000//blog/2018/01/12/Importante-CambioFechaCurso.html</link>
+        <guid isPermaLink="true">http://localhost:4000//blog/2018/01/12/Importante-CambioFechaCurso.html</guid>
       </item>
     
       <item>
         <title>Curso - Reflexología Podal Holística</title>
-        <description>&lt;p&gt;El próximo mes de Febrero arranca el curso de &lt;a href=&quot;http://salud-zen.tk//evento/2018/02/01/curso-reflexologia-podal.html&quot;&gt;Reflexología Podal Holística&lt;/a&gt;, se trata de una formación profesional de 4 meses de duración (Febrero - Mayo), donde todos los jueves durante 2 horas y media, se verá la reflexología podal desde un enfoque Anatómico Fisiológico, Psico-Emocional y Energético Integrado.&lt;/p&gt;
+        <description>&lt;p&gt;El próximo mes de Febrero arranca el curso de &lt;a href=&quot;http://localhost:4000/evento/2018/02/01/curso-reflexologia-podal.html&quot;&gt;Reflexología Podal Holística&lt;/a&gt;, se trata de una formación profesional de 4 meses de duración (Febrero - Mayo), donde todos los jueves durante 2 horas y media, se verá la reflexología podal desde un enfoque Anatómico Fisiológico, Psico-Emocional y Energético Integrado.&lt;/p&gt;
 
 &lt;p&gt;Si estás interesado, no olvides &lt;a href=&quot;mailto:estilodevida@salud-zen.com?Subject=Curso de Reflexologia-Reserva de Plaza&amp;amp;body=%0A%0A Me gustaría reservar una plaza para el Curso de Reflexología Podal Holística (Feb - May'18). Mis datos Personales son:%0A%0A   -Nombre:%0A%0A   -Apellidos:%0A%0A   -Fecha de nacimiento:%0A%0A   -Teléfono:%0A%0A&quot;&gt;reservar tu plaza&lt;/a&gt;.&lt;/p&gt;
 
 </description>
         <pubDate>Mon, 08 Jan 2018 10:11:27 +0100</pubDate>
-        <link>http://salud-zen.tk///blog/2018/01/08/Nuevo-curso-reflexologia.html</link>
-        <guid isPermaLink="true">http://salud-zen.tk///blog/2018/01/08/Nuevo-curso-reflexologia.html</guid>
+        <link>http://localhost:4000//blog/2018/01/08/Nuevo-curso-reflexologia.html</link>
+        <guid isPermaLink="true">http://localhost:4000//blog/2018/01/08/Nuevo-curso-reflexologia.html</guid>
       </item>
     
       <item>
         <title>¡Publicación del Calendario con nuevas actividades!</title>
-        <description>&lt;p&gt;Aquí teneis las nueva actividades para los próximos meses, puedes consultarlas en nuestro &lt;a href=&quot;http://salud-zen.tk//calendario/&quot;&gt;calendario&lt;/a&gt;. Os proponemos gran variedad de actividades, cursos,talleres,charlas …&lt;/p&gt;
+        <description>&lt;p&gt;Aquí teneis las nueva actividades para los próximos meses, puedes consultarlas en nuestro &lt;a href=&quot;http://localhost:4000/calendario/&quot;&gt;calendario&lt;/a&gt;. Os proponemos gran variedad de actividades, cursos,talleres,charlas …&lt;/p&gt;
 
-&lt;p&gt;Entre estas actividades  ofrecemos un &lt;a href=&quot;http://salud-zen.tk//evento/2018/02/17/taller-cosmetica.html&quot;&gt;Taller de Cosmética Natural&lt;/a&gt;, se trata de una colaboración con la escuela, que permite dar el enfoque holístico. Iremos invitando a gente de fuera de la escuela con otras disciplinas distintas a lo que nosotros hacemos.&lt;/p&gt;
+&lt;p&gt;Entre estas actividades  ofrecemos un &lt;a href=&quot;http://localhost:4000/evento/2018/02/17/taller-cosmetica.html&quot;&gt;Taller de Cosmética Natural&lt;/a&gt;, se trata de una colaboración con la escuela, que permite dar el enfoque holístico. Iremos invitando a gente de fuera de la escuela con otras disciplinas distintas a lo que nosotros hacemos.&lt;/p&gt;
 
 &lt;p&gt;Esperamos que os gusten, y recuerda reservar tu plaza,&lt;/p&gt;
 
 </description>
         <pubDate>Thu, 04 Jan 2018 16:11:27 +0100</pubDate>
-        <link>http://salud-zen.tk///blog/2018/01/04/publicacion-calendario.html</link>
-        <guid isPermaLink="true">http://salud-zen.tk///blog/2018/01/04/publicacion-calendario.html</guid>
+        <link>http://localhost:4000//blog/2018/01/04/publicacion-calendario.html</link>
+        <guid isPermaLink="true">http://localhost:4000//blog/2018/01/04/publicacion-calendario.html</guid>
       </item>
     
       <item>
         <title>Taller - Danza Terapéutica Transpersonal</title>
-        <description>&lt;p&gt;Buenas tardes ☺, os dejo la información del siguiente &lt;a href=&quot;http://salud-zen.tk//evento/2018/01/13/taller-danza.html&quot;&gt;taller de danza terapéutica&lt;/a&gt; que voy a hacer para empezar el año sintiendo, bailando y aprovechando la energia del invierno para ver que podemos soltar de lo que hay por ahi adentro y que cositas podemos empezar a poder aceptar y acoger con mucho mucho amor.&lt;/p&gt;
+        <description>&lt;p&gt;Buenas tardes ☺, os dejo la información del siguiente &lt;a href=&quot;http://localhost:4000/evento/2018/01/13/taller-danza.html&quot;&gt;taller de danza terapéutica&lt;/a&gt; que voy a hacer para empezar el año sintiendo, bailando y aprovechando la energia del invierno para ver que podemos soltar de lo que hay por ahi adentro y que cositas podemos empezar a poder aceptar y acoger con mucho mucho amor.&lt;/p&gt;
 
 </description>
         <pubDate>Thu, 28 Dec 2017 23:00:27 +0100</pubDate>
-        <link>http://salud-zen.tk///blog/2017/12/28/taller-danza-terapeutica.html</link>
-        <guid isPermaLink="true">http://salud-zen.tk///blog/2017/12/28/taller-danza-terapeutica.html</guid>
+        <link>http://localhost:4000//blog/2017/12/28/taller-danza-terapeutica.html</link>
+        <guid isPermaLink="true">http://localhost:4000//blog/2017/12/28/taller-danza-terapeutica.html</guid>
       </item>
     
       <item>
@@ -82,13 +144,13 @@ Además, muchas veces buscamos ser correspondidos con nuestra mirada y esto no s
 
 &lt;p&gt;Aquí os presento unas cuantas imágenes que hablan por sí solas brindando mucha información sobre el estado emocional:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://salud-zen.tk//img/blog/20171219-MensajeOjos-ejemplo.jpg&quot; alt=&quot;El mensaje de los ojos -ejemplo &quot; title=&quot;El Mensaje Oculto de los ojos - ejemplos&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/blog/20171219-MensajeOjos-ejemplo.jpg&quot; alt=&quot;El mensaje de los ojos -ejemplo &quot; title=&quot;El Mensaje Oculto de los ojos - ejemplos&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Este es el mensaje oculto de los ojos, como podéis observar usamos éstos para airear y sacar hacia a fuera el reflejo de lo que está sucediendo dentro.&lt;/p&gt;
 
 &lt;p&gt;Cuando lloramos nos desahogamos y dejamos salir esas emociones reprimidas que llevamos con nosotros. Las lágrimas están muy relacionadas con los niveles hormonales, su secreción nos equilibra proporcionándonos bienestar, por eso nos quedamos tan a gusto después de llorar. Si practicamos meditación o qi gong o nos tratamos con terapias naturales, podremos comprobar cómo algunas veces durante las prácticas espirituales o las terapias también lloramos, utilizando una vez más a nuestros ojos para armonizar nuestras emociones. Las lágrimas, cuando son compartidas, son menos lágrimas, y si además tenemos a alguien que nos sostenga nos ayudará a gestionar las emociones.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://salud-zen.tk//img/blog/20171219-MensajeOjos-emociones.jpg&quot; alt=&quot;El mensaje de los ojos - emociones&quot; title=&quot;El Mensaje Oculto de los ojos - emociones&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/blog/20171219-MensajeOjos-emociones.jpg&quot; alt=&quot;El mensaje de los ojos - emociones&quot; title=&quot;El Mensaje Oculto de los ojos - emociones&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Hoy en día va todo muy rápido, las energías están muy revueltas y existe una gran necesidad social de ojos que despierten conciencias y contagien paz, amor, e ilusión. Cada vez más se cruzan en mi camino este tipo de miradas que rebosan vida, alegría y esperanza. Quizá en algún momento un poco cansadas pero enseguida vuelven a brillar iluminando el camino que necesita ver el mundo. Empaparte de la esencia de estas personas y compartir con ellas parte de tu viaje llenan nuestros ojos de  luz.&lt;/p&gt;
 
@@ -109,19 +171,19 @@ Terapeuta Holístico - Coach de Salud &lt;/i&gt; &lt;/p&gt;
 &lt;/p&gt;
 
 &lt;hr /&gt;
-&lt;p&gt;¿Te ha gustado? Puedes descargarlo en pdf en el siguiente enlace: &lt;a href=&quot;http://salud-zen.tk//img/blog/2017-12-19-articulo-mensaje-ojos.pdf&quot;&gt;El Mensaje Oculto de los ojos.pdf&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;¿Te ha gustado? Puedes descargarlo en pdf en el siguiente enlace: &lt;a href=&quot;http://localhost:4000/img/blog/2017-12-19-articulo-mensaje-ojos.pdf&quot;&gt;El Mensaje Oculto de los ojos.pdf&lt;/a&gt;.&lt;/p&gt;
 
 </description>
         <pubDate>Tue, 19 Dec 2017 23:00:27 +0100</pubDate>
-        <link>http://salud-zen.tk///blog/2017/12/19/articulo-mensaje-ojos.html</link>
-        <guid isPermaLink="true">http://salud-zen.tk///blog/2017/12/19/articulo-mensaje-ojos.html</guid>
+        <link>http://localhost:4000//blog/2017/12/19/articulo-mensaje-ojos.html</link>
+        <guid isPermaLink="true">http://localhost:4000//blog/2017/12/19/articulo-mensaje-ojos.html</guid>
       </item>
     
       <item>
         <title>Taller Práctico - Qui Gong</title>
         <description>&lt;p&gt;Buenos dias!! ☺&lt;/p&gt;
 
-&lt;p&gt;En la imagen adjunta teneis toda la información del &lt;a href=&quot;http://salud-zen.tk//evento/2017/12/21/Qui-Gong.html&quot;&gt;Taller Práctico de Qi Gong&lt;/a&gt; de este mes de Diciembre.&lt;/p&gt;
+&lt;p&gt;En la imagen adjunta teneis toda la información del &lt;a href=&quot;http://localhost:4000/evento/2017/12/21/Qui-Gong.html&quot;&gt;Taller Práctico de Qi Gong&lt;/a&gt; de este mes de Diciembre.&lt;/p&gt;
 
 &lt;p&gt;Interesados contactar para &lt;a href=&quot;mailto:estilodevida@salud-zen.com?Subject=Taller Qui Gong-Reserva de Plaza&amp;amp;body=%0A%0A Me gustaría reservar una plaza para el Taller Práctico de Qui Gong. Mis datos Personales son:%0A%0A   -Nombre:%0A%0A   -Apellidos:%0A%0A   -Fecha de nacimiento:%0A%0A   -Teléfono:%0A%0A&quot;&gt;reserva &lt;/a&gt;  de plaza.&lt;/p&gt;
 
@@ -131,130 +193,8 @@ Terapeuta Holístico - Coach de Salud &lt;/i&gt; &lt;/p&gt;
 
 </description>
         <pubDate>Tue, 05 Dec 2017 12:11:27 +0100</pubDate>
-        <link>http://salud-zen.tk///blog/2017/12/05/taller-qui-gong.html</link>
-        <guid isPermaLink="true">http://salud-zen.tk///blog/2017/12/05/taller-qui-gong.html</guid>
-      </item>
-    
-      <item>
-        <title>Conferencia - Introducción a la Meditación!!</title>
-        <description>&lt;p&gt;El día &lt;b&gt;14 de diciembre&lt;/b&gt; nos vemos en Espacio Macabeo (Moralzarzal) a todos los que queráis asistir a un &lt;a href=&quot;http://salud-zen.tk//evento/2017/12/14/introduccion-meditacion.html&quot;&gt;taller gratuito&lt;/a&gt; para ver un poco qué es eso de la Meditación y observar todas las creencias creadas y empezar a valorar la potente herramienta que tenemos a nuestra disposición para hacernos el día a día muchísimo más fácil y amoroso. Continuamos con el Proyecto Luz y Consciencia.. esta vez, por la Sierra Madrileña ;)&lt;/p&gt;
-
-&lt;p&gt;No olvidéis llamar para reservar hueco hasta llenar aforo&lt;/p&gt;
-
-&lt;p&gt;Compartid con todo aquel que creáis puede interesar ;)&lt;/p&gt;
-
-&lt;p&gt;Gracias!! y Feliz jueves estrellitas!!&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 30 Nov 2017 22:11:27 +0100</pubDate>
-        <link>http://salud-zen.tk///blog/2017/11/30/conferencia-introducion-meditacion.html</link>
-        <guid isPermaLink="true">http://salud-zen.tk///blog/2017/11/30/conferencia-introducion-meditacion.html</guid>
-      </item>
-    
-      <item>
-        <title>Formación - Último curso del año!!</title>
-        <description>&lt;p&gt;Aquí está el último curso del año. El día &lt;a href=&quot;http://salud-zen.tk//evento/2017/12/17/taller-navidad.html&quot;&gt;17 de diciembre Taller de cocina Macrobiótica Navideña y Festiva&lt;/a&gt;. No olvidéis &lt;a href=&quot;mailto:estilodevida@salud-zen.com?Subject=Taller de Cocina Macrobiótica Navideña y Festiva-Reserva de Plaza&amp;amp;body=%0A%0A Me gustaría reservar una plaza para el Taller de Cocina Macrobiótica Navideña y Festiva. Mis datos Personales son:%0A%0A   -Nombre:%0A%0A   -Apellidos:%0A%0A   -Fecha de nacimiento:%0A%0A   -Teléfono:%0A%0A&quot;&gt;reservar &lt;/a&gt; vuestra plaza… que luego os quedaréis sin probar los polvorones más ricos y saludables! ;) jejeje.&lt;/p&gt;
-
-&lt;p&gt;Feliz Jueves estrellitas.&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 23 Nov 2017 22:11:27 +0100</pubDate>
-        <link>http://salud-zen.tk///blog/2017/11/23/ultimo_curso_anio.html</link>
-        <guid isPermaLink="true">http://salud-zen.tk///blog/2017/11/23/ultimo_curso_anio.html</guid>
-      </item>
-    
-      <item>
-        <title>Resumen - Curso Elemento Metal!!</title>
-        <description>&lt;p&gt;Aquí tenéis un resumen y las fotitos de este fin de semana! Aprendiendo y reforzando nuestra Energía Metal y sanando pulmones e intestino Grueso!&lt;/p&gt;
-
-&lt;p&gt;Gracias por vuestro interés, vuestra atención.&lt;/p&gt;
-
-&lt;p&gt;Un placer todo lo que recibimos cada curso.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 15 Nov 2017 22:11:27 +0100</pubDate>
-        <link>http://salud-zen.tk///blog/2017/11/15/energia-metal.html</link>
-        <guid isPermaLink="true">http://salud-zen.tk///blog/2017/11/15/energia-metal.html</guid>
-      </item>
-    
-      <item>
-        <title>Relato - Buscando la magia</title>
-        <description>&lt;p&gt;Momentos, instantes….eso es lo que hace que alguien con menos recursos físicos alcance la magia alcanzando lugares que para otros pasarían desapercibidos.
-No importa el día, no importa cuando….simplemente llega…
-Llega ese día en el que desaparece el ansia de sumar logros y cimas por llenar la vida de instantes de vida.&lt;/p&gt;
-
-&lt;p&gt;Recuerdo perfectamente el día que me dijeron “Uff, ya no podrás volver a ponerte un arnés, olvídate de esquiar, no podrás cargar ni 3 kilos en la mochila”; “podrás nadar y dar pequeños paseos para mantenerte en forma e ir a algún taller de espalda para seguir rehabilitándote”… recuerdo como me dije a mí misma…“no saben lo que dicen, no saben de qué están hablando, no lo comprenden…jamás lo han sentido…no pueden estar diciéndome que no puedo hacer lo que siempre he realizado para llenar mis ojos de imágenes desde la postura afortunada y más similar que puede sentir un pájaro, y para obtener la satisfacción y sensación de poder sabiendo que el esfuerzo y la fortaleza son los únicos recursos que tiene el hombre para alcanzarlo”.&lt;/p&gt;
-
-&lt;p&gt;Recuerdo que lloré, pensando lo que no hice, obsesionándome en cómo tendría que hacer para demostrar que sí podría y que lograría esas cimas con las que hacer que escupieran sus palabras.&lt;/p&gt;
-
-&lt;p&gt;Estuve dos años en una silla de ruedas por un problema grave de espalda. Tras un millón de tratamientos, rehabilitaciones, kilos acumulados por la inmovilidad, opacidad en los ojos y tras varias intervenciones quirúrgicas fallidas, experimentales y para los médicos poco invasivas, al final conseguí que me escucharan, conseguí que entendieran, que me daba igual la artrosis que tuviera en el futuro, que lo que yo quería era poder caminar ahora.&lt;/p&gt;
-
-&lt;p&gt;Ahora soy una medio superheroína, como dice mi sobrino llevo titanio en vez de “adamantium” como “Lobezzno”. Me pusieron unas barras de hierro y unos tornillos para enderezar mi espalda y que pudiera volver a caminar con un dolor que me permitiera avanzar.&lt;/p&gt;
-
-&lt;p&gt;Y eso hice, avanzar.&lt;/p&gt;
-
-&lt;p&gt;Al principio tropecé, me obcequé con demostrar que volvería a hacer esas cimas soñadas por mucha gente. Entrenaba cada día desde que me dijeron que ya podría caminar, cada día dos pasos más, cada mes más desnivel, cada trimestre más peso en la mochila. No importaba el dolor, el esfuerzo, el cansancio, lo que importaba era alcanzar los objetivos marcados, demostrar que sí podía de una manera incluso obsesiva…
-Curiosamente, la que sentía que ahora no podía era yo…había tanto dolor e insatisfacción, que no disfrutaba…no sé por qué…se perdió la magia…y tropecé y caí y volví recaer por sobreesfuerzo y agotamiento…y de nuevo paré…&lt;/p&gt;
-
-&lt;p&gt;Paré porque necesitaba saber qué estaba pasando, por qué aquello que me hacia vibrar, que me hacia sonreír, que me llenaba y daba vida, como era escalar y gritar u gran POUU desde la cima… ya no me hacía sentir así, me costaba levantarme de la cama, cualquier excusa era buena para no salir a mis preciadas montañas, cualquier dolor silenciaba mi ímpetu interno de querer respirar monte.&lt;/p&gt;
-
-&lt;p&gt;Olvidé que lo importante, no es demostrar nada a nadie…olvidé que para mí escalar, esquiar o alcanzar cimas a pie era alcanzar la libertad de sentir aquello que no nos concedemos sentir en una enjaulada sociedad que parece tener que dictarnos hasta cómo soñar. Tan sólo me invadía el miedo al dolor, a volver que tener que parar y el orgullo de reconocer que no podría hacer todas esas cosas “increíbles”.
-Pero llegó ese instante, ese momento … no sé cuando, ni muy bien porqué… Aparecieron entonces, los “momentos increíbles”.&lt;/p&gt;
-
-&lt;p&gt;Hay un día que de repente despiertas, despiertas a la vida, despiertas a dejarte sentir sin esperar… ese día , ese día, empieza la magia.&lt;/p&gt;
-
-&lt;p&gt;Recuerdo que me levanté, tan dolorida como siempre pero con una sensación terrible de no caber en la habitación en la que me encontraba… Cogí un pantalón corto, cualquier camiseta, hoy daba igual que fuera técnica o secara rápido el sudor, cogí unos calcetines de algodón y me calcé las botas. Cogí agua, una chaqueta y una pequeña mochila que desde ese día es testigo de todos mi momentos de vida. “¡Quién sabe amiga, algún día narraremos todas esas historias!”&lt;/p&gt;
-
-&lt;p&gt;No cogí los bastones, no cogí los antiinflamatorios, no cogí el miedo, ese día decidí dejarlo en casa.&lt;/p&gt;
-
-&lt;p&gt;Me dirigí a uno de los lugares más bonitos y mágicos del mundo. En una locura de provincia como es la capital de España se encuentra uno de los lugares más mágicos de mi mundo: La Pedriza, en la sierra de Madrid.&lt;/p&gt;
-
-&lt;p&gt;No guardo en mi memoria el trayecto en coche, de repente estaba allí, en el aparcamiento colocándome la mochila, sin apreciar que el cielo estaba más gris oscuro de lo que a cualquiera nos pareciera oportuno para caminar. Y comencé a andar… de repente un camino de sobra repetido y hasta en otros muchos momentos tedioso se me antojaba un juego de saltitos, ¿por qué esquivar las piedras si puedo saltar de una a otra?… y comenzó la magia… ¡estaba saltando con una mochila a la espalda!, estaba dejando que las piedras impulsaran mi camino para subir más ágil hacia delante.&lt;/p&gt;
-
-&lt;p&gt;Estoy segura que tenía dolores, como cada día, pero no lo recuerdo..recuerdo la risa que me entró tan sólo de descubrirme saltando sin miedo a torcerme un pié, sin miedo a que vibraran los hierros de mi espalada y me recordarán el tormento de calambres nerviosos recorriendo mi pierna derecha . Allí estaba, asomándome al pequeño mirador del “Pájaro” sin apenas haber sido consciente del tiempo tardado en subir, esta vez no miré con obsesión el reloj que marcaba si el tiempo utilizado era el recomendable…Me sentía volar…&lt;/p&gt;
-
-&lt;p&gt;Me sonrío rememorando un guiño a la imponente roca con forma de pájaro tumbada sobre moles de granito mirando hacia el este , diciéndola, “Descansa pequeño, en un rato te veré desde arriba”.&lt;/p&gt;
-
-&lt;p&gt;Y seguí caminando…. noté que me corrían gotas por la cara…no era sudor, eran las gotas de lluvia que me recordaban el absurdo de los llantos mantenidos durante otras escaladas por hacer aquello que creía que tenía que hacer para demostrar… Y me sentí afortunada de sentir como cada gota de lluvia me recorría todo el cuerpo perdiéndose en el suelo, para recordarme que allí dejaría esos llantos, esa impaciencia por alcanzar lo que a partir de ahora lograría alcanzar… mi vida.&lt;/p&gt;
-
-&lt;p&gt;Sentía como resbalaban mis botas por el granito atravesando “las Milaneras”…pero no sentía miedo como otras veces, no quería seguir diciéndome “vamos no seas asustadiza, otro subiría por aquí” simplemente aceptaba que debía acortar los pasos, dar algún rodeo, teniendo que retroceder por otro camino…y allí estaba, una pequeña flor blanca, mostrando su fortaleza en apariencia delicada, allí estaba colgada entre dos rocas, soportando el peso de las gotas de lluvia en sus pétalos que parecían aferrarse a ellos para retarla a poder mantenerlos firmes con ella.
-Solo hace falta observar para aprender…Gracias flor por recordarme que da igual lo frágil que aparentemos o nos hagan creer que somos, bendita fuerza interior. No puedo transcribir la fortaleza que me dio desviarme del camino dando unos pasos para atrás para poder continuar y haber podido apreciar la belleza e imponencia de lo pequeño…&lt;/p&gt;
-
-&lt;p&gt;Paró de llover…y de nuevo no recuerdo cuando, ya daba igual, ahora asomaban los rayos de sol entre los huecos de “Las Torres” despejándose una niebla densa que parecía nublar mi vista y hacerme dudar de donde estaba.&lt;/p&gt;
-
-&lt;p&gt;Siempre supe cual era mi lugar, pero me dejé emborronar por las opiniones, por los miedos… La niebla está ahí, pero detrás siguen nuestros sueños. Sólo hay que confiar en que están ahí nos lo empañe lo que nos lo quiera empañar.&lt;/p&gt;
-
-&lt;p&gt;No sé cuantas veces podría haberme asomado por aquel lugar antes…pero ese día…ese día sentí que había alcanzado la cima más alta del mundo. Recuerdo mirar hacia delante, la mezcla de colores verdes, grises y marrones, las nubes tratando de empañar mi vista en algún momento, el sol en mi cabeza, el viento susurrándome “qué bueno tenerte por aquí de nuevo” mientras despeinaba mi pelo y hacia que comenzara a llorar y reír al mismo tiempo…&lt;/p&gt;
-
-&lt;p&gt;Aquí es donde quiero estar…. Así es como me quiero sentir.&lt;/p&gt;
-
-&lt;p&gt;De repente a tu alrededor todo es mágico, huele a esperanza, brilla con un millón de matices a unos ojos que alcanzan a ver lo inalcanzable, se siente el viento como una caricia que te hace perder tu identidad propia para mezclarte con la esencia natural , te sientes vibrar en la misma sintonía sintiéndote una parte insignificante y a la par imprescindible de todo el conjunto.&lt;/p&gt;
-
-&lt;p&gt;Un instante de vida para mi vida, esa vida que quiero vivir.&lt;/p&gt;
-
-&lt;p&gt;No me importa donde suba, ni cuantas veces suba, cada vez es diferente ,cada instante tiene su magia en cada paso o en cada caída.&lt;/p&gt;
-
-&lt;p&gt;Quiero seguir subiendo, porque significará que estoy creciendo, a esa vida que quiero llenar de magia.&lt;/p&gt;
-
-&lt;p&gt;Y de nuevo me envolvió la locura, de nuevo decidí que el miedo se quedaría en otro lugar, tenía que bajar y volver a casa… de nuevo el cielo amenazaba con atormentar el momento, pero esta vez opté por creer en mí, no por creer en aquello que nos taladran todos los días…&lt;/p&gt;
-
-&lt;p&gt;Opté por crear mi bajada, creando mis posibilidades, aceptando y transformando esas nubes en una recomendación a un nuevo momento de magia…&lt;/p&gt;
-
-&lt;p&gt;Y fue así como comencé a correr por “la Canal de los Ratones”, el camino más recto, más alocado, más empinado, más vivo. Me dijeron que no podría correr…y lo creí…&lt;/p&gt;
-
-&lt;p&gt;La montaña esta vez me ofreció la posibilidad presionándome con su tormenta, y la escuché, le dijo a mi voz interior “corre, corre y confía en lo rápido y segura que llegarás”….y lo creí…y corrí…riendo como una niña pequeña, “Yuhuuuu!!!”, agarrándome a los árboles , esquivando rocas e impulsándome con las manos en otras para amortiguar los saltos… “POUUU, POUUU, POOUUU….. jajaja…”&lt;/p&gt;
-
-&lt;p&gt;Y así empezó la búsqueda de mi magia, en mis montañas, en mis logros, en mis rincones, tan sólo escuchando y observando la lección de vida que nos ofrece cada lugar en la naturaleza, por alto o bajo, por sencillo o complejo…&lt;/p&gt;
-
-&lt;p&gt;A veces lo que te llevas no es esa cima al hacer un 4000m, o un 6000m, o una escalada de varios largos, es el sueño de querer intentarlo desde el corazón, desde la decisión propia de creer que puedes alcanzarlo sin demostrar a nadie, ni tan siquiera a ti mismo, que puedes lograrlo, porque ahí reside la magia, en disfrutar el camino que tan sólo nuestro corazón conoce.&lt;/p&gt;
-
-&lt;p&gt;Cada lugar elegido es un sueño, una lección, una superación…un momento de vida encontrando magia, donde no la estemos buscando.&lt;/p&gt;
-
-&lt;p&gt;¿Te ha gustado? Puedes descargarlo en pdf en el siguiente enlace: &lt;a href=&quot;http://salud-zen.tk//img/blog/2017-10-24-BuscandoLaMagia.pdf&quot;&gt;Buscando la magia.pdf&lt;/a&gt;.&lt;/p&gt;
-
-</description>
-        <pubDate>Tue, 24 Oct 2017 23:11:27 +0200</pubDate>
-        <link>http://salud-zen.tk///blog/2017/10/24/buscando-magia.html</link>
-        <guid isPermaLink="true">http://salud-zen.tk///blog/2017/10/24/buscando-magia.html</guid>
+        <link>http://localhost:4000//blog/2017/12/05/taller-qui-gong.html</link>
+        <guid isPermaLink="true">http://localhost:4000//blog/2017/12/05/taller-qui-gong.html</guid>
       </item>
     
   </channel>
