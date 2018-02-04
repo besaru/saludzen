@@ -27,7 +27,7 @@ Otro fin de Semana Increíble! El sábado un éxito el Taller de Constelaciones 
 [img2]: {{site.url}}{{site.baseurl}}/img/blog/300118Grupo.jpg "AsistentesCurso"
 
 [img3]:{{site.url}}{{site.baseurl}}/img/blog/300118torreznos.jpg "Patatas revolconas con sus torreznitos especiales"
-[img5]:{{site.url}}{{site.baseurl}}/img/blog/300118Morcilla.jpg "Las morcillitas del cocido... receta estrella"
-[img6]:{{site.url}}{{site.baseurl}}/img/blog/300118CremaCatalana.jpg "Crema Catalana"
-[img7]:{{site.url}}{{site.baseurl}}/img/blog/300118Judiones.jpg "Judiones con Almejas y Pulpo"
-[img8]:{{site.url}}{{site.baseurl}}/img/blog/300118Cocido.jpg "Cocido, nos falta la sopita.. pero esq la devoraron..."
+[img4]:{{site.url}}{{site.baseurl}}/img/blog/300118Morcilla.jpg "Las morcillitas del cocido... receta estrella"
+[img5]:{{site.url}}{{site.baseurl}}/img/blog/300118CremaCatalana.jpg "Crema Catalana"
+[img6]:{{site.url}}{{site.baseurl}}/img/blog/300118Judiones.jpg "Judiones con Almejas y Pulpo"
+[img7]:{{site.url}}{{site.baseurl}}/img/blog/300118Cocido.jpg "Cocido, nos falta la sopita.. pero esq la devoraron..."
