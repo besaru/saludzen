@@ -30,4 +30,4 @@ Otro fin de Semana Increíble! El sábado un éxito el Taller de Constelaciones 
 [img4]:{{site.url}}{{site.baseurl}}/img/blog/300118Morcilla.jpg "Las morcillitas del cocido... receta estrella"
 [img5]:{{site.url}}{{site.baseurl}}/img/blog/300118CremaCatalana.jpg "Crema Catalana"
 [img6]:{{site.url}}{{site.baseurl}}/img/blog/300118Judiones.jpg "Judiones con Almejas y Pulpo"
-[img7]:{{site.url}}{{site.baseurl}}/img/blog/300118Cocido.jpg "Cocido, nos falta la sopita.. pero esq la devoraron..."
+[img7]:{{site.url}}{{site.baseurl}}/img/blog/300118Cocido.jpg "Cocido, nos falta la sopita.. pero es que la devoraron..."

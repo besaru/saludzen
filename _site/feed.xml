@@ -3,20 +3,44 @@
   <channel>
     <title>Salud-Zen, Escuela de Luz y Consciencia</title>
     <description></description>
-    <link>https://besaru.github.io/saludzen/</link>
-    <atom:link href="https://besaru.github.io/saludzen//feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
 
     
       <item>
-        <title>Tenemos nuevos eventos en el calendario</title>
-        <description>&lt;p&gt;Tenemos nuevos eventos en el calendario, el 27 de Febrero haremos un nuevo &lt;a href=&quot;https://besaru.github.io/saludzen//evento/2018/02/27/taller-quigong.html&quot;&gt;Taller Práctico de Qui-Gong&lt;/a&gt;, en donde veremos los 6 sonidos curativos, el 4 de Marzo nueva edición del &lt;a href=&quot;https://besaru.github.io/saludzen//evento/2018/03/04/curso-introduccion.html&quot;&gt;Primer Seminario de Introducción&lt;/a&gt; y el fin de semana del 17 y 18 de Marzo tendrá lugar el &lt;a href=&quot;https://besaru.github.io/saludzen//evento/2018/03/17/curso-madera.html&quot;&gt;Curso de Mediciona Oriental del Elemento Madera&lt;/a&gt;, en donde nos centraremos en la nutrición energética para la salud del hígado y la vesícula biliar.&lt;/p&gt;
+        <title>Taller - Cosmética Natural Personalizada</title>
+        <description>&lt;p&gt;Este fin de semana vienen unas amigas a la Escuela a impartir un Taller muy interesante de &lt;a href=&quot;http://localhost:4000/evento/2018/02/17/taller-cosmetica.html&quot;&gt;Cosmética Natural&lt;/a&gt;, quedan poquitas plazas, así que no dejes para el último día el hacer la &lt;a href=&quot;mailto:estilodevida@salud-zen.com?Subject=Taller Cosmética Natural Personalizada - Reserva de Plaza&amp;amp;body=%0A%0A Me gustaría reservar una plaza para el Taller de Cpsmética Natural Personalizada (17 de Febrero'18). Mis datos Personales son:%0A%0A   -Nombre:%0A%0A   -Apellidos:%0A%0A   -Fecha de nacimiento:%0A%0A   -Teléfono:%0A%0A    -Correo Electrónico:%0A%0A&quot;&gt; reserva&lt;/a&gt; ;)&lt;/p&gt;
 
-&lt;p&gt;No te los puedes perder, y recuerda si estás interesado no olvides en ponerte en &lt;a href=&quot;https://besaru.github.io/saludzen//contact&quot;&gt;contacto&lt;/a&gt; con nosotros para reservar tu plaza.&lt;/p&gt;
+&lt;p&gt;Feliz Lunes estrellitas&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 12 Feb 2018 20:00:27 +0100</pubDate>
+        <link>http://localhost:4000//blog/2018/02/12/Taller-Cosmetica.html</link>
+        <guid isPermaLink="true">http://localhost:4000//blog/2018/02/12/Taller-Cosmetica.html</guid>
+      </item>
+    
+      <item>
+        <title>Receta - Para estos dias frios ... Cocidito Macrobiótico</title>
+        <description>&lt;p&gt;Para estos días fríos os enviamos una recetita para calentarnos y reforzar nuestra energía. Ante tanta petición, aquí va nuestro &lt;a href=&quot;http://localhost:4000/principal/2018/02/05/cocido-macrobiotico.html&quot;&gt;“Cocidito Macrobiótico”&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Feliz día de nieves Estrellitas lindas!&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 05 Feb 2018 11:11:27 +0100</pubDate>
+        <link>http://localhost:4000//blog/2018/02/05/Receta-CocidoMacrobiotico.html</link>
+        <guid isPermaLink="true">http://localhost:4000//blog/2018/02/05/Receta-CocidoMacrobiotico.html</guid>
+      </item>
+    
+      <item>
+        <title>Tenemos nuevos eventos en el calendario</title>
+        <description>&lt;p&gt;Tenemos nuevos eventos en el calendario, el 27 de Febrero haremos un nuevo &lt;a href=&quot;http://localhost:4000/evento/2018/02/27/taller-quigong.html&quot;&gt;Taller Práctico de Qui-Gong&lt;/a&gt;, en donde veremos los 6 sonidos curativos, el 4 de Marzo nueva edición del &lt;a href=&quot;http://localhost:4000/evento/2018/03/04/curso-introduccion.html&quot;&gt;Primer Seminario de Introducción&lt;/a&gt; y el fin de semana del 17 y 18 de Marzo tendrá lugar el &lt;a href=&quot;http://localhost:4000/evento/2018/03/17/curso-madera.html&quot;&gt;Curso de Mediciona Oriental del Elemento Madera&lt;/a&gt;, en donde nos centraremos en la nutrición energética para la salud del hígado y la vesícula biliar.&lt;/p&gt;
+
+&lt;p&gt;No te los puedes perder, y recuerda si estás interesado no olvides en ponerte en &lt;a href=&quot;http://localhost:4000/contact&quot;&gt;contacto&lt;/a&gt; con nosotros para reservar tu plaza.&lt;/p&gt;
 
 </description>
         <pubDate>Sun, 04 Feb 2018 11:11:27 +0100</pubDate>
-        <link>https://besaru.github.io/saludzen///blog/2018/02/04/Nuevos-eventos.html</link>
-        <guid isPermaLink="true">https://besaru.github.io/saludzen///blog/2018/02/04/Nuevos-eventos.html</guid>
+        <link>http://localhost:4000//blog/2018/02/04/Nuevos-eventos.html</link>
+        <guid isPermaLink="true">http://localhost:4000//blog/2018/02/04/Nuevos-eventos.html</guid>
       </item>
     
       <item>
@@ -24,50 +48,50 @@
         <description>&lt;p&gt;Que bien lo pasamos en Asturias! Deseando volver allá a donde quieran aprender cositas nuevas y otra manera de querer ver la vida!&lt;/p&gt;
 </description>
         <pubDate>Fri, 02 Feb 2018 11:11:27 +0100</pubDate>
-        <link>https://besaru.github.io/saludzen///blog/2018/02/02/Recuerdo-CursoHaceUnAnio.html</link>
-        <guid isPermaLink="true">https://besaru.github.io/saludzen///blog/2018/02/02/Recuerdo-CursoHaceUnAnio.html</guid>
+        <link>http://localhost:4000//blog/2018/02/02/Recuerdo-CursoHaceUnAnio.html</link>
+        <guid isPermaLink="true">http://localhost:4000//blog/2018/02/02/Recuerdo-CursoHaceUnAnio.html</guid>
       </item>
     
       <item>
         <title>Cursos - Publicado el Programa del Próximo Curso de las Relaciones</title>
-        <description>&lt;p&gt;Os pasamos el programa del curso de &lt;a href=&quot;https://besaru.github.io/saludzen//evento/2018/02/10/curso-relaciones.html&quot;&gt;Las Relaciones&lt;/a&gt; del fin de semana 10 y 11 de Febrero.&lt;/p&gt;
+        <description>&lt;p&gt;Os pasamos el programa del curso de &lt;a href=&quot;http://localhost:4000/evento/2018/02/10/curso-relaciones.html&quot;&gt;Las Relaciones&lt;/a&gt; del fin de semana 10 y 11 de Febrero.&lt;/p&gt;
 
 &lt;p&gt;Si estás interesado, no olvides &lt;a href=&quot;mailto:estilodevida@salud-zen.com?Subject=Curso de Las Relaciones-Reserva de Plaza&amp;amp;body=%0A%0A Me gustaría reservar una plaza para el Curso de Las Relaciones (10 y 11 de Febrero'18). Mis datos Personales son:%0A%0A   -Nombre:%0A%0A   -Apellidos:%0A%0A   -Fecha de nacimiento:%0A%0A   -Teléfono:%0A%0A    -Correo Electrónico:%0A%0A&quot;&gt;reservar tu plaza&lt;/a&gt;.&lt;/p&gt;
 
 </description>
         <pubDate>Thu, 01 Feb 2018 11:11:27 +0100</pubDate>
-        <link>https://besaru.github.io/saludzen///blog/2018/02/01/Curso-PublicacionProgramaLasRelaciones.html</link>
-        <guid isPermaLink="true">https://besaru.github.io/saludzen///blog/2018/02/01/Curso-PublicacionProgramaLasRelaciones.html</guid>
+        <link>http://localhost:4000//blog/2018/02/01/Curso-PublicacionProgramaLasRelaciones.html</link>
+        <guid isPermaLink="true">http://localhost:4000//blog/2018/02/01/Curso-PublicacionProgramaLasRelaciones.html</guid>
       </item>
     
       <item>
         <title>Resumen - Cursos Fin de semana completo</title>
         <description>&lt;p&gt;Otro fin de Semana Increíble! El sábado un éxito el Taller de Constelaciones donde hubo movimientos maravillosos y el domingo volviendo a conectar con la cocina de nuestros ancestros … se notó todo ese Qi en la cocina, estaba todo riquísimo! :) Ahí van unas fotitos para abrir el apetito. Feliz Martes estrellitas!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://besaru.github.io/saludzen//img/blog/300118ManosAlaMasa.jpg&quot; alt=&quot;Cocinando&quot; title=&quot;Cocinando&quot; /&gt;
-&lt;img src=&quot;https://besaru.github.io/saludzen//img/blog/300118Grupo.jpg&quot; alt=&quot;Asistentes&quot; title=&quot;AsistentesCurso&quot; /&gt;
-&lt;img src=&quot;https://besaru.github.io/saludzen//img/blog/300118torreznos.jpg&quot; alt=&quot;Patatas&quot; title=&quot;Patatas revolconas con sus torreznitos especiales&quot; /&gt;
-&lt;img src=&quot;https://besaru.github.io/saludzen//img/blog/300118Morcilla.jpg&quot; alt=&quot;Morcillas&quot; title=&quot;Las morcillitas del cocido... receta estrella&quot; /&gt;
-&lt;img src=&quot;https://besaru.github.io/saludzen//img/blog/300118CremaCatalana.jpg&quot; alt=&quot;Crema&quot; title=&quot;Crema Catalana&quot; /&gt;
-&lt;img src=&quot;https://besaru.github.io/saludzen//img/blog/300118Judiones.jpg&quot; alt=&quot;Judiones&quot; title=&quot;Judiones con Almejas y Pulpo&quot; /&gt;
-&lt;img src=&quot;https://besaru.github.io/saludzen//img/blog/300118Cocido.jpg&quot; alt=&quot;Cocido&quot; title=&quot;Cocido, nos falta la sopita.. pero esq la devoraron...&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/blog/300118ManosAlaMasa.jpg&quot; alt=&quot;Cocinando&quot; title=&quot;Cocinando&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/img/blog/300118Grupo.jpg&quot; alt=&quot;Asistentes&quot; title=&quot;AsistentesCurso&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/img/blog/300118torreznos.jpg&quot; alt=&quot;Patatas&quot; title=&quot;Patatas revolconas con sus torreznitos especiales&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/img/blog/300118Morcilla.jpg&quot; alt=&quot;Morcillas&quot; title=&quot;Las morcillitas del cocido... receta estrella&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/img/blog/300118CremaCatalana.jpg&quot; alt=&quot;Crema&quot; title=&quot;Crema Catalana&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/img/blog/300118Judiones.jpg&quot; alt=&quot;Judiones&quot; title=&quot;Judiones con Almejas y Pulpo&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/img/blog/300118Cocido.jpg&quot; alt=&quot;Cocido&quot; title=&quot;Cocido, nos falta la sopita.. pero es que la devoraron...&quot; /&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Tue, 30 Jan 2018 10:11:27 +0100</pubDate>
-        <link>https://besaru.github.io/saludzen///blog/2018/01/30/Cursos-FinSemanaCompleto.html</link>
-        <guid isPermaLink="true">https://besaru.github.io/saludzen///blog/2018/01/30/Cursos-FinSemanaCompleto.html</guid>
+        <link>http://localhost:4000//blog/2018/01/30/Cursos-FinSemanaCompleto.html</link>
+        <guid isPermaLink="true">http://localhost:4000//blog/2018/01/30/Cursos-FinSemanaCompleto.html</guid>
       </item>
     
       <item>
         <title>Taller Constelaciones - Siempre estamos acompañados</title>
-        <description>&lt;p&gt;“Siempre, estamos acompañados”… de nuestras Creencias, de nuestros Ancestros, de cada una de esas Estrellas que nos rodean y nos aportan distintos Aprendizajes, de Heridas Infantiles Creadas a veces de Necesidades no satisfechas por altas Expectativas… Pero siempre, estamos acompañados de la Luz que Somos, de un millón de Recursos internos que pueden con todas esas creencias que a veces usamos para autosabotearnos… Podemos poner un poco de “luz” a esas pequeñas “cosas” que nos “ atascan” a nivel Inconsciente desde el trabajo Sistémico y las Constelaciones Familiares. Así que recordad que si queréis probar la experiencia, este Sábado hacemos un &lt;a href=&quot;https://besaru.github.io/saludzen//evento/2018/01/27/taller-constelaciones.html&quot;&gt;Taller&lt;/a&gt; en la Escuela donde todos haremos algún Movimiento Sistémico y algunos podrán trabajar su propia Constelación Familiar.&lt;/p&gt;
+        <description>&lt;p&gt;“Siempre, estamos acompañados”… de nuestras Creencias, de nuestros Ancestros, de cada una de esas Estrellas que nos rodean y nos aportan distintos Aprendizajes, de Heridas Infantiles Creadas a veces de Necesidades no satisfechas por altas Expectativas… Pero siempre, estamos acompañados de la Luz que Somos, de un millón de Recursos internos que pueden con todas esas creencias que a veces usamos para autosabotearnos… Podemos poner un poco de “luz” a esas pequeñas “cosas” que nos “ atascan” a nivel Inconsciente desde el trabajo Sistémico y las Constelaciones Familiares. Así que recordad que si queréis probar la experiencia, este Sábado hacemos un &lt;a href=&quot;http://localhost:4000/evento/2018/01/27/taller-constelaciones.html&quot;&gt;Taller&lt;/a&gt; en la Escuela donde todos haremos algún Movimiento Sistémico y algunos podrán trabajar su propia Constelación Familiar.&lt;/p&gt;
 
 &lt;p&gt;Feliz Martes estrellitas, y no olvidéis &lt;a href=&quot;mailto:estilodevida@salud-zen.com?Subject=Taller - Constelaciones Familiares-Reserva de Plaza&amp;amp;body=%0A%0A Me gustaría reservar una plaza para el Taller - Constelaciones Familiares del 27 de Enero. Mis datos Personales son:%0A%0A   -Nombre:%0A%0A   -Apellidos:%0A%0A   -Fecha de nacimiento:%0A%0A    -Correo Electrónico:%0A%0A  -Teléfono:%0A%0A&quot;&gt;reservar vuestra plaza&lt;/a&gt; o pedirme más info.&lt;/p&gt;
 
 </description>
         <pubDate>Tue, 23 Jan 2018 10:11:27 +0100</pubDate>
-        <link>https://besaru.github.io/saludzen///blog/2018/01/23/Taller-Constelaciones.html</link>
-        <guid isPermaLink="true">https://besaru.github.io/saludzen///blog/2018/01/23/Taller-Constelaciones.html</guid>
+        <link>http://localhost:4000//blog/2018/01/23/Taller-Constelaciones.html</link>
+        <guid isPermaLink="true">http://localhost:4000//blog/2018/01/23/Taller-Constelaciones.html</guid>
       </item>
     
       <item>
@@ -76,21 +100,21 @@
 
 &lt;p&gt;Feliz viernes dulces estrellitas :)&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://besaru.github.io/saludzen//postres/2018/01/19/bizcocho-arrozYalgarroba.html&quot;&gt;Bizcocho de arroz y algarroba&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/postres/2018/01/19/bizcocho-arrozYalgarroba.html&quot;&gt;Bizcocho de arroz y algarroba&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Bon appetit!!&lt;/p&gt;
 
 </description>
         <pubDate>Fri, 19 Jan 2018 10:11:27 +0100</pubDate>
-        <link>https://besaru.github.io/saludzen///blog/2018/01/19/Receta-BizcochoArrozAlgarroba.html</link>
-        <guid isPermaLink="true">https://besaru.github.io/saludzen///blog/2018/01/19/Receta-BizcochoArrozAlgarroba.html</guid>
+        <link>http://localhost:4000//blog/2018/01/19/Receta-BizcochoArrozAlgarroba.html</link>
+        <guid isPermaLink="true">http://localhost:4000//blog/2018/01/19/Receta-BizcochoArrozAlgarroba.html</guid>
       </item>
     
       <item>
         <title>Eventos - Conferencia Gratuita y Taller de Danza</title>
         <description>&lt;p&gt;Buenos días de Invierno!&lt;/p&gt;
 
-&lt;p&gt;Recordaos que esta semana tenemos dos eventos que no os podéis perder! Viernes 19 &lt;a href=&quot;https://besaru.github.io/saludzen//evento/2018/01/19/charla-agua.html&quot;&gt;conferencia gratuita sobre “El poder Curativo del agua”&lt;/a&gt; y el Domingo 21 &lt;a href=&quot;https://besaru.github.io/saludzen//evento/2018/01/21/taller-danza.html&quot;&gt;taller “Danza terapéutica”&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Recordaos que esta semana tenemos dos eventos que no os podéis perder! Viernes 19 &lt;a href=&quot;http://localhost:4000/evento/2018/01/19/charla-agua.html&quot;&gt;conferencia gratuita sobre “El poder Curativo del agua”&lt;/a&gt; y el Domingo 21 &lt;a href=&quot;http://localhost:4000/evento/2018/01/21/taller-danza.html&quot;&gt;taller “Danza terapéutica”&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;No dejéis la reserva de plaza para el último día!&lt;/p&gt;
 
@@ -98,13 +122,13 @@
 
 </description>
         <pubDate>Mon, 15 Jan 2018 10:11:27 +0100</pubDate>
-        <link>https://besaru.github.io/saludzen///blog/2018/01/15/Eventos-CharlaGratuitaYTallerDanza.html</link>
-        <guid isPermaLink="true">https://besaru.github.io/saludzen///blog/2018/01/15/Eventos-CharlaGratuitaYTallerDanza.html</guid>
+        <link>http://localhost:4000//blog/2018/01/15/Eventos-CharlaGratuitaYTallerDanza.html</link>
+        <guid isPermaLink="true">http://localhost:4000//blog/2018/01/15/Eventos-CharlaGratuitaYTallerDanza.html</guid>
       </item>
     
       <item>
         <title>Importante - Cambio Fecha del Taller de Danza Terapéutica Transpersonal</title>
-        <description>&lt;p&gt;Buenos días! 😊 Por problemas técnicos hemos tenido que cambiar la fecha para el &lt;a href=&quot;https://besaru.github.io/saludzen//evento/2018/01/21/taller-danza.html&quot;&gt;Taller de Danza Terapeútica&lt;/a&gt; al día &lt;b&gt;21 de Enero&lt;/b&gt;, esperamos que este día podáis compartir muchos más con nosotros este momento.&lt;/p&gt;
+        <description>&lt;p&gt;Buenos días! 😊 Por problemas técnicos hemos tenido que cambiar la fecha para el &lt;a href=&quot;http://localhost:4000/evento/2018/01/21/taller-danza.html&quot;&gt;Taller de Danza Terapeútica&lt;/a&gt; al día &lt;b&gt;21 de Enero&lt;/b&gt;, esperamos que este día podáis compartir muchos más con nosotros este momento.&lt;/p&gt;
 
 &lt;p&gt;Si estás interesado, no olvides &lt;a href=&quot;mailto:estilodevida@salud-zen.com?Subject=Taller - Danza Terapéutica Transpersonal-Reserva de Plaza&amp;amp;body=%0A%0A Me gustaría reservar una plaza para el Taller - Danza Terapéutica Transpersonal del 21 de Enero. Mis datos Personales son:%0A%0A   -Nombre:%0A%0A   -Apellidos:%0A%0A   -Fecha de nacimiento:%0A%0A    -Correo Electrónico:%0A%0A  -Teléfono:%0A%0A&quot;&gt;reservar tu plaza&lt;/a&gt;.&lt;/p&gt;
 
@@ -112,34 +136,8 @@
 
 </description>
         <pubDate>Fri, 12 Jan 2018 10:11:27 +0100</pubDate>
-        <link>https://besaru.github.io/saludzen///blog/2018/01/12/Importante-CambioFechaCurso.html</link>
-        <guid isPermaLink="true">https://besaru.github.io/saludzen///blog/2018/01/12/Importante-CambioFechaCurso.html</guid>
-      </item>
-    
-      <item>
-        <title>Curso - Reflexología Podal Holística</title>
-        <description>&lt;p&gt;El próximo mes de Febrero arranca el curso de &lt;a href=&quot;https://besaru.github.io/saludzen//evento/2018/02/01/curso-reflexologia-podal.html&quot;&gt;Reflexología Podal Holística&lt;/a&gt;, se trata de una formación profesional de 4 meses de duración (Febrero - Mayo), donde todos los jueves durante 2 horas y media, se verá la reflexología podal desde un enfoque Anatómico Fisiológico, Psico-Emocional y Energético Integrado.&lt;/p&gt;
-
-&lt;p&gt;Si estás interesado, no olvides &lt;a href=&quot;mailto:estilodevida@salud-zen.com?Subject=Curso de Reflexologia-Reserva de Plaza&amp;amp;body=%0A%0A Me gustaría reservar una plaza para el Curso de Reflexología Podal Holística (Feb - May'18). Mis datos Personales son:%0A%0A   -Nombre:%0A%0A   -Apellidos:%0A%0A   -Fecha de nacimiento:%0A%0A   -Teléfono:%0A%0A&quot;&gt;reservar tu plaza&lt;/a&gt;.&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 08 Jan 2018 10:11:27 +0100</pubDate>
-        <link>https://besaru.github.io/saludzen///blog/2018/01/08/Nuevo-curso-reflexologia.html</link>
-        <guid isPermaLink="true">https://besaru.github.io/saludzen///blog/2018/01/08/Nuevo-curso-reflexologia.html</guid>
-      </item>
-    
-      <item>
-        <title>¡Publicación del Calendario con nuevas actividades!</title>
-        <description>&lt;p&gt;Aquí teneis las nueva actividades para los próximos meses, puedes consultarlas en nuestro &lt;a href=&quot;https://besaru.github.io/saludzen//calendario/&quot;&gt;calendario&lt;/a&gt;. Os proponemos gran variedad de actividades, cursos,talleres,charlas …&lt;/p&gt;
-
-&lt;p&gt;Entre estas actividades  ofrecemos un &lt;a href=&quot;https://besaru.github.io/saludzen//evento/2018/02/17/taller-cosmetica.html&quot;&gt;Taller de Cosmética Natural&lt;/a&gt;, se trata de una colaboración con la escuela, que permite dar el enfoque holístico. Iremos invitando a gente de fuera de la escuela con otras disciplinas distintas a lo que nosotros hacemos.&lt;/p&gt;
-
-&lt;p&gt;Esperamos que os gusten, y recuerda reservar tu plaza,&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 04 Jan 2018 16:11:27 +0100</pubDate>
-        <link>https://besaru.github.io/saludzen///blog/2018/01/04/publicacion-calendario.html</link>
-        <guid isPermaLink="true">https://besaru.github.io/saludzen///blog/2018/01/04/publicacion-calendario.html</guid>
+        <link>http://localhost:4000//blog/2018/01/12/Importante-CambioFechaCurso.html</link>
+        <guid isPermaLink="true">http://localhost:4000//blog/2018/01/12/Importante-CambioFechaCurso.html</guid>
       </item>
     
   </channel>
