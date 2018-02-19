@@ -11,7 +11,7 @@ linkfacebook: https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.salu
 ¡Iniciemos un viaje por el mundo del agua!
 
 
-El agua es esencial para vivir, es fuente de vida y salud. Es nuestro mar interior.
+El agua es esencial para vivir, es fuente de vida y salud. Es nuestro mar interior.  
 Cuidar el agua que somos es una necesidad vital. Nunca, a lo largo de la historia de la humanidad, el agua ha estado tan contaminada como hoy en día porque nunca ha existido una industria tan grande y a la vez un modo de vida tan artificial.
 
 Somos agua y formamos parte del agua.  
@@ -22,7 +22,7 @@ Lo de fuera es un reflejo de lo que está sucediendo dentro, de esta forma, todo
 
 Cuidar el agua es cuidar la vida: Es cuidar 2/3 del planeta, es cuidar 2/3 de nuestro cuerpo, es respetar y favorecer el ciclo biológico del agua en la Tierra.
 
-La  proporción del agua en el cuerpo varía según el sexo y la edad.
+La  proporción del agua en el cuerpo varía según el sexo y la edad.  
 Por ejemplo, la cantidad de agua que contiene el cigoto o huevo que se formas tras una fecundación entre los gametos es de un 95%, el peso del agua de un lactante es de un 75%, el de un niño es de un 70%, el de un hombre el 65%, el peso del agua de una mujer es de un 60% y el  de un anciano es de un 50%.  
 Como podemos observar, el peso del agua en el momento de la concepción, cuando nos están engendrando, es casi del 100% y a medida que vamos creciendo, vamos perdiendo agua. Esto es así porque allí donde hay agua hay vida y contenemos más agua al nacer porque necesitamos esa información de la memoria y fuente de la vida para venir al mundo. Sin embargo, los ancianos tienen tan solo un 50% de agua porque según vamos envejeciendo, nuestros fluidos orgánicos se van secando, por eso, al mismo tiempo que perdemos agua, perdemos vida.
 
@@ -178,7 +178,7 @@ Terapeuta Holístico - Coach de Salud </i> </p>
 <p style="text-align:center;font-size:14px"> <i>Copyright ©  2018 Salud-Zen, Escuela de Luz y Consciencia S.L</i></p>
 
 <p style="text-align:center;font-size:12px"><i> << El Texto que contiene este artículo, publicado en internet,<br>  tiene derecho de autor, siendo Salud-Zen la propiedad intelectual<br>  y la única que puede usar este texto en publicaciones de libros y obras posteriores. >>
-
+<br><br>
 Esquema y revisión del texto por Verónica Postigo.
 </i>
 </p>
@@ -196,7 +196,7 @@ Esquema y revisión del texto por Verónica Postigo.
 
 [img5]: {{site.url}}{{site.baseurl}}/img/blog/20180219-Agua-activador.jpg "El arte de curar con el agua -activador"
 
-[img6]: {{site.url}}{{site.baseurl}}/img/blog/20180219-Agua-Chacras.jpg "El arte de curar con el agua -chacras"
+[img6]: {{site.url}}{{site.baseurl}}/img/blog/20180219-Agua-chacras.jpg "El arte de curar con el agua -chacras"
 
 [img7]: {{site.url}}{{site.baseurl}}/img/blog/20180219-Agua-lenguaje.jpg "El arte de curar con el agua -lenguaje"
 
