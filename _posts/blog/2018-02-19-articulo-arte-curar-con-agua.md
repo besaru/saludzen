@@ -111,11 +111,11 @@ Dependiendo de la calidad del agua y de su naturaleza las fotografías de los cr
 A continuación, presento una foto de un cristal de agua corriente del grifo de ciudades industriales, como la de Tokio en Japón, en la que se observa como el agua ha perdido toda su estructura molecular, su figura geométrica y la forma original. La otra foto es después de someterla a un tratamiento vibracional.
 
 ![El arte de curar con el agua -agua antes de tratar ][img3-1]  
-<p style="text-align:center;">AGUA DEL GRIFO DE TOKYO</p>
+<div style="text-align:center;">AGUA DEL GRIFO DE TOKYO</div>
 
 <br>
 ![El arte de curar con el agua -agua después de tratar ][img3-2]  
-<p style="text-align:center;">AGUA DESPUES DEL TRATAMIENTO VIBRACIONAL</p>
+<div style="text-align:center;">AGUA DESPUES DEL TRATAMIENTO VIBRACIONAL</div>
 
 En estas otras imágenes, observamos como se ve afectada y desfigurada la estructura molecular del agua de ríos industriales, urbanos, contaminados.  
 Sin embargo vemos como el agua de nieve o de manantial mantienen su estructura molecular bien definida y su forma específica.
