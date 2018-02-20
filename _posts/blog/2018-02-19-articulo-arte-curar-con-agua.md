@@ -110,7 +110,12 @@ Dependiendo de la calidad del agua y de su naturaleza las fotografías de los cr
 
 A continuación, presento una foto de un cristal de agua corriente del grifo de ciudades industriales, como la de Tokio en Japón, en la que se observa como el agua ha perdido toda su estructura molecular, su figura geométrica y la forma original. La otra foto es después de someterla a un tratamiento vibracional.
 
-![El arte de curar con el agua -agua antes y después de tratar ][img3]
+![El arte de curar con el agua -agua antes de tratar ][img3-1]  
+<p style="text-align:center;">AGUA DEL GRIFO DE TOKYO</p>
+
+<br>
+![El arte de curar con el agua -agua después de tratar ][img3-2]  
+<p style="text-align:center;">AGUA DESPUES DEL TRATAMIENTO VIBRACIONAL</p>
 
 En estas otras imágenes, observamos como se ve afectada y desfigurada la estructura molecular del agua de ríos industriales, urbanos, contaminados.  
 Sin embargo vemos como el agua de nieve o de manantial mantienen su estructura molecular bien definida y su forma específica.
@@ -124,8 +129,15 @@ La “Flaska”© contiene 3 símbolos: uno de ellos es el  número de lote, otr
 También existen otras botellas como la “OMWATER”© de vidrio 100% reciclado y libre de metales pesados que vitaliza el agua incorporando frecuencias como el sonido de la creación “Om”, la semilla de la vida o “flor de la vida”, la proporción aurea, la palabra Gratitud y la solarización azul.
 
 También existen armonizadores energéticos como el “ESENCIAL EMO”© que a través de unas piedras de cuarzo, unos símbolos y las proporciones sagradas, es capaz de activar el agua y reestructurar su molécula.
+<div style="text-align:center;">
+GOTAS DE AGUA  ANTES DE EXPONERLO AL ACTIVADOR ENERGETICO</div>
+![El arte de curar con el agua -agua antes de exponerlo al activador energético ][img5-1]
 
-![El arte de curar con el agua -agua antes y después de exponerlo al activador energético ][img5]
+<br>    
+<div style="text-align:center;">
+GOTAS DEL AGUA DESPUES DE PONERLO EN EL ACTIVADOR ENERGETICO</div>
+![El arte de curar con el agua -agua después de exponerlo al activador energético ][img5-2]
+
 
 Este activador también es energetizador de los alimentos, protector de radiaciones electromagnéticas nocivas y sirve para armonizar y alinear los Chacras.
 
@@ -168,18 +180,16 @@ Nuestro cuerpo físico es la carcasa, es el continente, es la botella que contie
 
 <p style="text-align:center;font-size:16px">
 <b>Txiki Soto </b></p>
-<p style="text-align:center;font-size:14px"> <i>Director y Profesor de Salud-Zen
-<br>
-Escuela de Macrobiótica, Medicina Natural y Oriental
-<br>
-Escuela de Terapias Naturales y
-Terapeuta Holístico - Coach de Salud </i> </p>
+<p style="text-align:center;font-size:14px"> <i>Terapeuta Holístico - Coach de Salud<br>
+<br>Escuela de Macrobiótica, Medicina Natural y Oriental
+<br>Escuela de Terapias Naturales y Artes Orientales
+</i> </p>
 
-<p style="text-align:center;font-size:14px"> <i>Copyright ©  2018 Salud-Zen, Escuela de Luz y Consciencia S.L</i></p>
+<p style="text-align:center;font-size:14px"> <i><b>Copyright ©  2018 Salud-Zen, Escuela de Luz y Consciencia S.L</b></i></p>
 
 <p style="text-align:center;font-size:12px"><i> << El Texto que contiene este artículo, publicado en internet,<br>  tiene derecho de autor, siendo Salud-Zen la propiedad intelectual<br>  y la única que puede usar este texto en publicaciones de libros y obras posteriores. >>
 <br><br>
-Esquema y revisión del texto por Verónica Postigo.
+<b>Esquema y revisión del texto por Verónica Postigo.</b>
 </i>
 </p>
 
@@ -190,11 +200,16 @@ Esquema y revisión del texto por Verónica Postigo.
 
 [img2]: {{site.url}}{{site.baseurl}}/img/blog/20180219-Agua-copos.jpg "El arte de curar con el agua -copo nieve"
 
-[img3]: {{site.url}}{{site.baseurl}}/img/blog/20180219-Agua-tratamiento.jpg "El arte de curar con el agua -tratamiento"
+[img3-1]: {{site.url}}{{site.baseurl}}/img/blog/20180219-Agua-tratamiento1.jpg "El arte de curar con el agua -tratamiento"
+
+[img3-2]: {{site.url}}{{site.baseurl}}/img/blog/20180219-Agua-tratamiento2.jpg "El arte de curar con el agua -tratamiento"
+
 
 [img4]: {{site.url}}{{site.baseurl}}/img/blog/20180219-Agua-molecula.jpg "El arte de curar con el agua -origenes"
 
-[img5]: {{site.url}}{{site.baseurl}}/img/blog/20180219-Agua-activador.jpg "El arte de curar con el agua -activador"
+[img5-1]: {{site.url}}{{site.baseurl}}/img/blog/20180219-Agua-activador1.jpg "El arte de curar con el agua -activador1"
+
+[img5-2]: {{site.url}}{{site.baseurl}}/img/blog/20180219-Agua-activador2.jpg "El arte de curar con el agua -activador2"
 
 [img6]: {{site.url}}{{site.baseurl}}/img/blog/20180219-Agua-chacras.jpg "El arte de curar con el agua -chacras"
 
