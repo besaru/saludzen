@@ -196,7 +196,7 @@ Nuestro cuerpo físico es la carcasa, es el continente, es la botella que contie
 ---
 ¿Te ha gustado? Puedes descargarlo en pdf en el siguiente enlace: [EL ARTE DE CURAR CON EL AGUA .pdf][descarga].
 
-[img1]: {{site.url}}{{site.baseurl}}/img/blog/20180219-Agua-botellas.jpg "El arte de curar con el agua -botellas"
+[img1]: {{site.url}}{{site.baseurl}}/img/blog/20180219-Agua-botellas.jpg=100x20 "El arte de curar con el agua -botellas"
 
 [img2]: {{site.url}}{{site.baseurl}}/img/blog/20180219-Agua-copos.jpg "El arte de curar con el agua -copo nieve"
 

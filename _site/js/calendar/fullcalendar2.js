@@ -282,7 +282,7 @@
                 "className": "terapias",
                 "url":"../evento/2018/02/27/taller-quigong.html",
 
-        }, 
+        },
         {
             "allDay": "false",
             "title": "Primer Seminario de Introducción. Bases de la Nutrición Energética y Cocina Macrobiótica",
@@ -304,7 +304,48 @@
                  "className": "macrobiotica",
                  "url":"../evento/2018/03/17/curso-madera.html",
 
-                }
+               },
+               {
+                   "allDay": "false",
+                   "title": "Taller - Constelaciones Familiares",
+                   "name":"Taller - Constelaciones Familiares",
+                   "id": "C0001",
+                   "end": "2018-04-07 20:00:00",
+                   "start": "2018-04-07 16:00:00",
+                   "className": "macrobiotica",
+                   "url":"../evento/2018/04/07/taller-constelaciones.html"
+               },
+               {
+                   "allDay": "false",
+                   "title": "Meditación Activa Osho",
+                   "name":"Meditación Osho",
+                   "id": "C0001",
+                   "end": "2018-04-08 17:00:00",
+                   "start": "2018-04-08 10:00:00",
+                   "className": "terapias",
+                   "url":"../evento/2018/04/08/taller-osho.html"
+               },
+               {
+                   "allDay": "false",
+                   "title": "Setas Medicinales",
+                   "name":"Setas Medicinales",
+                   "id": "C0001",
+                   "end": "2018-04-21 19:00:00",
+                   "start": "2018-04-21 09:00:00",
+                   "className": "macrobiotica",
+                   "url":"../evento/2018/04/21/curso-setas.html"
+               },
+
+               {
+                   "allDay": "false",
+                   "title": "Primer Seminario de Introducción. Bases de la Nutrición Energética y Cocina Macrobiótica",
+                   "name":"Seminario de Introducción",
+                   "id": "C0001",
+                   "end": "2018-04-22 19:00:00",
+                   "start": "2018-04-22 09:00:00",
+                   "className": "macrobiotica",
+                   "url":"../evento/2018/04/22/curso-introduccion.html"
+               }
 
 
 

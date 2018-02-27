@@ -3,9 +3,33 @@
   <channel>
     <title>Salud-Zen, Escuela de Luz y Consciencia</title>
     <description></description>
-    <link>http://salud-zen.tk/</link>
-    <atom:link href="http://salud-zen.tk//feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
 
+    
+      <item>
+        <title>Próximos talleres y cursos Marzo y Abril 2018</title>
+        <description>&lt;p&gt;Buenas tardes! :)&lt;/p&gt;
+
+&lt;p&gt;Os informamos de los próximos talleres que se van a impartir en la escuela los meses de Marzo y Abril.&lt;/p&gt;
+
+&lt;p&gt;Como ya os adelantamos, el fin de semana del 17 y 18 de Marzo tendrá lugar el &lt;a href=&quot;http://localhost:4000/evento/2018/03/17/curso-madera.html&quot;&gt;Curso de Medicina Oriental del Elemento Madera&lt;/a&gt;, en donde nos centraremos en la nutrición energética para la salud del hígado y la vesícula biliar.&lt;/p&gt;
+
+&lt;p&gt;El sábado 7 de Abril impartiremos un taller de &lt;a href=&quot;http://localhost:4000/evento/2018/04/07/taller-constelaciones.html&quot;&gt;Constelaciones Familiares&lt;/a&gt; y el domingo 8 de &lt;a href=&quot;http://localhost:4000evento/2018/04/08/taller-osho.html&quot;&gt;Meditaciones de Osho&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Y para finales de mes nos volvemos a meter en la cocina, el sábado 21 de Abril estrenamos un curso de &lt;a href=&quot;http://localhost:4000/evento/2018/04/21/curso-setas.html&quot;&gt;Setas Medicinales&lt;/a&gt; y el domingo 22 otra edición del &lt;a href=&quot;http://localhost:4000/evento/2018/04/22/curso-introduccion.html&quot;&gt;Primer Seminario de Introducción&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Recordad que es imprescindible hacer la reserva de plaza.&lt;/p&gt;
+
+&lt;p&gt;Estaremos encantados de &lt;a href=&quot;http://localhost:4000/contact&quot;&gt;recibir las sugerencias&lt;/a&gt; que nos queráis aportar.&lt;/p&gt;
+
+&lt;p&gt;Un abrazo enorme y feliz Semana&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 27 Feb 2018 11:11:27 +0100</pubDate>
+        <link>http://localhost:4000//blog/2018/02/27/Proximos-CursosYTalleres.html</link>
+        <guid isPermaLink="true">http://localhost:4000//blog/2018/02/27/Proximos-CursosYTalleres.html</guid>
+      </item>
     
       <item>
         <title>Artículo - El Arte de Curar con el Agua</title>
@@ -80,7 +104,7 @@ Tan sólo hay que hervir el agua 15 o 20 minutos, de esta manera se carga de ion
 &lt;p&gt;Otra forma de sanar con agua es solarizarla poniendo una botella de vidrio llena de agua bajo el sol. Así se vitaliza el agua con las frecuencias de onda vibratoria que emite el sol. Éstas ondas elevan la vibración del agua, si además las botellas son de colores nos beneficiamos de las propiedades del color seleccionado.&lt;br /&gt;
 Los colores de las botellas se relacionan con los chacras y con las distintas estructuras del cuerpo que dependen de estos centros de energía y niveles de conciencia, pudiendo así mejorar el estado de salud de la persona a través de los colores, desde el rojo que nos conecta con la parte más terrenal, el verde con lo emocional, hasta el violeta con lo espiritual.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://salud-zen.tk//img/blog/20180219-Agua-botellas.jpg&quot; alt=&quot;El arte de curar con el agua -botellas &quot; title=&quot;El arte de curar con el agua -botellas&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/blog/20180219-Agua-botellas.jpg=100x20&quot; alt=&quot;El arte de curar con el agua -botellas &quot; title=&quot;El arte de curar con el agua -botellas&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Con respecto a las Hidroterapias habría que diferenciar entre SPA, balneario o talasoterapia.&lt;br /&gt;
 Los SPA son espacios con agua clorada que no son nada beneficiosos para la salud. Sus aguas están calientes, abriendo el poro de la piel favoreciendo la absorción del cloro.&lt;br /&gt;
@@ -96,7 +120,7 @@ Estos baños salados ayudan a regular el equilibro hidrosalino del cuerpo y la h
 El agua es sensible a la música,  a la vibración, a las  palabras, sentimientos y pensamientos.&lt;br /&gt;
 A través de un análisis de resonancia magnética se puede estudiar los niveles de vibración del agua y tomar fotografías de cristales de agua congelados, a través de un microscopio. Estos cristales son sustancias solidas con una estructura molecular ordenada, cada cristal de agua que se forma es único, al igual que los copos de nieve.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://salud-zen.tk//img/blog/20180219-Agua-copos.jpg&quot; alt=&quot;El arte de curar con el agua -copo nieve &quot; title=&quot;El arte de curar con el agua -copo nieve&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/blog/20180219-Agua-copos.jpg&quot; alt=&quot;El arte de curar con el agua -copo nieve &quot; title=&quot;El arte de curar con el agua -copo nieve&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Muchas personas desconocen que el copo de nieve tiene esta figura geométrica que se puede observar a simplemente cuando se coge entre la manos.&lt;/p&gt;
 
@@ -110,17 +134,17 @@ Como podemos observar en la foto anterior cada cristal de agua tiene una estruct
 
 &lt;p&gt;A continuación, presento una foto de un cristal de agua corriente del grifo de ciudades industriales, como la de Tokio en Japón, en la que se observa como el agua ha perdido toda su estructura molecular, su figura geométrica y la forma original. La otra foto es después de someterla a un tratamiento vibracional.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://salud-zen.tk//img/blog/20180219-Agua-tratamiento1.jpg&quot; alt=&quot;El arte de curar con el agua -agua antes de tratar &quot; title=&quot;El arte de curar con el agua -tratamiento&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/blog/20180219-Agua-tratamiento1.jpg&quot; alt=&quot;El arte de curar con el agua -agua antes de tratar &quot; title=&quot;El arte de curar con el agua -tratamiento&quot; /&gt;&lt;/p&gt;
 &lt;div style=&quot;text-align:center;&quot;&gt;AGUA DEL GRIFO DE TOKYO&lt;/div&gt;
 
 &lt;p&gt;&lt;br /&gt;
-&lt;img src=&quot;http://salud-zen.tk//img/blog/20180219-Agua-tratamiento2.jpg&quot; alt=&quot;El arte de curar con el agua -agua después de tratar &quot; title=&quot;El arte de curar con el agua -tratamiento&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;http://localhost:4000/img/blog/20180219-Agua-tratamiento2.jpg&quot; alt=&quot;El arte de curar con el agua -agua después de tratar &quot; title=&quot;El arte de curar con el agua -tratamiento&quot; /&gt;&lt;/p&gt;
 &lt;div style=&quot;text-align:center;&quot;&gt;AGUA DESPUES DEL TRATAMIENTO VIBRACIONAL&lt;/div&gt;
 
 &lt;p&gt;En estas otras imágenes, observamos como se ve afectada y desfigurada la estructura molecular del agua de ríos industriales, urbanos, contaminados.&lt;br /&gt;
 Sin embargo vemos como el agua de nieve o de manantial mantienen su estructura molecular bien definida y su forma específica.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://salud-zen.tk//img/blog/20180219-Agua-molecula.jpg&quot; alt=&quot;El arte de curar con el agua -diferentes orígenes &quot; title=&quot;El arte de curar con el agua -origenes&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/blog/20180219-Agua-molecula.jpg&quot; alt=&quot;El arte de curar con el agua -diferentes orígenes &quot; title=&quot;El arte de curar con el agua -origenes&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Como vemos, en función del tipo de información y vibración que reciba el agua modifica su estructura molecular. Para armonizar la estructura molecular de aguas contaminadas se puede utilizar  la “Flaska”© que es una botella de vidrio con un 71% de dióxido de silicio, sin ningún material nocivo para la salud y con un cristal que ha recibido un programa vibracional al que se le ha trasmitido información extraída de la naturaleza.&lt;/p&gt;
 
@@ -131,26 +155,26 @@ También existen otras botellas como la “OMWATER”© de vidrio 100% reciclado
 &lt;p&gt;También existen armonizadores energéticos como el “ESENCIAL EMO”© que a través de unas piedras de cuarzo, unos símbolos y las proporciones sagradas, es capaz de activar el agua y reestructurar su molécula.&lt;/p&gt;
 &lt;div style=&quot;text-align:center;&quot;&gt;
 GOTAS DE AGUA  ANTES DE EXPONERLO AL ACTIVADOR ENERGETICO&lt;/div&gt;
-&lt;p&gt;&lt;img src=&quot;http://salud-zen.tk//img/blog/20180219-Agua-activador1.jpg&quot; alt=&quot;El arte de curar con el agua -agua antes de exponerlo al activador energético &quot; title=&quot;El arte de curar con el agua -activador1&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/blog/20180219-Agua-activador1.jpg&quot; alt=&quot;El arte de curar con el agua -agua antes de exponerlo al activador energético &quot; title=&quot;El arte de curar con el agua -activador1&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;div style=&quot;text-align:center;&quot;&gt;
 GOTAS DEL AGUA DESPUES DE PONERLO EN EL ACTIVADOR ENERGETICO&lt;/div&gt;
-&lt;p&gt;&lt;img src=&quot;http://salud-zen.tk//img/blog/20180219-Agua-activador2.jpg&quot; alt=&quot;El arte de curar con el agua -agua después de exponerlo al activador energético &quot; title=&quot;El arte de curar con el agua -activador2&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/blog/20180219-Agua-activador2.jpg&quot; alt=&quot;El arte de curar con el agua -agua después de exponerlo al activador energético &quot; title=&quot;El arte de curar con el agua -activador2&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Este activador también es energetizador de los alimentos, protector de radiaciones electromagnéticas nocivas y sirve para armonizar y alinear los Chacras.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://salud-zen.tk//img/blog/20180219-Agua-chacras.jpg&quot; alt=&quot;El arte de curar con el agua -Chacras &quot; title=&quot;El arte de curar con el agua -chacras&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/blog/20180219-Agua-chacras.jpg&quot; alt=&quot;El arte de curar con el agua -Chacras &quot; title=&quot;El arte de curar con el agua -chacras&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Al exponer el agua al lenguaje, los resultados son los siguientes:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://salud-zen.tk//img/blog/20180219-Agua-lenguaje.jpg&quot; alt=&quot;El arte de curar con el agua -Lenguaje &quot; title=&quot;El arte de curar con el agua -lenguaje&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/blog/20180219-Agua-lenguaje.jpg&quot; alt=&quot;El arte de curar con el agua -Lenguaje &quot; title=&quot;El arte de curar con el agua -lenguaje&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;El agua que estuvo en contacto con la palabra “Odio” se oscurece, pierde el contorno y la forma geométrica, disipándose con agujeros y líneas cavernosas. En cambio en el agua que estuvo en contacto con la palabra “Amor”, se obtuvieron cristales  brillantes,  bellos y con una figura geométrica bien delimitada y bastante perfecta.&lt;/p&gt;
 
 &lt;p&gt;El agua también es sensible a la música, a las emociones y pensamientos:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://salud-zen.tk//img/blog/20180219-Agua-sensible.jpg&quot; alt=&quot;El arte de curar con el agua -música, emociones y pensamientos &quot; title=&quot;El arte de curar con el agua -sensible&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/blog/20180219-Agua-sensible.jpg&quot; alt=&quot;El arte de curar con el agua -música, emociones y pensamientos &quot; title=&quot;El arte de curar con el agua -sensible&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;En función del nivel de vibración de las palabras y de la música así son los cristales de agua.  La música bella y tranquila, y las palabras amables y amorosas afectan positivamente al agua. La música de Mozart, Beethoven o Bach hacen vibrar al agua, equilibrando su estructura. Sin embargo en las canciones de desamor o heavy metal, la estructura hexagonal se pierde, se rompe en pedazos. No es que la música de este tipo sea mala, simplemente que el agua reacciona ante la letra de la canción. Teniendo en cuenta este punto de vista, la música que tiene éxito no siempre es la mejor para nuestra salud.&lt;/p&gt;
 
@@ -193,48 +217,48 @@ y ver como los cristales desestructurados del agua contaminada se estructuran al
 &lt;/p&gt;
 
 &lt;hr /&gt;
-&lt;p&gt;¿Te ha gustado? Puedes descargarlo en pdf en el siguiente enlace: &lt;a href=&quot;http://salud-zen.tk//img/blog/2018-02-19-articulo-arte-curar-con-agua.pdf&quot;&gt;EL ARTE DE CURAR CON EL AGUA .pdf&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;¿Te ha gustado? Puedes descargarlo en pdf en el siguiente enlace: &lt;a href=&quot;http://localhost:4000/img/blog/2018-02-19-articulo-arte-curar-con-agua.pdf&quot;&gt;EL ARTE DE CURAR CON EL AGUA .pdf&lt;/a&gt;.&lt;/p&gt;
 
 </description>
         <pubDate>Mon, 19 Feb 2018 17:00:27 +0100</pubDate>
-        <link>http://salud-zen.tk///blog/2018/02/19/articulo-arte-curar-con-agua.html</link>
-        <guid isPermaLink="true">http://salud-zen.tk///blog/2018/02/19/articulo-arte-curar-con-agua.html</guid>
+        <link>http://localhost:4000//blog/2018/02/19/articulo-arte-curar-con-agua.html</link>
+        <guid isPermaLink="true">http://localhost:4000//blog/2018/02/19/articulo-arte-curar-con-agua.html</guid>
       </item>
     
       <item>
         <title>Taller - Cosmética Natural Personalizada</title>
-        <description>&lt;p&gt;Este fin de semana vienen unas amigas a la Escuela a impartir un Taller muy interesante de &lt;a href=&quot;http://salud-zen.tk//evento/2018/02/17/taller-cosmetica.html&quot;&gt;Cosmética Natural&lt;/a&gt;, quedan poquitas plazas, así que no dejes para el último día el hacer la &lt;a href=&quot;mailto:estilodevida@salud-zen.com?Subject=Taller Cosmética Natural Personalizada - Reserva de Plaza&amp;amp;body=%0A%0A Me gustaría reservar una plaza para el Taller de Cpsmética Natural Personalizada (17 de Febrero'18). Mis datos Personales son:%0A%0A   -Nombre:%0A%0A   -Apellidos:%0A%0A   -Fecha de nacimiento:%0A%0A   -Teléfono:%0A%0A    -Correo Electrónico:%0A%0A&quot;&gt; reserva&lt;/a&gt; ;)&lt;/p&gt;
+        <description>&lt;p&gt;Este fin de semana vienen unas amigas a la Escuela a impartir un Taller muy interesante de &lt;a href=&quot;http://localhost:4000/evento/2018/02/17/taller-cosmetica.html&quot;&gt;Cosmética Natural&lt;/a&gt;, quedan poquitas plazas, así que no dejes para el último día el hacer la &lt;a href=&quot;mailto:estilodevida@salud-zen.com?Subject=Taller Cosmética Natural Personalizada - Reserva de Plaza&amp;amp;body=%0A%0A Me gustaría reservar una plaza para el Taller de Cpsmética Natural Personalizada (17 de Febrero'18). Mis datos Personales son:%0A%0A   -Nombre:%0A%0A   -Apellidos:%0A%0A   -Fecha de nacimiento:%0A%0A   -Teléfono:%0A%0A    -Correo Electrónico:%0A%0A&quot;&gt; reserva&lt;/a&gt; ;)&lt;/p&gt;
 
 &lt;p&gt;Feliz Lunes estrellitas&lt;/p&gt;
 
 </description>
         <pubDate>Mon, 12 Feb 2018 20:00:27 +0100</pubDate>
-        <link>http://salud-zen.tk///blog/2018/02/12/Taller-Cosmetica.html</link>
-        <guid isPermaLink="true">http://salud-zen.tk///blog/2018/02/12/Taller-Cosmetica.html</guid>
+        <link>http://localhost:4000//blog/2018/02/12/Taller-Cosmetica.html</link>
+        <guid isPermaLink="true">http://localhost:4000//blog/2018/02/12/Taller-Cosmetica.html</guid>
       </item>
     
       <item>
         <title>Receta - Para estos dias frios ... Cocidito Macrobiótico</title>
-        <description>&lt;p&gt;Para estos días fríos os enviamos una recetita para calentarnos y reforzar nuestra energía. Ante tanta petición, aquí va nuestro &lt;a href=&quot;http://salud-zen.tk//principal/2018/02/05/cocido-macrobiotico.html&quot;&gt;“Cocidito Macrobiótico”&lt;/a&gt;.&lt;/p&gt;
+        <description>&lt;p&gt;Para estos días fríos os enviamos una recetita para calentarnos y reforzar nuestra energía. Ante tanta petición, aquí va nuestro &lt;a href=&quot;http://localhost:4000/principal/2018/02/05/cocido-macrobiotico.html&quot;&gt;“Cocidito Macrobiótico”&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Feliz día de nieves Estrellitas lindas!&lt;/p&gt;
 
 </description>
         <pubDate>Mon, 05 Feb 2018 11:11:27 +0100</pubDate>
-        <link>http://salud-zen.tk///blog/2018/02/05/Receta-CocidoMacrobiotico.html</link>
-        <guid isPermaLink="true">http://salud-zen.tk///blog/2018/02/05/Receta-CocidoMacrobiotico.html</guid>
+        <link>http://localhost:4000//blog/2018/02/05/Receta-CocidoMacrobiotico.html</link>
+        <guid isPermaLink="true">http://localhost:4000//blog/2018/02/05/Receta-CocidoMacrobiotico.html</guid>
       </item>
     
       <item>
         <title>Tenemos nuevos eventos en el calendario</title>
-        <description>&lt;p&gt;Tenemos nuevos eventos en el calendario, el 27 de Febrero haremos un nuevo &lt;a href=&quot;http://salud-zen.tk//evento/2018/02/27/taller-quigong.html&quot;&gt;Taller Práctico de Qui-Gong&lt;/a&gt;, en donde veremos los 6 sonidos curativos, el 4 de Marzo nueva edición del &lt;a href=&quot;http://salud-zen.tk//evento/2018/03/04/curso-introduccion.html&quot;&gt;Primer Seminario de Introducción&lt;/a&gt; y el fin de semana del 17 y 18 de Marzo tendrá lugar el &lt;a href=&quot;http://salud-zen.tk//evento/2018/03/17/curso-madera.html&quot;&gt;Curso de Mediciona Oriental del Elemento Madera&lt;/a&gt;, en donde nos centraremos en la nutrición energética para la salud del hígado y la vesícula biliar.&lt;/p&gt;
+        <description>&lt;p&gt;Tenemos nuevos eventos en el calendario, el 27 de Febrero haremos un nuevo &lt;a href=&quot;http://localhost:4000/evento/2018/02/27/taller-quigong.html&quot;&gt;Taller Práctico de Qui-Gong&lt;/a&gt;, en donde veremos los 6 sonidos curativos, el 4 de Marzo nueva edición del &lt;a href=&quot;http://localhost:4000/evento/2018/03/04/curso-introduccion.html&quot;&gt;Primer Seminario de Introducción&lt;/a&gt; y el fin de semana del 17 y 18 de Marzo tendrá lugar el &lt;a href=&quot;http://localhost:4000/evento/2018/03/17/curso-madera.html&quot;&gt;Curso de Medicina Oriental del Elemento Madera&lt;/a&gt;, en donde nos centraremos en la nutrición energética para la salud del hígado y la vesícula biliar.&lt;/p&gt;
 
-&lt;p&gt;No te los puedes perder, y recuerda si estás interesado no olvides en ponerte en &lt;a href=&quot;http://salud-zen.tk//contact&quot;&gt;contacto&lt;/a&gt; con nosotros para reservar tu plaza.&lt;/p&gt;
+&lt;p&gt;No te los puedes perder, y recuerda si estás interesado no olvides en ponerte en &lt;a href=&quot;http://localhost:4000/contact&quot;&gt;contacto&lt;/a&gt; con nosotros para reservar tu plaza.&lt;/p&gt;
 
 </description>
         <pubDate>Sun, 04 Feb 2018 11:11:27 +0100</pubDate>
-        <link>http://salud-zen.tk///blog/2018/02/04/Nuevos-eventos.html</link>
-        <guid isPermaLink="true">http://salud-zen.tk///blog/2018/02/04/Nuevos-eventos.html</guid>
+        <link>http://localhost:4000//blog/2018/02/04/Nuevos-eventos.html</link>
+        <guid isPermaLink="true">http://localhost:4000//blog/2018/02/04/Nuevos-eventos.html</guid>
       </item>
     
       <item>
@@ -242,50 +266,50 @@ y ver como los cristales desestructurados del agua contaminada se estructuran al
         <description>&lt;p&gt;Que bien lo pasamos en Asturias! Deseando volver allá a donde quieran aprender cositas nuevas y otra manera de querer ver la vida!&lt;/p&gt;
 </description>
         <pubDate>Fri, 02 Feb 2018 11:11:27 +0100</pubDate>
-        <link>http://salud-zen.tk///blog/2018/02/02/Recuerdo-CursoHaceUnAnio.html</link>
-        <guid isPermaLink="true">http://salud-zen.tk///blog/2018/02/02/Recuerdo-CursoHaceUnAnio.html</guid>
+        <link>http://localhost:4000//blog/2018/02/02/Recuerdo-CursoHaceUnAnio.html</link>
+        <guid isPermaLink="true">http://localhost:4000//blog/2018/02/02/Recuerdo-CursoHaceUnAnio.html</guid>
       </item>
     
       <item>
         <title>Cursos - Publicado el Programa del Próximo Curso de las Relaciones</title>
-        <description>&lt;p&gt;Os pasamos el programa del curso de &lt;a href=&quot;http://salud-zen.tk//evento/2018/02/10/curso-relaciones.html&quot;&gt;Las Relaciones&lt;/a&gt; del fin de semana 10 y 11 de Febrero.&lt;/p&gt;
+        <description>&lt;p&gt;Os pasamos el programa del curso de &lt;a href=&quot;http://localhost:4000/evento/2018/02/10/curso-relaciones.html&quot;&gt;Las Relaciones&lt;/a&gt; del fin de semana 10 y 11 de Febrero.&lt;/p&gt;
 
 &lt;p&gt;Si estás interesado, no olvides &lt;a href=&quot;mailto:estilodevida@salud-zen.com?Subject=Curso de Las Relaciones-Reserva de Plaza&amp;amp;body=%0A%0A Me gustaría reservar una plaza para el Curso de Las Relaciones (10 y 11 de Febrero'18). Mis datos Personales son:%0A%0A   -Nombre:%0A%0A   -Apellidos:%0A%0A   -Fecha de nacimiento:%0A%0A   -Teléfono:%0A%0A    -Correo Electrónico:%0A%0A&quot;&gt;reservar tu plaza&lt;/a&gt;.&lt;/p&gt;
 
 </description>
         <pubDate>Thu, 01 Feb 2018 11:11:27 +0100</pubDate>
-        <link>http://salud-zen.tk///blog/2018/02/01/Curso-PublicacionProgramaLasRelaciones.html</link>
-        <guid isPermaLink="true">http://salud-zen.tk///blog/2018/02/01/Curso-PublicacionProgramaLasRelaciones.html</guid>
+        <link>http://localhost:4000//blog/2018/02/01/Curso-PublicacionProgramaLasRelaciones.html</link>
+        <guid isPermaLink="true">http://localhost:4000//blog/2018/02/01/Curso-PublicacionProgramaLasRelaciones.html</guid>
       </item>
     
       <item>
         <title>Resumen - Cursos Fin de semana completo</title>
         <description>&lt;p&gt;Otro fin de Semana Increíble! El sábado un éxito el Taller de Constelaciones donde hubo movimientos maravillosos y el domingo volviendo a conectar con la cocina de nuestros ancestros … se notó todo ese Qi en la cocina, estaba todo riquísimo! :) Ahí van unas fotitos para abrir el apetito. Feliz Martes estrellitas!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://salud-zen.tk//img/blog/300118ManosAlaMasa.jpg&quot; alt=&quot;Cocinando&quot; title=&quot;Cocinando&quot; /&gt;
-&lt;img src=&quot;http://salud-zen.tk//img/blog/300118Grupo.jpg&quot; alt=&quot;Asistentes&quot; title=&quot;AsistentesCurso&quot; /&gt;
-&lt;img src=&quot;http://salud-zen.tk//img/blog/300118torreznos.jpg&quot; alt=&quot;Patatas&quot; title=&quot;Patatas revolconas con sus torreznitos especiales&quot; /&gt;
-&lt;img src=&quot;http://salud-zen.tk//img/blog/300118Morcilla.jpg&quot; alt=&quot;Morcillas&quot; title=&quot;Las morcillitas del cocido... receta estrella&quot; /&gt;
-&lt;img src=&quot;http://salud-zen.tk//img/blog/300118CremaCatalana.jpg&quot; alt=&quot;Crema&quot; title=&quot;Crema Catalana&quot; /&gt;
-&lt;img src=&quot;http://salud-zen.tk//img/blog/300118Judiones.jpg&quot; alt=&quot;Judiones&quot; title=&quot;Judiones con Almejas y Pulpo&quot; /&gt;
-&lt;img src=&quot;http://salud-zen.tk//img/blog/300118Cocido.jpg&quot; alt=&quot;Cocido&quot; title=&quot;Cocido, nos falta la sopita.. pero es que la devoraron...&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/blog/300118ManosAlaMasa.jpg&quot; alt=&quot;Cocinando&quot; title=&quot;Cocinando&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/img/blog/300118Grupo.jpg&quot; alt=&quot;Asistentes&quot; title=&quot;AsistentesCurso&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/img/blog/300118torreznos.jpg&quot; alt=&quot;Patatas&quot; title=&quot;Patatas revolconas con sus torreznitos especiales&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/img/blog/300118Morcilla.jpg&quot; alt=&quot;Morcillas&quot; title=&quot;Las morcillitas del cocido... receta estrella&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/img/blog/300118CremaCatalana.jpg&quot; alt=&quot;Crema&quot; title=&quot;Crema Catalana&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/img/blog/300118Judiones.jpg&quot; alt=&quot;Judiones&quot; title=&quot;Judiones con Almejas y Pulpo&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/img/blog/300118Cocido.jpg&quot; alt=&quot;Cocido&quot; title=&quot;Cocido, nos falta la sopita.. pero es que la devoraron...&quot; /&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Tue, 30 Jan 2018 10:11:27 +0100</pubDate>
-        <link>http://salud-zen.tk///blog/2018/01/30/Cursos-FinSemanaCompleto.html</link>
-        <guid isPermaLink="true">http://salud-zen.tk///blog/2018/01/30/Cursos-FinSemanaCompleto.html</guid>
+        <link>http://localhost:4000//blog/2018/01/30/Cursos-FinSemanaCompleto.html</link>
+        <guid isPermaLink="true">http://localhost:4000//blog/2018/01/30/Cursos-FinSemanaCompleto.html</guid>
       </item>
     
       <item>
         <title>Taller Constelaciones - Siempre estamos acompañados</title>
-        <description>&lt;p&gt;“Siempre, estamos acompañados”… de nuestras Creencias, de nuestros Ancestros, de cada una de esas Estrellas que nos rodean y nos aportan distintos Aprendizajes, de Heridas Infantiles Creadas a veces de Necesidades no satisfechas por altas Expectativas… Pero siempre, estamos acompañados de la Luz que Somos, de un millón de Recursos internos que pueden con todas esas creencias que a veces usamos para autosabotearnos… Podemos poner un poco de “luz” a esas pequeñas “cosas” que nos “ atascan” a nivel Inconsciente desde el trabajo Sistémico y las Constelaciones Familiares. Así que recordad que si queréis probar la experiencia, este Sábado hacemos un &lt;a href=&quot;http://salud-zen.tk//evento/2018/01/27/taller-constelaciones.html&quot;&gt;Taller&lt;/a&gt; en la Escuela donde todos haremos algún Movimiento Sistémico y algunos podrán trabajar su propia Constelación Familiar.&lt;/p&gt;
+        <description>&lt;p&gt;“Siempre, estamos acompañados”… de nuestras Creencias, de nuestros Ancestros, de cada una de esas Estrellas que nos rodean y nos aportan distintos Aprendizajes, de Heridas Infantiles Creadas a veces de Necesidades no satisfechas por altas Expectativas… Pero siempre, estamos acompañados de la Luz que Somos, de un millón de Recursos internos que pueden con todas esas creencias que a veces usamos para autosabotearnos… Podemos poner un poco de “luz” a esas pequeñas “cosas” que nos “ atascan” a nivel Inconsciente desde el trabajo Sistémico y las Constelaciones Familiares. Así que recordad que si queréis probar la experiencia, este Sábado hacemos un &lt;a href=&quot;http://localhost:4000/evento/2018/01/27/taller-constelaciones.html&quot;&gt;Taller&lt;/a&gt; en la Escuela donde todos haremos algún Movimiento Sistémico y algunos podrán trabajar su propia Constelación Familiar.&lt;/p&gt;
 
 &lt;p&gt;Feliz Martes estrellitas, y no olvidéis &lt;a href=&quot;mailto:estilodevida@salud-zen.com?Subject=Taller - Constelaciones Familiares-Reserva de Plaza&amp;amp;body=%0A%0A Me gustaría reservar una plaza para el Taller - Constelaciones Familiares del 27 de Enero. Mis datos Personales son:%0A%0A   -Nombre:%0A%0A   -Apellidos:%0A%0A   -Fecha de nacimiento:%0A%0A    -Correo Electrónico:%0A%0A  -Teléfono:%0A%0A&quot;&gt;reservar vuestra plaza&lt;/a&gt; o pedirme más info.&lt;/p&gt;
 
 </description>
         <pubDate>Tue, 23 Jan 2018 10:11:27 +0100</pubDate>
-        <link>http://salud-zen.tk///blog/2018/01/23/Taller-Constelaciones.html</link>
-        <guid isPermaLink="true">http://salud-zen.tk///blog/2018/01/23/Taller-Constelaciones.html</guid>
+        <link>http://localhost:4000//blog/2018/01/23/Taller-Constelaciones.html</link>
+        <guid isPermaLink="true">http://localhost:4000//blog/2018/01/23/Taller-Constelaciones.html</guid>
       </item>
     
       <item>
@@ -294,30 +318,14 @@ y ver como los cristales desestructurados del agua contaminada se estructuran al
 
 &lt;p&gt;Feliz viernes dulces estrellitas :)&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://salud-zen.tk//postres/2018/01/19/bizcocho-arrozYalgarroba.html&quot;&gt;Bizcocho de arroz y algarroba&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/postres/2018/01/19/bizcocho-arrozYalgarroba.html&quot;&gt;Bizcocho de arroz y algarroba&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Bon appetit!!&lt;/p&gt;
 
 </description>
         <pubDate>Fri, 19 Jan 2018 10:11:27 +0100</pubDate>
-        <link>http://salud-zen.tk///blog/2018/01/19/Receta-BizcochoArrozAlgarroba.html</link>
-        <guid isPermaLink="true">http://salud-zen.tk///blog/2018/01/19/Receta-BizcochoArrozAlgarroba.html</guid>
-      </item>
-    
-      <item>
-        <title>Eventos - Conferencia Gratuita y Taller de Danza</title>
-        <description>&lt;p&gt;Buenos días de Invierno!&lt;/p&gt;
-
-&lt;p&gt;Recordaos que esta semana tenemos dos eventos que no os podéis perder! Viernes 19 &lt;a href=&quot;http://salud-zen.tk//evento/2018/01/19/charla-agua.html&quot;&gt;conferencia gratuita sobre “El poder Curativo del agua”&lt;/a&gt; y el Domingo 21 &lt;a href=&quot;http://salud-zen.tk//evento/2018/01/21/taller-danza.html&quot;&gt;taller “Danza terapéutica”&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;No dejéis la reserva de plaza para el último día!&lt;/p&gt;
-
-&lt;p&gt;Feliz día estrellitas&lt;/p&gt;
-
-</description>
-        <pubDate>Mon, 15 Jan 2018 10:11:27 +0100</pubDate>
-        <link>http://salud-zen.tk///blog/2018/01/15/Eventos-CharlaGratuitaYTallerDanza.html</link>
-        <guid isPermaLink="true">http://salud-zen.tk///blog/2018/01/15/Eventos-CharlaGratuitaYTallerDanza.html</guid>
+        <link>http://localhost:4000//blog/2018/01/19/Receta-BizcochoArrozAlgarroba.html</link>
+        <guid isPermaLink="true">http://localhost:4000//blog/2018/01/19/Receta-BizcochoArrozAlgarroba.html</guid>
       </item>
     
   </channel>
