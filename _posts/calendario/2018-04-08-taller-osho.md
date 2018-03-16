@@ -12,7 +12,7 @@ date_imparticion: 08-04-2018
 horario: 10:00 - 17:00
 localizacion: Sede Principal
 author: Salud-Zen
-image: img/eventos/080418Osho
-image2: img/eventos/080418Osho_2
-
+image: img/eventos/080418Osho.jpg
+image_prop:
+image2: img/eventos/080418Osho_2.jpg
 ---

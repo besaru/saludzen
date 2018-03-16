@@ -12,5 +12,7 @@ date_imparticion: 21-01-2018
 horario: 18:00 - 20:00
 localizacion: En Movimiento - Centro Danza y Pilates (Collado Mediano)
 author: Salud-Zen
-image: img/eventos/210118TallerDanza
+image: img/eventos/210118TallerDanza.jpg
+image_prop:
+image2:
 ---

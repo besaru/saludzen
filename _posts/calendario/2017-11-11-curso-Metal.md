@@ -12,5 +12,7 @@ date_imparticion: 11 y 12-11-2017
 horario: 9:00 del Sábado - 18:00 del Domingo
 localizacion: Sede Principal
 author: Salud-Zen
-image: img/eventos/111117Metal
+image: img/eventos/111117Metal.jpg
+image_prop:
+image2:
 ---

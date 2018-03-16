@@ -12,5 +12,7 @@ date_imparticion: 07-04-2018
 horario: 16:00 - 20:00
 localizacion: Sede Principal
 author: Salud-Zen
-image: img/eventos/070418Constelaciones
+image: img/eventos/070418Constelaciones.jpg
+image_prop:
+image2:
 ---

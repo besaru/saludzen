@@ -12,5 +12,7 @@ date_imparticion: 20-01-2018
 horario: 09:00 - 19:00
 localizacion: Sede Principal
 author: Salud-Zen
-image: img/eventos/200118Introduccion
+image: img/eventos/200118Introduccion.jpg
+image_prop: img/eventos/200118Introduccion_prop.jpg
+image2:
 ---

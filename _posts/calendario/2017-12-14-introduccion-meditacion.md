@@ -12,5 +12,7 @@ date_imparticion: 14-12-2017
 horario: 17:30 - 19:00
 localizacion: Economato Macabeo - Moralzarzal
 author: Salud-Zen
-image: img/eventos/141217IntroduccionMeditacion
+image: img/eventos/141217IntroduccionMeditacion.jpg
+image_prop:
+image2:
 ---

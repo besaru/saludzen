@@ -11,7 +11,8 @@ date_text: 22 de Abril de 2018
 date_imparticion: 22-04-2018
 horario: 09:00 - 19:00
 localizacion: Sede Principal
-
 author: Salud-Zen
-image: img/eventos/220418Introduccion
+image: img/eventos/220418Introduccion.jpg
+image_prop: img/eventos/220418Introduccion_prop.jpg
+image2:
 ---

@@ -25,10 +25,25 @@ $(document).ready(function(){
 			autoPlay: 3000,
 	});
 
+	function getCompareDate() {
+	  var d = new Date(), month = '' + (d.getMonth() + 1), day = '' + d.getDate(), year = d.getFullYear();
+	  if (month.length < 2) month = '0' + month;
+	  if (day.length < 2) day = '0' + day;
+	  return [year, month, day].join('');
+	}
+
+	$('[future-date]').each(function() {
+	  if($(this).attr('future-date') < getCompareDate()){
+			$(this).remove();
+		}else{
+			$(this).clone().appendTo( "#clients-logo" );}
+	});
+
 
 	$("#clients-logo").owlCarousel({
 		autoPlay: 3000,
 		items : 4,
+
 		itemsDesktop : [1250,4],
 		itemsDesktopSmall : [989,4],
 	});
@@ -57,6 +72,5 @@ $(document).ready(function(){
         delay: 10,
         time: 1000
     });
-
 
 });

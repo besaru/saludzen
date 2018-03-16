@@ -110,40 +110,43 @@ permalink: /
       <div class="col-md-12">
         <div class="block">
           <h2>Próximos Eventos:</h2>
-          <div id="clients-logo" class="owl-carousel">
-            {% assign sorted-posts = site.posts | where: "categories","evento" %}
-            {% assign sorted-posts2 = sorted-posts | where: "public","true"|sort: 'date' %}
-            {% capture now %}{{site.time | date: '%s'}}{% endcapture %}
+          <!--  <div id="eventos" style="visibility:hidden; display: none;">-->
+              {% assign sorted-posts = site.posts | where: "categories","evento" %}
+              {% assign sorted-posts2 = sorted-posts | where: "public","true"|sort: 'date' %}
 
-            {% for post in sorted-posts2 %}
-
-            {% capture posttime %}{{post.dateVisible | date: '%s'}}{% endcapture %}
-
-            {% if now <= posttime %}
-
-            <div class="clients-logo-img">
+              {% for post in sorted-posts2 %}
+              <div id="clients-logo" class="owl-carousel" >
 
 
-              <a href="{{ site.url }}{{ site.baseurl }}/{{ post.url }}" class="bold">
 
-                <img src="{{ site.url }}{{ site.baseurl }}/{{ post.image }}_min.jpg"  alt="{{ post.title }} ">
-                <p>{{ post.name }} <br>{{ post.date_imparticion}}</p>
+              <div future-date="{{ post.date | date: '%Y%m%d' }}" >
 
 
-              </a>
+                <div class="clients-logo-img">
+                  <a href="{{ site.url }}{{ site.baseurl }}/{{ post.url }}" class="bold">
+                    {% if post.image_prop %}
+                      <img src="{{ site.url }}{{ site.baseurl }}/{{ post.image_prop}}" width="167" height="119" alt="{{ post.title }}">
+                    {% else %}
+                      <img src="{{ site.url }}{{ site.baseurl }}/{{ post.image}}"  width="167" height="119" alt="{{ post.title }} ">
+                    {%endif%}
+
+                    <p>{{ post.name }} <br>{{ post.date_imparticion}}</p>
+                  </a>
+                </div>
 
 
+              </div>
             </div>
+              {%endfor%}
 
+            <!--</div>-->
 
-            {% endif %}
-            {% endfor %}
-          </div>
         </div>
       </div>
     </div>
   </div>
 </section>
+
 
 
 <!-- Service Start -->

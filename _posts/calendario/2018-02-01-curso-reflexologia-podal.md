@@ -12,6 +12,7 @@ date_imparticion: jueves del 01-02 al 07-06-2018
 horario: 17:30 - 20:00
 localizacion: Sede Principal
 author: Salud-Zen
-image: img/eventos/010218Reflexologia1
-image2: img/eventos/010218Reflexologia2
+image: img/eventos/010218Reflexologia1.jpg
+image_prop:
+image2: img/eventos/010218Reflexologia2.jpg
 ---

@@ -12,5 +12,7 @@ date_imparticion: 19-01-2018
 horario: 19:00 - 20:00
 localizacion: Herbolario Pepi, Arroyomolinos
 author: Salud-Zen
-image: img/eventos/190118CharlaAgua
+image: img/eventos/190118CharlaAgua.jpg
+image_prop:
+image2:
 ---

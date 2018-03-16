@@ -12,5 +12,7 @@ date_imparticion: 17 y 18-03-2018
 horario: 9:00h del Sábado - 18:00h del Domingo
 localizacion: Sede Principal
 author: Salud-Zen
-image: img/eventos/170318Madera
+image: img/eventos/170318Madera.jpg
+image_prop: img/eventos/170318Madera_prop.jpg
+image2:
 ---

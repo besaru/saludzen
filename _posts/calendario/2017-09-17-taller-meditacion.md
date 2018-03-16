@@ -11,5 +11,7 @@ date_imparticion: 17-09-2017
 horario: 10:00 - 13:00
 localizacion: Sede Principal
 author: Salud-Zen
-image: img/eventos/170917TallerMeditacion
+image: img/eventos/170917TallerMeditacion.jpg
+image_prop:
+image2:
 ---

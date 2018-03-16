@@ -345,6 +345,16 @@
                    "start": "2018-04-22 09:00:00",
                    "className": "macrobiotica",
                    "url":"../evento/2018/04/22/curso-introduccion.html"
+               },
+               {
+                   "allDay": "false",
+                   "title": "Taller Práctico - Meditación Japonesa",
+                   "name":"Meditación Japonesa",
+                   "id": "C0001",
+                   "end": "2018-03-21 20:30:00",
+                   "start": "2018-03-21 19:00:00",
+                   "className": "terapias",
+                   "url":"../evento/2018/03/21/taller-meditacion-japonesa.html"
                }
 
 

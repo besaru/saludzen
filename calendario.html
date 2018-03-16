@@ -82,8 +82,11 @@ category: evento
                      <ul id="portfolio-contant-active">
                        <li>
                          <a href="{{ site.url }}{{ site.baseurl }}{{ post.url}}" class="bold">
-                             <img src="{{ site.url }}{{ site.baseurl }}/{{ post.image }}_prop.jpg"  alt="{{ post.title }} ">
-
+                           {% if post.image_prop %}
+                             <img src="{{ site.url }}{{ site.baseurl }}/{{ post.image_prop}}" alt="{{ post.title }}">
+                           {% else %}
+                             <img src="{{ site.url }}{{ site.baseurl }}/{{ post.image}}"  alt="{{ post.title }} ">
+                           {%endif%}
                              <div class="overly">
                               <div class="position-left">
 
@@ -128,7 +131,7 @@ category: evento
              </div><!--col-->
            </div><!--row-->
          {% endfor %}
-         
+
           {% endfor %}
         </div><!--block-->
       </div><!--container-->

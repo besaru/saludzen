@@ -12,5 +12,7 @@ date_imparticion: 21-04-2018
 horario: 09:00 - 19:00
 localizacion: Sede Principal
 author: Salud-Zen
-image: img/eventos/210418Setas
+image: img/eventos/210418Setas.jpg
+image_prop:
+image2:
 ---

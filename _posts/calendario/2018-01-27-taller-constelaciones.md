@@ -12,5 +12,7 @@ date_imparticion: 27-01-2018
 horario: 09:30 - 14:00
 localizacion: Sede Principal
 author: Salud-Zen
-image: img/eventos/270118Constelaciones
+image: img/eventos/270118Constelaciones.jpg
+image_prop:
+image2:
 ---

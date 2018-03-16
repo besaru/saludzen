@@ -12,5 +12,7 @@ date_imparticion: 29-09-2017
 horario: 19:00 - 20:00
 localizacion: Herbolario Pepi, Arroyomolinos
 author: Salud-Zen
-image: img/eventos/290917Conferencia4Alimentos
+image: img/eventos/290917Conferencia4Alimentos.jpg
+image_prop:
+image2:
 ---

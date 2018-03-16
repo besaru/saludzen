@@ -12,6 +12,7 @@ date_imparticion: 7 y 8-10-2017
 horario: 10:00 del Sábado - 18:00 del Domingo
 localizacion: Sede Principal
 author: Salud-Zen
-image: img/eventos/071017Deporte
-image2: img/eventos/071017Deporte_2
+image: img/eventos/071017Deporte.jpg
+image2: img/eventos/071017Deporte_2.jpg
+image_prop:
 ---

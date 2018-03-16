@@ -12,6 +12,8 @@ date_imparticion: 10 y 11 -02-2018
 horario: 9:00 del Sábado - 18:00 del Domingo
 localizacion: Sede Principal
 author: Salud-Zen
-image: img/eventos/100218Relaciones
-image2: img/eventos/100218Relaciones2
+image: img/eventos/100218Relaciones.jpg
+image_prop:
+image2: img/eventos/100218Relaciones2.jpg
+
 ---

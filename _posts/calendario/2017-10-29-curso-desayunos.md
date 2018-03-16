@@ -12,6 +12,8 @@ date_imparticion: 29-10-2017
 horario: 10:00 - 18:00
 localizacion: Sede Principal
 author: Salud-Zen
-image: img/eventos/291017Desayunos
-image2: img/eventos/291017Desayunos2
+image: img/eventos/291017Desayunos.jpg
+image2: img/eventos/291017Desayunos2.jpg
+image_prop:
+
 ---

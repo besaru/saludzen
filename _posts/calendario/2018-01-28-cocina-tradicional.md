@@ -12,5 +12,7 @@ date_imparticion: 28-01-2018
 horario: 09:00 - 18:00
 localizacion: Sede Principal
 author: Salud-Zen
-image: img/eventos/280118CocinaTradicional
+image: img/eventos/280118CocinaTradicional.jpg
+image_prop:
+image2:
 ---

@@ -12,5 +12,7 @@ date_imparticion: 17-12-2017
 horario: 10:00 - 15:00
 localizacion: Sede Adscrita
 author: Salud-Zen
-image: img/eventos/171217TallerCMNavidenayFestiva
+image: img/eventos/171217TallerCMNavidenayFestiva.jpg
+image_prop:
+image2:
 ---

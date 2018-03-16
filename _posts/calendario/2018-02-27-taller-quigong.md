@@ -12,5 +12,7 @@ date_imparticion: 27 -02-2018
 horario: 19:00 - 20:30
 localizacion: Sede Principal
 author: Salud-Zen
-image: img/eventos/270218QUIGONG
+image: img/eventos/270218QUIGONG.jpg
+image_prop:
+image2:
 ---

@@ -12,5 +12,7 @@ date_imparticion: 18-11-2017
 horario: 9:00 - 18:00
 localizacion: Sede Principal
 author: Salud-Zen
-image: img/eventos/211017TAO
+image: img/eventos/211017TAO.jpg
+image_prop:
+image2:
 ---

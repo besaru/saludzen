@@ -12,5 +12,7 @@ date_imparticion: 26-11-2017
 horario: 10:00 - 11:30
 localizacion: Sede Principal
 author: Salud-Zen
-image: img/eventos/261117Sistemico
+image: img/eventos/261117Sistemico.jpg
+image_prop:
+image2:
 ---

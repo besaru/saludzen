@@ -12,5 +12,7 @@ date_imparticion: 14-10-2017
 horario: 9:00 - 19:00
 localizacion: Sede Principal
 author: Salud-Zen
-image: img/eventos/141017Introduccion
+image: img/eventos/141017Introduccion.jpg
+image_prop: img/eventos/141017Introduccion_prop.jpg
+image2:
 ---
