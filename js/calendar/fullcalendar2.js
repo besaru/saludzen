@@ -355,6 +355,27 @@
                    "start": "2018-03-21 19:00:00",
                    "className": "terapias",
                    "url":"../evento/2018/03/21/taller-meditacion-japonesa.html"
+               },
+               {
+                   "allDay": "false",
+                   "title": "Zazen - El Arte Japonés de Meditar Sentado",
+                   "name":"Zazen",
+                   "id": "C0001",
+                   "end": "2018-04-18 20:30:00",
+                   "start": "2018-04-18 19:00:00",
+                   "className": "terapias",
+                   "url":"../evento/2018/04/18/taller-zazen.html"
+               }
+               ,
+               {
+                   "allDay": "false",
+                   "title": "Nutrición Energética y Cocina Macrobiótica para las Mamás y Nuestros Hijos",
+                   "name":"Cocina Macrobiótica para la familia",
+                   "id": "C0001",
+                   "end": "2018-05-06 18:00:00",
+                   "start": "2018-05-05 09:00:00",
+                   "className": "terapias",
+                   "url":"../evento/2018/05/05/curso-cocina-familia.html"
                }
 
 
