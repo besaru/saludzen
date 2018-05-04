@@ -12,7 +12,7 @@ date_imparticion: 16 -05-2018
 horario: 19:00 - 20:30
 localizacion: Sede Principal
 author: Salud-Zen
-image: img/eventos/160518Quigong.jpg
+image: img/eventos/160518QuiGong.jpg
 image_prop:
 image2:
 ---
