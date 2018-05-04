@@ -259,7 +259,7 @@
                 "end": "2018-02-01 20:00:00",
                 "start": "2018-02-01 17:30:00",
                 "className": "terapias",
-                "url":"../evento/2018/02/01/curso-reflexologia-podal.html",
+                "url":"../evento/2018/02/01/curso-reflexologia-podal.html"
                 /*"dow":"[4]",
                 "ranges":[{"start":"2018/02/01", "end":"2018/02/27"}]
                 "isRecurrring": "true",
@@ -277,7 +277,7 @@
                 "end": "2018-02-27 20:30:00",
                 "start": "2018-02-27 19:00:00",
                 "className": "terapias",
-                "url":"../evento/2018/02/27/taller-quigong.html",
+                "url":"../evento/2018/02/27/taller-quigong.html"
 
         },
         {
@@ -298,7 +298,7 @@
                  "end": "2018-03-18 18:00:00",
                  "start": "2018-03-17 09:00:00",
                  "className": "macrobiotica",
-                 "url":"../evento/2018/03/17/curso-madera.html",
+                 "url":"../evento/2018/03/17/curso-madera.html"
 
          },
           {
@@ -375,8 +375,7 @@
                }
                ,
 
-       {
-
+               {
                "allDay": "false",
                "title": "Qui Gong, la Sonrisa Interior",
                "name": "Qui Gong",
@@ -384,9 +383,9 @@
                "end": "2018-05-16 20:30:00",
                "start": "2018-05-16 19:00:00",
                "className": "terapias",
-               "url":"../evento/2018/05/16/taller-quigong.html",
+               "url":"../evento/2018/05/16/taller-quigong.html"
 
-       },
+             },
        {
            "allDay": "false",
            "name": "Curso Bioenergética",
