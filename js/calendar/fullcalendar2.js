@@ -160,7 +160,6 @@
               "className": "terapias",
               "url":"../evento/2017/12/21/Qui-Gong.html"
           },
-
           {
               "allDay": "false",
               "title": "Charla - El Arte de Curar con el Agua",
@@ -200,8 +199,8 @@
               "start": "2018-01-24 19:00:00",
               "className": "terapias",
               "url":"../evento/2018/01/24/taller-zazen.html"
-          }
-          ,{
+          },
+          {
               "allDay": "false",
               "title": "Taller - Constelaciones Familiares",
               "name":"Taller - Constelaciones Familiares",
@@ -210,8 +209,8 @@
               "start": "2018-01-27 09:30:00",
               "className": "macrobiotica",
               "url":"../evento/2018/01/27/taller-constelaciones.html"
-          }
-          ,{
+          },
+          {
               "allDay": "false",
               "title": "Cocina Tradicional y Energética",
               "name":"Cocina Tradicional y Energética",
@@ -250,8 +249,7 @@
               "start": "2018-02-17 14:00:00",
               "className": "macrobiotica",
               "url":"../evento/2018/02/17/taller-cosmetica.html"
-          }
-          ,
+          },
           {
                 // a recurring event
                 "allDay": "false",
@@ -269,9 +267,8 @@
                       "start": "2018/02/01",
                       "end": "2018/02/27",
                     }],*/
-                } ,
-
-        {
+            } ,
+            {
 
                 "allDay": "false",
                 "title": "Qui Gong, los 6 Sonidos Curativos",
@@ -293,8 +290,7 @@
             "className": "macrobiotica",
             "url":"../evento/2018/03/04/curso-introduccion.html"
         },
-                {
-
+        {
                  "allDay": "false",
                  "title": "Medicina Oriental del Elemento Madera",
                  "name": "Curso Elemento Madera",
@@ -304,8 +300,8 @@
                  "className": "macrobiotica",
                  "url":"../evento/2018/03/17/curso-madera.html",
 
-               },
-               {
+         },
+          {
                    "allDay": "false",
                    "title": "Taller - Constelaciones Familiares",
                    "name":"Taller - Constelaciones Familiares",
@@ -400,8 +396,7 @@
            "start": "2018-06-02 09:00:00",
            "className": "terapias",
            "url":"../evento/2018/06/02/curso-Bioenergetica.html"
-       }
-       ,
+       },
        {
            "allDay": "false",
            "title": "Nutrición Energética y Cocina Macrobiótica para Verano",
@@ -412,10 +407,6 @@
            "className": "terapias",
            "url":"../evento/2018/06/10/curso-cocina-verano.html"
        }
-
-
-
-
      ]
 ,
 /*
