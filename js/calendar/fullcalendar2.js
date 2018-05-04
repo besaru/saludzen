@@ -374,9 +374,45 @@
                    "id": "C0001",
                    "end": "2018-05-06 18:00:00",
                    "start": "2018-05-05 09:00:00",
-                   "className": "terapias",
+                   "className": "macrobiotica",
                    "url":"../evento/2018/05/05/curso-cocina-familia.html"
                }
+               ,
+
+       {
+
+               "allDay": "false",
+               "title": "Qui Gong, la Sonrisa Interior",
+               "name": "Qui Gong",
+               "id": "C0007",
+               "end": "2018-05-16 20:30:00",
+               "start": "2018-05-16 19:00:00",
+               "className": "terapias",
+               "url":"../evento/2018/05/16/taller-quigong.html",
+
+       },
+       {
+           "allDay": "false",
+           "name": "Curso Bioenergética",
+           "title": "Curso Bioenergética. La energía de la vida en nuestras manos",
+           "id": "C0001",
+           "end": "2018-06-03 18:00:00",
+           "start": "2018-06-02 09:00:00",
+           "className": "terapias",
+           "url":"../evento/2018/06/02/curso-Bioenergetica.html"
+       }
+       ,
+       {
+           "allDay": "false",
+           "title": "Nutrición Energética y Cocina Macrobiótica para Verano",
+           "name":"Cocina Macrobiótica para Verano",
+           "id": "C0001",
+           "end": "2018-06-10 18:00:00",
+           "start": "2018-06-10 09:00:00",
+           "className": "terapias",
+           "url":"../evento/2018/06/10/curso-cocina-verano.html"
+       }
+
 
 
 
