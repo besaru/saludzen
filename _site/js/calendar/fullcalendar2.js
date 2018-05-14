@@ -405,7 +405,37 @@
            "start": "2018-06-10 09:00:00",
            "className": "terapias",
            "url":"../evento/2018/06/10/curso-cocina-verano.html"
-       }
+       },
+       {
+           "allDay": "false",
+           "title": "Taller de Meditación para la Gestión del Dolor",
+           "name":"Meditación para la Gestión del Dolor",
+           "id": "C0001",
+           "end": "2018-05-23 20:30:00",
+           "start": "2018-05-23 19:00:00",
+           "className": "terapias",
+           "url":"../evento/2018/03/21/taller-meditacion-japonesa.html"
+       },
+       {
+           "allDay": "false",
+           "name": "Taller - Danza Terapéutica",
+           "title": "Taller de Danza Terapéutica, Canto Vivencial y Juego Familiar ",
+           "id": "C0001",
+           "end": "2018-06-02 13:30:00",
+           "start": "2018-06-02 11:00:00",
+           "className": "terapias",
+           "url":"../evento/2018/06/02/taller-danza.html"
+       },
+        {
+                 "allDay": "false",
+                 "title": "Taller - Constelaciones Familiares",
+                 "name":"Taller de Constelaciones Familiares",
+                 "id": "C0001",
+                 "end": "2018-06-03 10:00:00",
+                 "start": "2018-06-03 13:30:00",
+                 "className": "terapias",
+                 "url":"../evento/2018/06/03/taller-constelaciones.html"
+             }
      ]
 ,
 /*
