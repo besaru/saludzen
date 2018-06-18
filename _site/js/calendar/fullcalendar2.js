@@ -435,7 +435,38 @@
                  "start": "2018-06-03 13:30:00",
                  "className": "terapias",
                  "url":"../evento/2018/06/03/taller-constelaciones.html"
-             }
+             },
+             {
+                 "allDay": "false",
+                 "title": "Taller - Constelaciones Familiares",
+                 "name":"Taller - Constelaciones Familiares",
+                 "id": "C0001",
+                 "end": "2018-06-14 20:00:00",
+                 "start": "2018-06-14 17:30:00",
+                 "className": "terapias",
+                 "url":"../evento/2018/06/14/taller-constelaciones.html"
+             },
+             {
+               "allDay": "false",
+               "name": "Qui Gong ",
+               "title": "Qui Gong - Taller práctico",
+               "id": "C0001",
+               "end": "2018-06-20 19:30:00",
+             "start": "2018-06-20 18:00:00",
+             "className": "terapias",
+             "url":"../evento/2018/06/20/taller-quigong.html"
+         },
+         {
+             "allDay": "false",
+             "title": "Taller de Cocina Energética Saludable. Cocina de Niños para Adultos",
+             "name":"Cocina de Niños para Adultos",
+             "id": "C0001",
+             "end": "2018-06-30 17:30:00",
+             "start": "2018-06-30 10:00:00",
+             "className": "macrobiotica",
+             "url":"../evento/2018/06/30/curso-cocina-ninos.html"
+         }
+
      ]
 ,
 /*
