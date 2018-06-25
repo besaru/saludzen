@@ -458,8 +458,8 @@
          },
          {
              "allDay": "false",
-             "title": "Taller de Cocina Energética Saludable. Cocina de Niños para Adultos",
              "name":"Cocina de Niños para Adultos",
+             "title": "Taller de Cocina Energética Saludable. Cocina de Niños para Adultos",
              "id": "C0001",
              "end": "2018-06-30 17:30:00",
              "start": "2018-06-30 10:00:00",
