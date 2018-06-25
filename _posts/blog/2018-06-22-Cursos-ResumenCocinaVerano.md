@@ -16,23 +16,23 @@ Después del verano os espero con muchos más monográficos de Cocina Macrobiót
 
 Feliz Verano!!! 😉
 
-Ensalada de verano de arroz rojo y sojanesa de menta!!
+-Ensalada de verano de arroz rojo y sojanesa de menta!!
 ![Ensalada de verano de arroz rojo y sojanesa de menta!!][img1]
-Gazpacho Macrobiótico!
+-Gazpacho Macrobiótico!
 ![Gazpacho Macrobiótico!][img2]
-Licuado Saludable de verduras y fruta!
+-Licuado Saludable de verduras y fruta!
 ![Licuado Saludable de verduras y fruta!][img3]
-Gelatina de uva roja con frutas, batido de frutos rojos y licuado verde!
+-Gelatina de uva roja con frutas, batido de frutos rojos y licuado verde!
 ![Gelatina de uva roja con frutas, batido de frutos rojos y licuado verde!][img4]
-Flan de platano, cerezas al vapor glaseadas, helado de fresa y amasake de mijo y helado de jengibre con canela!! 😋
+-Flan de platano, cerezas al vapor glaseadas, helado de fresa y amasake de mijo y helado de jengibre con canela!! 😋
 ![Flan de platano, cerezas al vapor glaseadas, helado de fresa y amasake de mijo y helado de jengibre con canela!! 😋][img5]
-Cerezas Glaseadas!!
+-Cerezas Glaseadas!!
 ![Cerezas Glaseadas!!][img6]
-Plato Macrobiotico de degustación!
+-Plato Macrobiotico de degustación!
 ![Plato Macrobiotico de degustación!][img7]
-Menu de Verano curativo!!! Gazpacho macrobiótico, pan de quinoa para el verano, tabule de bulgur de espelta, ensalada de arroz rojo, espaguetis de verduras al wok con tofu de sésamo y almendras!
+-Menú de Verano curativo!!! Gazpacho macrobiótico, pan de quinoa para el verano, tabule de bulgur de espelta, ensalada de arroz rojo, espaguetis de verduras al wok con tofu de sésamo y almendras!
 ![Menu de Verano curativo!!! Gazpacho macrobiótico, pan de quinoa para el verano, tabule de bulgur de espelta, ensalada de arroz rojo, espaguetis de verduras al wok con tofu de sésamo y almendras!][img8]
-Preparacion de ingredientes para hacer helado de fresa y amasake de mijo!
+-Preparación de ingredientes para hacer helado de fresa y amasake de mijo!
 ![Preparacion de ingredientes para hacer helado de fresa y amasake de mijo!][img9]
 
 [img1]: {{site.url}}{{site.baseurl}}/img/blog/220618Ensalada.jpg "Ensalada de verano de arroz rojo y sojanesa de menta!!"
