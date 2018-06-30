@@ -1,8 +1,8 @@
 ---
 layout: post
 categories: blog
-title: ¡¡Frutos Rojos!! -Cuándo y cómo tomarlos, cuáles son y que beneficios nos aportan desde un enfoque holístico
-subtitle: ¡¡Frutos Rojos!! -Cuándo y cómo tomarlos, cuáles son y que beneficios nos aportan desde un enfoque holístico
+title: ¡¡Frutos Rojos!! - Cuándo y cómo tomarlos, cuáles son y que beneficios nos aportan desde un enfoque holístico
+subtitle: ¡¡Frutos Rojos!! - Cuándo y cómo tomarlos, cuáles son y que beneficios nos aportan desde un enfoque holístico
 date: 2018-06-27 10:11:27
 author: Salud-Zen
 image: img/blog/20180627FrutosRojos.jpg
