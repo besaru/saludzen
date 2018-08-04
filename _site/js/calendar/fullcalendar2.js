@@ -465,6 +465,86 @@
              "start": "2018-06-30 10:00:00",
              "className": "macrobiotica",
              "url":"../evento/2018/06/30/curso-cocina-ninos.html"
+         },
+         {
+             "allDay": "false",
+             "title": "Conferencia - Nutrición",
+             "name":"Conferencia - Macrobiótica, La Revolución Pacífica",
+             "id": "C0001",
+             "end": "2018-09-15 13:00:00",
+             "start": "2018-09-15 11:00:00",
+             "className": "macrobiotica",
+             "url":"../evento/2018/09/15/conferencia-nutricion.html"
+         },
+         {
+             "allDay": "false",
+             "title": "Practica Zen - Zazen y Kinhin",
+             "name":"Practica Zen",
+             "id": "C0001",
+             "end": "2018-09-19 20:30:00",
+             "start": "2018-09-19 19:00:00",
+             "className": "terapias",
+             "url":"../evento/2018/09/19/taller-zazen.html"
+         },
+         {
+             "allDay": "false",
+             "title": "Curso de Introducción. Nutrición Energética, Salud y Cocina Macrobiótica",
+             "name":"Curso de Introducción",
+             "id": "C0001",
+             "end": "2018-09-30 19:00:00",
+             "start": "2018-09-30 09:00:00",
+             "className": "macrobiotica",
+             "url":"../evento/2018/09/30/curso-introduccion.html"
+         },
+         {
+             "allDay": "false",
+             "title": "Nutrición Energética y Cocina Macrobiótica para Otoño",
+             "name":"Cocina Macrobiótica para Otoño",
+             "id": "C0001",
+             "end": "2018-10-07 18:00:00",
+             "start": "2018-10-07 09:00:00",
+             "className": "macrobiotica",
+             "url":"../evento/2018/10/07/curso-cocina-otono.html"
+         },
+         {
+             "allDay": "false",
+             "name": "Curso Chi Nei Tsang",
+             "title": "Curso Chi Nei Tsang - Dia1/3",
+             "id": "C0001",
+             "end": "2018-10-20 19:00:00",
+             "start": "2018-10-20 09:00:00",
+             "className": "terapias",
+             "url":"../evento/2018/10/20/curso-CHI.html"
+         },
+         {
+             "allDay": "false",
+             "name": "Curso Chi Nei Tsang",
+             "title": "Curso Chi Nei Tsang - Dia2/3",
+             "id": "C0001",
+             "end": "2018-10-21 14:00:00",
+             "start": "2018-10-21 09:00:00",
+             "className": "terapias",
+             "url":"../evento/2018/10/20/curso-CHI.html"
+         },
+         {
+             "allDay": "false",
+             "name": "Curso Chi Nei Tsang",
+             "title": "Curso Chi Nei Tsang - Dia3/3",
+             "id": "C0001",
+             "end": "2018-11-11 14:00:00",
+             "start": "2018-11-11 09:00:00",
+             "className": "terapias",
+             "url":"../evento/2018/10/20/curso-CHI.html"
+         },
+         {
+             "allDay": "false",
+             "name": "Taller de Cocina Macrobiótica Navideña y Festiva",
+             "title": "Cocina Macrobiótica Navideña y Festiva",
+             "id": "C0001",
+             "end": "2018-12-16 17:00:00",
+             "start": "2018-12-16 09:00:00",
+             "className": "macrobiotica",
+             "url":"../evento/2018/12/16/taller-navidad.html"
          }
 
      ]

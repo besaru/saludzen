@@ -3,9 +3,38 @@
   <channel>
     <title>Salud-Zen, Escuela de Luz y Consciencia</title>
     <description></description>
-    <link>http://salud-zen.tk/</link>
-    <atom:link href="http://salud-zen.tk//feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
 
+    
+      <item>
+        <title>Receta - Menú Macrobiótico Completo</title>
+        <description>&lt;p&gt;Os compartimos la receta de un &lt;a href=&quot;http://localhost:4000/principal/2018/07/10/menu-completo.html&quot;&gt;MENÚ MACROBIÓTICO COMPLETO&lt;/a&gt;, compuesto de :&lt;/p&gt;
+
+&lt;p&gt;MEZCLUM DE ARROCES SALVAJES&lt;/p&gt;
+
+&lt;p&gt;SEITAN A LA CURCUMA&lt;/p&gt;
+
+&lt;p&gt;ESTOFADO DE CALABACIN CON ESPAGUETI DE MAR&lt;/p&gt;
+
+&lt;p&gt;ENSALADA FERMENTADA DE ZANAHORIA Y NABO&lt;/p&gt;
+
+&lt;p&gt;GOMASIO NEGRO&lt;/p&gt;
+
+&lt;p&gt;Bon Appétit!! 😋😋😋&lt;/p&gt;
+
+&lt;p&gt;Para todos aquellos que a través de la alimentación sana, natural y biológica están viviendo cada día un poco más despiertos y conscientes.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Compartelo si realmente sientes que la Macrobiótica nos ayuda en nuestro camino del autodescubrimiento&lt;/em&gt;
+Namaste&lt;/p&gt;
+
+&lt;p&gt;Bon appetit!!&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 10 Jul 2018 11:11:27 +0200</pubDate>
+        <link>http://localhost:4000//blog/2018/07/10/Receta-MenuMacrobioticoCompleto.html</link>
+        <guid isPermaLink="true">http://localhost:4000//blog/2018/07/10/Receta-MenuMacrobioticoCompleto.html</guid>
+      </item>
     
       <item>
         <title>Artículo - El Mundo de los Cambios</title>
@@ -43,7 +72,10 @@
 
 &lt;p style=&quot;text-align:center;font-size:16px&quot;&gt;
 &lt;b&gt;Txiki Soto &lt;/b&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align:center;font-size:14px&quot;&gt; &lt;i&gt;Terapeuta Holístico - Coach de Salud&lt;br /&gt;
+
+&lt;p style=&quot;text-align:center;font-size:14px&quot;&gt; &lt;i&gt;
+Director y Profesor de Salud-Zen&lt;br /&gt;
+Terapeuta Holístico - Coach de Salud&lt;br /&gt;
 &lt;br /&gt;Escuela de Macrobiótica, Medicina Natural y Oriental
 &lt;br /&gt;Escuela de Terapias Naturales y Artes Orientales
 &lt;/i&gt; &lt;/p&gt;
@@ -56,16 +88,16 @@
 &lt;/p&gt;
 
 &lt;hr /&gt;
-&lt;p&gt;¿Te ha gustado? Puedes descargarlo en pdf en el siguiente enlace: &lt;a href=&quot;http://salud-zen.tk//img/blog/2018-06-30-articulo-el-mundo-de-los-cambios.pdf&quot;&gt;EL MUNDO DE LOS CAMBIOS.pdf&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;¿Te ha gustado? Puedes descargarlo en pdf en el siguiente enlace: &lt;a href=&quot;http://localhost:4000/img/blog/2018-06-30-articulo-el-mundo-de-los-cambios.pdf&quot;&gt;EL MUNDO DE LOS CAMBIOS.pdf&lt;/a&gt;.&lt;/p&gt;
 
 </description>
         <pubDate>Sat, 30 Jun 2018 15:00:27 +0200</pubDate>
-        <link>http://salud-zen.tk///blog/2018/06/30/articulo-el-mundo-de-los-cambios.html</link>
-        <guid isPermaLink="true">http://salud-zen.tk///blog/2018/06/30/articulo-el-mundo-de-los-cambios.html</guid>
+        <link>http://localhost:4000//blog/2018/06/30/articulo-el-mundo-de-los-cambios.html</link>
+        <guid isPermaLink="true">http://localhost:4000//blog/2018/06/30/articulo-el-mundo-de-los-cambios.html</guid>
       </item>
     
       <item>
-        <title>¡¡Frutos Rojos!! -Cuándo y cómo tomarlos, cuáles son y que beneficios nos aportan desde un enfoque holístico</title>
+        <title>¡¡Frutos Rojos!! - Cuándo y cómo tomarlos, cuáles son y que beneficios nos aportan desde un enfoque holístico</title>
         <description>&lt;p&gt;¡¡FRUTOS ROJOS!!&lt;br /&gt;
 -Cuándo y cómo tomarlos, cuáles son y que beneficios nos aportan desde un enfoque holístico-&lt;/p&gt;
 
@@ -79,8 +111,8 @@
 -Alma de Tao-&lt;/p&gt;
 </description>
         <pubDate>Wed, 27 Jun 2018 12:11:27 +0200</pubDate>
-        <link>http://salud-zen.tk///blog/2018/06/27/FrutosRojos.html</link>
-        <guid isPermaLink="true">http://salud-zen.tk///blog/2018/06/27/FrutosRojos.html</guid>
+        <link>http://localhost:4000//blog/2018/06/27/FrutosRojos.html</link>
+        <guid isPermaLink="true">http://localhost:4000//blog/2018/06/27/FrutosRojos.html</guid>
       </item>
     
       <item>
@@ -94,28 +126,28 @@ Después del verano os espero con muchos más monográficos de Cocina Macrobiót
 &lt;p&gt;Feliz Verano!!! 😉&lt;/p&gt;
 
 &lt;p&gt;-Ensalada de verano de arroz rojo y sojanesa de menta!!
-&lt;img src=&quot;http://salud-zen.tk//img/blog/220618Ensalada.jpg&quot; alt=&quot;Ensalada de verano de arroz rojo y sojanesa de menta!!&quot; title=&quot;Ensalada de verano de arroz rojo y sojanesa de menta!!&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/img/blog/220618Ensalada.jpg&quot; alt=&quot;Ensalada de verano de arroz rojo y sojanesa de menta!!&quot; title=&quot;Ensalada de verano de arroz rojo y sojanesa de menta!!&quot; /&gt;
 -Gazpacho Macrobiótico!
-&lt;img src=&quot;http://salud-zen.tk//img/blog/220618Gazpacho.jpg&quot; alt=&quot;Gazpacho Macrobiótico!&quot; title=&quot;Gazpacho Macrobiótico!&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/img/blog/220618Gazpacho.jpg&quot; alt=&quot;Gazpacho Macrobiótico!&quot; title=&quot;Gazpacho Macrobiótico!&quot; /&gt;
 -Licuado Saludable de verduras y fruta!
-&lt;img src=&quot;http://salud-zen.tk//img/blog/220618Licuado.jpg&quot; alt=&quot;Licuado Saludable de verduras y fruta!&quot; title=&quot;Licuado Saludable de verduras y fruta!&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/img/blog/220618Licuado.jpg&quot; alt=&quot;Licuado Saludable de verduras y fruta!&quot; title=&quot;Licuado Saludable de verduras y fruta!&quot; /&gt;
 -Gelatina de uva roja con frutas, batido de frutos rojos y licuado verde!
-&lt;img src=&quot;http://salud-zen.tk//img/blog/220618Gelatina.jpg&quot; alt=&quot;Gelatina de uva roja con frutas, batido de frutos rojos y licuado verde!&quot; title=&quot;Gelatina de uva roja con frutas, batido de frutos rojos y licuado verde!&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/img/blog/220618Gelatina.jpg&quot; alt=&quot;Gelatina de uva roja con frutas, batido de frutos rojos y licuado verde!&quot; title=&quot;Gelatina de uva roja con frutas, batido de frutos rojos y licuado verde!&quot; /&gt;
 -Flan de platano, cerezas al vapor glaseadas, helado de fresa y amasake de mijo y helado de jengibre con canela!! 😋
-&lt;img src=&quot;http://salud-zen.tk//img/blog/220618Flan.jpg&quot; alt=&quot;Flan de platano, cerezas al vapor glaseadas, helado de fresa y amasake de mijo y helado de jengibre con canela!! 😋&quot; title=&quot;Flan de platano, cerezas al vapor glaseadas, helado de fresa y amasake de mijo y helado de jengibre con canela!! 😋&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/img/blog/220618Flan.jpg&quot; alt=&quot;Flan de platano, cerezas al vapor glaseadas, helado de fresa y amasake de mijo y helado de jengibre con canela!! 😋&quot; title=&quot;Flan de platano, cerezas al vapor glaseadas, helado de fresa y amasake de mijo y helado de jengibre con canela!! 😋&quot; /&gt;
 -Cerezas Glaseadas!!
-&lt;img src=&quot;http://salud-zen.tk//img/blog/220618Cerezas.jpg&quot; alt=&quot;Cerezas Glaseadas!!&quot; title=&quot;Cerezas Glaseadas!!&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/img/blog/220618Cerezas.jpg&quot; alt=&quot;Cerezas Glaseadas!!&quot; title=&quot;Cerezas Glaseadas!!&quot; /&gt;
 -Plato Macrobiotico de degustación!
-&lt;img src=&quot;http://salud-zen.tk//img/blog/220618Degustacion.jpg&quot; alt=&quot;Plato Macrobiotico de degustación!&quot; title=&quot;Plato Macrobiotico de degustación!&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/img/blog/220618Degustacion.jpg&quot; alt=&quot;Plato Macrobiotico de degustación!&quot; title=&quot;Plato Macrobiotico de degustación!&quot; /&gt;
 -Menú de Verano curativo!!! Gazpacho macrobiótico, pan de quinoa para el verano, tabule de bulgur de espelta, ensalada de arroz rojo, espaguetis de verduras al wok con tofu de sésamo y almendras!
-&lt;img src=&quot;http://salud-zen.tk//img/blog/220618Menu.jpg&quot; alt=&quot;Menu de Verano curativo!!! Gazpacho macrobiótico, pan de quinoa para el verano, tabule de bulgur de espelta, ensalada de arroz rojo, espaguetis de verduras al wok con tofu de sésamo y almendras!&quot; title=&quot;Menu de Verano curativo!!! Gazpacho macrobiótico, pan de quinoa para el verano, tabule de bulgur de espelta, ensalada de arroz rojo, espaguetis de verduras al wok con tofu de sésamo y almendras!&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/img/blog/220618Menu.jpg&quot; alt=&quot;Menu de Verano curativo!!! Gazpacho macrobiótico, pan de quinoa para el verano, tabule de bulgur de espelta, ensalada de arroz rojo, espaguetis de verduras al wok con tofu de sésamo y almendras!&quot; title=&quot;Menu de Verano curativo!!! Gazpacho macrobiótico, pan de quinoa para el verano, tabule de bulgur de espelta, ensalada de arroz rojo, espaguetis de verduras al wok con tofu de sésamo y almendras!&quot; /&gt;
 -Preparación de ingredientes para hacer helado de fresa y amasake de mijo!
-&lt;img src=&quot;http://salud-zen.tk//img/blog/220618Preparacion.jpg&quot; alt=&quot;Preparacion de ingredientes para hacer helado de fresa y amasake de mijo!&quot; title=&quot;Preparacion de ingredientes para hacer helado de fresa y amasake de mijo!&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;http://localhost:4000/img/blog/220618Preparacion.jpg&quot; alt=&quot;Preparacion de ingredientes para hacer helado de fresa y amasake de mijo!&quot; title=&quot;Preparacion de ingredientes para hacer helado de fresa y amasake de mijo!&quot; /&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Fri, 22 Jun 2018 11:11:27 +0200</pubDate>
-        <link>http://salud-zen.tk///blog/2018/06/22/Cursos-ResumenCocinaVerano.html</link>
-        <guid isPermaLink="true">http://salud-zen.tk///blog/2018/06/22/Cursos-ResumenCocinaVerano.html</guid>
+        <link>http://localhost:4000//blog/2018/06/22/Cursos-ResumenCocinaVerano.html</link>
+        <guid isPermaLink="true">http://localhost:4000//blog/2018/06/22/Cursos-ResumenCocinaVerano.html</guid>
       </item>
     
       <item>
@@ -124,65 +156,65 @@ Después del verano os espero con muchos más monográficos de Cocina Macrobiót
 
 &lt;p&gt;Os recordamos los próximos talleres que se llevarán a cabo:&lt;/p&gt;
 
-&lt;p&gt;El 20 de Junio, de 19 a 20.30h, como cada tercer miercoles de mes para el GRUPO DE PRACTICA TAO-ZEN: &lt;a href=&quot;http://salud-zen.tk//evento/2018/06/20/taller-quigong.html&quot;&gt;Qui Gong, el Arte Milenario de la Salud y la Vitalidad. Taller Práctico&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;El 20 de Junio, de 19 a 20.30h, como cada tercer miercoles de mes para el GRUPO DE PRACTICA TAO-ZEN: &lt;a href=&quot;http://localhost:4000/evento/2018/06/20/taller-quigong.html&quot;&gt;Qui Gong, el Arte Milenario de la Salud y la Vitalidad. Taller Práctico&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;El 30 de Junio, de 10 a 17.30h, &lt;a href=&quot;http://salud-zen.tk//evento/2018/06/30/curso-cocina-ninos.html&quot;&gt;Taller de Cocina Energética. Cocina de Niños para Adultos&lt;/a&gt; rica, rica, para disfrutar del calorcito del verano y las vacaciones de los peques a los que podréis traer si queréis por supuesto.&lt;/p&gt;
+&lt;p&gt;El 30 de Junio, de 10 a 17.30h, &lt;a href=&quot;http://localhost:4000/evento/2018/06/30/curso-cocina-ninos.html&quot;&gt;Taller de Cocina Energética. Cocina de Niños para Adultos&lt;/a&gt; rica, rica, para disfrutar del calorcito del verano y las vacaciones de los peques a los que podréis traer si queréis por supuesto.&lt;/p&gt;
 
 &lt;p&gt;Recordad que es imprescindible hacer la reserva de plaza.&lt;/p&gt;
 
-&lt;p&gt;Estaremos encantados de &lt;a href=&quot;http://salud-zen.tk//contact&quot;&gt;recibir las sugerencias&lt;/a&gt; que nos queráis aportar.&lt;/p&gt;
+&lt;p&gt;Estaremos encantados de &lt;a href=&quot;http://localhost:4000/contact&quot;&gt;recibir las sugerencias&lt;/a&gt; que nos queráis aportar.&lt;/p&gt;
 
 &lt;p&gt;Un abrazo enorme y feliz día&lt;/p&gt;
 
 </description>
         <pubDate>Tue, 19 Jun 2018 12:11:27 +0200</pubDate>
-        <link>http://salud-zen.tk///blog/2018/06/19/UltimosCursosJunio.html</link>
-        <guid isPermaLink="true">http://salud-zen.tk///blog/2018/06/19/UltimosCursosJunio.html</guid>
+        <link>http://localhost:4000//blog/2018/06/19/UltimosCursosJunio.html</link>
+        <guid isPermaLink="true">http://localhost:4000//blog/2018/06/19/UltimosCursosJunio.html</guid>
       </item>
     
       <item>
         <title>Receta - Paella Rica, Biológica, Saludable y Fácil de hacer!!</title>
-        <description>&lt;p&gt;Aquí os dejo una Recetita de una Paella Rica, Biológica, Saludable y Fácil de hacer!! &lt;a href=&quot;http://salud-zen.tk//principal/2018/06/18/paella-macrobiotica.html&quot;&gt;Paella Macrobiótica&lt;/a&gt;.&lt;/p&gt;
+        <description>&lt;p&gt;Aquí os dejo una Recetita de una Paella Rica, Biológica, Saludable y Fácil de hacer!! &lt;a href=&quot;http://localhost:4000/principal/2018/06/18/paella-macrobiotica.html&quot;&gt;Paella Macrobiótica&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Bon appétit!! 😋😋😋&lt;/p&gt;
 
 </description>
         <pubDate>Mon, 18 Jun 2018 12:11:27 +0200</pubDate>
-        <link>http://salud-zen.tk///blog/2018/06/18/Receta-PaellaMacrobiotica.html</link>
-        <guid isPermaLink="true">http://salud-zen.tk///blog/2018/06/18/Receta-PaellaMacrobiotica.html</guid>
+        <link>http://localhost:4000//blog/2018/06/18/Receta-PaellaMacrobiotica.html</link>
+        <guid isPermaLink="true">http://localhost:4000//blog/2018/06/18/Receta-PaellaMacrobiotica.html</guid>
       </item>
     
       <item>
         <title>Resumen - Curso Bioenergética</title>
         <description>&lt;p&gt;Aquí os dejo unas fotos como resumen del curso de BIOENERGETICA. Fue una experiencia bonita, potente y profunda descubrir juntos como a través de nuestras manos podemos establecer comunicación con el inconsciente de las personas y devolverles el movimiento que necesitan para armonizar su cuerpo, alma y espíritu. Gracias a todo el grupo por su apertura mental y trabajar con el corazón para sentir y liberar otros corazones!!! 💚😊&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://salud-zen.tk//img/blog/110618Bioenergetica1.jpg&quot; alt=&quot;Bioenergetica1&quot; title=&quot;Bioenergética-1&quot; /&gt;
-&lt;img src=&quot;http://salud-zen.tk//img/blog/110618Bioenergetica2.jpg&quot; alt=&quot;Bioenergetica2&quot; title=&quot;Bioenergética-2&quot; /&gt;
-&lt;img src=&quot;http://salud-zen.tk//img/blog/110618Bioenergetica3.jpg&quot; alt=&quot;Bioenergetica3&quot; title=&quot;Bioenergética-3&quot; /&gt;
-&lt;img src=&quot;http://salud-zen.tk//img/blog/110618Bioenergetica4.jpg&quot; alt=&quot;Bioenergetica4&quot; title=&quot;Bioenergética-4&quot; /&gt;
-&lt;img src=&quot;http://salud-zen.tk//img/blog/110618Bioenergetica5.jpg&quot; alt=&quot;Bioenergetica5&quot; title=&quot;Bioenergética-5&quot; /&gt;
-&lt;img src=&quot;http://salud-zen.tk//img/blog/110618Bioenergetica6.jpg&quot; alt=&quot;Bioenergetica6&quot; title=&quot;Bioenergética-6&quot; /&gt;
-&lt;img src=&quot;http://salud-zen.tk//img/blog/110618Bioenergetica7.jpg&quot; alt=&quot;Bioenergetica7&quot; title=&quot;Bioenergética-7&quot; /&gt;
-&lt;img src=&quot;http://salud-zen.tk//img/blog/110618Bioenergetica8.jpg&quot; alt=&quot;Bioenergetica8&quot; title=&quot;Bioenergética-8&quot; /&gt;
-&lt;img src=&quot;http://salud-zen.tk//img/blog/110618Bioenergetica9.jpg&quot; alt=&quot;Bioenergetica9&quot; title=&quot;Bioenergética-9&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/blog/110618Bioenergetica1.jpg&quot; alt=&quot;Bioenergetica1&quot; title=&quot;Bioenergética-1&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/img/blog/110618Bioenergetica2.jpg&quot; alt=&quot;Bioenergetica2&quot; title=&quot;Bioenergética-2&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/img/blog/110618Bioenergetica3.jpg&quot; alt=&quot;Bioenergetica3&quot; title=&quot;Bioenergética-3&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/img/blog/110618Bioenergetica4.jpg&quot; alt=&quot;Bioenergetica4&quot; title=&quot;Bioenergética-4&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/img/blog/110618Bioenergetica5.jpg&quot; alt=&quot;Bioenergetica5&quot; title=&quot;Bioenergética-5&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/img/blog/110618Bioenergetica6.jpg&quot; alt=&quot;Bioenergetica6&quot; title=&quot;Bioenergética-6&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/img/blog/110618Bioenergetica7.jpg&quot; alt=&quot;Bioenergetica7&quot; title=&quot;Bioenergética-7&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/img/blog/110618Bioenergetica8.jpg&quot; alt=&quot;Bioenergetica8&quot; title=&quot;Bioenergética-8&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/img/blog/110618Bioenergetica9.jpg&quot; alt=&quot;Bioenergetica9&quot; title=&quot;Bioenergética-9&quot; /&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Mon, 11 Jun 2018 11:11:27 +0200</pubDate>
-        <link>http://salud-zen.tk///blog/2018/06/11/Cursos-ResumenCursoBioenerg%C3%A9tica.html</link>
-        <guid isPermaLink="true">http://salud-zen.tk///blog/2018/06/11/Cursos-ResumenCursoBioenerg%C3%A9tica.html</guid>
+        <link>http://localhost:4000//blog/2018/06/11/Cursos-ResumenCursoBioenerg%C3%A9tica.html</link>
+        <guid isPermaLink="true">http://localhost:4000//blog/2018/06/11/Cursos-ResumenCursoBioenerg%C3%A9tica.html</guid>
       </item>
     
       <item>
         <title>Cursos - Bioenergética</title>
-        <description>&lt;p&gt;Ayudar a los demás ayudándonos a nosotros mismos. La &lt;a href=&quot;http://salud-zen.tk//evento/2018/06/02/curso-bioenergetica.html&quot;&gt;BIOENERGETICA&lt;/a&gt; nos permite conectar con nuestra propia Naturaleza, nuestro Poder. Así Rescatamos la Fe y la Confianza que llevamos dentro y la utilizamos para Armonizar a los demás a través de nuestras Manos y el Sentir de nuestro Corazón.
+        <description>&lt;p&gt;Ayudar a los demás ayudándonos a nosotros mismos. La &lt;a href=&quot;http://localhost:4000/evento/2018/06/02/curso-bioenergetica.html&quot;&gt;BIOENERGETICA&lt;/a&gt; nos permite conectar con nuestra propia Naturaleza, nuestro Poder. Así Rescatamos la Fe y la Confianza que llevamos dentro y la utilizamos para Armonizar a los demás a través de nuestras Manos y el Sentir de nuestro Corazón.
 Os animáis???&lt;/p&gt;
 
 &lt;p&gt;Si estás interesado, no olvides &lt;a href=&quot;mailto:estilodevida@salud-zen.com?Subject=Curso Bioenergética-Reserva de Plaza&amp;amp;body=%0A%0A Me gustaría reservar una plaza para el Curso de Bioenergética (2 y 3 de Junio'18). Mis datos Personales son:%0A%0A   -Nombre:%0A%0A   -Apellidos:%0A%0A   -Fecha de nacimiento:%0A%0A   -Teléfono:%0A%0A    -Correo Electrónico:%0A%0A&quot;&gt;reservar tu plaza&lt;/a&gt;.&lt;/p&gt;
 
 </description>
         <pubDate>Fri, 18 May 2018 12:11:27 +0200</pubDate>
-        <link>http://salud-zen.tk///blog/2018/05/18/Curso-Bioenergetica.html</link>
-        <guid isPermaLink="true">http://salud-zen.tk///blog/2018/05/18/Curso-Bioenergetica.html</guid>
+        <link>http://localhost:4000//blog/2018/05/18/Curso-Bioenergetica.html</link>
+        <guid isPermaLink="true">http://localhost:4000//blog/2018/05/18/Curso-Bioenergetica.html</guid>
       </item>
     
       <item>
@@ -211,18 +243,18 @@ Quiero Paz, Amor, Compasión, Salud, Alegría, Confianza, Coraje y Felicidad en 
 Quiero convertirme en lo que anhela ser el Mundo y en la Luz que ilumine el camino de los que más lo necesiten, y así ayudarles a liberarse de su sufrimiento.&lt;/p&gt;
 
 &lt;hr /&gt;
-&lt;p&gt;¿Te ha gustado? Puedes descargarlo en pdf en el siguiente enlace: &lt;a href=&quot;http://salud-zen.tk//img/blog/2018-05-05-mantra-vida.pdf&quot;&gt;Mantra De Vida.pdf&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;¿Te ha gustado? Puedes descargarlo en pdf en el siguiente enlace: &lt;a href=&quot;http://localhost:4000/img/blog/2018-05-05-mantra-vida.pdf&quot;&gt;Mantra De Vida.pdf&lt;/a&gt;.&lt;/p&gt;
 
 </description>
         <pubDate>Sat, 05 May 2018 18:00:27 +0200</pubDate>
-        <link>http://salud-zen.tk///blog/2018/05/05/mantra-de-vida.html</link>
-        <guid isPermaLink="true">http://salud-zen.tk///blog/2018/05/05/mantra-de-vida.html</guid>
+        <link>http://localhost:4000//blog/2018/05/05/mantra-de-vida.html</link>
+        <guid isPermaLink="true">http://localhost:4000//blog/2018/05/05/mantra-de-vida.html</guid>
       </item>
     
       <item>
         <title>Taller Práctico - QuiGong</title>
         <description>&lt;p&gt;Buenos días!!! 🤪
-Os espero el &lt;b&gt;16 de Mayo de 19 a 20.30h&lt;/b&gt; como cada tercer miercoles de mes para el &lt;a href=&quot;http://salud-zen.tk//evento/2018/05/16/QuiGong.html&quot;&gt;GRUPO DE PRACTICA TAO-ZEN&lt;/a&gt;.&lt;/p&gt;
+Os espero el &lt;b&gt;16 de Mayo de 19 a 20.30h&lt;/b&gt; como cada tercer miercoles de mes para el &lt;a href=&quot;http://localhost:4000/evento/2018/05/16/QuiGong.html&quot;&gt;GRUPO DE PRACTICA TAO-ZEN&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;mailto:estilodevida@salud-zen.com?Subject=Taller QuiGong-Reserva de Plaza&amp;amp;body=%0A%0A Me gustaría reservar una plaza para el Taller Práctico de QuiGong-La Sonrisa Interior (16-Mayo'18). Mis datos Personales son:%0A%0A   -Nombre:%0A%0A   -Apellidos:%0A%0A   -Fecha de nacimiento:%0A%0A   -Teléfono:%0A%0A   -Correo Electrónico:%0A%0A &quot;&gt;Confirmar asistencia&lt;/a&gt;!! 💚&lt;/p&gt;
 
@@ -230,29 +262,8 @@ Os espero el &lt;b&gt;16 de Mayo de 19 a 20.30h&lt;/b&gt; como cada tercer mierc
 
 </description>
         <pubDate>Fri, 04 May 2018 13:11:27 +0200</pubDate>
-        <link>http://salud-zen.tk///blog/2018/05/04/taller-meditacion-quigong.html</link>
-        <guid isPermaLink="true">http://salud-zen.tk///blog/2018/05/04/taller-meditacion-quigong.html</guid>
-      </item>
-    
-      <item>
-        <title>Taller Práctico - Meditación Japonesa</title>
-        <description>&lt;p&gt;Buenos días!! ☺
-El GRUPO DE PRÁCTICA DE TAO-ZEN será a partir de ahora los TERCEROS MIERCOLES DE CADA MES. Asi que os espero el &lt;b&gt;21 de Marzo de 19h a 20.30h&lt;/b&gt; en donde veremos la &lt;a href=&quot;http://salud-zen.tk//evento/2018/03/21/MeditacionJaponesa.html&quot;&gt;Meditación Japonesa&lt;/a&gt;, antiguo Arte de Curar armonizando Cuerpo, Mente y Espíritu.&lt;/p&gt;
-
-&lt;p&gt;Este dia haremos un trabajo muy especial y potente para mejorar cualquier ENFERMEDAD CRONICA DEGENERATIVA.&lt;/p&gt;
-
-&lt;p&gt;Grupo abierto a cualquier persona interesada en Meditaciones, Chi Kung, Mudras,  Zazen, Ejercicios de Sanación Taoistas, Mantras, Yoga…&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;mailto:estilodevida@salud-zen.com?Subject=Taller Meditación Japonesa-Reserva de Plaza&amp;amp;body=%0A%0A Me gustaría reservar una plaza para el Taller Práctico de Meditación Japonesa (21-Marzo'18). Mis datos Personales son:%0A%0A   -Nombre:%0A%0A   -Apellidos:%0A%0A   -Fecha de nacimiento:%0A%0A   -Teléfono:%0A%0A   -Correo Electrónico:%0A%0A &quot;&gt;Confirmar asistencia&lt;/a&gt; lo antes posible.&lt;/p&gt;
-
-&lt;p&gt;Gracias!!&lt;/p&gt;
-
-&lt;p&gt;Feliz Miercoles 🤗&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 07 Mar 2018 12:11:27 +0100</pubDate>
-        <link>http://salud-zen.tk///blog/2018/03/07/taller-meditacion-japonesa.html</link>
-        <guid isPermaLink="true">http://salud-zen.tk///blog/2018/03/07/taller-meditacion-japonesa.html</guid>
+        <link>http://localhost:4000//blog/2018/05/04/taller-meditacion-quigong.html</link>
+        <guid isPermaLink="true">http://localhost:4000//blog/2018/05/04/taller-meditacion-quigong.html</guid>
       </item>
     
   </channel>

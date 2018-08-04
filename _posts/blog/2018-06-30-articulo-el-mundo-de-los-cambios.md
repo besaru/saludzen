@@ -43,7 +43,10 @@ La vida de cada ser es especial, mi vida es única y  distinta a la de cualquier
 
 <p style="text-align:center;font-size:16px">
 <b>Txiki Soto </b></p>
-<p style="text-align:center;font-size:14px"> <i>Terapeuta Holístico - Coach de Salud<br>
+
+<p style="text-align:center;font-size:14px"> <i>
+Director y Profesor de Salud-Zen<br>
+Terapeuta Holístico - Coach de Salud<br>
 <br>Escuela de Macrobiótica, Medicina Natural y Oriental
 <br>Escuela de Terapias Naturales y Artes Orientales
 </i> </p>
