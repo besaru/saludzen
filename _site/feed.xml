@@ -8,6 +8,23 @@
 
     
       <item>
+        <title>Noticias - Nos vamos de vacaciones</title>
+        <description>&lt;p&gt;Después de unos intensos meses, ahora toca descansar, nos vamos de vacaciones!!! Pero en Spetiembre estamos de vuelta con muchas propuestas nuevas que estamos seguros que os gustarán.&lt;/p&gt;
+
+&lt;p&gt;En breve publicaremos los próximos eventos, no dejes de visitar nuestra página web o facebook si no quieres perdértelo!!&lt;/p&gt;
+
+&lt;p&gt;Feliz verano!!&lt;/p&gt;
+
+&lt;center&gt;
+&lt;iframe width=&quot;420&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/oxPSEv-Xeqs&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/center&gt;
+</description>
+        <pubDate>Mon, 06 Aug 2018 11:11:27 +0200</pubDate>
+        <link>http://localhost:4000//blog/2018/08/06/Noticias-NosVamosDeVacaciones.html</link>
+        <guid isPermaLink="true">http://localhost:4000//blog/2018/08/06/Noticias-NosVamosDeVacaciones.html</guid>
+      </item>
+    
+      <item>
         <title>Receta - Menú Macrobiótico Completo</title>
         <description>&lt;p&gt;Os compartimos la receta de un &lt;a href=&quot;http://localhost:4000/principal/2018/07/10/menu-completo.html&quot;&gt;MENÚ MACROBIÓTICO COMPLETO&lt;/a&gt;, compuesto de :&lt;/p&gt;
 
@@ -249,21 +266,6 @@ Quiero convertirme en lo que anhela ser el Mundo y en la Luz que ilumine el cami
         <pubDate>Sat, 05 May 2018 18:00:27 +0200</pubDate>
         <link>http://localhost:4000//blog/2018/05/05/mantra-de-vida.html</link>
         <guid isPermaLink="true">http://localhost:4000//blog/2018/05/05/mantra-de-vida.html</guid>
-      </item>
-    
-      <item>
-        <title>Taller Práctico - QuiGong</title>
-        <description>&lt;p&gt;Buenos días!!! 🤪
-Os espero el &lt;b&gt;16 de Mayo de 19 a 20.30h&lt;/b&gt; como cada tercer miercoles de mes para el &lt;a href=&quot;http://localhost:4000/evento/2018/05/16/QuiGong.html&quot;&gt;GRUPO DE PRACTICA TAO-ZEN&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;mailto:estilodevida@salud-zen.com?Subject=Taller QuiGong-Reserva de Plaza&amp;amp;body=%0A%0A Me gustaría reservar una plaza para el Taller Práctico de QuiGong-La Sonrisa Interior (16-Mayo'18). Mis datos Personales son:%0A%0A   -Nombre:%0A%0A   -Apellidos:%0A%0A   -Fecha de nacimiento:%0A%0A   -Teléfono:%0A%0A   -Correo Electrónico:%0A%0A &quot;&gt;Confirmar asistencia&lt;/a&gt;!! 💚&lt;/p&gt;
-
-&lt;p&gt;Grupo abierto a cualquier persona interesada en Meditaciones, Chi Kung, Mudras,  Zazen, Ejercicios de Sanación Taoistas, Mantras, Yoga…&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 04 May 2018 13:11:27 +0200</pubDate>
-        <link>http://localhost:4000//blog/2018/05/04/taller-meditacion-quigong.html</link>
-        <guid isPermaLink="true">http://localhost:4000//blog/2018/05/04/taller-meditacion-quigong.html</guid>
       </item>
     
   </channel>
