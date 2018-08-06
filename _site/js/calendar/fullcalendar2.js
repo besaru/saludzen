@@ -465,7 +465,8 @@
              "start": "2018-06-30 10:00:00",
              "className": "macrobiotica",
              "url":"../evento/2018/06/30/curso-cocina-ninos.html"
-         },
+         }
+         /*,
          {
              "allDay": "false",
              "title": "Conferencia - Nutrición",
@@ -545,7 +546,7 @@
              "start": "2018-12-16 09:00:00",
              "className": "macrobiotica",
              "url":"../evento/2018/12/16/taller-navidad.html"
-         }
+         }*/
 
      ]
 ,
