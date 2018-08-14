@@ -579,8 +579,8 @@
          },
          {
              "allDay": "false",
-             "name": "Curso de Osteopatia Sacro-craneal con Integración Miofascial y Visceral",
-             "title": "Osteopatia Sacro-craneal",
+             "name": "Curso de Osteopatia Sacro-Craneal con Integración Miofascial y Visceral",
+             "title": "Osteopatia Sacro-Craneal",
              "id": "C0001",
              "end": "2018-11-24 19:00:00",
              "start": "2018-11-24 09:00:00",

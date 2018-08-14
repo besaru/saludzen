@@ -2,8 +2,8 @@
 layout: event
 categories: evento
 public: yes
-name: Osteopatia Sacro-craneal
-title: Curso de Osteopatia Sacro-craneal con Integración Miofascial y Visceral
+name: Osteopatia Sacro-Craneal
+title: Curso de Osteopatia Sacro-Craneal con Integración Miofascial y Visceral
 subtitle:
 dateVisible: 2018-11-24 23:00:00
 date: 24-11-2018
