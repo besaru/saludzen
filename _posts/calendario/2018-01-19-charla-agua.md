@@ -1,7 +1,7 @@
 ---
 layout: event
 categories: evento
-public: yes
+public: no
 name: El Arte de Curar con el Agua
 title: Charla - El Arte de Curar con el Agua - Sanar con Agua es Sanar con Información
 subtitle:

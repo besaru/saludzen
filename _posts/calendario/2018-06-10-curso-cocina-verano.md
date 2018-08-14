@@ -1,7 +1,7 @@
 ---
 layout: event
 categories: evento
-public: yes
+public: no
 name: Cocina Macrobiótica para verano
 title: Nutrición Energética y Cocina Macrobiótica para verano
 subtitle:

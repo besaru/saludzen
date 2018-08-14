@@ -1,7 +1,7 @@
 ---
 layout: event
 categories: evento
-public: yes
+public: no
 name: Qui Gong
 title: Qui Gong, el Arte Milenario de la Salud y la Vitalidad. Taller Práctico.
 subtitle:

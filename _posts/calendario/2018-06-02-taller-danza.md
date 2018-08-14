@@ -1,7 +1,7 @@
 ---
 layout: event
 categories: evento
-public: yes
+public: no
 name: Taller de Danza Terapéutica
 title: Taller de Danza Terapéutica, Canto Vivencial y Juego Familiar
 subtitle:

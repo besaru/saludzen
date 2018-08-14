@@ -1,7 +1,7 @@
 ---
 layout: event
 categories: evento
-public: yes
+public: no
 name: Constelaciones Familiares
 title: Taller - Constelaciones Familiares
 subtitle:

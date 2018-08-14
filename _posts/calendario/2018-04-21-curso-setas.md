@@ -1,7 +1,7 @@
 ---
 layout: event
 categories: evento
-public: yes
+public: no
 name: Setas Medicinales
 title: Setas Medicinales
 subtitle:

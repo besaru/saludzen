@@ -1,7 +1,7 @@
 ---
 layout: event
 categories: evento
-public: yes
+public: no
 name: Qui Gong
 title: Qui Gong, La Sonrisa Interior
 subtitle:

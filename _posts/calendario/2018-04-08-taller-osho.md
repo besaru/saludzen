@@ -1,7 +1,7 @@
 ---
 layout: event
 categories: evento
-public: yes
+public: no
 name: Meditaciones de Osho
 title: Meditaciones Activas de Osho
 subtitle:

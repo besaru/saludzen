@@ -466,7 +466,7 @@
              "className": "macrobiotica",
              "url":"../evento/2018/06/30/curso-cocina-ninos.html"
          }
-         /*,
+         ,
          {
              "allDay": "false",
              "title": "Conferencia - Nutrición",
@@ -516,7 +516,7 @@
              "start": "2018-10-20 09:00:00",
              "className": "terapias",
              "url":"../evento/2018/10/20/curso-CHI.html"
-         },
+         },/*
          {
              "allDay": "false",
              "name": "Curso Chi Nei Tsang",
@@ -536,7 +536,7 @@
              "start": "2018-11-11 09:00:00",
              "className": "terapias",
              "url":"../evento/2018/10/20/curso-CHI.html"
-         },
+         },*/
          {
              "allDay": "false",
              "name": "Taller de Cocina Macrobiótica Navideña y Festiva",
@@ -546,7 +546,48 @@
              "start": "2018-12-16 09:00:00",
              "className": "macrobiotica",
              "url":"../evento/2018/12/16/taller-navidad.html"
-         }*/
+         },
+         {
+             "allDay": "false",
+             "name": "Curso Acupuntura",
+             "title": "Curso Acupuntura",
+             "id": "C0001",
+             "end": "2018-10-04 20:30:00",
+             "start": "2018-10-04 17:30:00",
+             "className": "terapias",
+             "url":"../evento/2018/10/04/curso-acupuntura.html"
+         },
+         {
+             "allDay": "false",
+             "name": "Curso Auriculoterapia",
+             "title": "Curso Auriculoterapia",
+             "id": "C0001",
+             "end": "2018-09-22 19:00:00",
+             "start": "2018-09-22 09:00:00",
+             "className": "terapias",
+             "url":"../evento/2018/09/22/curso-auriculoterapia.html"
+         },
+         {
+             "allDay": "false",
+             "name": "Cocina Macrobiótica para el Sistema Inmune",
+             "title": "Cocina Macrobiótica para el Sistema Inmune",
+             "id": "C0001",
+             "end": "2018-11-17 18:00:00",
+             "start": "2018-11-17 09:00:00",
+             "className": "macrobiotica",
+             "url":"../evento/2018/11/17/curso-cocina-sistema-inmune.html"
+         },
+         {
+             "allDay": "false",
+             "name": "Curso de Osteopatia Sacro-craneal con Integración Miofascial y Visceral",
+             "title": "Osteopatia Sacro-craneal",
+             "id": "C0001",
+             "end": "2018-11-24 19:00:00",
+             "start": "2018-11-24 09:00:00",
+             "className": "terapias",
+             "url":"../evento/2018/11/17/curso-osteopatia-sacro-craneal.html"
+         },
+
 
      ]
 ,

@@ -1,7 +1,7 @@
 ---
 layout: event
 categories: evento
-public: yes
+public: no
 name: Cocina Tradicional y Energética
 title: Cocina Tradicional y Energética - Cocina de la Abuela Sana y Natural
 subtitle:

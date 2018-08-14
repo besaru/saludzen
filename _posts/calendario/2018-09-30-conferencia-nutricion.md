@@ -1,7 +1,7 @@
 ---
 layout: event
 categories: evento
-public: no
+public: yes
 name: Conferencia - Nutrición
 title: Conferencia - Macrobiótica, La Revolución Pacífica
 subtitle:

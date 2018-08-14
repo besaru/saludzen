@@ -1,7 +1,7 @@
 ---
 layout: event
 categories: evento
-public: yes
+public: no
 name: Zazen
 title: Zazen - El Arte Japonés de Meditar Sentado
 subtitle:

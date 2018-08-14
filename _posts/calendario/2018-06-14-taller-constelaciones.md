@@ -1,7 +1,7 @@
 ---
 layout: event
 categories: evento
-public: yes
+public: no
 name: Constelaciones Familiares
 title: Taller - Constelaciones Familiares
 subtitle:
@@ -13,6 +13,6 @@ horario: 17:30 - 20:00
 localizacion: Sede Adscrita
 author: Salud-Zen
 image: img/eventos/140618Constelaciones.jpg
-image_prop: 
+image_prop:
 image2:
 ---

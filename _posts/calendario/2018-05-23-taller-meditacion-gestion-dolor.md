@@ -1,7 +1,7 @@
 ---
 layout: event
 categories: evento
-public: yes
+public: no
 name: Meditación para la Gestión del Dolor
 title: Taller de Meditación para la Gestión del Dolor
 subtitle:

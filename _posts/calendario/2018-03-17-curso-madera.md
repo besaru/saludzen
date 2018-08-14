@@ -1,7 +1,7 @@
 ---
 layout: event
 categories: evento
-public: yes
+public: no
 name: Curso Elemento Madera
 title: Medicina Oriental del Elemento Madera
 subtitle:

@@ -1,7 +1,7 @@
 ---
 layout: event
 categories: evento
-public: yes
+public: no
 name: Cosmética Natural
 title: Taller de Cosmética Natural Personalizada
 subtitle:

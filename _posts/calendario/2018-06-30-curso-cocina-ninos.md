@@ -1,7 +1,7 @@
 ---
 layout: event
 categories: evento
-public: yes
+public: no
 name: Cocina de Niños para Adultos
 title: Taller de Cocina Energética Saludable. Cocina de Niños para Adultos
 subtitle:
@@ -13,6 +13,6 @@ horario: 10:00 - 17:30
 localizacion: Sede Adscrita
 author: Salud-Zen
 image: img/eventos/300618CocinaNinos.jpg
-image_prop: 
+image_prop:
 image2:
 ---

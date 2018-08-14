@@ -1,7 +1,7 @@
 ---
 layout: event
 categories: evento
-public: yes
+public: no
 name: Las Relaciones
 title: Las Relaciones <br> Cómo nos nutrimos con las relaciones familiares, de pareja y con uno mismo.
 subtitle:

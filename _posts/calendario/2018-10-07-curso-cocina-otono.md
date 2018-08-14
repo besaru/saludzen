@@ -1,7 +1,7 @@
 ---
 layout: event
 categories: evento
-public: no
+public: yes
 name: Cocina Macrobiótica para Otoño
 title: Nutrición Energética y Cocina Macrobiótica para Otoño
 subtitle:

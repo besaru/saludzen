@@ -1,7 +1,7 @@
 ---
 layout: event
 categories: evento
-public: no
+public: yes
 name: Cocina Navideña y Festiva
 title: Taller de Cocina Macrobiótica Navideña y Festiva
 subtitle:

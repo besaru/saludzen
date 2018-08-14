@@ -1,7 +1,7 @@
 ---
 layout: event
 categories: evento
-public: yes
+public: no
 name: Curso de Reflexología Podal Holística
 title: Curso de Reflexología Podal Holística - Certificación Profesional
 subtitle:
