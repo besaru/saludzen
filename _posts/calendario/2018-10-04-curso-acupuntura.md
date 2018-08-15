@@ -9,7 +9,7 @@ date: 04-10-2018
 dateVisible: 2018-10-04 23:00:00
 date_text: jueves del 4 de Octubre al 27 de Junio de 2019
 date_imparticion: jueves del 04-10 al 27-06-2019
-horario: 17:30 - 20:00
+horario: jueves de 17:30 - 21:00
 localizacion: Sede Principal
 author: Salud-Zen
 image: img/eventos/041018Acupuntura.jpg

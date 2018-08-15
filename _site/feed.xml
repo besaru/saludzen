@@ -8,6 +8,18 @@
 
     
       <item>
+        <title>¡Publicación del Calendario con nuevas actividades!</title>
+        <description>&lt;p&gt;Aquí teneis las nueva actividades para los próximos meses, puedes consultarlas en nuestro &lt;a href=&quot;http://localhost:4000/calendario/&quot;&gt;calendario&lt;/a&gt;. Os proponemos gran variedad de actividades, cursos,talleres,charlas …&lt;/p&gt;
+
+&lt;p&gt;Esperamos que os gusten, y recuerda reservar tu plaza,&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 15 Aug 2018 17:11:27 +0200</pubDate>
+        <link>http://localhost:4000//blog/2018/08/15/publicacion-calendario.html</link>
+        <guid isPermaLink="true">http://localhost:4000//blog/2018/08/15/publicacion-calendario.html</guid>
+      </item>
+    
+      <item>
         <title>Noticias - Nos vamos de vacaciones</title>
         <description>&lt;p&gt;Después de unos intensos meses, ahora toca descansar, nos vamos de vacaciones!!! Pero en Septiembre estamos de vuelta con muchas propuestas nuevas que estamos seguros que os gustarán.&lt;/p&gt;
 
@@ -235,40 +247,6 @@ Os animáis???&lt;/p&gt;
         <pubDate>Fri, 18 May 2018 12:11:27 +0200</pubDate>
         <link>http://localhost:4000//blog/2018/05/18/Curso-Bioenergetica.html</link>
         <guid isPermaLink="true">http://localhost:4000//blog/2018/05/18/Curso-Bioenergetica.html</guid>
-      </item>
-    
-      <item>
-        <title>Mantra de Vida</title>
-        <description>&lt;p style=&quot;font-size:18px&quot;&gt;
-&lt;b&gt;MANTRA DE VIDA&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;Confío en el Proceso de la Vida. Estoy a Salvo.&lt;br /&gt;
-Confío en mí y en mi Capacidad de Autocuración. Me amo, me acepto y me valoro.&lt;br /&gt;
-Creo en mi Origen Divino.&lt;br /&gt;
-Creo en Mí, creo en el Amor y creo en el Bien de todas las personas.&lt;br /&gt;
-Mi Cuerpo, mi Mente y mi Alma están en Equilibrio.&lt;br /&gt;
-Estoy Alineado. Lo que Digo, lo que Hago, lo que Pienso y lo que Siento están en Coherencia.&lt;br /&gt;
-Mis Palabras, Acciones, Pensamientos, Sentimientos, Actitud e Intención son reflejo de mi Interior y crean mi Destino.&lt;br /&gt;
-Gracias Sol por darnos la Luz de la Vida e Iluminarnos.&lt;br /&gt;
-Gracias Luna por Guiarnos, Orientarnos y Regularnos.&lt;br /&gt;
-Gracias Tierra por Nutrirnos y Acogernos.&lt;br /&gt;
-Gracias Universo por Unirnos y hacernos sentir parte de esa Energía Universal que forma parte de nuestra propia Creación como Seres de Luz.&lt;br /&gt;
-Gracias Padre y Madre por traerme al Mundo, tal y como Soy. Os honro y os amo.&lt;br /&gt;
-Gracias a lo Divino por concederme la Vida, Ser Libre y  formar parte de un Todo, del Infinito, de ese Alma Universal, de ese Dios que lo formamos Todos y llevamos en nuestro Interior convirtiéndonos en Auténticos Seres Divinos.&lt;br /&gt;
-Gracias a la Vida por darme la oportunidad de Conectar con mi Interior y descubrir que existe otra Dimensión mucho más grande que mi pequeño Mundo Exterior.&lt;br /&gt;
-Gracias Cuerpo, Órganos y Células por trabajar constantemente para Mi y permitir mi Desarrollo Personal, Humano y Espiritual  con Luz y Conciencia.&lt;br /&gt;
-Quiero una Salud Excelente para conseguir los Sueños de mi Vida.&lt;br /&gt;
-Quiero ser cada día Mejor Persona y aprender a disfrutar del Camino de Vida.&lt;br /&gt;
-Quiero Paz, Amor, Compasión, Salud, Alegría, Confianza, Coraje y Felicidad en Mi vida, en Mi Familia y en el Mundo Entero.&lt;br /&gt;
-Quiero convertirme en lo que anhela ser el Mundo y en la Luz que ilumine el camino de los que más lo necesiten, y así ayudarles a liberarse de su sufrimiento.&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;p&gt;¿Te ha gustado? Puedes descargarlo en pdf en el siguiente enlace: &lt;a href=&quot;http://localhost:4000/img/blog/2018-05-05-mantra-vida.pdf&quot;&gt;Mantra De Vida.pdf&lt;/a&gt;.&lt;/p&gt;
-
-</description>
-        <pubDate>Sat, 05 May 2018 18:00:27 +0200</pubDate>
-        <link>http://localhost:4000//blog/2018/05/05/mantra-de-vida.html</link>
-        <guid isPermaLink="true">http://localhost:4000//blog/2018/05/05/mantra-de-vida.html</guid>
       </item>
     
   </channel>

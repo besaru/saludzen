@@ -552,7 +552,7 @@
              "name": "Curso Acupuntura",
              "title": "Curso Acupuntura",
              "id": "C0001",
-             "end": "2018-10-04 20:30:00",
+             "end": "2018-10-04 21:00:00",
              "start": "2018-10-04 17:30:00",
              "className": "terapias",
              "url":"../evento/2018/10/04/curso-acupuntura.html"
