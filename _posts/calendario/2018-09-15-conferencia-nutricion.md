@@ -3,7 +3,7 @@ layout: event
 categories: evento
 public: yes
 name: Conferencia - Nutrición
-title: Conferencia - Macrobiótica, La Revolución Pacífica
+title: Conferencia - Macrobiótica. La Revolución Pacífica
 subtitle:
 dateVisible: 2018-09-15 23:00:00
 date: 15-09-2018

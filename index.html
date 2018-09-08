@@ -114,11 +114,11 @@ permalink: /
               {% assign sorted-posts = site.posts | where: "categories","evento" %}
               {% assign sorted-posts2 = sorted-posts | where: "public","true"|sort: 'date' %}
 
-              {% for post in sorted-posts2 %}
+              {%
+                for post in sorted-posts2
+               %}
               <div id="clients-logo" class="owl-carousel" >
-
-
-
+                
               <div future-date="{{ post.date | date: '%Y%m%d' }}" >
 
 
