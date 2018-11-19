@@ -9,6 +9,14 @@ image: img/blog/20181107-DefinicionDeSalud.jpg
 linkfacebook: https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.salud-zen.com%2Fblog%2F2018%2F11%2F07%2Farticulo-definicion-de-salud.html&amp;src=sdkpreparse
 ---
 DEFINICIÓN DE SALUD ESCRITA CON EL SENTIMIENTO DEL CORAZÓN
+Alma de Tao
+
+Éste es el título del último artículo que he escrito. La Verdadera Salud habita en nuestro Interior. Solemos definirla de manera externa como si mi salud dependiera de otras personas o de cosas ajenas a mi. Buscamos los tratamientos de salud más cualificados, modernos y científicos. Buscamos pócimas mágicas y remedios magníficos. Ponemos nuestra vida en manos de los demás sin darnos cuenta que el verdadero poder está en nuestro interior y éste es inherente a mi condición de Ser de Luz.
+
+Espero os guste la definición de salud escrita, no con el conocimiento ni con la mente, sino con el sentir del corazón y del alma encarnada.
+ --------------------------------------------------------
+
+DEFINICIÓN DE SALUD ESCRITA CON EL SENTIMIENTO DEL CORAZÓN
 
 La salud es vivir con magia.  
 La salud es vencer los miedos poniendo amor y pasión a nuestras vidas.  

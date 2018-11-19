@@ -1,10 +1,11 @@
-- name: Sede adscrita
-  title: Dojo meditación
-  image: img/contacto/instalaciones1_l.jpg
 
-- name: Sede adscrita
-  title: Huerto ecológico
-  image: img/contacto/instalaciones2_l.jpg
+#- name: Sede adscrita
+#  title: Dojo meditación
+#  image: img/contacto/instalaciones1_l.jpg
+
+#- name: Sede adscrita
+#  title: Huerto ecológico
+#  image: img/contacto/instalaciones2_l.jpg
 
 - name: Sede central
   title: Clase Formación
