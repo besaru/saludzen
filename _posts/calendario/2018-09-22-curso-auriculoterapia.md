@@ -1,7 +1,7 @@
 ---
 layout: event
 categories: evento
-public: yes
+public: no
 name: Auriculoterapia
 title: Curso de Auriculoterapia
 subtitle:

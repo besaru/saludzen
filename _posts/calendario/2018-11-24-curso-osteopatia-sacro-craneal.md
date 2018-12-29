@@ -1,7 +1,7 @@
 ---
 layout: event
 categories: evento
-public: yes
+public: no
 name: Osteopatia Sacro-Craneal
 title: Curso de Osteopatia Sacro-Craneal con Integración Miofascial y Visceral
 subtitle:

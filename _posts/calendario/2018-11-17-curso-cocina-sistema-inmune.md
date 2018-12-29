@@ -1,7 +1,7 @@
 ---
 layout: event
 categories: evento
-public: yes
+public: no
 name: Cocina Macrobiótica para el Sistema Inmune
 title: Nutrición Energética y Cocina Macrobiótica para la Salud del Sistema Inmune
 subtitle:

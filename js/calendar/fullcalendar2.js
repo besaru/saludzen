@@ -585,10 +585,79 @@
              "end": "2018-11-24 19:00:00",
              "start": "2018-11-24 09:00:00",
              "className": "terapias",
-             "url":"../evento/2018/11/17/curso-osteopatia-sacro-craneal.html"
+             "url":"../evento/2018/11/24/curso-osteopatia-sacro-craneal.html"
+         },
+         {
+             "allDay": "false",
+             "name": "Cocina para el Invierno",
+             "title": "Nutrición Energética y Cocina Macrobiótica para el Invierno",
+             "id": "C0001",
+             "end": "2019-01-27",
+             "start": "2019-01-27",
+             "className": "macrobiotica",
+             "url":"../evento/2019/01/27/curso-cocina-invierno.html"
+         },
+         {
+             "allDay": "false",
+             "name": "Curso de Introducción",
+             "title": "Introducción: Nutrición Energética, Salud y Cocina Macrobiótica",
+             "id": "C0001",
+             "end": "2019-02-03",
+             "start": "2019-02-03",
+             "className": "macrobiotica",
+             "url":"../evento/2019/02/03/curso-introduccion.html"
+         },
+         {
+             "allDay": "true",
+             "name": "Transformar el estrés",
+             "title": "Programa de Desarrollo Personal basado en el Sistema Taoista para transformar el estrés en vitalidad. Bioenergética. Taoísta. Qui-Gong - Tao Curativo",
+             "id": "C0001",
+             "end": "2019-02-10",
+             "start": "2019-02-09",
+             "className": "terapias",
+             "url":"../evento/2019/02/09/curso-transformacion-estres.html"
+         },
+         {
+             "allDay": "false",
+             "name": "Cocina para la Primavera",
+             "title": "Nutrición Energética y Cocina Macrobiótica para la Primavera",
+             "id": "C0001",
+             "end": "2019-03-24",
+             "start": "2019-03-24",
+             "className": "macrobiotica",
+             "url":"../evento/2019/03/24/curso-cocina-primavera.html"
+         },
+         {
+             "allDay": "true",
+             "name": "El Orden del Universo",
+             "title": "El Orden del Universo. Conocimiento Energético y Medicina Vibracional. Fundamentos de la Medicina Oriental. Ciclo de la Salud. Proceso de Enfermedad.",
+             "id": "C0001",
+             "end": "2019-04-07",
+             "start": "2019-04-06",
+             "className": "terapias",
+             "url":"../evento/2019/04/06/curso-orden-universo.html"
+         },
+         {
+             "allDay": "false",
+             "name": "Desayunos Energéticos Almuerzos & Meriendas Saludables",
+             "title": "Desayunos energéticos. Empieza el dia con Vitalidad y Energía. Almuerzos & Meriendas Saludables",
+             "id": "C0001",
+             "end": "2019-05-12",
+             "start": "2019-05-11",
+             "className": "macrobiotica",
+             "url":"../evento/2019/05/11/curso-desayunos-almuerzos-meriendas.html"
          },
 
-
+         {
+             "allDay": "false",
+             "name": "Cooking Training",
+             "title": "Cooking Training. 15 platos en 2 horas. Cocina, Rápida y Facil. Cocina Sana para llevar. Formas de ahorrar tiempo en la cocina. Embotados. Cocina Angélica. Preparados para varios dias.",
+             "id": "C0001",
+             "end": "2019-06-16",
+             "start": "2019-06-15",
+             "className": "macrobiotica",
+             "url":"..evento/2019/06/15/curso-cooking-training.html"
+         }
      ]
 ,
 /*

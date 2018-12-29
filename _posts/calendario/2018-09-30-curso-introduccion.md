@@ -1,7 +1,7 @@
 ---
 layout: event
 categories: evento
-public: yes
+public: no
 name: Seminario de Introducción
 title: Primer Seminario de Introducción. <br>Bases de la nutrición Energética y comida macrobiótica
 subtitle:

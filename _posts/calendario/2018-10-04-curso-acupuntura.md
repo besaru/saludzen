@@ -1,7 +1,7 @@
 ---
 layout: event
 categories: evento
-public: yes
+public: no
 name: Curso de Acupuntura Holística
 title: Curso de Acupuntura Holística - Acupuntura Tradicional y Taoista integradas
 subtitle:
