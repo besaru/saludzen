@@ -10,7 +10,7 @@ date: 15-06-2019
 date_text: 15 y 16 de Junio de 2019
 date_imparticion: 15 y 16-06-2019
 horario: Por determinar
-localizacion: Sede Principal
+localizacion: C/ Castellón de la Plana, 26 Arroyomolinos
 author: Salud-Zen
 image: img/blog/2018-12-29-cursos-publicacion.jpg
 image_prop:

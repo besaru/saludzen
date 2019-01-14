@@ -10,7 +10,7 @@ date: 06-04-2019
 date_text: 06 y 07 de Abril de 2019
 date_imparticion: 06 y 07-04-2019
 horario: Por determinar
-localizacion: Sede Principal
+localizacion: C/ Castellón de la Plana, 26 Arroyomolinos
 author: Salud-Zen
 image: img/blog/2018-12-29-cursos-publicacion.jpg
 image_prop:

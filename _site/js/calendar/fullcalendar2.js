@@ -152,8 +152,8 @@
           },
           {
               "allDay": "false",
-              "name": "Qui Gong - Taller práctico",
-              "title": "Qui Gong",
+              "name": "Qi Gong - Taller práctico",
+              "title": "Qi Gong",
               "id": "C0001",
               "end": "2017-12-21 19:30:00",
               "start": "2017-12-21 18:00:00",
@@ -271,8 +271,8 @@
             {
 
                 "allDay": "false",
-                "title": "Qui Gong, los 6 Sonidos Curativos",
-                "name": "Qui Gong",
+                "title": "Qi Gong, los 6 Sonidos Curativos",
+                "name": "Qi Gong",
                 "id": "C0007",
                 "end": "2018-02-27 20:30:00",
                 "start": "2018-02-27 19:00:00",
@@ -377,8 +377,8 @@
 
                {
                "allDay": "false",
-               "title": "Qui Gong, la Sonrisa Interior",
-               "name": "Qui Gong",
+               "title": "Qi Gong, la Sonrisa Interior",
+               "name": "Qi Gong",
                "id": "C0007",
                "end": "2018-05-16 20:30:00",
                "start": "2018-05-16 19:00:00",
@@ -448,8 +448,8 @@
              },
              {
                "allDay": "false",
-               "name": "Qui Gong ",
-               "title": "Qui Gong - Taller práctico",
+               "name": "Qi Gong ",
+               "title": "Qi Gong - Taller práctico",
                "id": "C0001",
                "end": "2018-06-20 19:30:00",
              "start": "2018-06-20 18:00:00",
@@ -589,11 +589,21 @@
          },
          {
              "allDay": "false",
+             "name": "Meditación a través de los Chacras",
+             "title": "Meditación a través de los Chacras",
+             "id": "C0001",
+             "end": "2019-01-23 20:30:00",
+             "start": "2019-01-23 19:00:00",
+             "className": "qigong",
+             "url":"../evento/2019/01/23/taller-meditacion-chacras.html"
+         },
+         {
+             "allDay": "false",
              "name": "Cocina para el Invierno",
              "title": "Nutrición Energética y Cocina Macrobiótica para el Invierno",
              "id": "C0001",
-             "end": "2019-01-27",
-             "start": "2019-01-27",
+             "end": "2019-01-27 18:00:00",
+             "start": "2019-01-27 09:00:00",
              "className": "macrobiotica",
              "url":"../evento/2019/01/27/curso-cocina-invierno.html"
          },
@@ -602,28 +612,48 @@
              "name": "Curso de Introducción",
              "title": "Introducción: Nutrición Energética, Salud y Cocina Macrobiótica",
              "id": "C0001",
-             "end": "2019-02-03",
-             "start": "2019-02-03",
+             "end": "2019-02-03 19:00:00",
+             "start": "2019-02-03 09:00:00",
              "className": "macrobiotica",
              "url":"../evento/2019/02/03/curso-introduccion.html"
          },
          {
              "allDay": "true",
-             "name": "Transformar el estrés",
-             "title": "Programa de Desarrollo Personal basado en el Sistema Taoista para transformar el estrés en vitalidad. Bioenergética. Taoísta. Qui-Gong - Tao Curativo",
+             "name": "Bioenergética Taoista",
+             "title": "Bioenergética Taoista: Programa de Desarrollo Personal basado en el Sistema Taoista para transformar el estrés en vitalidad. Bioenergética. Taoísta. Qi-Gong - Tao Curativo",
              "id": "C0001",
-             "end": "2019-02-10",
-             "start": "2019-02-09",
+             "end": "2019-02-10 14:00:00",
+             "start": "2019-02-09 09:00:00",
              "className": "terapias",
-             "url":"../evento/2019/02/09/curso-transformacion-estres.html"
+             "url":"../evento/2019/02/09/curso-bioenergetica-taoista.html"
+         },
+         {
+             "allDay": "true",
+             "name": "Técnica Metamórfica",
+             "title": "Técnica Metamórfica",
+             "id": "C0001",
+             "end": "2019-02-17 14:00:00",
+             "start": "2019-02-16 09:00:00",
+             "className": "terapias",
+             "url":"../evento/2019/02/16/curso-tecnica-metamorfica.html"
+         },
+         {
+             "allDay": "false",
+             "name": "Meditación Japonesa",
+             "title": "Meditación Japonesa",
+             "id": "C0001",
+             "end": "2019-02-20 20:30:00",
+             "start": "2019-02-20 19:00:00",
+             "className": "qigong",
+             "url":"../evento/2019/02/20/taller-meditacion-japonesa.html"
          },
          {
              "allDay": "false",
              "name": "Cocina para la Primavera",
              "title": "Nutrición Energética y Cocina Macrobiótica para la Primavera",
              "id": "C0001",
-             "end": "2019-03-24",
-             "start": "2019-03-24",
+             "end": "2019-03-24 18:00:00",
+             "start": "2019-03-24 09:00:00",
              "className": "macrobiotica",
              "url":"../evento/2019/03/24/curso-cocina-primavera.html"
          },

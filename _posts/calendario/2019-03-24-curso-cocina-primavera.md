@@ -9,10 +9,10 @@ dateVisible: 2019-03-24 23:00:00
 date: 24-03-2019
 date_text: 24 de Marzo de 2019
 date_imparticion: 24-03-2019
-horario: Por determinar
-localizacion: Sede Principal
+horario: 9 a 18 horas
+localizacion: C/ Castellón de la Plana, 26 Arroyomolinos
 author: Salud-Zen
-image: img/blog/2018-12-29-cursos-publicacion.jpg
+image: img/eventos/CocinaPrimavera.jpg
 image_prop:
 image2:
 ---
