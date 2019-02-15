@@ -28,7 +28,11 @@ category: blog
 {% for category in potsBlogs %}
 
   {% if category.name contains 'blog'%}
-    {% assign postsByMonth = category.items | group_by_exp:"post", "post.date | date: '%-m'" %}
+  {% assign postsByYear = category.items | group_by_exp:"post", "post.date | date: '%Y'" %}
+
+  {% for year in postsByYear %}
+<h2>  {{year.name}}</h2>
+    {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%-m'" %}
 
       {% for month in postsByMonth %}
       <h1> {% case month.name %}
@@ -79,9 +83,10 @@ category: blog
         {% endfor %}
       </ul>
 
-
+        {% endfor %}
       {% endfor %}
-  {% endif %}
+    {% endif %}
 {% endfor %}
+
 </div>
 </section>

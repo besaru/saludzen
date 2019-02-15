@@ -1,55 +1,54 @@
 - name: OSTEOPATÍA
   id: "TN001"
-  content: "La Osteopatía es una <i>Terapia Manual</i> utilizada para dar <i>Movilidad y Flexibilidad</i> a los tejidos del organismo, mejorando así la circulación de la Sangre, la Linfa y la Comunicación Nerviosa e Intercelular, eliminando los bloqueos y ayudando al cuerpo a que recupere su Funcionalidad y Armonía."
+  content: "<i>Terapia Manual</i> utilizada para dar <i>Movilidad y Flexibilidad</i> a los tejidos del organismo, mejorando la circulación de la sangre, la linfa y la comunicación nerviosa e intercelular, eliminando los bloqueos y ayudando al cuerpo a que recupere su funcionalidad y armonía."
   image: img/tnaturales/osteopatia.jpg
 
 - name: TERAPIA SACRO-CRANEAL
   id: "TN002"
-  content: "Es una especialidad de la Osteopatía, y consiste en <i>regular el ritmo del Flujo del Líquido Cefalorraquídeo</i> que circula por un sistema hidráulico semicerrado que forma el sistema sacro-craneal. Este ritmo provoca un movimiento de expansión y retracción por todo el cuerpo y puede ser palpado y corregido con nuestras manos, induciendo al sistema nervioso a una <i>Fase de Vagotonía</i> y tal relajación que permite que el cuerpo recupere el Equilibrio."
+  content: "Terapia manual que <i>regula el ritmo del flujo del líquido cefalorraquídeo</i> que circula por un sistema hidráulico semicerrado que forma el sistema sacro-craneal con un ritmo de movimiento de expansión y retracción por todo el cuerpo y puede ser palpado y corregido con nuestras manos, induciendo al sistema nervioso a una <i>fase de vagotonía</i> y tal relajación que permite que el cuerpo recupere el equilibrio."
   image: img/tnaturales/sacro.jpg
-
 
 - name: OSTEOPATÍA VISCERAL Y CHI NEI TSANG
   id: "TN003"
-  content: "La Osteopatía Visceral consiste en dar <i>movilidad a todos los órganos y vísceras</i> que están en disfunción regulando todas las funciones que dependen de estas vísceras. Esta visión más occidental se integra con el Chi Nei Tsang: Técnica Ancestral Oriental con la que los antiguos Taoístas <i>liberaban bloqueos emocionales, energéticos y físicos</i> a través de un masaje de Órganos Internos."
+  content: "Terapia manual para dar <i>movilidad a todos los órganos y vísceras</i> en disfunción regulando todas las funciones. Esta visión más occidental se integra con el Chi Nei Tsang: Técnica ancestral oriental con la que los antiguos Taoístas <i>liberaban bloqueos emocionales, energéticos y físicos</i> a través de un masaje de órganos internos."
   image: img/tnaturales/chineitsang.jpg
 
 - name: MIOFASCIAL
   id: "TN004"
-  content: "La Fascia es la membrana que recubre todas las estructuras del cuerpo (músculos, huesos, tendones, vísceras, órganos…) y además pone en comunicación todas estas partes del organismo. La <i>Técnica Miofascial</i> consiste en <i>liberar todas las restricciones fasciales y recuperar esa movilidad y comunicación</i> entre las distintas partes del Cuerpo, liberando los bloqueos."
+  content: "La <i>Técnica Miofascial</i> consiste en <i>liberar todas las restricciones fasciales y recuperar su movilidad y comunicación</i> entre las distintas partes del cuerpo, liberando los bloqueos."
   image: img/tnaturales/miofascial.jpg
 
 - name: REFLEXOLOGÍA PODAL HOLÍSTICA
   id: "TN005"
-  content: "A través de la Pantalla Refleja que hay en los Pies se establece una correspondencia con los Órganos, Glándulas Endocrinas y distintas partes del Cuerpo. La Reflexología Podal Holistica trabaja y regula todas estas partes <i>trabajando a distancia desde los Pies con un enfoque Físico, Emocional y Energético integrados.</i>"
+  content: "A través de la pantalla refleja que hay en los pies se establece una correspondencia con los órganos, glándulas endocrinas y distintas partes del cuerpo. Se trabaja y regula todas estas partes <i>desde los pies con un enfoque físico, emocional y energético integrados.</i>"
   image: img/tnaturales/reflex.jpg
 
 - name: TÉCNICA METAMÓRFICA
   id: "TN006"
-  content: "Es una Técnica que a través de una serie de caricias en  una pantalla que hay en los pies que refleja todas las <i>Fases de la Etapa Intrauterina</i>, puede liberar muchos bloqueos a Nivel Emocional y Energético que se quedaron bloqueados, estancados y reprimidos durante el embarazo, ayudando así a liberar esos bloqueos y de esta forma a no pasarlos a las generaciones que están por venir."
+  content: "A través de una pantalla que hay en los pies que refleja todas las <i>fases de la etapa intrauterina</i>, se liberan muchos bloqueos a nivel emocional y energético que se quedaron bloqueados, estancados y reprimidos durante el embarazo, ayudando de esta forma a no pasarlos a las generaciones venideras."
   image: img/tnaturales/metamorfica.jpg
 
 - name: ACUPUNTURA, MANOPUNTURA, CRANEOPUNTURA
   id: "TN007"
-  content: "Técnica perteneciente a la Medicina Tradicional China que mediante un <i>tratamiento con agujas</i> en puntos específicos se consigue regular el Flujo Bioeléctrico, Electromagnético y Energético del cuerpo. De esta manera, se recupera el Movimiento y la Integridad Energética de la persona y todas las funciones del cuerpo que dependen de este flujo, mejorando así el proceso de salud de la persona."
+  content: "Técnica perteneciente a la Medicina Tradicional China: mediante un <i>tratamiento con agujas</i> en puntos específicos se consigue regular el flujo bioeléctrico, electromagnético y energético del cuerpo. Se recupera el movimiento, la integridad energética de la persona y todas las funciones del cuerpo que dependen de este flujo, mejorando así el proceso de salud."
   image: img/tnaturales/acupuntura.jpg
 
 - name: AURICULOTERAPIA
   id: "TN008"
-  content: "Es la utilización de la <i>Acupuntura en las Orejas</i>, ya que en estas existe una pantalla que refleja todos los Órganos, Glándulas y Estructuras del cuerpo regulando así al organismo ya que todas estas partes reciben una información de equilibrio para que se pueda abrir y poner en movimiento ese Flujo Bioeléctrico desbloqueando los Estancamientos Energéticos que están produciendo los desequilibrios."
+  content: "<i>Acupuntura en las orejas</i>, en estas existe una pantalla que refleja todos los órganos, glándulas y estructuras del cuerpo regulando al organismo dando una información de equilibrio para que se pueda abrir y poner en movimiento ese flujo bioeléctrico desbloqueando los estancamientos energéticos que producen los desequilibrios."
   image: img/tnaturales/auriculoterapia.jpg
 
 - name: BIOENERGÉTICA
   id: "TN009"
-  content: "A través de nuestras <i>Manos</i> podemos situarlas en distintas zonas del cuerpo y hacer una <i>Escucha respetuosa</i> de todos los movimientos que están apareciendo en dichas zonas. Siguiendo estos movimientos podemos regular a la persona Energéticamente ayudándola a desbloquear Emociones estancadas y a relajarse profundamente para que el Cuerpo pueda recuperar el Bienestar y la Armonía."
+  content: "A través de nuestras <i>manos</i> podemos situarlas en distintas zonas del cuerpo y hacemos una <i>escucha respetuosa</i> de todos los movimientos que están apareciendo en dichas zonas. Siguiendo los movimientos podemos regular a la persona energéticamente desbloqueando emociones estancadas y relajarla profundamente para recuperar el bienestar y la armonía."
   image: img/tnaturales/bioenergetica.jpg
 
 - name: BIOMAGNETISMO
   id: "TN010"
-  content: "<i>Terapia con imanes</i> para regular el Campo Magnético de la persona, eliminando Patógenos, regulando el funcionamiento de Glándulas Endocrinas, mejorando el pH de la Sangre y también el Estado Emocional de la persona"
+  content: "<i>Terapia con imanes</i> para regular el campo magnético de la persona, eliminando patógenos, regulando el funcionamiento de glándulas endocrinas, mejorando el ph de la sangre y también el estado emocional"
   image: img/tnaturales/biomagnetismo.jpg
 
 - name: REEDUCACIÓN POSTURAL
   id: "TN011"
-  content: "A través de unos <i>ejercicios guiados</i> en una <i>camilla especial o en el suelo</i> en combinación con la respiración y desde un <i>Enfoque Global</i> respetando las cadenas musculares y su relación con los Órganos, el Sistema Nervioso y el Aspecto Psico-Comportamental de la persona se consigue <i>mejorar su postura y su alineación</i>."
+  content: "A través de unos <i>ejercicios guiados</i> en una <i>camilla especial o en el suelo</i> en combinación con la respiración y desde un <i>enfoque global</i> respetando las cadenas musculares y su relación con los órganos, el sistema nervioso y el aspecto psico-comportamental de la persona se consigue <i>mejorar su postura y su alineación</i>."
   image: img/tnaturales/postural.jpg

@@ -9,10 +9,10 @@ dateVisible: 2019-05-11 23:00:00
 date: 11-05-2019
 date_text: 11 y 12 de Mayo de 2019
 date_imparticion: 11 y 12-05-2019
-horario: Por determinar
+horario: Sab y Dom de 9 a 18 horas
 localizacion: C/ Castellón de la Plana, 26 Arroyomolinos
 author: Salud-Zen
-image: img/blog/2018-12-29-cursos-publicacion.jpg
+image: img/eventos/DesayunosAlmuerzos.jpg
 image_prop:
-image2:
+image2: img/eventos/DesayunosAlmuerzos2.jpg
 ---

@@ -9,10 +9,10 @@ dateVisible: 2019-06-15 23:00:00
 date: 15-06-2019
 date_text: 15 y 16 de Junio de 2019
 date_imparticion: 15 y 16-06-2019
-horario: Por determinar
+horario: Sab y Dom de 9 a 17 horas
 localizacion: C/ Castellón de la Plana, 26 Arroyomolinos
 author: Salud-Zen
-image: img/blog/2018-12-29-cursos-publicacion.jpg
+image: img/eventos/CookingTraining.jpg
 image_prop:
 image2:
 ---

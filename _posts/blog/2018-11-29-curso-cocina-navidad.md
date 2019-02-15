@@ -13,11 +13,11 @@ Os presento el Curso:
 [COCINA MACROBIOTICA NAVIDEÑA Y FESTIVA MACROBIÓTICA GOURMET RECETAS ENERGETICAS Y SALUDABLES PARA NAVIDAD][CocinaNavidad]  
 Domingo 16 DE DICIEMBRE!!   
 De 9h a 17h  
-Interesados contactar lo antes posible para <a href="mailto:estilodevida@salud-zen.com?Subject=Curso del Sistema Inmune-Reserva de Plaza&body=%0A%0A Me gustaría reservar una plaza para el curso de Nutrición Energética y Cocina Macrobiótica para la Salud del Sistema Inmune (17,18 Noviembre'18). Mis datos Personales son:%0A%0A   -Nombre:%0A%0A   -Apellidos:%0A%0A   -Fecha de nacimiento:%0A%0A   -Teléfono:%0A%0A    -Correo Electrónico:%0A%0A">reserva de plaza</a>.  
+Interesados contactar lo antes posible para <a href="mailto:estilodevida@salud-zen.com?Subject=Curso cocina macrobiótica navideña y festiva-Reserva de Plaza&body=%0A%0A Me gustaría reservar una plaza para el curso de Cocina Navideña y Festiva macrobiótica gourmet recetas energéticas y saludables para navidad (16 Diciembre'18). Mis datos Personales son:%0A%0A   -Nombre:%0A%0A   -Apellidos:%0A%0A   -Fecha de nacimiento:%0A%0A   -Teléfono:%0A%0A    -Correo Electrónico:%0A%0A">reserva de plaza</a>.  
 Gracias!! 😉  
 Feliz Jueves!!  
 
 Salud-Zen  
 Escuela Macrobiotica & Medicina Oriental
 
-[CocinaNavidad]:{{site.url}}{{site.baseurl}}/evento/2018/11/17/curso-cocina-sistema-inmune.html
+[CocinaNavidad]:{{site.url}}{{site.baseurl}}/evento/2018/12/16/curso-cocina-navidad.html

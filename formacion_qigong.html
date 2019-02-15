@@ -1,0 +1,64 @@
+---
+layout: page
+title: Salud-Zen Escuela Qi Gong
+permalink: /formacion_qigong/
+---
+
+    <!-- Slider Start -->
+<section id="global-header-terapias">
+<section id="global-header">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="block">
+                  <h1> Escuela de Qui Gong, Tao, Zen & Meditación</h1>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+</section>
+
+
+<!-- Wrapper Start -->
+<section id="intro">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 col-sm-12">
+        <div class="block">
+          <div class="section-title">
+            <h2>Escuela de Qui Gong, Tao, Zen & Meditación</h2>
+         </div>
+       </div>
+    </div><!-- .col-md-7 close -->
+    <div class="col-md-8 col-sm-12">
+      <div class="block">
+
+        {% if site.data.formacion_qigong.size > 0 %}
+          {% for terapia in site.data.formacion_qigong %}
+
+                  <br><b>{{terapia.name}}</b>
+                  <br>{{terapia.content}}
+                  <br>
+                  {% endfor %}
+                {% endif %}
+
+
+
+       </div>
+    </div><!-- .col-md-7 close -->
+    <div class="col-md-4 col-sm-12">
+      <div class="block">
+        <img src="{{ site.url }}{{ site.baseurl }}/img/tnaturales/tnaturales.jpg" alt="Formación - Terapias Naturales y Orientales2">
+
+
+      </div>
+    </div><!-- .col-md-4 close -->
+
+
+  </div>
+  </div>
+  <p class="center-text" style="padding: 30px;">
+    <a href="{{ site.url }}{{ site.baseurl }}/qigong/">Volver a Escuela de Qui Gong, Tao, Zen & Meditación</a>
+  </p>
+  </section>
