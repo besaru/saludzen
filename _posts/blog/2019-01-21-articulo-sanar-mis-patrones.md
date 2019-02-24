@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: blog
+categories: 'blog'
 title:  "Artículo - Sanar mis Patrones para Regenerar y Liberar a mis células"
 subtitle: "Artículo - Sanar mis Patrones para Regenerar y Liberar a mis células"
 date: 2019-01-21 13:00:27

@@ -292,7 +292,7 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 
 #feature {
-  background: url("../img/index/featue-bg-fondo.jpg");
+  background: url("../img/index/featue-bg-fondo_3.jpg");
   background-position: 50% 94px;
   width: 100%;
   display: block;
@@ -419,7 +419,7 @@ font header .navbar-default .navbar-nav li a:hover {
 	Slider-work Start
 --*/
 #global-header-team  {
-  /*--background: url("../img/index/conferencias.jpg") no-repeat;*/
+  background: url("../img/team/conferencias.jpg") no-repeat;
   background-size: cover;
   padding-top: 150px;
   padding-bottom: 107px;
@@ -428,7 +428,7 @@ font header .navbar-default .navbar-nav li a:hover {
   }
 
 #global-header-escuelas  {
-  background: url("../img/escuelas/conferencias.jpg") no-repeat;
+  background: url("../img/index/escuelaMacro.jpg") no-repeat;
   background-size: cover;
   padding-top: 150px;
   padding-bottom: 107px;
@@ -461,9 +461,17 @@ font header .navbar-default .navbar-nav li a:hover {
         position: relative;
         background-attachment: fixed;
         }
+        #global-header-consultas2  {
+          background: url("../img/index/consulta_tn.jpg") no-repeat;
+          background-size: cover;
+          padding-top: 150px;
+          padding-bottom: 107px;
+          position: relative;
+          background-attachment: fixed;
+          }
 
         #global-header-eventos  {
-          background: url("../img/index/calendario.jpg") no-repeat;
+          background: url("../img/eventos/cursos_2.jpg") no-repeat;
           background-size: cover;
           padding-top: 150px;
           padding-bottom: 107px;
@@ -472,7 +480,7 @@ font header .navbar-default .navbar-nav li a:hover {
 
           }
           #global-header-blog  {
-            background: url("../img/index/blog.jpg") no-repeat;
+            background: url("../img/blog/blog_2.jpg") no-repeat;
             background-size: cover;
             padding-top: 150px;
             padding-bottom: 107px;

@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: blog
+categories: 'blog'
 title:  Reflexión- El verdadero Origen de la Navidad
 subtitle: Reflexión- El verdadero Origen de la Navidad
 date: 2018-12-25 15:11:27

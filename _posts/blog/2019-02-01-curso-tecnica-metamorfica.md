@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: blog
+categories: 'blog'
 title:  Curso-Técnica Metamórfica
 subtitle: Curso-Técnica Metamórfica Cromoterapia y Principios Universales Integrados
 date: 2019-02-01 15:11:27

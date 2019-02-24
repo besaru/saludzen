@@ -662,8 +662,8 @@
              "name": "El Orden del Universo",
              "title": "El Orden del Universo. Conocimiento Energético y Medicina Vibracional. Fundamentos de la Medicina Oriental. Ciclo de la Salud. Proceso de Enfermedad.",
              "id": "C0001",
-             "end": "2019-04-07",
-             "start": "2019-04-06",
+             "end": "2019-04-07 18:00:00",
+             "start": "2019-04-06 09:00:00",
              "className": "terapias",
              "url":"../evento/2019/04/06/curso-orden-universo.html"
          },
@@ -672,8 +672,8 @@
              "name": "Desayunos Energéticos Almuerzos & Meriendas Saludables",
              "title": "Desayunos energéticos. Empieza el dia con Vitalidad y Energía. Almuerzos & Meriendas Saludables",
              "id": "C0001",
-             "end": "2019-05-12",
-             "start": "2019-05-11",
+             "end": "2019-05-12 18:00:00",
+             "start": "2019-05-11 09:00:00",
              "className": "macrobiotica",
              "url":"../evento/2019/05/11/curso-desayunos-almuerzos-meriendas.html"
          },
@@ -683,10 +683,20 @@
              "name": "Cooking Training",
              "title": "Cooking Training. 15 platos en 2 horas. Cocina, Rápida y Facil. Cocina Sana para llevar. Formas de ahorrar tiempo en la cocina. Embotados. Cocina Angélica. Preparados para varios dias.",
              "id": "C0001",
-             "end": "2019-06-16",
-             "start": "2019-06-15",
+             "end": "2019-06-02 17:00:00",
+             "start": "2019-06-01 09:00:00",
              "className": "macrobiotica",
              "url":"..evento/2019/06/15/curso-cooking-training.html"
+         },
+         {
+             "allDay": "false",
+             "title": "El Arte de Saber Alimentarnos",
+             "name":"El Arte de Saber Alimentarnos",
+             "id": "C0001",
+             "end": "2019-03-08 20:30:00",
+             "start": "2019-03-08 19:00:00",
+             "className": "macrobiotica",
+             "url":"../evento/2019/03/08/conferencia-saber-alimentarnos.html"
          }
      ]
 ,

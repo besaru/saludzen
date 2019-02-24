@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: blog
+categories: 'blog'
 title: Resumen - Curso de Cocina Macrobiótica de Invierno
 subtitle: Resumen - Curso de Cocina Macrobiótica de Invierno
 date: 2019-01-30 09:11:27
