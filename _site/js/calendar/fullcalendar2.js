@@ -697,7 +697,17 @@
              "start": "2019-03-08 19:00:00",
              "className": "macrobiotica",
              "url":"../evento/2019/03/08/conferencia-saber-alimentarnos.html"
-         }
+         },
+         {
+             "allDay": "false",
+             "title": "Zazen - El Arte Japonés de Meditar Sentada",
+             "name":"Zazen",
+             "id": "C0001",
+             "end": "2019-03-13 20:30:00",
+             "start": "2019-03-13 19:00:00",
+             "className": "terapias",
+             "url":"../evento/2019/03/13/taller-zazen.html"
+         },
      ]
 ,
 /*

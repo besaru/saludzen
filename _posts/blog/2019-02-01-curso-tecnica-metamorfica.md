@@ -18,4 +18,4 @@ Gracias!!😊
 Feliz Fin de semana!!  
 Salud-Zen
 
-[curso]:{{site.url}}{{site.baseurl}}/evento/2018/03/30/ccurso-tecnica-metamorfica.html
+[curso]:{{site.url}}{{site.baseurl}}/evento/2019/02/16/curso-tecnica-metamorfica.html

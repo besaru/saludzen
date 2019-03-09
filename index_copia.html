@@ -1,0 +1,266 @@
+---
+layout: page
+title: Salud-Zen
+permalink: /index_copia
+---
+
+<!-- Slider Start -->
+
+<!-- Slider Start -->
+<section class="section-white">
+<!--  <div class="container">-->
+
+    <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+     <div class="col-md-12_carouse ">
+      <!-- Indicators -->
+      <ol class="carousel-indicators">
+        <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+        <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+        <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+        <li data-target="#carousel-example-generic" data-slide-to="3"></li>
+        <li data-target="#carousel-example-generic" data-slide-to="4"></li>
+        <li data-target="#carousel-example-generic" data-slide-to="5"></li>
+      </ol>
+
+      <!-- Wrapper for slides -->
+      <div class="carousel-inner">
+
+        <div class="item active">
+          <img src="{{site.url}}{{site.baseurl}}/img/index/ppal.jpg" alt="Salud ZEN - Escuela de Luz y Consciencia">
+          <div class="carousel-caption">
+            <h1 class="animated fadeInUp">Salud ZEN - Escuela de Luz y Consciencia</h1>
+          </div>
+        </div>
+
+        <div class="item">
+          <a href="{{site.url}}{{site.baseurl}}/macrobiotica/">
+          <img src="{{site.url}}{{site.baseurl}}/img/index/escuelaMacro.jpg" alt="Escuela Macrobiótica & Medicina Oriental">
+          <div class="carousel-caption">
+            <h1 class="animated fadeInUp">Escuela Macrobiótica & Medicina Oriental</h1>
+          </div>
+          </a>
+       </div>
+
+        <div class="item">
+          <a href="{{site.url}}{{site.baseurl}}/terapias/">
+          <img src="{{site.url}}{{site.baseurl}}/img/index/tnaturales_l.jpg" alt="Escuela de Terapias Naturales & Artes Orientales">
+          <div class="carousel-caption">
+            <h1 class="animated fadeInUp">Escuela de Terapias Naturales & Artes Orientales</h1>
+          </div>
+          </a>
+        </div>
+
+        <div class="item">
+          <a href="{{site.url}}{{site.baseurl}}/qigong/">
+          <img src="{{site.url}}{{site.baseurl}}/img/index/qigong.jpg" alt="Escuela de Qi Gong,Tao,Zen & Meditación">
+          <div class="carousel-caption">
+            <h1 class="animated fadeInUp">Escuela de Qi Gong,Tao,Zen & Meditación</h1>
+          </div>
+         </a>
+        </div>
+
+      <div class="item">
+        <a href="{{site.url}}{{site.baseurl}}/cnutrición/">
+        <img src="{{site.url}}{{site.baseurl}}/img/index/consulta_l.jpg" alt="Consultas de Nutrición Holística & Salud Natural">
+        <div class="carousel-caption">
+          <h1 class="animated fadeInUp"> Consultas de Nutrición Holística & Salud Natural </h1>
+        </div>
+       </a>
+      </div>
+
+      <div class="item">
+        <a href="{{site.url}}{{site.baseurl}}/cterapias/">
+        <img src="{{site.url}}{{site.baseurl}}/img/index/consulta_tn.jpg" alt="Consultas de Terapias Naturales Integradas">
+        <div class="carousel-caption">
+          <h1 class="animated fadeInUp"> Consultas de Terapias Naturales Integradas</h1>
+        </div>
+        </a>
+     </div>
+      <div class="item">
+        <a href="{{site.url}}{{site.baseurl}}/calendario/">
+        <img src="{{site.url}}{{site.baseurl}}/img/index/calendario_l2.jpg" alt="Calendario: Cursos, Seminarios, Talleres">
+        <div class="carousel-caption">
+          <h1 class="animated fadeInUp"> Calendario: Cursos, Conferencias, Seminarios, Talleres ...</h1>
+        </div>
+        </a>
+      </div>
+
+      <div class="item">
+        <a href="{{site.url}}{{site.baseurl}}/blog/">
+        <img src="{{site.url}}{{site.baseurl}}/img/index/blog.jpg" alt="Blog: Artículos, Reflexiones, Novedades">
+        <div class="carousel-caption">
+          <h1 class="animated fadeInUp"> Blog: Artículos, Reflexiones, Novedades</h1>
+        </div>
+      </a>
+      </div>
+
+      </div>
+
+      <!-- Controls -->
+      <a class="left carousel-control" href="#carousel-example-generic" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left"></span>
+      </a>
+      <a class="right carousel-control" href="#carousel-example-generic" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right"></span>
+      </a>
+
+    </div>
+    </div>
+
+  <!--</div>-->
+</section>
+
+
+<!--Events Start-->
+<section id="clients-logo-section">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="block">
+          <h2>Próximos Eventos:</h2>
+          <!--  <div id="eventos" style="visibility:hidden; display: none;">-->
+              {% assign sorted-posts = site.posts | where: "categories","evento" %}
+              {% assign sorted-posts2 = sorted-posts | where: "public","true"|sort: 'date' %}
+
+              {%
+                for post in sorted-posts2
+               %}
+              <div id="clients-logo" class="owl-carousel" >
+
+              <div future-date="{{ post.date | date: '%Y%m%d' }}" >
+
+
+                <div class="clients-logo-img">
+                  <a href="{{ site.url }}{{ site.baseurl }}/{{ post.url }}" class="bold">
+                    {% if post.image_prop %}
+                      <img src="{{ site.url }}{{ site.baseurl }}/{{ post.image_prop}}" width="167" height="119" alt="{{ post.title }}">
+                    {% else %}
+                      <img src="{{ site.url }}{{ site.baseurl }}/{{ post.image}}"  width="167" height="119" alt="{{ post.title }} ">
+                    {%endif%}
+
+                    <p>{{ post.name }} <br>{{ post.date_imparticion}}</p>
+                  </a>
+                </div>
+
+
+              </div>
+            </div>
+              {%endfor%}
+
+            <!--</div>-->
+
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+<!-- Service Start -->
+
+
+<section id="service">
+  <div class="container">
+    <div class="row">
+      <div class="section-title">
+        <h2>Escuela Macrobiótica - Últimas Recetas</h2>
+      </div>
+    </div>
+    {% assign recipe_desayuno = site.posts | where: "categories","Desayuno"|sort: 'date' %}
+    {{recipe_desayuno.first.name}}
+    {{recipe_desayuno.last.name}}
+
+    {% assign recipe_cremas = site.posts | where: "categories","Desayuno"|sort: 'date' %}
+    {% assign recipe_principal = site.posts | where: "categories","Desayuno"|sort: 'date' %}
+    {% assign recipe_postres = site.posts | where: "categories","Desayuno"|sort: 'date' %}
+
+    <div class="row ">
+      <!--
+      <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+        <div class="service-item">
+          <h4><div>
+              <p><a href="{{ recipe_desayuno.url | prepend: site.baseurl |prepend: site.url }}" class="bold" target="_blank"><span>{{ recipe_desayuno.name }}</span> {{ recipe_desayuno.title }}</a></p>
+          </div></h4>
+          <div>
+            <a href="{{ recipe.url | prepend: site.baseurl |prepend: site.url }}" class="bold" target="_blank">
+              <p><span>{{ recipe.name }}</span> {{ recipe.title }}</p>
+              <img src="{{ recipe.featured_image }}" alt="Receta - {{ recipe.title }}">
+            </a>
+          </div>
+
+
+        </div>
+      </div>-->
+      <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+        <div class="service-item">
+          <i class="ion-ios-flower"></i>
+          <h4><a href="{{site.url}}{{site.baseurl}}/terapias" target="_new" style="text-decoration: none;color: inherit;">Escuela de Terapias Naturales & Artes Orientales</a></h4>
+          <p>
+            Formación para poder desempeñar diferentes técnicas:  Chi nei Tsang, Reflexología Podal, Metamórfica, Auriculoterapia, Acupuntura, Bioenergética y Terapia Sacrocraneal
+            <h5><div class="hidden-xs hidden-md hidden-lg"><br><br><br></div></h5>
+          </p>
+        </div>
+      </div>
+      <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+        <div class="service-item">
+          <i class="ion-ios-flower"></i>
+          <h4><a href="{{site.url}}{{site.baseurl}}/" target="_new" style="text-decoration: none;color: inherit;">Escuela de Qi Gong, Tao, Zen & Meditación</a></h4>
+          <p>
+            Liberar nuestras emociones, calmar la mente, armonizar nuestros órganos y despertar el espíritu.
+            Cultivar el Arte de la Armonía a través de la Voz del Silencio.
+            <h5><div class="hidden-xs hidden-sm"><br><br><br></div></h5>
+
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</section>
+
+<section id="service">
+  <div class="container">
+    <div class="row">
+      <div class="section-title">
+        <h2>Blog - Artículos recientes</h2>
+      </div>
+    </div>
+    <div class="row ">
+      <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+        <div class="service-item">
+          <i class="ion-ios-flower"></i>
+        <!--  <i > <img src="{{ site.url }}{{ site.baseurl }}/img/macrobiotica.png"/>
+</i>-->
+          <h4><a href="{{site.url}}{{site.baseurl}}/macrobiotica/" target="_new" style="text-decoration: none;color: inherit;">Escuela de Macrobiótica & Medicina Oriental</a></h4>
+          <p>
+            Ofrecemos Formación de Consultor y Experto en Nutrición Energética & Macrobiótica y Medicina Natural, Cursos y Seminarios independientes, Clases particulares de cocina Macrobiótica, Asesoramiento particular y acompañamiento en compra.
+          </p>
+        </div>
+      </div>
+      <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+        <div class="service-item">
+          <i class="ion-ios-flower"></i>
+          <h4><a href="{{site.url}}{{site.baseurl}}/terapias" target="_new" style="text-decoration: none;color: inherit;">Escuela de Terapias Naturales & Artes Orientales</a></h4>
+          <p>
+            Formación para poder desempeñar diferentes técnicas:  Chi nei Tsang, Reflexología Podal, Metamórfica, Auriculoterapia, Acupuntura, Bioenergética y Terapia Sacrocraneal
+            <h5><div class="hidden-xs hidden-md hidden-lg"><br><br><br></div></h5>
+          </p>
+        </div>
+      </div>
+      <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+        <div class="service-item">
+          <i class="ion-ios-flower"></i>
+          <h4><a href="{{site.url}}{{site.baseurl}}/" target="_new" style="text-decoration: none;color: inherit;">Escuela de Qi Gong, Tao, Zen & Meditación</a></h4>
+          <p>
+            Liberar nuestras emociones, calmar la mente, armonizar nuestros órganos y despertar el espíritu.
+            Cultivar el Arte de la Armonía a través de la Voz del Silencio.
+            <h5><div class="hidden-xs hidden-sm"><br><br><br></div></h5>
+
+          </p>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
