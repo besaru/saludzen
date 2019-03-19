@@ -707,7 +707,7 @@
              "start": "2019-03-20 19:00:00",
              "className": "terapias",
              "url":"../evento/2019/03/20/taller-zazen.html"
-         },
+         }
      ]
 ,
 /*
