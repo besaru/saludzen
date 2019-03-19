@@ -5,10 +5,10 @@ public: yes
 name: Zazen
 title: Zazen - El Arte Japonés de Meditar Sentado
 subtitle:
-dateVisible: 2019-03-13 23:00:00
-date: 13-03-2019
-date_text: 13 de Marzo de 2019
-date_imparticion: 13-03-2019
+dateVisible: 2019-03-20 23:00:00
+date: 20-03-2019
+date_text: 20 de Marzo de 2019
+date_imparticion: 20-03-2019
 horario: 19:00 - 20:30
 localizacion: Sede Principal
 author: Salud-Zen
