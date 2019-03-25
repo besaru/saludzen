@@ -19,8 +19,6 @@ Ser feliz no es sólo un derecho también es una obligación. Los demás son fel
 
 Alma de Tao
 
-“Nunca dejes que nadie te diga que no puedes hacer algo. Si tienes un sueño tienes que protegerlo. Las personas que no son capaces de hacer algo te dirán que tu tampoco puedes. Si quieres algo ve por ello.”
-
 <p style="text-align:center;font-size:16px">
 <b>Txiki Soto </b></p>
 
