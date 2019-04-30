@@ -20,10 +20,16 @@ layout: page
                 <img src="{{ site.url }}{{ site.baseurl }}/{{ page.image2 }}" alt="">
               {%endif%}
             <p>{{ content }}</p>
+            {% if page.localizacion =='Ecotienda de Arroyomolinos, c/ del Potro n°7' %}
+            <p>Si estás interesado, no olvides reservar tu plaza. Nati Alcázar
+              661614603/916897337
+            </p>
+            {%else%}
             <p>Si estás interesado, no olvides
             <a href="mailto:estilodevida@salud-zen.com?Subject=Reserva%20de%20Plaza: {{ page.name}} {{page.date|date: '%d-%-m-%Y' }}&body=Me gustaría reservar una plaza para: {{page.title}} del {{ page.date_text}}. Mis datos Personales son:%0A%0A   -Nombre:%0A%0A   -Apellidos:%0A%0A   -Fecha de nacimiento:%0A%0A   -Teléfono:%0A%0A    -Correo Electrónico:%0A%0A">reservar tu plaza</a>.
             </p>
-            <p>Si tienes alguna consulta, ponte en <a href="{{site.url}}{{site.baseurl}}/contact">contacto</a> con nosotros:</p>
+            {%endif%}
+            <p>Si tienes alguna consulta, ponte en <a href="{{site.url}}{{site.baseurl}}/contact">contacto</a> con nosotros</p>
           </div>
         </div><!-- .col-md-7 close -->
       </div>

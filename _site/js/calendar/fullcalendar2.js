@@ -707,6 +707,26 @@
              "start": "2019-03-20 19:00:00",
              "className": "terapias",
              "url":"../evento/2019/03/20/taller-zazen.html"
+         },
+         {
+             "allDay": "false",
+             "title": "Conferencias - Menús Energéticos",
+             "name":"Conferencia",
+             "id": "C0001",
+             "end": "2019-05-10 20:00:00",
+             "start": "2019-05-10 19:00:00",
+             "className": "macrobiotica",
+             "url":"../evento/2019/05/10/conferencia-menus-energeticos.html"
+         },
+         {
+             "allDay": "false",
+             "title": "Jornada - Bienestar & Salud Natural",
+             "name":"Jornada Bienestar",
+             "id": "C0001",
+             "end": "2019-05-25 14:00:00",
+             "start": "2019-05-25 09:00:00",
+             "className": "terapias",
+             "url":"../evento/2019/05/25/curso-jornada-bienestar.html"
          }
      ]
 ,
