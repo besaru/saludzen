@@ -710,8 +710,8 @@
          },
          {
              "allDay": "false",
-             "title": "Conferencias - Menús Energéticos",
-             "name":"Conferencia",
+             "title": "Conferencia - Menús Energéticos",
+             "name":"Conferencia - Menús Energéticos",
              "id": "C0001",
              "end": "2019-05-10 20:00:00",
              "start": "2019-05-10 19:00:00",

@@ -2,8 +2,8 @@
 layout: event
 categories: evento
 public: yes
-name: Menús Energéticos
-title: Menús Energéticos
+name: Conferencia-Menús Energéticos
+title: Conferencia-Menús Energéticos
 subtitle:
 dateVisible: 2019-05-10 23:00:00
 date: 10-05-2019
