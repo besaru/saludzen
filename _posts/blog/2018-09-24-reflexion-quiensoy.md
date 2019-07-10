@@ -1,6 +1,9 @@
 ---
 layout: post
-categories: blog
+categories:
+- blog
+- reflexiones
+categories2: blog
 title:  Reflexión-¿Quién soy?...
 subtitle: Reflexión-¿Quién soy?...
 date: 2018-09-24 15:11:27

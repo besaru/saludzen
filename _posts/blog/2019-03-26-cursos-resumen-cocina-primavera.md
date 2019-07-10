@@ -1,6 +1,9 @@
 ---
 layout: post
-categories: 'blog'
+categories:
+- blog
+- resumen
+categories2: blog
 title: Resumen - Curso de Cocina Macrobiótica de Primavera
 subtitle: Resumen - Nutrición Energética y Cocina Macrobiótica para PRIMAVERA
 date: 2019-03-26 09:11:27

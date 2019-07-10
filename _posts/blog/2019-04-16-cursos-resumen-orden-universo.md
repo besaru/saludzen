@@ -1,6 +1,9 @@
 ---
 layout: post
-categories: 'blog'
+categories:
+- blog
+- resumen
+categories2: blog
 title: Resumen - Fundamentos de la Medicina Oriental y El Orden del Universo
 subtitle: Resumen - Fundamentos de la Medicina Oriental y El Orden del Universo
 date: 2019-04-16 09:11:27

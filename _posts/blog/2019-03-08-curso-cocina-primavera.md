@@ -1,6 +1,9 @@
 ---
 layout: post
-categories: 'blog'
+categories:
+- blog
+- cursos
+categories2: blog
 title:  Curso-Cocina para la Primavera
 subtitle: Curso-Nutrición Energética y Cocina Macrobiótica para la Primavera
 date: 2019-03-08 15:11:27

@@ -1,6 +1,9 @@
 ---
 layout: post
-categories: blog
+categories:
+- blog
+- cursos
+categories2: blog
 title:  Curso-Master Acupuntura
 subtitle: Curso-Master Acupuntura
 date: 2018-09-04 15:11:27

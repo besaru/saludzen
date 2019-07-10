@@ -1,7 +1,10 @@
 ---
 layout: post
-categories: blog
-title:  Reflexión-Los Miedos
+categories:
+- blog
+- reflexiones
+categories2: blog
+stitle:  Reflexión-Los Miedos
 subtitle: Reflexión-Los Miedos
 date: 2018-09-17 15:11:27
 author: Txiki Soto, Salud-Zen

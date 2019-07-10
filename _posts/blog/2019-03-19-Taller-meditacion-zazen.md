@@ -1,6 +1,9 @@
 ---
 layout: post
-categories: 'blog'
+categories:
+- blog
+- cursos
+categories2: blog
 title:  Taller - ZAZEN. EL ARTE DE MEDITAR SENTADO
 subtitle: Taller - ZAZEN. EL ARTE DE MEDITAR SENTADO
 date: 2019-03-19 13:11:27

@@ -1,6 +1,9 @@
 ---
 layout: post
-categories: 'blog'
+categories:
+- blog
+- reflexiones
+categories2: blog
 title:  Reflexión- Puertas abiertas
 subtitle: Reflexión- Puertas abiertas
 date: 2018-11-28 15:11:27

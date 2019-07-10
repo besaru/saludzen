@@ -1,6 +1,9 @@
 ---
 layout: post
-categories: blog
+categories:
+- blog
+- receta
+categories2: blog
 title: Receta - Tarta de Frutos Rojos
 subtitle: Receta - Tarta de Frutos Rojos, para Nutrir, Fortalecer y Relajar el Hígado
 date: 2018-02-23 10:11:27

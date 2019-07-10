@@ -1,6 +1,9 @@
 ---
 layout: post
-categories: 'blog'
+categories:
+- blog
+- cursos
+categories2: blog
 title:  El Arte de Saber Alimentarnos
 subtitle: "Ciclo de Conferencias Gratutitas: El Arte de Saber Alimentarnos"
 date: 2019-02-26 15:11:27

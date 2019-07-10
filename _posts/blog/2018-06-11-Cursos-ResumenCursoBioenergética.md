@@ -1,6 +1,9 @@
 ---
 layout: post
-categories: blog
+categories:
+- blog
+- resumen
+categories2: blog
 title: Resumen - Curso Bioenergética
 subtitle: Resumen - Curso Bioenergética
 date: 2018-06-11 09:11:27

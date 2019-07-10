@@ -1,6 +1,9 @@
 ---
 layout: post
-categories: blog
+categories:
+- blog
+- articulo
+categories2: blog
 title:  "Artículo - El Mundo de los Cambios"
 subtitle: "Artículo - El Mundo de los Cambios"
 date: 2018-06-30 13:00:27

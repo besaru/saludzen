@@ -1,6 +1,9 @@
 ---
 layout: post
-categories: blog
+categories:
+- blog
+- noticias
+categories2: blog
 title:  "Corto - Soltar el control"
 subtitle: "Corto - ´Soltar el control´, el corto que nos enseña a abrazar la vida"
 date: 2018-11-07 13:00:27

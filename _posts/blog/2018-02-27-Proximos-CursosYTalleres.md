@@ -1,6 +1,9 @@
 ---
 layout: post
-categories: blog
+categories:
+- blog
+- cursos
+categories2: blog
 title: Próximos talleres y cursos Marzo y Abril 2018
 subtitle: Próximos talleres y cursos Marzo y Abril 2018
 date: 2018-02-27 10:11:27

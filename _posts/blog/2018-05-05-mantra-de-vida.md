@@ -1,6 +1,9 @@
 ---
 layout: post
-categories: blog
+categories:
+- blog
+- reflexiones
+categories2: blog
 title:  "Mantra de Vida"
 subtitle: "Mantra de Vida, bendición de tradición budista"
 date: 2018-05-05 16:00:27

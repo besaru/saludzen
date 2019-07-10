@@ -1,6 +1,9 @@
 ---
 layout: post
-categories: blog
+categories:
+- blog
+- resumen
+categories2: blog
 title: Resumen - Curso de Sistema Inmune
 subtitle: Resumen - Curso de Sistema Inmune
 date: 2018-11-21 09:11:27

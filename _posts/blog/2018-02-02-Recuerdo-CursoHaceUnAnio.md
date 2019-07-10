@@ -1,6 +1,9 @@
 ---
 layout: post
-categories: blog
+categories:
+- blog
+- resumen
+categories2: blog
 title: Recuerdo - Curso de hace un año
 subtitle: Recuerdo - Curso de hace un año
 date: 2018-02-02 10:11:27

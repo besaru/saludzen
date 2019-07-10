@@ -1,0 +1,418 @@
+---
+layout: page
+title: Salud-Zen
+permalink: /index_0307
+---
+
+<!-- Slider Start -->
+
+<!-- Slider Start -->
+<section class="section-white">
+<!--  <div class="container">-->
+
+    <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+     <div class="col-md-12_carouse ">
+      <!-- Indicators -->
+      <ol class="carousel-indicators">
+        <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+        <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+        <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+        <li data-target="#carousel-example-generic" data-slide-to="3"></li>
+        <li data-target="#carousel-example-generic" data-slide-to="4"></li>
+        <li data-target="#carousel-example-generic" data-slide-to="5"></li>
+      </ol>
+
+      <!-- Wrapper for slides -->
+      <div class="carousel-inner">
+
+        <div class="item active">
+          <img src="{{site.url}}{{site.baseurl}}/img/index/ppal.jpg" alt="Salud ZEN - Escuela de Luz y Consciencia">
+          <div class="carousel-caption">
+            <h1 class="animated fadeInUp">Salud ZEN - Escuela de Luz y Consciencia</h1>
+          </div>
+        </div>
+
+        <div class="item">
+          <a href="{{site.url}}{{site.baseurl}}/macrobiotica/">
+          <img src="{{site.url}}{{site.baseurl}}/img/index/escuelaMacro.jpg" alt="Escuela Macrobiótica & Medicina Oriental">
+          <div class="carousel-caption">
+            <h1 class="animated fadeInUp">Escuela Macrobiótica & Medicina Oriental</h1>
+          </div>
+          </a>
+       </div>
+
+        <div class="item">
+          <a href="{{site.url}}{{site.baseurl}}/terapias/">
+          <img src="{{site.url}}{{site.baseurl}}/img/index/tnaturales_l.jpg" alt="Escuela de Terapias Naturales & Artes Orientales">
+          <div class="carousel-caption">
+            <h1 class="animated fadeInUp">Escuela de Terapias Naturales & Artes Orientales</h1>
+          </div>
+          </a>
+        </div>
+
+        <div class="item">
+          <a href="{{site.url}}{{site.baseurl}}/qigong/">
+          <img src="{{site.url}}{{site.baseurl}}/img/index/qigong.jpg" alt="Escuela de Qi Gong,Tao,Zen & Meditación">
+          <div class="carousel-caption">
+            <h1 class="animated fadeInUp">Escuela de Qi Gong,Tao,Zen & Meditación</h1>
+          </div>
+         </a>
+        </div>
+
+      <div class="item">
+        <a href="{{site.url}}{{site.baseurl}}/cnutrición/">
+        <img src="{{site.url}}{{site.baseurl}}/img/index/consulta_l.jpg" alt="Consultas de Nutrición Holística & Salud Natural">
+        <div class="carousel-caption">
+          <h1 class="animated fadeInUp"> Consultas de Nutrición Holística & Salud Natural </h1>
+        </div>
+       </a>
+      </div>
+
+      <div class="item">
+        <a href="{{site.url}}{{site.baseurl}}/cterapias/">
+        <img src="{{site.url}}{{site.baseurl}}/img/index/consulta_tn.jpg" alt="Consultas de Terapias Naturales Integradas">
+        <div class="carousel-caption">
+          <h1 class="animated fadeInUp"> Consultas de Terapias Naturales Integradas</h1>
+        </div>
+        </a>
+     </div>
+      <div class="item">
+        <a href="{{site.url}}{{site.baseurl}}/calendario/">
+        <img src="{{site.url}}{{site.baseurl}}/img/index/calendario_l2.jpg" alt="Calendario: Cursos, Seminarios, Talleres">
+        <div class="carousel-caption">
+          <h1 class="animated fadeInUp"> Calendario: Cursos, Conferencias, Seminarios, Talleres ...</h1>
+        </div>
+        </a>
+      </div>
+
+      <div class="item">
+        <a href="{{site.url}}{{site.baseurl}}/blog/">
+        <img src="{{site.url}}{{site.baseurl}}/img/index/blog.jpg" alt="Blog: Artículos, Reflexiones, Novedades">
+        <div class="carousel-caption">
+          <h1 class="animated fadeInUp"> Blog: Artículos, Reflexiones, Novedades</h1>
+        </div>
+      </a>
+      </div>
+
+      </div>
+
+      <!-- Controls -->
+      <a class="left carousel-control" href="#carousel-example-generic" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left"></span>
+      </a>
+      <a class="right carousel-control" href="#carousel-example-generic" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right"></span>
+      </a>
+
+    </div>
+    </div>
+
+  <!--</div>-->
+</section>
+
+
+<!--Events Start-->
+<section id="clients-logo-section">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="block">
+          <h2>Próximos Eventos:</h2>
+          <!--  <div id="eventos" style="visibility:hidden; display: none;">-->
+              {% assign sorted-posts = site.posts | where: "categories","evento" %}
+              {% assign sorted-posts2 = sorted-posts | where: "public","true"|sort: 'date' %}
+
+              {%
+                for post in sorted-posts2
+               %}
+              <div id="clients-logo" class="owl-carousel" >
+
+              <div future-date="{{ post.date | date: '%Y%m%d' }}" >
+
+
+                <div class="clients-logo-img">
+                  <a href="{{ site.url }}{{ site.baseurl }}/{{ post.url }}" class="bold">
+                    {% if post.image_prop %}
+                      <img src="{{ site.url }}{{ site.baseurl }}/{{ post.image_prop}}" width="167" height="119" alt="{{ post.title }}">
+                    {% else %}
+                      <img src="{{ site.url }}{{ site.baseurl }}/{{ post.image}}"  width="167" height="119" alt="{{ post.title }} ">
+                    {%endif%}
+
+                    <p>{{ post.name }} <br>{{ post.date_imparticion}}</p>
+                  </a>
+                </div>
+
+
+              </div>
+            </div>
+              {%endfor%}
+
+            <!--</div>-->
+
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Service Start -->
+<section id="service">
+  <div class="container">
+    <div class="row">
+      <div class="section-title">
+        <h2>Nuestros Pilares</h2>
+      </div>
+    </div>
+    <div class="row ">
+      <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+        <div class="service-item">
+          <i class="ion-ios-flower"></i>
+        <!--  <i > <img src="{{ site.url }}{{ site.baseurl }}/img/macrobiotica.png"/>
+</i>-->
+          <h4><a href="{{site.url}}{{site.baseurl}}/macrobiotica/" target="_new" style="text-decoration: none;color: inherit;">Escuela de Macrobiótica & Medicina Oriental</a></h4>
+          <p>
+            Ofrecemos Formación de Consultor y Experto en Nutrición Energética & Macrobiótica y Medicina Natural, Cursos y Seminarios independientes, Clases particulares de cocina Macrobiótica, Asesoramiento particular y acompañamiento en compra.
+          </p>
+        </div>
+      </div>
+      <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+        <div class="service-item">
+          <i class="ion-ios-flower"></i>
+          <h4><a href="{{site.url}}{{site.baseurl}}/terapias" target="_new" style="text-decoration: none;color: inherit;">Escuela de Terapias Naturales & Artes Orientales</a></h4>
+          <p>
+            Formación para poder desempeñar diferentes técnicas:  Chi nei Tsang, Reflexología Podal, Metamórfica, Auriculoterapia, Acupuntura, Bioenergética y Terapia Sacrocraneal
+            <h5><div class="hidden-xs hidden-md hidden-lg"><br><br><br></div></h5>
+          </p>
+        </div>
+      </div>
+      <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+        <div class="service-item">
+          <i class="ion-ios-flower"></i>
+          <h4><a href="{{site.url}}{{site.baseurl}}/" target="_new" style="text-decoration: none;color: inherit;">Escuela de Qi Gong, Tao, Zen & Meditación</a></h4>
+          <p>
+            Liberar nuestras emociones, calmar la mente, armonizar nuestros órganos y despertar el espíritu.
+            Cultivar el Arte de la Armonía a través de la Voz del Silencio.
+            <h5><div class="hidden-xs hidden-sm"><br><br><br></div></h5>
+
+          </p>
+        </div>
+      </div>
+
+      <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+        <div class="service-item">
+          <i class="ion-ios-chatbubble"></i>
+
+          <h4><a href="{{site.url}}{{site.baseurl}}/cnutricion" target="_new" style="text-decoration: none;color: inherit;">Consultas de Nutrición Holística & Salud Natural </a></h4>
+          <p>
+            Consultas individuales con tratamientos totalmente personalizados y adaptados orientados al tratamiento de la persona desde un punto de vista holístico
+            <h5><div class="hidden-xs hidden-md hidden-lg"><br><br><br></div></h5>
+          </p>
+        </div>
+      </div>
+
+      <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+        <div class="service-item">
+          <i class="ion-ios-chatbubble"></i>
+
+          <h4><a href="{{site.url}}{{site.baseurl}}/cterapias" target="_new" style="text-decoration: none;color: inherit;">Consultas de Terapias Naturales Integradas </a></h4>
+          <p>
+            Consultas individuales con tratamientos totalmente personalizados y adaptados orientados al tratamiento de la persona desde un punto de vista holístico
+
+          </p>
+        </div>
+      </div>
+
+      <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+        <div class="service-item">
+          <i class="ion-information"></i>
+          <h4>Conferencias & Talleres</h4>
+          <p>
+            Difusión de información y conocimiento a través de la impartición de Talleres, Conferencias, Encuentros, así como mediante la Publicación de diferentes artículos de interés
+          </p>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<section id="feature">
+<div class="container">
+  <div class="row">
+
+    <div class="col-md-6 col-md-offset-6 col-sm-6 col-sm-offset-6 col-xs-7 col-xs-offset-5">
+
+        <h2>¿Qué aportamos?</h2>
+
+    <p>Creamos <b>Salud zen Escuela de luz y consciencia</b> con la intención de mostrar al
+      mundo nuestra propia experiencia vital desde el cambio personal e interior que
+      continuamos viviendo.
+      <br>
+      De esta manera, sentimos que podemos hacer llegar a cada persona lo que
+      necesita para que se produzca el cambio que ellos sientan que realmente quieren
+      hacer. Todo ello con una visión más profunda de la Vida, más Humana y Espiritual
+      desde la Filosofía Oriental, la Sabiduría Taoista, abarcando la Macrobiótica, las
+      Medicinas Antiguas, los Principios del mismo Zen y las Psicologías Positivas,
+      teniendo en cuenta la Sociedad Occidental en la que nos hayamos sumergidos.
+      Ofrecemos Conferencias Gratuitas y Formación Específica en la <a href="{{site.url}}{{site.baseurl}}/macrobiotica/" target="_new" >Escuela Macrobiótica & Medicina Oriental</a>,
+       la <a href="{{site.url}}{{site.baseurl}}/terapias" target="_new" >Escuela de Terapias Naturales & Artes Orientales</a> y la <a href="{{site.url}}{{site.baseurl}}/qigong" target="_new" >Escuela de Qi Gong,Tao,Zen & Meditación</a>.
+    </p>
+    <p>Además, a través de nuestras <a href="{{site.url}}{{site.baseurl}}/cnutricion" target="_new" >Consulta de Nutrición Holística & Salud Natural </a> y <a href="{{site.url}}{{site.baseurl}}/cterapias" target="_new" > Consulta de Terapias Naturales Integradas</a>,
+      nos convertimos en acompañantes de Seres Humanos
+      en busca de su Desarrollo Físico, Emocional y Espiritual para que desde Su
+      Implicación, nuestra Orientación y el Trabajo Conjunto consigan iluminar la Luz que
+      llevan dentro y entre todos iluminar cada día un poquito más el Mundo
+    </p>
+      <a href="{{site.url}}{{site.baseurl}}/calendario/" class="btn btn-view-works">Ver Calendario</a>
+    </div>
+  </div>
+</div>
+</section>
+<!-- Wrapper Start -->
+<section id="intro">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-7 col-sm-7">
+        <div class="block">
+          <div class="section-title">
+            <h2>Nuestro propósito: Proyecto luz y consciencia</h2>
+            <p>
+              Este proyecto nace de uno de nuestros propósitos de vida: Poner a disposición del Universo y del Mundo Entero nuestro granito de arena aportando Conocimiento y creando Consciencia a través del Pensamiento, del Discernimiento y del Sentido Común para ser más Libres para elegir y así entre todos crear un Mundo Mejor, más sostenible, con más recursos naturales y desde una consciencia mucho más Humana, Global y Universal.
+            </p>
+          </div>
+          <p>
+              El proyecto desea crecer y colaborar con otras asociaciones, organizaciones, hospitales, escuelas y otros países para que, desde una Consciencia Social que busca el bien para todos, consigamos respetar el planeta Tierra, nuestra Madre Naturaleza y desde ese respeto trabajar con pasión por crear un Gobierno Global, Universal y un Mundo en Paz.
+
+              <img src="{{site.url}}{{site.baseurl}}/img/index/instalaciones_salon.jpg" alt="Proyecto Luz y Consciencia">
+          </p>
+
+        </div>
+      </div><!-- .col-md-7 close -->
+      <div class="col-md-5 col-sm-5">
+        <div class="block">
+          <img src="{{site.url}}{{site.baseurl}}/img/index/budaYfresas.jpg" alt="Proyecto Luz y Consciencia2">
+        </div>
+      </div><!-- .col-md-5 close -->
+    </div>
+  </div>
+</section>
+
+<!-- Call to action Start -->
+<section id="call-to-action">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="block">
+          <h2>Director de Salud Zen</h2>
+        <!--   <p>A continuación presentamos al equipo que colabora en el proyecto para que así les puedas conocer un poco mejor:</p>-->
+
+
+        <div class="center">
+          <div class="col-sm-12 col-md-6" >
+            <div class="card-container">
+              <div class="card">
+              <div class="front">
+                  <div class="cover">
+                      <img src="{{ site.url }}{{ site.baseurl }}/img/index/rotating_card_thumb3.png"/>
+
+                  </div>
+                  <div class="user">
+                      <img class="img-circle" src="{{ site.url }}{{ site.baseurl }}/img/team/txiki3.jpg"/>
+                  </div>
+                  <div class="content">
+                      <div class="main">
+                          <h3 class="name">Txiki Soto</h3>
+                          <div class="profession">Terapeuta Holístico y Coach de Salud
+                          </div>
+                          <div class="text-center">"Aúna lo más actual de los conocimientos científicos modernos junto con terapias naturales y la sabiduría milenaria de medicinas antiguas"</div>
+                      </div>
+                      <div class="footer">
+                          <i class="fa fa-mail-forward"></i> Auto Rotación
+                      </div>
+                  </div>
+              </div> <!-- end front panel -->
+              <div class="back">
+                  <div class="header">
+                      <h5 class="hidden-xs  motto">"Allí donde ponemos nuestra intención con la pasión del corazón va la energía a crear todo lo que proyectamos y el universo entero conspira para que la vida nos coloque en el sitio desde donde podemos conectar con lo mas profundo de nuestro potencial"</h5>
+                      <h5 class=" hidden-sm hidden-md hidden-lg motto">"Allí donde ponemos nuestra intención con la pasión del corazón va la energía a crear todo lo que proyectamos"</h5>
+
+                  </div>
+                  <div class="content">
+                      <div class="main">
+                        <h5 class="hidden-xs"> <br> </h5>
+                          <h4 class="text-center">Información</h4>
+                          <h5 class="hidden-xs"> <br> </h5>
+                          <p class="text-center">Técnico en Emergencias Sanitarias del Servicio de Emergencias y Rescates de la CAM,
+                            <br>Osteópata de la Selección Española de Hockey,
+                            <br>Creador del Proyecto Luz y Consciencia, Director y Profesor de Salud-Zen Escuela de Luz y Consciencia,
+                            <br>Aplicación de la Medicina Integrativa y Holística mediante la práctica de diferentes disciplinas.
+
+                          </p>
+
+                      </div>
+                  </div>
+                  <div class="footer">
+                      <div class="social-links text-center">
+                        <a href="{{ site.url }}{{ site.baseurl }}/team#Txiki" class="btn btn-view-works">Conóceme más</a>
+
+                      </div>
+                  </div>
+              </div> <!-- end back panel -->
+          </div> <!-- end card -->
+        </div>
+        </div>
+      </div>
+<!--
+  <div class="col-md-6 col-sm-12" >
+        <div class="card-container">
+          <div class="card">
+              <div class="front">
+                  <div class="cover">
+                      <img src="{{ site.url }}{{ site.baseurl }}/img/index/rotating_card_thumb.jpg"/>
+                  </div>
+                  <div class="user">
+                      <img class="img-circle" src="{{ site.url }}{{ site.baseurl }}/img/team/vero_prop.jpg"/>
+                  </div>
+                  <div class="content">
+                      <div class="main">
+                          <h3 class="name">Verónica Postigo</h3>
+                          <div class="profession">Terapeuta transpersonal</div>
+                          <div class="text-center">"Siempre dispuesta a cuidar y escuchar a todo el que requiere de ayuda activa y empatía a la hora de ser escuchado"</div>
+                      </div>
+                      <div class="footer">
+                          <i class="fa fa-mail-forward"></i> Auto Rotatación
+                      </div>
+                  </div>
+              </div> --> <!-- end front panel -->
+          <!--    <div class="back">
+                  <div class="header">
+                      <h5 class="motto">"Soy la luz que ilumina mi camino y en consecuencia, los ojos de aquellos que quieran ver"</h5>
+                  </div>
+                  <div class="content">
+                      <div class="main">
+                          <br>
+                          <h4 class="text-center">Información</h4>
+                          <br>
+                          <p class="text-center">Enfermera en SUMMA112,
+                            <br>Conocimientos en Psicología, Nutrición y Dietética,
+                            <br>Especialista en Psicología Transpersonal y Terapia sistémica,
+                            <br>Codirectora y Profesora de Salud-Zen, Escuela de Luz y Consciencia</p>
+                      </div>
+                  </div>
+                  <div class="footer">
+                      <div class="social-links text-center">
+                        <a href="{{ site.url }}{{ site.baseurl }}/team#Vero" class="btn btn-view-works">Conóceme más</a>
+
+                      </div>
+                  </div>
+              </div>--> <!-- end back panel -->
+      <!--    </div> --><!-- end card -->
+    <!--    </div>
+      </div>
+-->
+
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

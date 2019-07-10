@@ -1,6 +1,9 @@
 ---
 layout: post
-categories: 'blog'
+categories:
+- blog
+- reflexiones
+categories2: blog
 title:  Reflexiones-La Ley del Espejo
 subtitle: Reflexiones-La Ley del Espejo
 date: 2019-02-08 15:11:27

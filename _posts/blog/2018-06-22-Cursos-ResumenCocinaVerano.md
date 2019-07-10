@@ -1,6 +1,9 @@
 ---
 layout: post
-categories: blog
+categories:
+- blog
+- resumen
+categories2: blog
 title: Resumen - Cocina Macrobiótica de Verano
 subtitle: Resumen - Cocina Macrobiótica de Verano
 date: 2018-06-22 09:11:27

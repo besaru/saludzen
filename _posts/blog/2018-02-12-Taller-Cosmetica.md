@@ -1,6 +1,9 @@
 ---
 layout: post
-categories: blog
+categories:
+- blog
+- cursos
+categories2: blog
 title:  "Taller - Cosmética Natural Personalizada"
 subtitle: "Taller - Cosmética Natural Personalizada"
 date: 2018-02-12 19:00:27

@@ -1,6 +1,9 @@
 ---
 layout: post
-categories: blog
+categories:
+- blog
+- cursos
+categories2: blog
 title:  "Taller Práctico - Meditación Japonesa"
 subtitle: "Taller Práctico - Meditación Japonesa, antiguo Arte de Curar armonizando Cuerpo, Mente y Espíritu"
 date: 2018-03-07 11:11:27

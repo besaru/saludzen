@@ -1,6 +1,9 @@
 ---
 layout: post
-categories: blog
+categories:
+- blog
+- noticias
+categories2: blog
 title: Noticias - Nos vamos de vacaciones
 subtitle: Noticias - Nos vamos de vacaciones
 date: 2018-08-06 09:11:27

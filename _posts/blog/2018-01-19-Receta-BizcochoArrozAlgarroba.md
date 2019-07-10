@@ -1,6 +1,9 @@
 ---
 layout: post
-categories: blog
+categories:
+- blog
+- receta
+categories2: blog
 title: Receta - Bizcocho de arroz y algarroba
 subtitle: Receta - Bizcocho de arroz y algarroba
 date: 2018-01-19 09:11:27

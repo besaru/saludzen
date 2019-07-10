@@ -1,6 +1,9 @@
 ---
 layout: post
-categories: 'blog'
+categories:
+- blog
+- articulo
+categories2: blog
 title:  "Artículo - En Busca de la Felicidad"
 subtitle: "Artículo - En Busca de la Felicidad"
 date: 2019-03-19 23:00:27

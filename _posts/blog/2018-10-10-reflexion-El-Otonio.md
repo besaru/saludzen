@@ -1,6 +1,9 @@
 ---
 layout: post
-categories: blog
+categories:
+- blog
+- reflexiones
+categories2: blog
 title:  Reflexión- Ya está aquí el Otoño
 subtitle: Reflexión- Ya está aquí el Otoño
 date: 2018-10-10 15:11:27

@@ -1,6 +1,9 @@
 ---
 layout: post
-categories: blog
+categories:
+- blog
+- cursos
+categories2: blog
 title:  Curso-Auriculoteriapia
 subtitle: Curso-Auriculoteriapia
 date: 2018-09-13 15:11:27

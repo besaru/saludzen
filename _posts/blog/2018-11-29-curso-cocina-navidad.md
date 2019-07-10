@@ -1,6 +1,9 @@
 ---
 layout: post
-categories: 'blog'
+categories:
+- blog
+- cursos
+categories2: blog
 title:  Curso-Cocina Navideña y Festiva
 subtitle: Curso-Cocina Navideña y Festiva macrobiótica gourmet recetas energéticas y saludables para navidad.
 date: 2018-11-29 15:11:27

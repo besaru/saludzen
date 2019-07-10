@@ -1,6 +1,9 @@
 ---
 layout: post
-categories: 'blog'
+categories:
+- blog
+- resumen
+categories2: blog
 title: Resumen - Curso-Chi Nei Tsang
 subtitle: Resumen - Curso-Chi Nei Tsang
 date: 2019-04-01 09:11:27

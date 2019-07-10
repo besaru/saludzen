@@ -1,6 +1,9 @@
 ---
 layout: post
-categories: 'blog'
+categories:
+- blog
+- reflexiones
+categories2: blog
 title: Reflexiones - Dar
 subtitle: Reflexiones - Dar
 date: 2019-04-26 09:11:27

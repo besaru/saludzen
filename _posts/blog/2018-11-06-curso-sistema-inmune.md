@@ -1,6 +1,9 @@
 ---
 layout: post
-categories: blog
+categories:
+- blog
+- cursos
+categories2: blog
 title:  Curso-Sistema Inmune
 subtitle: Curso-Nutrición Energética y Cocina Macrobiótica para la Salud del Sistema Inmune
 date: 2018-11-06 15:11:27

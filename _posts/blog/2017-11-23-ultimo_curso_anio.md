@@ -1,6 +1,9 @@
 ---
 layout: post
-categories: blog
+categories:
+- blog
+- cursos
+categories2: blog
 title:  "Formación - Último curso del año!!"
 subtitle: "Formación - Último curso del año!! Taller de Cocina Macrobiótica Navideña y Festiva"
 date: 2017-11-23 21:11:27

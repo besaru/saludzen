@@ -1,6 +1,9 @@
 ---
 layout: post
-categories: blog
+categories:
+- blog
+- cursos
+categories2: blog
 title:  Curso-Osteopatia Sacro-Craneal
 subtitle: Curso-Osteopatia Sacro-Craneal con Integración Miofascial y Visceral
 date: 2018-10-26 15:11:27

@@ -1,6 +1,9 @@
 ---
 layout: post
-categories: 'blog'
+categories:
+- blog
+- reflexiones
+categories2: blog
 title: Reflexiones - Ser Simples
 subtitle: Reflexiones - Ser Simples
 date: 2019-05-10 09:11:27

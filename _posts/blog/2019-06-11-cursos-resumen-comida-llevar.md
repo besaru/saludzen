@@ -1,6 +1,9 @@
 ---
 layout: post
-categories: 'blog'
+categories:
+- blog
+- resumen
+categories2: blog
 title: Resumen - Curso de Comida Macrobiótica para Llevar
 subtitle: Resumen - Curso de Comida Macrobiótica para Llevar
 date: 2019-06-11 09:11:27

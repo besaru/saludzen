@@ -1,6 +1,9 @@
 ---
 layout: post
-categories: blog
+categories:
+- blog
+- articulo
+categories2: blog
 title:  "Artículo - El Arte de Curar con el Agua"
 subtitle: "Artículo - El Arte de Curar con el Agua"
 date: 2018-02-19 16:00:27

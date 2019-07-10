@@ -1,6 +1,9 @@
 ---
 layout: post
-categories: blog
+categories:
+- blog
+- cursos
+categories2: blog
 title: Eventos - Conferencia Gratuita y Taller de Danza
 subtitle: Eventos - Conferencia Gratuita y Taller de Danza, ¡no te los puedes perder!
 date: 2018-01-15 09:11:27

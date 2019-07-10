@@ -1,6 +1,9 @@
 ---
 layout: post
-categories: 'blog'
+categories:
+- blog
+- reflexiones
+categories2: blog
 title:  Reflexión - Vive Bio
 subtitle: Reflexión - Vive Bio
 date: 2019-03-12 15:11:27

@@ -1,6 +1,9 @@
 ---
 layout: post
-categories: blog
+categories:
+- blog
+- cursos
+categories2: blog
 title:  Nuevo curso de fin de semana
 subtitle: "Nuevo curso de fin de semana: Nutrición Energética, Actividad Física y Deporte"
 date: 2017-09-13 21:11:27

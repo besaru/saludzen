@@ -1,6 +1,9 @@
 ---
 layout: post
-categories: blog
+categories:
+- blog
+- cursos
+categories2: blog
 title: Últimos Talleres de Junio 2018
 subtitle: Últimos Talleres de Junio 2018, no te los puedes perder!!
 date: 2018-06-19 10:11:27

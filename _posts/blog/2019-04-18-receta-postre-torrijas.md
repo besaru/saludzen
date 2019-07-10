@@ -1,6 +1,9 @@
 ---
 layout: post
-categories: blog
+categories:
+- blog
+- receta
+categories2: blog
 title:  Receta-Torrijas de Semana Santa
 subtitle: Receta-Torrijas de Semana Santa
 date: 2019-04-18 15:11:27

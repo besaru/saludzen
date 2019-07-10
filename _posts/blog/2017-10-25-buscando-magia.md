@@ -1,6 +1,9 @@
 ---
 layout: post
-categories: blog
+categories:
+- blog
+- reflexiones
+categories2: blog
 title:  Relato - Buscando la magia
 subtitle: "Relato - Buscando la Magia"
 date: 2017-10-24 21:11:27

@@ -1,6 +1,9 @@
 ---
 layout: post
-categories: blog
+categories:
+- blog
+- resumen
+categories2: blog
 title: Resumen - Curso de Introducción
 subtitle: Resumen - Curso de Introducción
 date: 2018-10-05 09:11:27

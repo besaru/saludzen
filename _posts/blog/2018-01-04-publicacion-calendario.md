@@ -1,6 +1,9 @@
 ---
 layout: post
-categories: blog
+categories:
+- blog
+- cursos
+categories2: blog
 title:  ¡Publicación del Calendario con nuevas actividades!
 subtitle: ¡Publicación del Calendario con nuevas actividades!
 date: 2018-01-04 15:11:27

@@ -1,6 +1,9 @@
 ---
 layout: post
-categories: 'blog'
+categories:
+- blog
+- noticias
+categories2: blog
 title:  Noticias-Feliz Año Nuevo Chino!!
 subtitle: Noticias-Feliz Año Nuevo Chino!!
 date: 2019-02-05 15:11:27

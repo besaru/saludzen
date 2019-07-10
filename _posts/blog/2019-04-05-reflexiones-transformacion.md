@@ -1,6 +1,9 @@
 ---
 layout: post
-categories: 'blog'
+categories:
+- blog
+- reflexiones
+categories2: blog
 title: Reflexiones - Transformación
 subtitle: Reflexiones - Transformación
 date: 2019-04-05 09:11:27

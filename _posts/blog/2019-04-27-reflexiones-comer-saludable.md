@@ -1,6 +1,9 @@
 ---
 layout: post
-categories: 'blog'
+categories:
+- blog
+- reflexiones
+categories2: blog
 title: Reflexiones - Comer saludable
 subtitle: Reflexiones - Comer saludable
 date: 2019-04-27 09:11:27

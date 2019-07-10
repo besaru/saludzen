@@ -1,6 +1,9 @@
 ---
 layout: post
-categories: blog
+categories:
+- blog
+- cursos
+categories2: blog
 title: Curso - Reflexología Podal Holística
 subtitle: Curso - Reflexología Podal Holística
 date: 2018-01-08 09:11:27

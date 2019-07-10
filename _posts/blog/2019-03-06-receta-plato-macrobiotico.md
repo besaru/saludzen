@@ -1,6 +1,9 @@
 ---
 layout: post
-categories: blog
+categories:
+- blog
+- receta
+categories2: blog
 title:  Receta-Plato Macrobiótico
 subtitle: Receta-Plato Macrobiótico
 date: 2019-03-06 15:11:27

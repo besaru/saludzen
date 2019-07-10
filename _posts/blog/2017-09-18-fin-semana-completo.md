@@ -1,6 +1,9 @@
 ---
 layout: post
-categories: blog
+categories:
+- blog
+- resumen
+categories2: blog
 title:  ¡Un fin de semana completo!
 subtitle: "Un fin de semana completo: Curso Introducción y Taller de Meditación"
 date: 2017-09-18 21:11:27

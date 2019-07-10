@@ -1,6 +1,9 @@
 ---
 layout: post
-categories: blog
+categories:
+- blog
+- cursos
+categories2: blog
 title:  Ciclo de conferencias Gratuitas
 subtitle: "Ciclo de conferencias Gratuitas: Los 4 alimentos más perjudiciales para tu salud"
 date: 2017-09-06 21:11:27

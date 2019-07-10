@@ -1,6 +1,9 @@
 ---
 layout: post
-categories: blog
+categories:
+- blog
+- cursos
+categories2: blog
 title:  Conferencia-Menús Energéticos
 subtitle: Conferencia-Menús Energéticos
 date: 2019-04-24 15:11:27

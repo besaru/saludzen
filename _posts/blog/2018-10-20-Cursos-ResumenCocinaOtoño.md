@@ -1,6 +1,9 @@
 ---
 layout: post
-categories: blog
+categories:
+- blog
+- resumen
+categories2: blog
 title: Resumen - Curso de Cocina de Otoño
 subtitle: Resumen - Curso de Cocina de Otoño
 date: 2018-10-20 09:11:27

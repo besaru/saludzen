@@ -1,6 +1,9 @@
 ---
 layout: post
-categories: blog
+categories:
+- blog
+- cursos
+categories2: blog
 title:  "Taller Práctico - Qui Gong"
 subtitle: "Taller Práctico - Qui Gong, el arte milenario de la salud y la vitalidad"
 date: 2017-12-05 11:11:27

@@ -1,6 +1,9 @@
 ---
 layout: post
-categories: blog
+categories:
+- blog
+- resumen
+categories2: blog
 title:  "Resumen - Curso Elemento Metal!!"
 subtitle: "Resumen - Aprendiendo y reforzando nuestra Energía Metal y sanando pulmones e intestino Grueso!"
 date: 2017-11-15 21:11:27

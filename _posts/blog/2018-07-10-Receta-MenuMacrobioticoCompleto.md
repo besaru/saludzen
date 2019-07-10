@@ -1,6 +1,9 @@
 ---
 layout: post
-categories: blog
+categories:
+- blog
+- receta
+categories2: blog
 title: Receta - Menú Macrobiótico Completo
 subtitle: Receta - Menú Macrobiótico Completo
 date: 2018-07-10 09:11:27

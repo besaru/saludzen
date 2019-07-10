@@ -1,6 +1,9 @@
 ---
 layout: post
-categories: blog
+categories:
+- blog
+- cursos
+categories2: blog
 title:  "Taller Práctico - QuiGong"
 subtitle: "Taller Práctico - Qui Gong, La Sonrisa Interior"
 date: 2018-05-04 11:11:27

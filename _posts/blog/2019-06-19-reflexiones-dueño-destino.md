@@ -1,6 +1,9 @@
 ---
 layout: post
-categories: 'blog'
+categories:
+- blog
+- reflexiones
+categories2: blog
 title: Reflexiones - Dueño de tu Destino
 subtitle: Reflexiones - Dueño de tu Destino
 author: Salud-Zen

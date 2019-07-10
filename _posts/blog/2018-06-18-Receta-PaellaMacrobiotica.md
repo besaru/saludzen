@@ -1,6 +1,9 @@
 ---
 layout: post
-categories: blog
+categories:
+- blog
+- receta
+categories2: blog
 title: Receta - Paella Rica, Biológica, Saludable y Fácil de hacer!!
 subtitle: Receta - aella Rica, Biológica, Saludable y Fácil de hacer!!
 date: 2018-06-18 10:11:27

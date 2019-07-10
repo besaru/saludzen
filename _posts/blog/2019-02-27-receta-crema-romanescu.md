@@ -1,6 +1,9 @@
 ---
 layout: post
-categories: blog
+categories:
+- blog
+- receta
+categories2: blog
 title:  Receta-Crema de Romanescu
 subtitle: Receta-Crema de Romanescu
 date: 2019-02-27 15:11:27

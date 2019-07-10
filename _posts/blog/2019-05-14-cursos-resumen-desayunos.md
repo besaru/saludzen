@@ -1,6 +1,9 @@
 ---
 layout: post
-categories: 'blog'
+categories:
+- blog
+- resumen
+categories2: blog
 title: Resumen - Curso de Desayunos Energéticos. Almuerzos & Meriendas Saludables
 subtitle: Resumen - Curso de Desayunos Energéticos. Almuerzos & Meriendas Saludables
 date: 2019-05-14 09:11:27

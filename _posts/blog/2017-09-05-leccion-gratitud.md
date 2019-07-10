@@ -1,6 +1,9 @@
 ---
 layout: post
-categories: blog
+categories:
+- blog
+- articulo
+categories2: blog
 title:  Relato - Una Lección de Gratitud
 subtitle: "Relato - Una Lección de Gratitud"
 date: 2017-09-05 21:11:27

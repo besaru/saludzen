@@ -1,6 +1,9 @@
 ---
 layout: post
-categories: blog
+categories:
+- blog
+- receta
+categories2: blog
 title: Receta - Para estos dias frios ... Cocidito Macrobiótico
 subtitle: Receta - Para estos dias frios ... Cocidito Macrobiótico
 date: 2018-02-05 10:11:27

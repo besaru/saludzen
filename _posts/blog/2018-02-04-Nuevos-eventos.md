@@ -1,6 +1,9 @@
 ---
 layout: post
-categories: blog
+categories:
+- blog
+- cursos
+categories2: blog
 title: Tenemos nuevos eventos en el calendario
 subtitle: Tenemos nuevos eventos en el calendario, ¡no te los puedes perder!
 date: 2018-02-04 10:11:27

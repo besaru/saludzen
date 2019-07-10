@@ -1,6 +1,9 @@
 ---
 layout: post
-categories: blog
+categories:
+- blog
+- resumen
+categories2: blog
 title: Resumen - Cursos Fin de semana completo
 subtitle: Resumen - Cursos Fin de semana completo
 date: 2018-01-30 09:11:27

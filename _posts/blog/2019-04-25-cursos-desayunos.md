@@ -1,6 +1,9 @@
 ---
 layout: post
-categories: blog
+categories:
+- blog
+- cursos
+categories2: blog
 title:  Curso de DESAYUNOS ENERGETICOS. ALMUERZOS Y MERIENDAS SALUDABLES
 subtitle: Curso de DESAYUNOS ENERGETICOS. ALMUERZOS Y MERIENDAS SALUDABLES
 date: 2019-04-25 15:11:27

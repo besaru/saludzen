@@ -1,6 +1,9 @@
 ---
 layout: post
-categories: blog
+categories:
+- blog
+- cursos
+categories2: blog
 title:  Curso-Chi Nei Tsang
 subtitle: Curso-Chi Nei Tsang
 date: 2018-10-12 15:11:27

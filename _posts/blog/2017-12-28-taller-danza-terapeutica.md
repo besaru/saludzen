@@ -1,6 +1,9 @@
 ---
 layout: post
-categories: blog
+categories:
+- blog
+- cursos
+categories2: blog
 title:  "Taller - Danza Terapéutica Transpersonal"
 subtitle: "Taller - Danza Terapéutica Transpersonal"
 date: 2017-12-28 22:00:27

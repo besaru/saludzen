@@ -1,6 +1,9 @@
 ---
 layout: post
-categories: blog
+categories:
+- blog
+- resumen
+categories2: blog
 title: Resumen - Curso de Auriculoterapia
 subtitle: Resumen - Curso de Auriculoterapia
 date: 2018-09-26 09:11:27

@@ -1,6 +1,9 @@
 ---
 layout: post
-categories: 'blog'
+categories:
+- blog
+- resumen
+categories2: blog
 title: Resumen - Curso de Cocina Macrobiótica para Navidad
 subtitle: Resumen - Curso de Cocina Macrobiótica para Navidad
 date: 2018-12-21 09:11:27

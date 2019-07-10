@@ -1,8 +1,11 @@
 ---
 layout: post
-categories: blog
-title:  Resumen - Jornada Bienestar & Salud Natural
-subtitle: Resumen - Jornada Bienestar & Salud Natural
+categories:
+- blog
+- cursos
+categories2: blog
+title:  Curso - Jornada Bienestar & Salud Natural
+subtitle: Curso - Jornada Bienestar & Salud Natural
 date: 2019-05-25 15:11:27
 author: Txiki Soto, Salud-Zen
 image: img/eventos/JornadaBienestar.jpg
@@ -12,7 +15,7 @@ linkfacebook: https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fsalud-ze
 
 ¿Os animáis? 25 de Mayo 2019 de 9h a 14h
 
-[Jornada para aportar conocimiento y crear conciencia a través del pensamiento, la alimentación y la meditación.
+Jornada para aportar conocimiento y crear conciencia a través del pensamiento, la alimentación y la meditación.
 No te la puedes perder. Ven sólo o compartela con tu pareja o amigos.
 Para más información e inscripciones:   
 [Jornada Bienestar & Salud Natural][curso]  

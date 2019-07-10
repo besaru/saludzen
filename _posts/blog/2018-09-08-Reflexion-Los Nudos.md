@@ -1,6 +1,9 @@
 ---
 layout: post
-categories: blog
+categories:
+- blog
+- reflexiones
+categories2: blog
 title:  Reflexión-Los Nudos
 subtitle: Reflexión-Los Nudos
 date: 2018-09-08 15:11:27

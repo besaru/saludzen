@@ -1,6 +1,9 @@
 ---
 layout: post
-categories: blog
+categories:
+- blog
+- receta
+categories2: blog
 title:  Receta-Ensalada Macrobiótica Curativa
 subtitle: Receta-Ensalada Macrobiótica Curativa
 date: 2018-08-31 15:11:27

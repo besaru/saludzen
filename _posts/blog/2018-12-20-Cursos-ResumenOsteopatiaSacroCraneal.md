@@ -1,6 +1,9 @@
 ---
 layout: post
-categories: 'blog'
+categories:
+- blog
+- resumen
+categories2: blog
 title: Resumen - Curso de Osteopatía Sacro Craneal
 subtitle: Resumen - Curso de Osteopatía Sacro Craneal
 date: 2018-12-20 09:11:27

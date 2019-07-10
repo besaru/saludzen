@@ -20,11 +20,49 @@ category: blog
 </section>
 </section>
 
+<!-- Service -Accesos Directos -->
+<section id="service">
+  <div class="container">
+    <div class="row ">
+      <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+        <div class="service-item">
+          <a href="{{ site.url }}{{ site.baseurl }}/blog-articulos/">
+            <h4>Artículos</h4>
+          </a>
+
+        </div>
+      </div>
+      <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+        <div class="service-item">
+          <a href="{{site.url}}{{site.baseurl}}/blog-reflexiones/" target="_new" style="text-decoration: none;color: inherit;">
+            <h4>Reflexiones</h4>
+          </a>
+
+        </div>
+      </div>
+      <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+        <div class="service-item">
+          <a href="{{site.url}}{{site.baseurl}}/blog-eventos/" target="_new" style="text-decoration: none;color: inherit;">
+
+          <h4>Eventos</h4>
+        </a>
+
+        </div>
+      </div>
+      <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+        <div class="service-item">
+          <a href="{{site.url}}{{site.baseurl}}/blog-resumen/" target="_new" style="text-decoration: none;color: inherit;">
+            <h4 >Resumen</h4>
+        </div>
+    </div>
+  </div>
+  <hr>
+</section>
+
 <section id="intro">
 
   <div class="container">
-{% assign potsBlogs = site.posts | group_by_exp:"post", "post.categories" %}
-
+{% assign potsBlogs = site.posts | group_by_exp:"post", "post.categories2" %}
 {% for category in potsBlogs %}
 
   {% if category.name contains 'blog'%}

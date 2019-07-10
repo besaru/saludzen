@@ -1,6 +1,9 @@
 ---
 layout: post
-categories: blog
+categories:
+- blog
+- cursos
+categories2: blog
 title: Cursos - Bioenergética
 subtitle: Cursos - Bioenergética
 date: 2018-05-18 10:11:27

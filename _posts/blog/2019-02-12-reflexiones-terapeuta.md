@@ -1,6 +1,9 @@
 ---
 layout: post
-categories: 'blog'
+categories:
+- blog
+- reflexiones
+categories2: blog
 title:  Reflexiones - Un buen terapeuta
 subtitle: Reflexiones - Un buen terapeuta
 date: 2019-02-12 15:11:27

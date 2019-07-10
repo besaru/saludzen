@@ -1,6 +1,9 @@
 ---
 layout: post
-categories: 'blog'
+categories:
+- blog
+- reflexiones
+categories2: blog
 title: Reflexiones - El mundo de los Cambios
 subtitle: Reflexiones - El mundo de los Cambios
 author: Salud-Zen

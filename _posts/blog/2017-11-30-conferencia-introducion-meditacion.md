@@ -1,6 +1,9 @@
 ---
 layout: post
-categories: blog
+categories:
+- blog
+- cursos
+categories2: blog
 title:  "Conferencia - Introducción a la Meditación!!"
 subtitle: "Conferencia Gratuita - Introducción a la Meditación!!"
 date: 2017-11-30 21:11:27

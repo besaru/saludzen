@@ -1,6 +1,9 @@
 ---
 layout: post
-categories: blog
+categories:
+- blog
+- reflexiones
+categories2: blog
 title:  Reflexión- Los Miedos
 subtitle: Reflexión- Los Miedos
 date: 2018-10-25 15:11:27

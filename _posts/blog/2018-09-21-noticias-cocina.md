@@ -1,6 +1,9 @@
 ---
 layout: post
-categories: blog
+categories:
+- blog
+- noticias
+categories2: blog
 title:  Noticias-Estrenamos cocina!!
 subtitle: Noticias-Estrenamos cocina y Curso de comida para el otoño
 date: 2018-09-21 15:11:27

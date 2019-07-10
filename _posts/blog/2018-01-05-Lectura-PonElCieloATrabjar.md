@@ -1,6 +1,9 @@
 ---
 layout: post
-categories: blog
+categories:
+- blog
+- noticias
+categories2: blog
 title:  Lectura - Pon el Cielo a Trabajar
 subtitle: Lectura - Pon el Cielo a Trabajar
 date: 2018-01-05 15:11:27

@@ -1,6 +1,9 @@
 ---
 layout: post
-categories: 'blog'
+categories:
+- blog
+- cursos
+categories2: blog
 title:  Taller - Meditación japonesa
 subtitle: Taller - Meditación japonesa
 date: 2019-02-14 15:11:27

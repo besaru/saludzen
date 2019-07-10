@@ -1,6 +1,9 @@
 ---
 layout: post
-categories: blog
+categories:
+- blog
+- cursos
+categories2: blog
 title: Taller Constelaciones - Siempre estamos acompañados
 subtitle: Taller Constelaciones - Siempre estamos acompañados
 date: 2018-01-23 09:11:27

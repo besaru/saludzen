@@ -1,6 +1,10 @@
 ---
 layout: post
-categories: blog
+categories:
+- blog
+- cursos
+- noticias
+categories2: blog
 title: Importante - Cambio Fecha del Taller de Danza Terapéutica Transpersonal
 subtitle: Importante - Cambio Fecha del Taller de Danza Terapéutica Transpersonal
 date: 2018-01-12 09:11:27

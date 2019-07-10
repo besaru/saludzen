@@ -1,6 +1,9 @@
 ---
 layout: post
-categories: 'blog'
+categories:
+- blog
+- reflexiones
+categories2: blog
 title:  Reflexión - El Budismo
 subtitle: Reflexión - El Budismo
 date: 2019-03-01 15:11:27

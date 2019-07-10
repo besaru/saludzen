@@ -1,6 +1,9 @@
 ---
 layout: post
-categories: blog
+categories:
+- blog
+- cursos
+categories2: blog
 title:  ¡Nueva fecha para Taller de Meditación!
 subtitle: Nueva fecha de impartición para poder disfrutar de este taller
 date: 2017-08-30 21:11:27

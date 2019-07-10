@@ -1,6 +1,9 @@
 ---
 layout: post
-categories: blog
+categories:
+- blog
+- articulo
+categories2: blog
 title:  "Artículo - Definición de salud"
 subtitle: "Artículo - Definición de salud escrita con el sentimiento del corazón"
 date: 2018-11-07 13:00:27

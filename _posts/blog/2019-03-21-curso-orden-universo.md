@@ -1,6 +1,9 @@
 ---
 layout: post
-categories: 'blog'
+categories:
+- blog
+- cursos
+categories2: blog
 title:  Curso-Fundamentos de las Medicina Oriental. El orden del Universo.
 subtitle: Curso-Fundamentos de las Medicina Oriental. El orden del Universo.
 date: 2019-03-21 15:11:27
