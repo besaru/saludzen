@@ -1,7 +1,7 @@
 ---
 layout: event
 categories: evento
-public: yes
+public: no
 name: El Arte de Saber Alimentarnos
 title: El Arte de Saber Alimentarnos. Ciclo de Conferencias Gratuitas
 subtitle:

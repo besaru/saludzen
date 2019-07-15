@@ -1,7 +1,7 @@
 ---
 layout: event
 categories: evento
-public: yes
+public: no
 name: Conferencia-Menús Energéticos
 title: Conferencia-Menús Energéticos
 subtitle:

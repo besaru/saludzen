@@ -1,7 +1,7 @@
 ---
 layout: event
 categories: evento
-public: yes
+public: no
 name: Desayunos Energéticos Almuerzos & Meriendas Saludables
 title: Desayunos energéticos. Empieza el dia con Vitalidad y Energía. Almuerzos & Meriendas Saludables
 subtitle:

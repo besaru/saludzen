@@ -1,7 +1,7 @@
 ---
 layout: event
 categories: evento
-public: yes
+public: no
 name: Bioenergética Taoista
 title: Programa de Desarrollo Personal basado en el Sistema Taoista para transformar el estrés en vitalidad. Bioenergética. Taoísta. Qui-Gong - Tao Curativo
 subtitle:

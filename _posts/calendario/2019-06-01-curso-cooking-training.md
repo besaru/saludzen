@@ -1,7 +1,7 @@
 ---
 layout: event
 categories: evento
-public: yes
+public: no
 name: Cooking Training
 title: Cooking Training. 15 platos en 2 horas. Cocina, Rápida y Facil. Cocina Sana para llevar. Formas de ahorrar tiempo en la cocina. Embotados. Cocina Angélica. Preparados para varios dias.
 subtitle:

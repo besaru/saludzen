@@ -727,7 +727,58 @@
              "start": "2019-05-25 09:00:00",
              "className": "terapias",
              "url":"../evento/2019/05/25/curso-jornada-bienestar.html"
+         },
+         {
+           "allDay": "false",
+           "title": "Curso de Nutrición Energética, Actividad Física y Deporte",
+           "name": "Nutrición Enregética...",
+           "id": "C0001",
+           "end": "2019-11-24 18:00:00",
+           "start": "2019-11-23 09:00:00",
+           "className": "macrobiotica",
+           "url":"../evento/2019/11/23/curso-deporte.html"
+         },
+         {
+             "allDay": "false",
+             "title": "Nutrición Energética y Cocina Macrobiótica para las Mamás y Nuestros Hijos",
+             "name":"Cocina Macrobiótica para la familia",
+             "id": "C0001",
+             "end": "2019-10-26 17:00:00",
+             "start": "2019-10-27 09:00:00",
+             "className": "macrobiotica",
+             "url":"../evento/2019/10/26/curso-cocina-familia.html"
+         },
+         {
+             "allDay": "false",
+             "name": "Curso Bioenergética",
+             "title": "Curso Bioenergética. La energía de la vida en nuestras manos",
+             "id": "C0001",
+             "end": "2019-10-20 15:00:00",
+             "start": "2019-10-19 09:00:00",
+             "className": "terapias",
+             "url":"../evento/2019/10/19/curso-Bioenergetica.html"
+         },
+         {
+             "allDay": "false",
+             "name": "Taller de Cocina Macrobiótica Navideña y Festiva",
+             "title": "Cocina Macrobiótica Navideña y Festiva",
+             "id": "C0001",
+             "end": "2019-12-15 18:00:00",
+             "start": "2019-12-15 09:00:00",
+             "className": "macrobiotica",
+             "url":"../evento/2019/12/15/taller-navidad.html"
          }
+         ,{
+             "allDay": "false",
+             "name": "Curso de Introducción",
+             "title": "Introducción: Nutrición Energética, Salud y Cocina Macrobiótica",
+             "id": "C0001",
+             "end": "2019-09-21 19:00:00",
+             "start": "2019-09-21 09:00:00",
+             "className": "macrobiotica",
+             "url":"../evento/2019/09/21/curso-introduccion.html"
+         },
+
      ]
 ,
 /*

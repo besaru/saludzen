@@ -1,7 +1,7 @@
 ---
 layout: event
 categories: evento
-public: yes
+public: no
 name: Curso de Introducción
 title: "Introducción: Nutrición Energética, Salud y Cocina Macrobiótica"
 subtitle:

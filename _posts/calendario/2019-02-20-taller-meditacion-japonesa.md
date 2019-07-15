@@ -1,7 +1,7 @@
 ---
 layout: event
 categories: evento
-public: yes
+public: no
 name: Meditación Japonesa
 title: Meditación Japonesa
 subtitle:

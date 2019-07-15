@@ -1,7 +1,7 @@
 ---
 layout: event
 categories: evento
-public: yes
+public: no
 name: Cocina para la Primavera
 title: Nutrición Energética y Cocina Macrobiótica para la Primavera
 subtitle:

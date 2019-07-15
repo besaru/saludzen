@@ -1,7 +1,7 @@
 ---
 layout: event
 categories: evento
-public: yes
+public: no
 name: El Orden del Universo
 title: El Orden del Universo. Conocimiento Energético y Medicina Vibracional. Fundamentos de la Medicina Oriental. Ciclo de la Salud. Proceso de Enfermedad.
 subtitle:

@@ -1,7 +1,7 @@
 ---
 layout: event
 categories: evento
-public: yes
+public: no
 name: Meditación a través de los Chacras
 title: Meditación a través de los Chacras
 subtitle:
