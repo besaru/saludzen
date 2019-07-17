@@ -2,6 +2,7 @@
 layout: event
 categories: evento
 public: yes
+public2: yes
 name: Cocina Macrobiótica para la familia
 title: Nutrición Energética y Cocina Macrobiótica para las Mamás y Nuestros Hijos
 subtitle:

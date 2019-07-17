@@ -2,6 +2,7 @@
 layout: event
 categories: evento
 public: yes
+public2: yes
 name: Nutrición Energética...
 title: Curso de Nutrición Energética, Actividad Física y Deporte
 subtitle:

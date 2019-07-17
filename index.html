@@ -119,8 +119,7 @@ permalink: /
       <div class="col-md-12">
         <div class="block">
           {% assign sorted-posts = site.posts | where: "categories","evento" %}
-          {% assign sorted-posts2 = sorted-posts | where: "public","true"|sort: 'date' %}
-          {{ sorted-posts2 | size }}
+          {% assign sorted-posts2 = sorted-posts | where: "public2","true"|sort: 'date' %}
            <h2>Próximos Eventos:</h2>
 
               {%
