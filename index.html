@@ -120,12 +120,16 @@ permalink: /
         <div class="block">
           {% assign sorted-posts = site.posts | where: "categories","evento" %}
           {% assign sorted-posts2 = sorted-posts | where: "public","true"|sort: 'date' %}
-
+          {{ sorted-posts2 | size }}
            <h2>Próximos Eventos:</h2>
 
               {%
                 for post in sorted-posts2
+
                %}
+
+
+
               <div id="clients-logo" class="owl-carousel" >
 
               <div future-date="{{ post.date | date: '%Y%m%d' }}" >
@@ -146,8 +150,7 @@ permalink: /
 
               </div>
             </div>
-              {%endfor%}
-
+{%endfor%}
 
         </div>
       </div>

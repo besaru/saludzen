@@ -43,7 +43,6 @@ $(document).ready(function(){
 	$("#clients-logo").owlCarousel({
 		autoPlay: 3000,
 		items : 4,
-
 		itemsDesktop : [1250,4],
 		itemsDesktopSmall : [989,4],
 	});

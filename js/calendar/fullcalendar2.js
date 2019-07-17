@@ -779,6 +779,17 @@
              "url":"../evento/2019/09/21/curso-introduccion.html"
          },
 
+         {
+             "allDay": "false",
+             "title": "Conferencia-Medicina Integrativa",
+             "name":"Conferencia-Medicina Integrativa",
+             "id": "C0001",
+             "end": "2019-09-07 21:00:00",
+             "start": "2019-09-07 19:00:00",
+             "className": "proyecto",
+             "url":"../evento/2019/09/07/conferencia-medicina-integrativa.html"
+         }
+
      ]
 ,
 /*
