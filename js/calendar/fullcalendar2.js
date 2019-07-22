@@ -743,8 +743,8 @@
              "title": "Nutrición Energética y Cocina Macrobiótica para las Mamás y Nuestros Hijos",
              "name":"Cocina Macrobiótica para la familia",
              "id": "C0001",
-             "end": "2019-10-26 17:00:00",
-             "start": "2019-10-27 09:00:00",
+             "end": "2019-10-27 17:00:00",
+             "start": "2019-10-26 09:00:00",
              "className": "macrobiotica",
              "url":"../evento/2019/10/26/curso-cocina-familia.html"
          },
