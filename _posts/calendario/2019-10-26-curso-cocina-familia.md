@@ -9,7 +9,7 @@ subtitle:
 date: 26-10-2019
 dateVisible: 2019-10-26 23:00:00
 date_text: 26 y 27 de Octubre de 2019
-date_imparticion: 26-10-2019
+date_imparticion: 26 y 27 -10-2019
 horario: Sábado y Domingo de 9 a 17 horas
 localizacion: Sede Principal
 author: Salud-Zen
