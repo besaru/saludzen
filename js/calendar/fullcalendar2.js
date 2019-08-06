@@ -788,6 +788,16 @@
              "start": "2019-09-13 19:00:00",
              "className": "proyecto",
              "url":"../evento/2019/09/13/conferencia-medicina-integrativa.html"
+         },
+         {
+             "allDay": "false",
+             "name": "Máster Salud Natural",
+             "title": "Máster Salud Natural",
+             "id": "C0001",
+             "end": "2020-01-05 14:00:00",
+             "start": "2020-01-04 09:00:00",
+             "className": "terapias",
+             "url":"../evento/2020/01/04/curso-master-salud-natural.html"
          }
 
      ]
