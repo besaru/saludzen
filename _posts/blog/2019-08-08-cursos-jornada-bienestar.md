@@ -17,7 +17,7 @@ linkfacebook: https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.salu
 
 Jornada para aportar conocimiento y crear conciencia a través del amor sanador. Compartiremos un desayuno energético y comida macrobiótica. No te la puedes perder. Ven sólo o compartela con tu pareja o amigos.
 
-P ara más información e inscripciones:   
+Para más información e inscripciones:   
 [Jornada Bienestar & Salud Natural][curso]  
 
 
