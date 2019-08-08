@@ -11,7 +11,7 @@ dateVisible: 2020-01-04 23:00:00
 date_text: fin de semana/mes de Ene-Dic 2020
 date_imparticion: fin de semana/mes de Ene-Dic 2020
 horario: Sábados 9-19h y Domingos 9-14h
-localizacion: Sede Principal
+localizacion: C/ Castellón de la Plana, 26 Arroyomolinos
 author: Salud-Zen
 image: img/eventos/MasterSaludNatural.jpg
 image_prop: img/eventos/MasterSaludNatural_prop.jpg

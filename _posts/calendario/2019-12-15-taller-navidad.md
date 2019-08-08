@@ -10,8 +10,8 @@ dateVisible: 2019-12-15 23:00:00
 date: 15-12-2019
 date_text: 15 de Diciembre de 2019
 date_imparticion: 15-12-2019
-horario: 9 - 18 horas
-localizacion: Sede Principal
+horario: Domingo de 9 a 18 horas
+localizacion: C/ Castellón de la Plana, 26 Arroyomolinos
 author: Salud-Zen
 image: img/eventos/TallerCMNavidenayFestiva.jpg
 image_prop:

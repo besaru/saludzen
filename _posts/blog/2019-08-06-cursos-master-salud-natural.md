@@ -6,7 +6,7 @@ categories:
 categories2: blog
 title:  Máster en Salud Natural
 subtitle: Máster en Salud Natural. Suplementación Nutricional Integrativa y Experto en Diagnóstico Oriental e Iridología.
-date: 2019-08-08 15:11:27
+date: 2019-08-06 15:11:27
 author: Txiki Soto, Salud-Zen
 image: img/eventos/MasterSaludNatural.jpg
 linkfacebook: https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fsalud-zen.com%2Fevento%2F2020%2F01%2F04%2Fcurso-master-salud-natural.html&amp;src=sdkpreparse

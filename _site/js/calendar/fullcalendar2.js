@@ -798,6 +798,16 @@
              "start": "2020-01-04 09:00:00",
              "className": "terapias",
              "url":"../evento/2020/01/04/curso-master-salud-natural.html"
+         },
+         {
+             "allDay": "false",
+             "title": "Jornada - Bienestar & Salud Natural",
+             "name":"Jornada Bienestar",
+             "id": "C0001",
+             "end": "2019-10-05 14:00:00",
+             "start": "2019-10-05 09:00:00",
+             "className": "terapias",
+             "url":"../evento/2019/10/05/curso-jornada-bienestar.html"
          }
 
      ]

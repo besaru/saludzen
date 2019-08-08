@@ -11,7 +11,7 @@ date: 23-11-2019
 date_text: 23 y 24 de Noviembre de 2019
 date_imparticion: 23 y 24-11-2019
 horario: Sábado y Domingo de 9 a 18 horas
-localizacion: Sede Principal
+localizacion: C/ Castellón de la Plana, 26 Arroyomolinos
 author: Salud-Zen
 image: img/eventos/Deporte.jpg
 image2: img/eventos/Deporte_2.jpg
