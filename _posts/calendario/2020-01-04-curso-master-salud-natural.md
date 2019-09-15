@@ -8,8 +8,8 @@ title: Máster en Salud Natural. Suplementación Nutricional Integrativa y Exper
 subtitle:
 date: 04-01-2020
 dateVisible: 2020-01-04 23:00:00
-date_text: fin de semana/mes de Ene-Dic 2020
-date_imparticion: fin de semana/mes de Ene-Dic 2020
+date_text: 1 fin de semana al mes de Ene-Dic 2020
+date_imparticion: 1 fin de semana al mes de Ene-Dic 2020
 horario: Sábados 9-19h y Domingos 9-14h
 localizacion: C/ Castellón de la Plana, 26 Arroyomolinos
 author: Salud-Zen
