@@ -2,10 +2,10 @@
 layout: post
 categories:
 - blog
-- cursos
+- noticias
 categories2: blog
 title:  Noticias - Todo preparado en AcaiBioFood para la Conferencia Gratuita
-subtitle:  Todo preparado en AcaiBioFood para la Conferencia Gratuita
+subtitle: Noticias - Todo preparado en AcaiBioFood para la Conferencia Gratuita
 date: 2019-09-13 15:11:27
 author: Txiki Soto, Salud-Zen
 image: img/blog/1309019MedicinaIntegrativa.jpg

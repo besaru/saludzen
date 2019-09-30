@@ -6,7 +6,7 @@ categories:
 categories2: blog
 title: Reflexiones - El Arte de Soñar
 subtitle: Reflexiones - El Arte de Soñar
-author: Salud-Zen
+author: Txiki Soto, Salud-Zen
 image: img/blog/040719ArteSonar.jpg
 linkfacebook: https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.salud-zen.com%2Fblog%2Freflexiones%2F2019%2F07%2F04%2Freflexiones-arte-sonar.html&amp;src=sdkpreparse
 ---

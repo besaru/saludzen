@@ -7,7 +7,7 @@ categories2: blog
 title: Reflexiones - Ser Simples
 subtitle: Reflexiones - Ser Simples
 date: 2019-05-10 09:11:27
-author: Salud-Zen
+author: Txiki Soto, Salud-Zen
 image: img/blog/100519SerSimples.jpg
 linkfacebook: https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fsalud-zen.com%2Fblog%2F2019%2F05%2F10%2Freflexiones-ser-simples.html&amp;src=sdkpreparse
 ---

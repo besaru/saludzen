@@ -6,7 +6,7 @@ categories:
 categories2: blog
 title: Reflexiones - El mundo de los Cambios
 subtitle: Reflexiones - El mundo de los Cambios
-author: Salud-Zen
+author: Txiki Soto, Salud-Zen
 image: img/blog/130619MundoCambios.jpg
 linkfacebook: https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fsalud-zen.com%2Fblog%2F2019%2F06%2F13%2Freflexiones-mundo-cambios.html&amp;src=sdkpreparse
 ---

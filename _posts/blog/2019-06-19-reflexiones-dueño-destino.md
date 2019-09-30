@@ -6,7 +6,7 @@ categories:
 categories2: blog
 title: Reflexiones - Dueño de tu Destino
 subtitle: Reflexiones - Dueño de tu Destino
-author: Salud-Zen
+author: Txiki Soto, Salud-Zen
 image: img/blog/190619DuenioDestino.jpg
 linkfacebook: https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fsalud-zen.com%2Fblog%2F2019%2F06%2F19%2Freflexiones-due%C3%B1o-destino.html&amp;src=sdkpreparse
 ---

@@ -7,7 +7,7 @@ categories2: blog
 title: Reflexiones - Comer saludable
 subtitle: Reflexiones - Comer saludable
 date: 2019-04-27 09:11:27
-author: Salud-Zen
+author: Txiki Soto, Salud-Zen
 image: img/blog/270419ComerSaludable.jpg
 linkfacebook: https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fww.salud-zen.com%2Fblog%2F2019%2F04%2F27%2Freflexiones-comer-saludable.html&amp;src=sdkpreparse
 ---
