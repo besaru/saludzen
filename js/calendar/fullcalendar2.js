@@ -794,10 +794,10 @@
              "name": "Máster Salud Natural",
              "title": "Máster Salud Natural",
              "id": "C0001",
-             "end": "2020-01-05 14:00:00",
-             "start": "2020-01-04 09:00:00",
+             "end": "2020-01-25 14:00:00",
+             "start": "2020-01-24 10:00:00",
              "className": "terapias",
-             "url":"../evento/2020/01/04/curso-master-salud-natural.html"
+             "url":"../evento/2020/01/24/curso-master-salud-natural.html"
          },
          {
              "allDay": "false",
