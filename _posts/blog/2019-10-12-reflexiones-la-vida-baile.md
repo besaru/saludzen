@@ -17,6 +17,6 @@ La Vida es un baile!!
 
 Si bailas seguro que sonríes, es muy muy difícil bailar serio. Por lo tanto bailar relaja nuestro sistema nervioso abriendo el cuerpo, moviendolo mejoramos la circulación de la sangre y de la linfa, reforzamos el sistema inmunitario y nos mantiene en el tiempo presente convirtiendo el baile en una meditación. Es muy difícil preocuparse del futuro o lamentarse del pasado mientras bailamos.
 
-Y además como podéis ver en este [vídeo][video], no necesitamos nada para bailar!! 🕺💃
+Y además como podéis ver en este video, no necesitamos nada para bailar!! 🕺💃
 
-[video]:https://www.facebook.com/masakakidsafricana/videos/426356367981173/
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YIBjuNvatrs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
