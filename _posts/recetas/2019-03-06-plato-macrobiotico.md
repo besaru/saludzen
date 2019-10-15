@@ -4,7 +4,7 @@ date: 2019-03-06
 title: Plato Macrobiótico
 categories: Principal
 author: Salud-Zen
-featured_image: /img/recetas/plato_macrobiotico_completo.jpg
+featured_image: /img/recetas/plato_macrobiotico.jpg
 recipe:
   servings: 4 o 5 raciones
   prep: 60'- 1 hora
@@ -50,7 +50,7 @@ recipe:
     ESTOFADO DE TEMPEH
     4. Yanguizar cebolla y salar.
     5. Mezclar con el tempeh cortado en cerillas y cocinar a fuego lento tapado durante 30 min con un poco de shoyu.
-    
+
     BROCOLI AL VAPOR
     6. Poner a hervir un poco de agua y cocinar el brocoli al vapor 4-5 min a fuego alto tapado, hasta que se ponga verde brillante.
 
