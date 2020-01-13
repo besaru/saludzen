@@ -1,7 +1,7 @@
 ---
 layout: event
 categories: evento
-public: yes
+public: no
 public2: yes
 name: Jornada de Bienestar & Salud Natural
 title: Jornada de Bienestar & Salud Natural

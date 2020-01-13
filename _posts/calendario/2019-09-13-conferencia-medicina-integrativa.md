@@ -1,7 +1,7 @@
 ---
 layout: event
 categories: evento
-public: yes
+public: no
 public2: yes
 name: Conferencia-Medicina Integrativa
 title: Conferencia-Medicina Integrativa

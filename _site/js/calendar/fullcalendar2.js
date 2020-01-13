@@ -794,8 +794,8 @@
              "name": "Máster Salud Natural",
              "title": "Máster Salud Natural",
              "id": "C0001",
-             "end": "2020-01-25 14:00:00",
-             "start": "2020-01-24 10:00:00",
+             "end": "2020-01-26 14:00:00",
+             "start": "2020-01-25 10:00:00",
              "className": "terapias",
              "url":"../evento/2020/01/24/curso-master-salud-natural.html"
          },
@@ -808,7 +808,58 @@
              "start": "2019-10-05 09:00:00",
              "className": "terapias",
              "url":"../evento/2019/10/05/curso-jornada-bienestar.html"
+         },
+         {
+             "allDay": "false",
+             "title": "Nutrición Energética y Cocina Macrobiótica para las Mamás y Nuestros Hijos",
+             "name":"Cocina Macrobiótica para la familia",
+             "id": "C0001",
+             "end": "2020-02-09 17:00:00",
+             "start": "2020-02-08 09:00:00",
+             "className": "macrobiotica",
+             "url":"../evento/2020/02/08/curso-cocina-familia.html"
+         },
+         {
+             "allDay": "false",
+             "name": "Curso de Introducción",
+             "title": "Introducción: Nutrición Energética, Salud y Cocina Macrobiótica",
+             "id": "C0001",
+             "end": "2020-02-01 19:00:00",
+             "start": "2020-02-01 09:00:00",
+             "className": "macrobiotica",
+             "url":"../evento/2020/02/01/curso-introduccion.html"
+         },
+         {
+             "allDay": "false",
+             "name": "Salud-Enfermedad & Nutrición Holística",
+             "title": "Curso de Salud-Enfermedad & Nutrición Holística",
+             "id": "C0001",
+             "end": "2020-01-26 14:00:00",
+             "start": "2020-01-25 10:00:00",
+             "className": "terapias",
+             "url":"../evento/2020/01/25/curso-salud-enfermedad.html"
+         },
+         {
+             "allDay": "false",
+             "name": "Detoxificación Celula ...",
+             "title": "Detoxificación Celular, Reestructuración Biológica & Estrategias Terapéuticas Naturales",
+             "id": "C0001",
+             "end": "2020-02-16 14:00:00",
+             "start": "2020-02-15 10:00:00",
+             "className": "terapias",
+             "url":"../evento/2020/02/15/curso-detoxificacion.html"
+         },
+         {
+             "allDay": "false",
+             "title": "Conferencia-El Ayuno",
+             "name":"Conferencia-El Ayuno, otra forma de nutrirse",
+             "id": "C0001",
+             "end": "2020-01-17 21:00:00",
+             "start": "2020-01-17 19:00:00",
+             "className": "proyecto",
+             "url":"../evento/2020/01/17/conferencia-el-ayuno.html"
          }
+
 
      ]
 ,

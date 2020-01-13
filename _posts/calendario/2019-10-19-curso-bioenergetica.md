@@ -1,7 +1,7 @@
 ---
 layout: event
 categories: evento
-public: yes
+public: no
 public2: yes
 name: Bioenergética
 title: Curso de Bioenergética <br> La energía de la vida en nuestras manos.
