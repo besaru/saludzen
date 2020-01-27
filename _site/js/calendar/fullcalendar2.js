@@ -842,9 +842,9 @@
          {
              "allDay": "false",
              "name": "Detoxificación Celula ...",
-             "title": "Detoxificación Celular, Reestructuración Biológica & Estrategias Terapéuticas Naturales",
+             "title": "Detoxificación Celular, Limpieza Vital",
              "id": "C0001",
-             "end": "2020-02-16 14:00:00",
+             "end": "2020-02-15 18:00:00",
              "start": "2020-02-15 10:00:00",
              "className": "terapias",
              "url":"../evento/2020/02/15/curso-detoxificacion.html"
