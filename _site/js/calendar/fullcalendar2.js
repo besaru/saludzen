@@ -858,6 +858,26 @@
              "start": "2020-01-17 19:00:00",
              "className": "proyecto",
              "url":"../evento/2020/01/17/conferencia-el-ayuno.html"
+         },
+         {
+             "allDay": "false",
+             "title": "Rejuvenecimiento",
+             "name":"10 tips para el Rejuvenecimiento - Longevidad con calidad de vida-",
+             "id": "C0001",
+             "end": "2020-03-29 14:30:00",
+             "start": "2020-03-29 09:30:00",
+             "className": "terapias",
+             "url":"../evento/2020/03/29/curso-rejuvenecimiento.html"
+         },
+         {
+             "allDay": "false",
+             "title": "Nutrición Energética y Suplementación Nutricional",
+             "name":"Nutrición Energética y Suplementación Nutricional para la salud del sistema digestivo, dermatologico y respiratorio",
+             "id": "C0001",
+             "end": "2020-04-25 18:00:00",
+             "start": "2020-04-25 09:30:00",
+             "className": "macrobiotica",
+             "url":"../evento/2020/04/25/curso-nutricion-energetica.html"
          }
 
 
