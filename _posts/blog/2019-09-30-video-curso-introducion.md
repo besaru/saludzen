@@ -3,7 +3,7 @@ layout: post
 categories:
 - blog
 - video
-categories2: 
+categories2:
 title: Resumen - Curso Introducción
 subtitle: "Resumen - Curso Introducción: Nutrición Energética, Salud y Cocina Macrobiótica"
 author: Txiki Soto, Salud-Zen
