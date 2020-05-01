@@ -1,0 +1,52 @@
+---
+layout: page
+
+---
+
+<div class="post">
+  <!-- Wrapper Start -->
+  <section id="intro" style="border: 1px dotted #ddd;">
+    <div class="container">
+      <div class="row">
+        <div>
+          <div class="block">
+            <h1>{{ page.subtitle }}</h1>
+
+            <div class="post-info-wrapper">
+              <p class="italic">Por <span class="bold">{{ page.author }}</span> el <span class="bold">{{ page.date | date: "%-d %b, %Y" }}</span>
+                <div class="fb-share-button" data-href="{{ page.url}}"  data-layout="button_count" data-size="small" data-mobile-iframe="true"><a target="_blank" href="{{page.linkfacebook}}" class="fb-xfbml-parse-ignore">Compartir</a></div>
+
+<!--
+  <hr class="uk-article-divider">
+
+	<div class="uk-button-group">
+		<a class="uk-button btn-facebook" title="Compartir en Facebook"  target="_black" href="http://www.facebook.com/sharer/sharer.php?u={{ page.url | prepend: site.url }}"><i class="ion-social-facebook"></i></a>
+		<a class="uk-button btn-whatsapp" title="Compartir en Whatsaap" href="whatsapp://send?text={{ page.url | prepend: site.url | cgi_escape}}"><i class="ion-social-whatsapp"></i></a>
+		<a class="uk-button btn-telegram" title="Compartir en Telegram" href="https://telegram.me/share/url?url={{ page.url | prepend: site.url | cgi_escape }}"><i class="ion-ios-telephone"></i></a>
+	</div>-->
+              </p>
+
+            </div>
+            <hr/>
+          <div class="col-md-3 col-sm-3"> </div>
+
+            <div class="col-md-6 col-sm-6">
+
+
+              <!--  <img src="{{ site.url }}{{ site.baseurl }}/{{ page.image }}" alt="{{ page.title }}">-->
+
+            </div>
+
+          <div class="col-md-12 col-sm-12">
+            <p>{{ content }}</p>
+          </div>
+          </div>
+        </div><!-- .col-md-7 close -->
+      </div>
+    </div>
+
+    <p class="center-text" style="padding: 30px;">
+      <a href="{{ site.url }}{{ site.baseurl }}/blog">Volver al blog</a>
+    </p>
+  </section>
+</div>
