@@ -878,8 +878,37 @@
              "start": "2020-04-25 09:30:00",
              "className": "macrobiotica",
              "url":"../evento/2020/04/25/curso-nutricion-energetica.html"
+         },
+         {
+             "allDay": "false",
+             "title": "Conferencia-Las Vacunas",
+             "name":"Conferencia-Las Vacunas",
+             "id": "C0001",
+             "end": "2020-09-18 21:00:00",
+             "start": "2020-09-18 19:00:00",
+             "className": "proyecto",
+             "url":"../evento/2020/09/18/conferencia-las-vacunas.html"
+         },
+         {
+             "allDay": "false",
+             "name": "Curso de Introducción",
+             "title": "Introducción: Nutrición Energética, Salud y Cocina Macrobiótica",
+             "id": "C0001",
+             "end": "2020-10-04 19:00:00",
+             "start": "2020-10-04 09:00:00",
+             "className": "macrobiotica",
+             "url":"../evento/2020/10/04/curso-introduccion.html"
+         },
+         {
+             "allDay": "false",
+             "name": "LA SALUD DEL SISTEMA INMUNE",
+             "title": "LA SALUD DEL SISTEMA INMUNE. Potencia tus Defensas Naturales",
+             "id": "C0001",
+             "end": "2020-12-13 19:00:00",
+             "start": "2020-12-13 09:00:00",
+             "className": "terapias",
+             "url":"../evento/2020/12/13/curso-salud-sistema-inmune.html"
          }
-
 
      ]
 ,
