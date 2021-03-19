@@ -1,7 +1,7 @@
 ---
 layout: event
 categories: evento
-public: yes
+public: no
 public2: yes
 name: Rejuvenecimiento
 title: 10 tips para el Rejuvenecimiento - Longevidad con calidad de vida -

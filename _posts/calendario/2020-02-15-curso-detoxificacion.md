@@ -1,7 +1,7 @@
 ---
 layout: event
 categories: evento
-public: yes
+public: no
 public2: yes
 name: Curso de Detoxificación Celular
 title: Detoxificación Celular, Limpieza Vital

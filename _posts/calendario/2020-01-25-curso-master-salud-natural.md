@@ -1,7 +1,7 @@
 ---
 layout: event
 categories: evento
-public: yes
+public: no
 public2: yes
 name: Máster en Salud Natural
 title: Máster en Salud Natural. Suplementación Nutricional Integrativa y Experto en Diagnóstico Oriental e Iridología.

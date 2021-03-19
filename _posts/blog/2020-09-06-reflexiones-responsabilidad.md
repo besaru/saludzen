@@ -20,6 +20,6 @@ Con sentido común y responsabilidad
 ¡¡SIGUE TU CAMINO!!😉  
 El movimiento es vida, es salud, es alimento!!!  
 Cuidate y no tengas miedo!   
-#concienciasocial
-#responsabilidad
-#desarrollopersonal
+ #concienciasocial
+ #responsabilidad
+ #desarrollopersonal

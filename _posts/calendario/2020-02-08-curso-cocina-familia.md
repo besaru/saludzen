@@ -1,7 +1,7 @@
 ---
 layout: event
 categories: evento
-public: yes
+public: no
 public2: yes
 name: Cocina para niños y la familia
 title: Nutrición Energética y Cocina Macrobiótica niños y la familia

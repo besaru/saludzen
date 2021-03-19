@@ -1,7 +1,7 @@
 ---
 layout: event
 categories: evento
-public: yes
+public: no
 public2: yes
 name: Nutrición Energética y Suplementación Nutricional
 title: Nutrición Energética y Suplementación Nutricional para la salud del sistema digestivo, dermatologico y respiratorio

@@ -11,7 +11,7 @@ dateVisible: 2020-12-13 23:00:00
 date_text: 13 de Diciembre de 2020
 date_imparticion: 13-12-2020
 horario: Domingo de 09:00 - 19:00
-localizacion: Sede Principal
+localizacion: C/ Castellón de la Plana, 26 Arroyomolinos
 author: Salud-Zen
 image: img/eventos/131220SaludSistemaInmune.jpg
 image_prop: img/eventos/131220SaludSistemaInmune_prop.jpg

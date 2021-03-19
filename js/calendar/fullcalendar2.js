@@ -908,6 +908,26 @@
              "start": "2020-12-13 09:00:00",
              "className": "terapias",
              "url":"../evento/2020/12/13/curso-salud-sistema-inmune.html"
+         },
+         {
+             "allDay": "false",
+             "name": "Curso de Introducción",
+             "title": "Introducción: Nutrición Energética, Salud y Cocina Macrobiótica",
+             "id": "C0001",
+             "end": "2021-03-14 19:00:00",
+             "start": "2021-03-14 09:00:00",
+             "className": "macrobiotica",
+             "url":"../evento/2021/03/14/curso-introduccion.html"
+         },
+         {
+             "allDay": "false",
+             "name": "Conferencia - Potenciar tus defensas naturales",
+             "title": "Cómo potenciar tus defensas naturales a través de la Alimentación",
+             "id": "C0001",
+             "end": "2021-03-26 20:00:00",
+             "start": "2021-03-26 19:00:00",
+             "className": "macrobiotica",
+             "url":"../evento/2021/03/26/conferencia-salud-sistema-inmune.html"
          }
 
      ]
