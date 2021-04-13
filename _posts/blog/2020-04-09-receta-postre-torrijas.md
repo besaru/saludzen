@@ -13,4 +13,4 @@ linkfacebook: https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.salu
 ---
 Es tiempo de Semana Santa y como este año nos toca a todos quedarnos en casina, aquí os dejo mi propuesta para que preparéis una Receta de [Torrijas][receta] ricas y mucho más saludables!!😋😋😋
 
-[receta]: {{site.url}}{{site.baseurl}}/principal/2019/04/18/torrijas.html
+[receta]: {{site.url}}{{site.baseurl}}/postres/2019/04/18/torrijas.html
