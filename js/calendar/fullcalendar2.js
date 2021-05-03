@@ -928,8 +928,27 @@
              "start": "2021-03-26 19:00:00",
              "className": "macrobiotica",
              "url":"../evento/2021/03/26/conferencia-salud-sistema-inmune.html"
+         },
+         {
+             "allDay": "false",
+             "name": "Conferencia - Cómo vencer la Diabetes de Forma Natural",
+             "title": "Cómo vencer la Diabetes de Forma Natural",
+             "id": "C0001",
+             "end": "2021-05-21 20:30:00",
+             "start": "2021-05-21 19:00:00",
+             "className": "macrobiotica",
+             "url":"../evento/2021/05/21/conferencia-vencer-diabetes.html"
+         },
+         {
+             "allDay": "false",
+             "name": "Curso de cocina para el Verano",
+             "title": "Curso - Nutrición Energética y Cocina Macrobiótica para el Verano",
+             "id": "C0001",
+             "end": "2021-05-23 17:00:00",
+             "start": "2021-05-23 09:00:00",
+             "className": "macrobiotica",
+             "url":"../evento/2021/05/23/curso-cocina-verano.html"
          }
-
      ]
 ,
 /*

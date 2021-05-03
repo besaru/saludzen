@@ -1,7 +1,7 @@
 ---
 layout: event
 categories: evento
-public: yes
+public: no
 public2: yes
 name: Las Vacunas
 title:  Conferencia - Las Vacunas. Reflexión desde un punto de vista holístico

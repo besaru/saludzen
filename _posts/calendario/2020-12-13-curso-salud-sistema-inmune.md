@@ -1,7 +1,7 @@
 ---
 layout: event
 categories: evento
-public: yes
+public: no
 public2: yes
 name: LA SALUD DEL SISTEMA INMUNE
 title: LA SALUD DEL SISTEMA INMUNE. Potencia tus Defensas Naturales

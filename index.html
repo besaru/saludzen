@@ -120,22 +120,22 @@ permalink: /
         <div class="block">
           {% assign sorted-posts = site.posts | where: "categories","evento"| where: "public2","true"|sort: 'date' %}
           {% assign noevent = 'true' %}
-
+          <h2>Próximos Eventos:</h2>
 
               {%
                 for post in sorted-posts
 
                %}
+               <!-- {% if noevent %}-->
 
+               <!--  {% assign noevent = 'false' %}
+               {%endif%}-->
 
 
               <div id="clients-logo" class="owl-carousel" >
 
               <div future-date="{{ post.date | date: '%Y%m%d' }}" >
-                {% if noevent %}
-                  <h2>Próximos Eventos:</h2>
-                  {% assign noevent = 'false' %}
-                {%endif%}
+
                 <div class="clients-logo-img">
                   <a href="{{ site.url }}{{ site.baseurl }}/{{ post.url }}" class="bold">
                     {% if post.image_prop %}
