@@ -9,7 +9,7 @@ subtitle: Curiosidades - Frutos Rojos
 date: 2021-05-03 15:11:27
 author: Txiki Soto, Salud-Zen
 image: img/blog/030521FrutosRojos.jpg
-linkfacebook: https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.salud-zen.com%2Fblog%2Fcuriosidades%2F2020%2F05%2F03%2Fcuriosidades-frutos-rojos.html&amp;src=sdkpreparse
+linkfacebook: https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.salud-zen.com%2Fblog%2Fnoticias%2F2021%2F05%2F03%2Fcuriosidades-frutos-rojos.html&amp;src=sdkpreparse
 ---
 ¡¡FRUTOS ROJOS!!
 -Cuándo y cómo tomarlos, cuáles son y que beneficios nos aportan desde un enfoque holístico-   

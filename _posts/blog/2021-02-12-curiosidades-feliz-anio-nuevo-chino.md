@@ -9,7 +9,7 @@ subtitle: Consultas - Feliz Año Nuevo Chino 2021!!!
 date: 2021-02-12 15:11:27
 author: Txiki Soto, Salud-Zen
 image: img/blog/120221FelizAnioNuevoChino.jpg
-linkfacebook: https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.salud-zen.com%2Fblog%2Fcursos%2F2020%2F02%2F12%2Fcuriosidades-feliz-anio-nuevo-chino.html&amp;src=sdkpreparse
+linkfacebook: https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.salud-zen.com%2Fblog%2Fnoticias%2F2021%2F02%2F12%2Fcuriosidades-feliz-anio-nuevo-chino.html&amp;src=sdkpreparse
 ---
 Feliz Año Nuevo Chino 2021!!! 🧧🏮🧧🏮  
 
