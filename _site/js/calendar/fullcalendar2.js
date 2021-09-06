@@ -949,6 +949,28 @@
              "className": "macrobiotica",
              "url":"../evento/2021/05/23/curso-cocina-verano.html"
          }
+         ,
+         {
+             "allDay": "false",
+             "name": "Curso de Introducción",
+             "title": "Introducción: Nutrición Energética, Salud y Cocina Macrobiótica",
+             "id": "C0001",
+             "end": "2021-09-19 19:00:00",
+             "start": "2021-09-19 09:00:00",
+             "className": "macrobiotica",
+             "url":"../evento/2021/09/19/curso-introduccion.html"
+         }
+         ,
+         {
+             "allDay": "false",
+             "title": "Conferencia-El Ayuno",
+             "name":"Conferencia-El Ayuno, otra forma de nutrirse",
+             "id": "C0001",
+             "end": "2021-09-17 20:30:00",
+             "start": "2021-09-17 19:00:00",
+             "className": "proyecto",
+             "url":"../evento/2021/09/17/conferencia-el-ayuno.html"
+         }
      ]
 ,
 /*

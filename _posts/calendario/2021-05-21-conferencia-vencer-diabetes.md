@@ -1,7 +1,7 @@
 ---
 layout: event
 categories: evento
-public: yes
+public: no
 public2: yes
 name: Conferencia - Cómo vencer la Diabetes de Forma Natural
 title: Conferencia - Cómo vencer la Diabetes de Forma Natural. Recursos para prevenirla y tratarla eficazmente.

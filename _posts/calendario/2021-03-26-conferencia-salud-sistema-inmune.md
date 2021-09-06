@@ -1,7 +1,7 @@
 ---
 layout: event
 categories: evento
-public: yes
+public: no
 public2: yes
 name: Conferencia - Cómo potenciar tus defensas naturales a través de la Alimentación
 title: Conferencia - Cómo potenciar tus defensas naturales a través de la Alimentación
