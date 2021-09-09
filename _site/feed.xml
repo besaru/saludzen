@@ -3,8 +3,8 @@
   <channel>
     <title>Salud-Zen, Escuela de Luz y Consciencia</title>
     <description></description>
-    <link>http://salud-zen.ml/</link>
-    <atom:link href="http://salud-zen.ml//feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
 
     
       <item>
@@ -43,7 +43,7 @@ Si pretendemos estimular la detoxificación general del organismo, entonces pode
 
 &lt;p&gt;&lt;b&gt;Cómo preparar el té Bancha&lt;/b&gt;:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://salud-zen.ml//img/blog/09092021-TeBanchaPreparacion.jpg&quot; alt=&quot;Preparación Te Bancha&quot; title=&quot;El te bancha - preparación&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/img/blog/09092021-TeBanchaPreparacion.jpg&quot; alt=&quot;Preparación Te Bancha&quot; title=&quot;El te bancha - preparación&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Por cada taza de agua utilizaremos &lt;u&gt;una cucharadita de té&lt;/u&gt; (2 ó 3 gramos)&lt;br /&gt;
 La dejaremos infusionar durante &lt;u&gt;2 minutos en agua a 80-90ºC&lt;/u&gt;.&lt;br /&gt;
@@ -67,12 +67,12 @@ Director y Profesor de Salud-Zen
 &lt;p style=&quot;text-align:center;font-size:12px&quot;&gt;&lt;i&gt; &amp;lt;&amp;lt; El Texto que contiene este artículo, publicado en internet,&lt;br /&gt;  tiene derecho de autor, siendo Salud-Zen la propiedad intelectual&lt;br /&gt;  y la única que puede usar este texto en publicaciones de libros y obras posteriores. &amp;gt;&amp;gt;
 &lt;/i&gt;
 &lt;/p&gt;
-&lt;p&gt;¿Te ha gustado? Puedes descargarlo en pdf en el siguiente enlace: &lt;a href=&quot;http://salud-zen.ml//img/blog/090921-ARTICULO-TE-BANCHA.pdf&quot;&gt;El Té Bancha.pdf&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;¿Te ha gustado? Puedes descargarlo en pdf en el siguiente enlace: &lt;a href=&quot;http://localhost:4000/img/blog/090921-ARTICULO-TE-BANCHA.pdf&quot;&gt;El Té Bancha.pdf&lt;/a&gt;.&lt;/p&gt;
 
 </description>
         <pubDate>Thu, 09 Sep 2021 18:00:27 +0200</pubDate>
-        <link>http://salud-zen.ml///blog/articulo/2021/09/09/articulo-te-bancha.html</link>
-        <guid isPermaLink="true">http://salud-zen.ml///blog/articulo/2021/09/09/articulo-te-bancha.html</guid>
+        <link>http://localhost:4000//blog/articulo/2021/09/09/articulo-te-bancha.html</link>
+        <guid isPermaLink="true">http://localhost:4000//blog/articulo/2021/09/09/articulo-te-bancha.html</guid>
       </item>
     
       <item>
@@ -85,7 +85,7 @@ Es decir, que la resistencia a la insulina es una condición asociada a una &lt;
 &lt;p&gt;La &lt;b&gt;Principal Causa de esta Resistencia a la Insulina&lt;/b&gt; está en el tipo de azúcar que estamos consumiendo hoy en día. Son formas de azúcar artificiales y refinadas que no nos corresponden ingerir porque van en contra de nuestra biología como seres humanos. No las metabolizamos y vamos sobrecargando al aparato digestivo hasta que desarrollamos esa Resistencia a la Insulina.&lt;/p&gt;
 
 &lt;p&gt;Si este proceso no lo vamos controlando, cada vez avanza más, produciendo &lt;b&gt;alteraciones fisiológicas en nuestro organismo.&lt;/b&gt; &lt;br /&gt;
-&lt;img src=&quot;http://salud-zen.ml//img/blog/09092021ResistenciaInsulina.jpg&quot; alt=&quot;Graves consecuencias para la salud al desarrollar resistencia a la insulina&quot; title=&quot;Graves consecuencias para la salud al desarrollar resistencia a la insulina&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;http://localhost:4000/img/blog/09092021ResistenciaInsulina.jpg&quot; alt=&quot;Graves consecuencias para la salud al desarrollar resistencia a la insulina&quot; title=&quot;Graves consecuencias para la salud al desarrollar resistencia a la insulina&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Las &lt;b&gt;Principales Consecuencias de tener Resistencia a la Insulina&lt;/b&gt; son:&lt;/p&gt;
 &lt;ul style=&quot;list-style-type:circle&quot;&gt;
@@ -148,12 +148,12 @@ Director y Profesor de Salud-Zen
 &lt;/p&gt;
 
 &lt;hr /&gt;
-&lt;p&gt;¿Te ha gustado? Puedes descargarlo en pdf en el siguiente enlace: &lt;a href=&quot;http://salud-zen.ml//img/blog/090921-ARTICULO-RESISTENCIA-INSULINA.pdf&quot;&gt;Resistencia a la insulina.pdf&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;¿Te ha gustado? Puedes descargarlo en pdf en el siguiente enlace: &lt;a href=&quot;http://localhost:4000/img/blog/090921-ARTICULO-RESISTENCIA-INSULINA.pdf&quot;&gt;Resistencia a la insulina.pdf&lt;/a&gt;.&lt;/p&gt;
 
 </description>
         <pubDate>Thu, 09 Sep 2021 18:00:27 +0200</pubDate>
-        <link>http://salud-zen.ml///blog/articulo/2021/09/09/articulo-resistencia-insulina.html</link>
-        <guid isPermaLink="true">http://salud-zen.ml///blog/articulo/2021/09/09/articulo-resistencia-insulina.html</guid>
+        <link>http://localhost:4000//blog/articulo/2021/09/09/articulo-resistencia-insulina.html</link>
+        <guid isPermaLink="true">http://localhost:4000//blog/articulo/2021/09/09/articulo-resistencia-insulina.html</guid>
       </item>
     
       <item>
@@ -171,14 +171,14 @@ Y así  sentiremos a la Tierra como parte de nuestro Hogar.&lt;br /&gt;
 #unproyectodeeducacionparalaconsciencia&lt;/p&gt;
 </description>
         <pubDate>Sat, 04 Sep 2021 17:11:27 +0200</pubDate>
-        <link>http://salud-zen.ml///blog/reflexiones/2021/09/04/reflexiones-destruyendo-medio.html</link>
-        <guid isPermaLink="true">http://salud-zen.ml///blog/reflexiones/2021/09/04/reflexiones-destruyendo-medio.html</guid>
+        <link>http://localhost:4000//blog/reflexiones/2021/09/04/reflexiones-destruyendo-medio.html</link>
+        <guid isPermaLink="true">http://localhost:4000//blog/reflexiones/2021/09/04/reflexiones-destruyendo-medio.html</guid>
       </item>
     
       <item>
         <title>Conferencia - Cómo vencer la diabetes de forma natural</title>
         <description>&lt;p&gt;Comenzamos el mes de Septiembre con una Conferencia Gratuita:
-&lt;a href=&quot;http://salud-zen.ml//evento/2021/09/17/conferencia-el-ayuno.html&quot;&gt;“EL AYUNO, Otra forma de nutrirse”&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;http://localhost:4000/evento/2021/09/17/conferencia-el-ayuno.html&quot;&gt;“EL AYUNO, Otra forma de nutrirse”&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Un tema que está muy en auge actualmente pero no porque sea una moda sino porque se ha convertido en una necesidad.
 Todas las enfermedades de hoy en día están relacionadas con un exceso de alimentación y además ésta es artificial y procesada.&lt;br /&gt;
@@ -204,8 +204,8 @@ Os esperamos:&lt;/p&gt;
 
 </description>
         <pubDate>Wed, 01 Sep 2021 17:11:27 +0200</pubDate>
-        <link>http://salud-zen.ml///blog/cursos/2021/09/01/conferencia-ayuno.html</link>
-        <guid isPermaLink="true">http://salud-zen.ml///blog/cursos/2021/09/01/conferencia-ayuno.html</guid>
+        <link>http://localhost:4000//blog/cursos/2021/09/01/conferencia-ayuno.html</link>
+        <guid isPermaLink="true">http://localhost:4000//blog/cursos/2021/09/01/conferencia-ayuno.html</guid>
       </item>
     
       <item>
@@ -227,8 +227,8 @@ No dejemos que la mente encuentre justificaciones absurdas para que sigamos enga
 #unproyectodeeducacionparalaconsciencia&lt;/p&gt;
 </description>
         <pubDate>Thu, 26 Aug 2021 17:11:27 +0200</pubDate>
-        <link>http://salud-zen.ml///blog/reflexiones/2021/08/26/reflexiones-enganchados.html</link>
-        <guid isPermaLink="true">http://salud-zen.ml///blog/reflexiones/2021/08/26/reflexiones-enganchados.html</guid>
+        <link>http://localhost:4000//blog/reflexiones/2021/08/26/reflexiones-enganchados.html</link>
+        <guid isPermaLink="true">http://localhost:4000//blog/reflexiones/2021/08/26/reflexiones-enganchados.html</guid>
       </item>
     
       <item>
@@ -262,8 +262,8 @@ Muchas gracias! 🙏😉&lt;/p&gt;
 
 </description>
         <pubDate>Wed, 25 Aug 2021 17:11:27 +0200</pubDate>
-        <link>http://salud-zen.ml///blog/noticias/2021/08/25/noticias-nuevo-proyecto.html</link>
-        <guid isPermaLink="true">http://salud-zen.ml///blog/noticias/2021/08/25/noticias-nuevo-proyecto.html</guid>
+        <link>http://localhost:4000//blog/noticias/2021/08/25/noticias-nuevo-proyecto.html</link>
+        <guid isPermaLink="true">http://localhost:4000//blog/noticias/2021/08/25/noticias-nuevo-proyecto.html</guid>
       </item>
     
       <item>
@@ -275,7 +275,7 @@ Consiste en aprender a utilizar los alimentos que nos da la tierra en cada estac
 Aprender esto es un arte, dentro de poco empezamos nuestro cursos, no te los pierdas!!&lt;/p&gt;
 
 &lt;p&gt;Os dejo la receta de este delicioso:
-&lt;a href=&quot;http://salud-zen.ml//principal/2021/08/24/smoothie.html&quot;&gt;SMOOTHIE DE AVENA Y FRUTOS ROJOS&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;http://localhost:4000/principal/2021/08/24/smoothie.html&quot;&gt;SMOOTHIE DE AVENA Y FRUTOS ROJOS&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Acordaros siempre fuera de las comidas!!&lt;br /&gt;
 #txikisoto&lt;br /&gt;
@@ -285,8 +285,8 @@ Aprender esto es un arte, dentro de poco empezamos nuestro cursos, no te los pie
 
 </description>
         <pubDate>Tue, 24 Aug 2021 17:11:27 +0200</pubDate>
-        <link>http://salud-zen.ml///blog/receta/2021/08/24/receta-smoothie.html</link>
-        <guid isPermaLink="true">http://salud-zen.ml///blog/receta/2021/08/24/receta-smoothie.html</guid>
+        <link>http://localhost:4000//blog/receta/2021/08/24/receta-smoothie.html</link>
+        <guid isPermaLink="true">http://localhost:4000//blog/receta/2021/08/24/receta-smoothie.html</guid>
       </item>
     
       <item>
@@ -315,8 +315,8 @@ Feliz fin de semana!! 😉&lt;br /&gt;
 #unproyectodeeducacionparalaconsciencia&lt;/p&gt;
 </description>
         <pubDate>Fri, 20 Aug 2021 17:11:27 +0200</pubDate>
-        <link>http://salud-zen.ml///blog/reflexiones/2021/08/20/reflexiones-nuestra-esencia.html</link>
-        <guid isPermaLink="true">http://salud-zen.ml///blog/reflexiones/2021/08/20/reflexiones-nuestra-esencia.html</guid>
+        <link>http://localhost:4000//blog/reflexiones/2021/08/20/reflexiones-nuestra-esencia.html</link>
+        <guid isPermaLink="true">http://localhost:4000//blog/reflexiones/2021/08/20/reflexiones-nuestra-esencia.html</guid>
       </item>
     
       <item>
@@ -339,13 +339,13 @@ Feliz fin de semana!! 😉&lt;br /&gt;
 #unproyectodeeducacionparalaconsciencia&lt;/p&gt;
 </description>
         <pubDate>Wed, 18 Aug 2021 17:11:27 +0200</pubDate>
-        <link>http://salud-zen.ml///blog/noticias/2021/08/18/curiosidades-arroz-rojo.html</link>
-        <guid isPermaLink="true">http://salud-zen.ml///blog/noticias/2021/08/18/curiosidades-arroz-rojo.html</guid>
+        <link>http://localhost:4000//blog/noticias/2021/08/18/curiosidades-arroz-rojo.html</link>
+        <guid isPermaLink="true">http://localhost:4000//blog/noticias/2021/08/18/curiosidades-arroz-rojo.html</guid>
       </item>
     
       <item>
         <title>Receta-Tempeh de Garbanzo Frito</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://salud-zen.ml//principal/2021/08/17/tempeh.html&quot;&gt;Tempeh de Garbanzo Frito&lt;/a&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;a href=&quot;http://localhost:4000/principal/2021/08/17/tempeh.html&quot;&gt;Tempeh de Garbanzo Frito&lt;/a&gt;&lt;/p&gt;
 
 &lt;iframe src=&quot;https://www.facebook.com/plugins/video.php?height=314&amp;amp;href=https%3A%2F%2Fwww.facebook.com%2Fsaludzen.estilodevida%2Fvideos%2F557086315710034%2F&amp;amp;show_text=false&amp;amp;width=560&amp;amp;t=0&quot; width=&quot;560&quot; height=&quot;314&quot; style=&quot;border:none;overflow:hidden&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;true&quot; allow=&quot;autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share&quot;&gt;&lt;/iframe&gt;
 
@@ -359,8 +359,8 @@ Os mantendremos informados!&lt;br /&gt;
 
 </description>
         <pubDate>Tue, 17 Aug 2021 17:11:27 +0200</pubDate>
-        <link>http://salud-zen.ml///blog/receta/2021/08/17/receta-tempeh-garbanzo-frito.html</link>
-        <guid isPermaLink="true">http://salud-zen.ml///blog/receta/2021/08/17/receta-tempeh-garbanzo-frito.html</guid>
+        <link>http://localhost:4000//blog/receta/2021/08/17/receta-tempeh-garbanzo-frito.html</link>
+        <guid isPermaLink="true">http://localhost:4000//blog/receta/2021/08/17/receta-tempeh-garbanzo-frito.html</guid>
       </item>
     
   </channel>

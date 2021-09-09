@@ -955,10 +955,10 @@
              "name": "Curso de Introducción",
              "title": "Introducción: Nutrición Energética, Salud y Cocina Macrobiótica",
              "id": "C0001",
-             "end": "2021-09-19 19:00:00",
-             "start": "2021-09-19 09:00:00",
+             "end": "2021-10-23 19:00:00",
+             "start": "2021-10-23 09:00:00",
              "className": "macrobiotica",
-             "url":"../evento/2021/09/19/curso-introduccion.html"
+             "url":"../evento/2021/10/23/curso-introduccion.html"
          }
          ,
          {
@@ -970,6 +970,17 @@
              "start": "2021-09-17 19:00:00",
              "className": "proyecto",
              "url":"../evento/2021/09/17/conferencia-el-ayuno.html"
+         }
+         ,
+         {
+             "allDay": "false",
+             "title": "Cocina Macrobiótica para el Otoño",
+             "name":"Nutrición Energética y Cocina Macrobiótica para el Otoño",
+             "id": "C0001",
+             "end": "2021-11-14 17:00:00",
+             "start": "2021-11-14 09:00:00",
+             "className": "proyecto",
+             "url":"../evento/2021/11/14/curso-cocina-otono.html"
          }
      ]
 ,
