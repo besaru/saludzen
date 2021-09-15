@@ -974,6 +974,17 @@
          ,
          {
              "allDay": "false",
+             "title": "Conferencia-Cómo crear la vida de tus sueños",
+             "name":"Conferencia-Cómo crear la vida de tus sueños",
+             "id": "C0001",
+             "end": "2021-10-15 20:30:00",
+             "start": "2021-10-15 19:00:00",
+             "className": "proyecto",
+             "url":"../evento/2021/10/15/conferencia-vida-sueno.html"
+         }
+         ,
+         {
+             "allDay": "false",
              "title": "Cocina Macrobiótica para el Otoño",
              "name":"Nutrición Energética y Cocina Macrobiótica para el Otoño",
              "id": "C0001",
