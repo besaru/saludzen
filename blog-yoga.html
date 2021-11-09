@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Salud-Zen Blog
-permalink: /blog/
-category: blog
+permalink: /blog-yoga/
+category: artículos, conferencias, entrevistas, reflexiones, cursos, resumen, recetas, blog, yoga
 ---
 <!-- Slider Start -->
 <section id="global-header-blog">
@@ -19,8 +19,8 @@ category: blog
   </div>
 </section>
 </section>
-
 <!-- Service -Accesos Directos -->
+<!--
 <section id="service">
   <div class="container">
     <div class="row ">
@@ -63,7 +63,6 @@ category: blog
       <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
         <div class="service-item">
           <a href="{{site.url}}{{site.baseurl}}/blog-eventos/" target="_new" style="text-decoration: none;color: inherit;">
-
           <h4>Cursos</h4>
         </a>
 
@@ -71,18 +70,10 @@ category: blog
       </div>
       <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
         <div class="service-item">
-          <a href="{{site.url}}{{site.baseurl}}/blog-resumen/" target="_new" style="text-decoration: none;color: inherit;">
-            <h4 >Resumen</h4>
-          </a>
+            <h4 style="color:black"><u>Resumen</u></h4>
+
         </div>
     </div>
-    <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
-      <div class="service-item">
-        <a href="{{site.url}}{{site.baseurl}}/blog-yoga/" target="_new" style="text-decoration: none;color: inherit;">
-          <h4 >Yoga</h4>
-        </a>
-      </div>
-  </div>
     <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
       <div class="service-item">
         <a href="{{site.url}}{{site.baseurl}}/blog-noticias/" target="_new" style="text-decoration: none;color: inherit;">
@@ -94,14 +85,15 @@ category: blog
   </div>
 
 </section>
+-->
   <hr>
 <section id="intro">
-
   <div class="container">
-{% assign potsBlogs = site.posts | group_by_exp:"post", "post.categories2" %}
+{% assign potsBlogs = site.posts | group_by_exp:"post", "post.categories" %}
+
 {% for category in potsBlogs %}
 
-  {% if category.name contains 'blog'%}
+  {% if category.name contains 'yoga'%}
   {% assign postsByYear = category.items | group_by_exp:"post", "post.date | date: '%Y'" %}
 
   {% for year in postsByYear %}

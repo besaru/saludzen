@@ -992,6 +992,16 @@
              "start": "2021-11-14 09:00:00",
              "className": "proyecto",
              "url":"../evento/2021/11/14/curso-cocina-otono.html"
+         },
+         {
+             "allDay": "false",
+             "title": "Conferencia-Menús Energéticos",
+             "name":"Conferencia-Menús Energéticos",
+             "id": "C0001",
+             "end": "2021-11-19 20:30:00",
+             "start": "2021-11-19 19:00:00",
+             "className": "proyecto",
+             "url":"../evento/2021/11/19/conferencia-menu-energetico.html"
          }
      ]
 ,
