@@ -990,7 +990,7 @@
              "id": "C0001",
              "end": "2021-11-14 17:00:00",
              "start": "2021-11-14 09:00:00",
-             "className": "proyecto",
+             "className": "macrobiotica",
              "url":"../evento/2021/11/14/curso-cocina-otono.html"
          },
          {
@@ -1002,6 +1002,17 @@
              "start": "2021-11-19 19:00:00",
              "className": "proyecto",
              "url":"../evento/2021/11/19/conferencia-menu-energetico.html"
+         }
+         ,
+         {
+             "allDay": "false",
+             "title": "Cocina Macrobiótica Navideña y Festiva",
+             "name":"Cocina Macrobiótica Navideña y Festiva",
+             "id": "C0001",
+             "end": "2021-12-12 17:00:00",
+             "start": "2021-12-12 09:00:00",
+             "className": "macrobiotica",
+             "url":"../evento/2021/12/12/curso-cocina-navidad.html"
          }
      ]
 ,
