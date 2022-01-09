@@ -1,7 +1,7 @@
 ---
 layout: event
 categories: evento
-public: yes
+public: no
 public2: yes
 name: "Cocina Macrobiótica Navideña y Festiva"
 title: "Cocina Macrobiótica Navideña y Festiva. Recetas Energéticas y Saludable para Navidad"

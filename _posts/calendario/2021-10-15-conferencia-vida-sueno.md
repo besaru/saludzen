@@ -1,7 +1,7 @@
 ---
 layout: event
 categories: evento
-public: yes
+public: no
 public2: yes
 name: Conferencia- Cómo crear la vida de tus sueños
 title: Conferencia- Cómo crear la vida de tus sueños

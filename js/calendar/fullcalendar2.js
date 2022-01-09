@@ -1014,6 +1014,27 @@
              "className": "macrobiotica",
              "url":"../evento/2021/12/12/curso-cocina-navidad.html"
          }
+         ,
+         {
+             "allDay": "false",
+             "title": "Conferencia-Menús Energéticos",
+             "name":"Conferencia-Menús Energéticos",
+             "id": "C0001",
+             "end": "2022-01-19 13:00:00",
+             "start": "2022-01-19 11:30:00",
+             "className": "proyecto",
+             "url":"../evento/2022/01/19/conferencia-menu-energetico.html"
+         },
+         {
+             "allDay": "false",
+             "title": "Cocina Macrobiótica de Invierno",
+             "name":"Cocina Macrobiótica de Invierno",
+             "id": "C0001",
+             "end": "2022-01-30 17:00:00",
+             "start": "2022-01-30 09:00:00",
+             "className": "macrobiotica",
+             "url":"../evento/2022/01/30/curso-cocina-invierno.html"
+         }
      ]
 ,
 /*

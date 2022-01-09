@@ -1,7 +1,7 @@
 ---
 layout: event
 categories: evento
-public: yes
+public: no
 public2: yes
 name: Conferencia-El Ayuno
 title: Conferencia- EL AYUNO, otra forma de nutrirse
