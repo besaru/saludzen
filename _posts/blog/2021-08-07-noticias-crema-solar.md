@@ -9,7 +9,7 @@ subtitle: Curiosidades - Cremas Solares
 date: 2021-08-07 15:11:27
 author: Txiki Soto, Salud-Zen
 image: img/blog/070821CremaSolar.jpg
-linkfacebook: https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.salud-zen.com%2Fblog%2Fnoticias%2F2021%2F08%2F07%2Fnoticias-cre,a-solar.html&amp;src=sdkpreparse
+linkfacebook: https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.salud-zen.com%2Fblog%2Fnoticias%2F2021%2F08%2F07%2Fnoticias-crema-solar.html&amp;src=sdkpreparse
 ---
 
 Usar cremas solares naturales es muy bueno para nosotros y para el mar.
