@@ -1034,6 +1034,16 @@
              "start": "2022-01-30 09:00:00",
              "className": "macrobiotica",
              "url":"../evento/2022/01/30/curso-cocina-invierno.html"
+         },
+         {
+             "allDay": "false",
+             "title": "DESAYUNOS ENERGÉTICOS, ALMUERZOS Y MERIENDAS SALUDABLES",
+             "name":"DESAYUNOS ENERGÉTICOS, ALMUERZOS Y MERIENDAS SALUDABLES",
+             "id": "C0001",
+             "end": "2022-02-26 17:00:00",
+             "start": "2022-02-26 10:00:00",
+             "className": "macrobiotica",
+             "url":"../evento/2022/02/26/curso-desayunos-almuerzos-meriendas.html"
          }
      ]
 ,
