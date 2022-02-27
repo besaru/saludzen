@@ -1044,6 +1044,16 @@
              "start": "2022-02-26 10:00:00",
              "className": "macrobiotica",
              "url":"../evento/2022/02/26/curso-desayunos-almuerzos-meriendas.html"
+         },
+         {
+             "allDay": "false",
+             "title": "4 estrategias para manterner un sistema inmune eficaz",
+             "name":"Sistema Inmune",
+             "id": "C0001",
+             "end": "2022-02-18 20:00:00",
+             "start": "2022-02-18 19:00:00",
+             "className": "proyecto",
+             "url":"../evento/2022/02/18/conferencia-sistema-inmune.html"
          }
      ]
 ,
