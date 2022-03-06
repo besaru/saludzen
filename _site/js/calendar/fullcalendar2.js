@@ -1054,6 +1054,16 @@
              "start": "2022-02-18 19:00:00",
              "className": "proyecto",
              "url":"../evento/2022/02/18/conferencia-sistema-inmune.html"
+         },
+         {
+             "allDay": "false",
+             "title": "Taller - DESAYUNOS SALUDABLES. Empezar el día con Vitalidad y Energía",
+             "name":"Taller - DESAYUNOS SALUDABLES",
+             "id": "C0001",
+             "end": "2022-03-12 12:00:00",
+             "start": "2022-03-12 10:30:00",
+             "className": "proyecto",
+             "url":"../evento/2022/03/12/taller-desayunos-saludables.html"
          }
      ]
 ,
