@@ -20,26 +20,35 @@ layout: page
                 <img src="{{ site.url }}{{ site.baseurl }}/{{ page.image2 }}" alt="">
               {%endif%}
             <p>{{ content }}</p>
+
             {% if page.localizacion =='Acal Bio Food, c/ Del Potro n°7, Arroyomolinos (Madrid)' %}
             <p>Si estás interesado, no olvides reservar tu plaza. Nati Alcázar
               661614603/916897337
             </p>
             {%else%}
-              {% if page.localizacion =='ECOENCUENTRO, c/Las Norias n°80, Majadahonda (Madrid)' %}
-              <p>Si estás interesado, no olvides reservar tu plaza en <a href="https://www.ecoencuentro.es" target="_new">www.ecoencuentro.es</a>
-              </p>
-              {%else%}
-              {% if page.name=='Máster en Salud Natural'%}
-              <p>
-                Descárgate el <a href="{{site.url}}{{site.baseurl}}/img/eventos/programaMasterSaludZen.pdf" target="_new">Programa del Master</a>
-              </p>
+              {%if page.localizacion =='ECOENCUENTRO, c/Las Norias n°80, Majadahonda (Madrid)'%}
+                {%  if page.title=='Cursos - DESAYUNOS SALUDABLES'%}
+                    <p>Si estás interesado, no olvides reservar tu plaza en <a href="https://tienda.ecoencuentro.es/taller-desayunos-saludables" target="_new">www.ecoencuentro.es</a>
+                    </p>
+                {%else%}
+                    <p>Si estás interesado, no olvides reservar tu plaza en <a href="https://www.ecoencuentro.es" target="_new">www.ecoencuentro.es</a>
+                    </p>
                 {%endif%}
 
-              <p>Si estás interesado, no olvides
-            <a href="mailto:estilodevida@salud-zen.com?Subject=Reserva%20de%20Plaza: {{ page.name}} {{page.date|date: '%d-%-m-%Y' }}&body=Me gustaría reservar una plaza para: {{page.title}} del {{ page.date_text}}. Mis datos Personales son:%0A%0A   -Nombre:%0A%0A   -Apellidos:%0A%0A   -Fecha de nacimiento:%0A%0A   -Teléfono:%0A%0A    -Correo Electrónico:%0A%0A">reservar tu plaza</a>.
-            </p>
+              {%else%}
+
+                {% if page.name=='Máster en Salud Natural'%}
+                <p>
+                  Descárgate el <a href="{{site.url}}{{site.baseurl}}/img/eventos/programaMasterSaludZen.pdf" target="_new">Programa del Master</a>
+                </p>
+
+                {%else%}
+                <p>Si estás interesado, no olvides
+                  <a href="mailto:estilodevida@salud-zen.com?Subject=Reserva%20de%20Plaza: {{ page.name}} {{page.date|date: '%d-%-m-%Y' }}&body=Me gustaría reservar una plaza para: {{page.title}} del {{ page.date_text}}. Mis datos Personales son:%0A%0A   -Nombre:%0A%0A   -Apellidos:%0A%0A   -Fecha de nacimiento:%0A%0A   -Teléfono:%0A%0A    -Correo Electrónico:%0A%0A">reservar tu plaza</a>.
+                </p>
+                {%endif%}
             {%endif%}
-            {%endif%}
+          {%endif%}
             <p>Si tienes alguna consulta, ponte en <a href="{{site.url}}{{site.baseurl}}/contact">contacto</a> con nosotros</p>
           </div>
         </div><!-- .col-md-7 close -->
