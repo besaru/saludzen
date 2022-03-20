@@ -1065,6 +1065,17 @@
              "className": "proyecto",
              "url":"../evento/2022/03/12/taller-desayunos-saludables.html"
          }
+         ,
+         {
+             "allDay": "false",
+             "title": "Taller - Cómo eliminar metales pesados de tu organismo",
+             "name":"Taller - Cómo eliminar metales pesados de tu organismo",
+             "id": "C0001",
+             "end": "2022-03-25 20:00:00",
+             "start": "2022-03-25 19:00:00",
+             "className": "proyecto",
+             "url":"../evento/2022/03/25/taller-metales-pesados.html"
+         }
      ]
 ,
 /*

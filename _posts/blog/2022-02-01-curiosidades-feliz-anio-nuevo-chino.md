@@ -9,7 +9,7 @@ subtitle: Curiosidades - Feliz Año Nuevo Chino 2022
 date: 2022-02-01 15:11:27
 author: Txiki Soto, Salud-Zen
 image: img/blog/010222AnioNuevoChino.jpg
-linkfacebook: https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.salud-zen.com%2Fblog%2Fnoticias%2F2022%2F02%2F01%2Fcuriosidades-arroz-rojo.html&amp;src=sdkpreparse
+linkfacebook: https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.salud-zen.com%2Fblog%2Fnoticias%2F2022%2F02%2F01%2Fcuriosidades-feliz-anio-nuevo-chino.html&amp;src=sdkpreparse
 ---
 Feliz Año Nuevo Chino 2022!!! 🧧🏮🧧🏮  
 👉Hoy comienza el día de año nuevo, según el calendario chino, con la segunda luna nueva del año desde el solsticio de invierno, que suele caer entre finales de enero y primeros de febrero. Este año empieza hoy, 1 de Febrero!!  
