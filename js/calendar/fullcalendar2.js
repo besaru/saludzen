@@ -1085,6 +1085,107 @@
              "start": "2022-06-12 09:00:00",
              "className": "macrobiotica",
              "url":"../evento/2022/06/12/curso-introduccion.html"
+         } ,
+         {
+             "allDay": "false",
+             "name": "Nutrición Energética & Salud Natural-Seminario1",
+             "title": "Nutrición Energética & Salud Natural-Seminario1",
+             "id": "C0001",
+             "end": "2022-09-25 18:00:00",
+             "start": "2022-09-25 09:00:00",
+             "className": "macrobiotica",
+             "url":"../evento/2022/09/25/curso-nutricion-energetica.html"
+         } ,
+         {
+             "allDay": "false",
+             "name": "Nutrición Energética & Salud Natural - Seminario2",
+             "title": "Nutrición Energética & Salud Natural - Seminario2",
+             "id": "C0001",
+             "end": "2022-10-23 18:00:00",
+             "start": "2022-10-23 09:00:00",
+             "className": "macrobiotica",
+             "url":"../evento/2022/09/25/curso-nutricion-energetica.html"
+         },
+         {
+             "allDay": "false",
+             "name": "Nutrición Energética & Salud Natural - Seminario3",
+             "title": "Nutrición Energética & Salud Natural - Seminario3",
+             "id": "C0001",
+             "end": "2022-11-20 18:00:00",
+             "start": "2022-11-20 09:00:00",
+             "className": "macrobiotica",
+             "url":"../evento/2022/09/25/curso-nutricion-energetica.html"
+         },
+         {
+             "allDay": "false",
+             "name": "Nutrición Energética & Salud Natural - Seminario4",
+             "title": "Nutrición Energética & Salud Natural - Seminario4",
+             "id": "C0001",
+             "end": "2022-12-11 18:00:00",
+             "start": "2022-12-11 09:00:00",
+             "className": "macrobiotica",
+             "url":"../evento/2022/09/25/curso-nutricion-energetica.html"
+         }
+         ,
+         {
+             "allDay": "false",
+             "name": "Nutrición Energética & Salud Natural - Seminario5",
+             "title": "Nutrición Energética & Salud Natural - Seminario5",
+             "id": "C0001",
+             "end": "2023-01-15 18:00:00",
+             "start": "2023-01-15 09:00:00",
+             "className": "macrobiotica",
+             "url":"../evento/2022/09/25/curso-nutricion-energetica.html"
+         },
+         {
+             "allDay": "false",
+             "name": "Nutrición Energética & Salud Natural - Seminario6",
+             "title": "Nutrición Energética & Salud Natural - Seminario6",
+             "id": "C0001",
+             "end": "2023-02-12 18:00:00",
+             "start": "2023-02-12 09:00:00",
+             "className": "macrobiotica",
+             "url":"../evento/2022/09/25/curso-nutricion-energetica.html"
+         },
+         {
+             "allDay": "false",
+             "name": "Nutrición Energética & Salud Natural - Seminario7",
+             "title": "Nutrición Energética & Salud Natural - Seminario7",
+             "id": "C0001",
+             "end": "2023-03-05 18:00:00",
+             "start": "2023-03-05 09:00:00",
+             "className": "macrobiotica",
+             "url":"../evento/2022/09/25/curso-nutricion-energetica.html"
+         },
+         {
+             "allDay": "false",
+             "name": "Nutrición Energética & Salud Natural - Seminario8",
+             "title": "Nutrición Energética & Salud Natural - Seminario8",
+             "id": "C0001",
+             "end": "2023-04-16 18:00:00",
+             "start": "2023-04-16 09:00:00",
+             "className": "macrobiotica",
+             "url":"../evento/2022/09/25/curso-nutricion-energetica.html"
+         },
+         {
+             "allDay": "false",
+             "name": "Nutrición Energética & Salud Natural - Seminario9",
+             "title": "Nutrición Energética & Salud Natural - Seminario9",
+             "id": "C0001",
+             "end": "2023-05-07 18:00:00",
+             "start": "2023-05-07 09:00:00",
+             "className": "macrobiotica",
+             "url":"../evento/2022/09/25/curso-nutricion-energetica.html"
+         },
+         {
+             "allDay": "false",
+             "name": "Nutrición Energética & Salud Natural - Seminario10",
+             "title": "Nutrición Energética & Salud Natural - Seminario10",
+             "id": "C0001",
+             "end": "2023-06-04 18:00:00",
+             "start": "2023-06-04 09:00:00",
+             "className": "macrobiotica",
+             "url":"../evento/2022/09/25/curso-nutricion-energetica.html"
          }
      ]
 ,

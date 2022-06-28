@@ -1,7 +1,7 @@
 ---
 layout: event
 categories: evento
-public: yes
+public: no
 public2: yes
 name: Conferencia- Menús Energéticos
 title: Conferencia- Menús Energéticos. El equilibrio a través de la alimentación cada día en tu plato.

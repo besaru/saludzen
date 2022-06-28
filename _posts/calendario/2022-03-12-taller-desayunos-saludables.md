@@ -1,7 +1,7 @@
 ---
 layout: event
 categories: evento
-public: yes
+public: no
 public2: yes
 name: Taller- Desayunos Saludables
 title: Taller- Desayunos Saludables. Empezar el día con Vitalidad y Energía.

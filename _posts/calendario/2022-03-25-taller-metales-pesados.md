@@ -1,7 +1,7 @@
 ---
 layout: event
 categories: evento
-public: yes
+public: no
 public2: yes
 name: Taller- Cómo eliminar metales pesados de tu organismo
 title: Taller- Cómo eliminar metales pesados de tu organismo

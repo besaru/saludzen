@@ -1,7 +1,7 @@
 ---
 layout: event
 categories: evento
-public: yes
+public: no
 public2: yes
 name: Conferencia- Sistema Inmune
 title: Conferencia- 4 estrategias para manterner un sistema inmune eficaz
