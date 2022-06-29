@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Salud-Zen, Escuela de Luz y Consciencia</title>
+    <title>Salud-Zen, Escuela Holística de Salud Natural</title>
     <description></description>
-    <link>https://www.salud-zen.com</link>
-    <atom:link href="https://www.salud-zen.com/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
 
     
       <item>
         <title>Taller - Cómo eliminar metales pesados de tu organismo</title>
         <description>&lt;p&gt;✍🏻¡¡Aquí te dejamos el próximo taller del viernes 25 de marzo a las 19h!!👏🏻👏🏻👏🏻&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://www.salud-zen.com/evento/2022/03/25/taller-metales-pesados.html&quot;&gt;✨Cómo eliminar metales pesados de tu  organismo✨&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/evento/2022/03/25/taller-metales-pesados.html&quot;&gt;✨Cómo eliminar metales pesados de tu  organismo✨&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;¿Sabes qué alimentos y suplementos te pueden ayudar?&lt;br /&gt;
 💫Hablaremos :&lt;/p&gt;
@@ -33,8 +33,8 @@ Escríbenos o llama para reservar tu plaza.&lt;/p&gt;
 
 </description>
         <pubDate>Sun, 20 Mar 2022 16:11:27 +0100</pubDate>
-        <link>https://www.salud-zen.com//blog/cursos/2022/03/20/taller-metales-pesados.html</link>
-        <guid isPermaLink="true">https://www.salud-zen.com//blog/cursos/2022/03/20/taller-metales-pesados.html</guid>
+        <link>http://localhost:4000//blog/cursos/2022/03/20/taller-metales-pesados.html</link>
+        <guid isPermaLink="true">http://localhost:4000//blog/cursos/2022/03/20/taller-metales-pesados.html</guid>
       </item>
     
       <item>
@@ -60,8 +60,8 @@ Si no tenemos en cuenta ésto, cualquier día nos quedaremos “tirados” &lt;b
 #transformandolaeducacion&lt;/p&gt;
 </description>
         <pubDate>Thu, 17 Mar 2022 17:00:27 +0100</pubDate>
-        <link>https://www.salud-zen.com//blog/receta/2022/03/17/receta-comida-hoy.html</link>
-        <guid isPermaLink="true">https://www.salud-zen.com//blog/receta/2022/03/17/receta-comida-hoy.html</guid>
+        <link>http://localhost:4000//blog/receta/2022/03/17/receta-comida-hoy.html</link>
+        <guid isPermaLink="true">http://localhost:4000//blog/receta/2022/03/17/receta-comida-hoy.html</guid>
       </item>
     
       <item>
@@ -77,8 +77,8 @@ Si no tenemos en cuenta ésto, cualquier día nos quedaremos “tirados” &lt;b
 #transformandolaeducación&lt;/p&gt;
 </description>
         <pubDate>Wed, 16 Mar 2022 16:11:27 +0100</pubDate>
-        <link>https://www.salud-zen.com//blog/noticias/2022/03/16/curiosidades-frutas-bosque.html</link>
-        <guid isPermaLink="true">https://www.salud-zen.com//blog/noticias/2022/03/16/curiosidades-frutas-bosque.html</guid>
+        <link>http://localhost:4000//blog/noticias/2022/03/16/curiosidades-frutas-bosque.html</link>
+        <guid isPermaLink="true">http://localhost:4000//blog/noticias/2022/03/16/curiosidades-frutas-bosque.html</guid>
       </item>
     
       <item>
@@ -99,8 +99,8 @@ Escuela Holística de Salud Natural&lt;br /&gt;
 #terapiasnaturales&lt;/p&gt;
 </description>
         <pubDate>Sun, 13 Mar 2022 17:00:27 +0100</pubDate>
-        <link>https://www.salud-zen.com//blog/cursos/2022/03/13/conferencia-transformando-educacion.html</link>
-        <guid isPermaLink="true">https://www.salud-zen.com//blog/cursos/2022/03/13/conferencia-transformando-educacion.html</guid>
+        <link>http://localhost:4000//blog/cursos/2022/03/13/conferencia-transformando-educacion.html</link>
+        <guid isPermaLink="true">http://localhost:4000//blog/cursos/2022/03/13/conferencia-transformando-educacion.html</guid>
       </item>
     
       <item>
@@ -126,8 +126,8 @@ Si el futuro está por llegar ¿por qué dejar que afecte en mi presente?&lt;/p&
 #unproyectodeeducacionparalaconsciencia&lt;/p&gt;
 </description>
         <pubDate>Fri, 04 Mar 2022 16:11:27 +0100</pubDate>
-        <link>https://www.salud-zen.com//blog/reflexiones/2022/03/04/reflexiones-feliz.html</link>
-        <guid isPermaLink="true">https://www.salud-zen.com//blog/reflexiones/2022/03/04/reflexiones-feliz.html</guid>
+        <link>http://localhost:4000//blog/reflexiones/2022/03/04/reflexiones-feliz.html</link>
+        <guid isPermaLink="true">http://localhost:4000//blog/reflexiones/2022/03/04/reflexiones-feliz.html</guid>
       </item>
     
       <item>
@@ -138,7 +138,7 @@ Si el futuro está por llegar ¿por qué dejar que afecte en mi presente?&lt;/p&
 Nosotros hoy hicimos unos Bizcochitos de Avena con Nibs de Cacao.
 Si quieres aprender a desayunar de manera saludable no te pierdas nuestro próximo taller
 el Sabado 12 de Marzo a las 10.30h en Ecoencuentro, Majadahonda :&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.salud-zen.com/evento/2022/03/12/taller-desayunos-saludables.html&quot;&gt;DESAYUNOS SALUDABLES&lt;/a&gt;&lt;br /&gt;
+&lt;p&gt;&lt;a href=&quot;http://localhost:4000/evento/2022/03/12/taller-desayunos-saludables.html&quot;&gt;DESAYUNOS SALUDABLES&lt;/a&gt;&lt;br /&gt;
 Empezar el día con Vitalidad y Energía &lt;br /&gt;
 Desayuno + Conferencia &lt;br /&gt;
 10.30h Degustación de Desayuno Saludable &lt;br /&gt;
@@ -163,8 +163,8 @@ Transformando la Educación a través de la Alimentación.&lt;br /&gt;
 
 </description>
         <pubDate>Wed, 02 Mar 2022 16:11:27 +0100</pubDate>
-        <link>https://www.salud-zen.com//blog/cursos/2022/03/02/taller-desayunos-saludables.html</link>
-        <guid isPermaLink="true">https://www.salud-zen.com//blog/cursos/2022/03/02/taller-desayunos-saludables.html</guid>
+        <link>http://localhost:4000//blog/cursos/2022/03/02/taller-desayunos-saludables.html</link>
+        <guid isPermaLink="true">http://localhost:4000//blog/cursos/2022/03/02/taller-desayunos-saludables.html</guid>
       </item>
     
       <item>
@@ -191,8 +191,8 @@ Transformando la Educación a través de la Alimentación.&lt;br /&gt;
 &lt;p&gt;#unproyectodeeducacionparalaconsciencia&lt;/p&gt;
 </description>
         <pubDate>Wed, 23 Feb 2022 16:11:27 +0100</pubDate>
-        <link>https://www.salud-zen.com//blog/cursos/2022/02/23/conferencia-conferencias-gratuitas.html</link>
-        <guid isPermaLink="true">https://www.salud-zen.com//blog/cursos/2022/02/23/conferencia-conferencias-gratuitas.html</guid>
+        <link>http://localhost:4000//blog/cursos/2022/02/23/conferencia-conferencias-gratuitas.html</link>
+        <guid isPermaLink="true">http://localhost:4000//blog/cursos/2022/02/23/conferencia-conferencias-gratuitas.html</guid>
       </item>
     
       <item>
@@ -207,8 +207,8 @@ A todos los maestros, no tengaís miedo de vuestros propios alumnos, no coleccio
 #unproyectodeeducacionparalaconsciencia&lt;/p&gt;
 </description>
         <pubDate>Sun, 13 Feb 2022 16:11:27 +0100</pubDate>
-        <link>https://www.salud-zen.com//blog/reflexiones/2022/02/13/reflexiones-el-maestro.html</link>
-        <guid isPermaLink="true">https://www.salud-zen.com//blog/reflexiones/2022/02/13/reflexiones-el-maestro.html</guid>
+        <link>http://localhost:4000//blog/reflexiones/2022/02/13/reflexiones-el-maestro.html</link>
+        <guid isPermaLink="true">http://localhost:4000//blog/reflexiones/2022/02/13/reflexiones-el-maestro.html</guid>
       </item>
     
       <item>
@@ -220,8 +220,8 @@ Obligatorio reserva de plaza en el tlf de contacto.&lt;/p&gt;
 
 </description>
         <pubDate>Wed, 09 Feb 2022 17:00:27 +0100</pubDate>
-        <link>https://www.salud-zen.com//blog/cursos/2022/02/09/conferencia-sistema-inmune.html</link>
-        <guid isPermaLink="true">https://www.salud-zen.com//blog/cursos/2022/02/09/conferencia-sistema-inmune.html</guid>
+        <link>http://localhost:4000//blog/cursos/2022/02/09/conferencia-sistema-inmune.html</link>
+        <guid isPermaLink="true">http://localhost:4000//blog/cursos/2022/02/09/conferencia-sistema-inmune.html</guid>
       </item>
     
       <item>
@@ -239,8 +239,8 @@ Ecuela Holística de Salud Natural&lt;/p&gt;
 &lt;p&gt;Un Proyecto de Educación para la Consciencia&lt;/p&gt;
 </description>
         <pubDate>Mon, 07 Feb 2022 14:00:27 +0100</pubDate>
-        <link>https://www.salud-zen.com//blog/yoga/2022/02/07/video-yoga-cintura.html</link>
-        <guid isPermaLink="true">https://www.salud-zen.com//blog/yoga/2022/02/07/video-yoga-cintura.html</guid>
+        <link>http://localhost:4000//blog/yoga/2022/02/07/video-yoga-cintura.html</link>
+        <guid isPermaLink="true">http://localhost:4000//blog/yoga/2022/02/07/video-yoga-cintura.html</guid>
       </item>
     
   </channel>

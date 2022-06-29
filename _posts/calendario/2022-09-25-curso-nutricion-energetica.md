@@ -3,8 +3,8 @@ layout: event
 categories: evento
 public: yes
 public2: yes
-name: Nutrición Energética & Salud Natural
-title: Nutrición Energética Y Salud Natural, Enfoque Holístico aunando el punto de vista de la Medicina Natural y Biológica con la Filosofía y Medicina Oriental
+name: "Formación Profesional en: NUTRICIÓN ENERGÉTICA & SALUD NATURAL"
+title: "Formación Profesional en: <br> <br>NUTRICIÓN ENERGÉTICA & SALUD NATURAL <br> <br>Enfoque Holístico aunando el punto de vista de la Medicina Natural y Biológica con la Filosofía y Medicina Oriental"
 subtitle:
 dateVisible: 2022-09-25 23:00:00
 date: 25-09-2022
