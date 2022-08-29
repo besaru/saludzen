@@ -28,21 +28,26 @@ layout: page
               </p>
               <p>Si estás interesado, no olvides reservar tu plaza en <a href="https://tienda.ecoencuentro.es/nutricion-energetica-salud-natural" target="_new">www.ecoencuentro.es</a>
               </p>
-
+            {%else%}
+              {% if page.localizacion =='Acal Bio Food, c/ Del Potro n°7, Arroyomolinos (Madrid)' %}
+                        <p>Si estás interesado, no olvides reservar tu plaza. Nati Alcázar
+                          661614603/916897337
+                        </p>
               {%else%}
-                  {% if page.localizacion =='Acal Bio Food, c/ Del Potro n°7, Arroyomolinos (Madrid)' %}
-                      <p>Si estás interesado, no olvides reservar tu plaza. Nati Alcázar
-                        661614603/916897337
-                      </p>
-                  {%else%}
-                      {%if page.localizacion =='ECOENCUENTRO, c/Las Norias n°80, Majadahonda (Madrid)'%}
-                            {%  if page.name=='Taller- Desayunos Saludables'%}
-                                <p>Si estás interesado, no olvides reservar tu plaza en <a href="https://tienda.ecoencuentro.es/taller-desayunos-saludables" target="_new">www.ecoencuentro.es</a>
-                                </p>
-                            {%else%}
-                                <p>Si estás interesado, no olvides reservar tu plaza en <a href="https://www.ecoencuentro.es" target="_new">www.ecoencuentro.es</a>
-                                </p>
-                            {%endif%}
+                  {%if page.localizacion =='ECOENCUENTRO, c/Las Norias n°80, Majadahonda (Madrid)'%}
+                      {%  if page.name=='Taller- Desayunos Saludables'%}
+                                  <p>Si estás interesado, no olvides reservar tu plaza en <a href="https://tienda.ecoencuentro.es/taller-desayunos-saludables" target="_new">www.ecoencuentro.es</a>
+                                  </p>
+                      {%else%}
+                      {% if page.name=='Presentación de la Formación: NUTRICIÓN ENERGÉTICA & SALUD NATURAL'%}
+                                  <p>Si estás interesado, no olvides reservar tu plaza en <a href="https://tienda.ecoencuentro.es/presentacion-gratuita-nutricion-energetica-salud-natural" target="_new">www.ecoencuentro.es</a>
+                                  </p>
+
+                      {%else%}
+                                  <p>Si estás interesado, no olvides reservar tu plaza en <a href="https://www.ecoencuentro.es" target="_new">www.ecoencuentro.es</a>
+                                  </p>
+                      {%endif%}
+                      {%endif%}
 
                       {%else%}
 
@@ -51,6 +56,7 @@ layout: page
                       <a href="mailto:estilodevida@salud-zen.com?Subject=Reserva%20de%20Plaza: {{ page.name}} {{page.date|date: '%d-%-m-%Y' }}&body=Me gustaría reservar una plaza para: {{page.title}}  {{ page.date_text}}. Mis datos Personales son:%0A%0A   -Nombre:%0A%0A   -Apellidos:%0A%0A   -Fecha de nacimiento:%0A%0A   -Teléfono:%0A%0A    -Correo Electrónico:%0A%0A">reservar tu plaza</a>.
                     </p>
                 {%endif%}
+                
             {%endif%}
             {%endif%}
             <p>Si tienes alguna consulta, ponte en <a href="{{site.url}}{{site.baseurl}}/contact">contacto</a> con nosotros</p>

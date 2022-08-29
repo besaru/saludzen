@@ -1088,8 +1088,48 @@
          } ,
          {
              "allDay": "false",
-             "name": "Nutrición Energética & Salud Natural-Seminario1",
-             "title": "Nutrición Energética & Salud Natural-Seminario1",
+             "name": "Presentación: Nutrición Energética & Salud Natural",
+             "title": "Presentación de la Formación: Nutrición Energética & Salud Natural",
+             "id": "C0001",
+             "end": "2022-09-08 21:00:00",
+             "start": "2022-09-08 20:00:00",
+             "className": "macrobiotica",
+             "url":"../evento/2022/09/08/curso-presentacion-nutricion-energetica.html"
+         } ,
+         {
+             "allDay": "false",
+             "name": "Presentación: Nutrición Energética & Salud Natural",
+             "title": "Presentación de la Formación: Nutrición Energética & Salud Natural",
+             "id": "C0001",
+             "end": "2022-09-09 20:00:00",
+             "start": "2022-09-09 19:00:00",
+             "className": "macrobiotica",
+             "url":"../evento/2022/09/09/curso-presentacion-nutricion-energetica.html"
+         } ,
+         {
+             "allDay": "false",
+             "title": "Taller - Cómo eliminar metales pesados de tu organismo",
+             "name":"Taller - Cómo eliminar metales pesados de tu organismo",
+             "id": "C0001",
+             "end": "2022-09-21 12:30:00",
+             "start": "2022-09-21 11:00:00",
+             "className": "proyecto",
+             "url":"../evento/2022/09/21/taller-metales-pesados.html"
+         },
+         {
+             "allDay": "false",
+             "name": "Curso de Introducción",
+             "title": "Introducción: Nutrición Energética, Salud y Cocina Macrobiótica",
+             "id": "C0001",
+             "end": "2022-09-25 18:00:00",
+             "start": "2022-09-25 09:00:00",
+             "className": "macrobiotica",
+             "url":"../evento/2022/09/25/curso-introduccion.html"
+         } ,
+         {
+             "allDay": "false",
+             "name": "Nutrición Energética & Salud Natural - Seminario1",
+             "title": "Nutrición Energética & Salud Natural - Seminario1",
              "id": "C0001",
              "end": "2022-09-25 18:00:00",
              "start": "2022-09-25 09:00:00",
