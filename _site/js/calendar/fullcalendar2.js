@@ -1226,6 +1226,36 @@
              "start": "2023-06-04 09:00:00",
              "className": "macrobiotica",
              "url":"../evento/2022/09/25/curso-nutricion-energetica.html"
+         },
+         {
+             "allDay": "false",
+             "title": "Cocina Macrobiótica de Invierno",
+             "name":"Cocina Macrobiótica de Invierno",
+             "id": "C0001",
+             "end": "2022-12-11 18:00:00",
+             "start": "2022-12-11 09:00:00",
+             "className": "macrobiotica",
+             "url":"../evento/2022/12/11/curso-cocina-invierno.html"
+         },
+         {
+             "allDay": "false",
+             "title": "Cocina Macrobiótica de Otoño",
+             "name":"Cocina Macrobiótica de Otoño",
+             "id": "C0001",
+             "end": "2022-10-23 18:00:00",
+             "start": "2022-10-23 09:00:00",
+             "className": "macrobiotica",
+             "url":"../evento/2022/10/23/curso-cocina-otono.html"
+         },
+         {
+             "allDay": "false",
+             "title": "Fundamentos Medicina Natural  ",
+             "name":"Fundamentos de la Medicina Natural & Oriental. Nutrición Holística",
+             "id": "C0001",
+             "end": "2022-11-20 18:00:00",
+             "start": "2022-11-20 09:00:00",
+             "className": "macrobiotica",
+             "url":"../evento/2022/11/20/curso-fundamentos.html"
          }
      ]
 ,
