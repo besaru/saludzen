@@ -3,8 +3,8 @@ layout: event
 categories: evento
 public: yes
 public2: yes
-name: Cocina Macrobiótica para el Otoño
-title: "Nutrición Energética y Cocina Macrobiótica para el Otoño"
+name: "Fundamentos de la Medicina Natural & Oriental. Nutrición Holística"
+title: "Fundamentos de la Medicina Natural & Oriental. Nutrición Holística "
 subtitle:
 date: 20-11-2022
 dateVisible: 2022-11-20 23:00:00

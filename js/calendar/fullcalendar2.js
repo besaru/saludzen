@@ -1257,6 +1257,17 @@
              "className": "macrobiotica",
              "url":"../evento/2022/11/20/curso-fundamentos.html"
          }
+         ,
+         {
+             "allDay": "false",
+             "title": "CHI NEI TSANG Masaje de Órganos Internos",
+             "name":"CHI NEI TSANG Masaje de Órganos Internos",
+             "id": "C0001",
+             "end": "2022-10-21 20:00:00",
+             "start": "2022-10-21 19:00:00",
+             "className": "proyecto",
+             "url":"../evento/2022-10-21-conferencia-chi-ney-tsang.html"
+         }
      ]
 ,
 /*
