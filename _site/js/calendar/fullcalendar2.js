@@ -1279,6 +1279,17 @@
              "className": "terapias",
              "url":"../evento/2022/11/26/curso-chi-nei-tsang.html"
          }
+         ,
+         {
+             "allDay": "false",
+             "title": "Conferencia- EL ARTE DE CURAR CON EL AGUA",
+             "name":"Conferencia- EL ARTE DE CURAR CON EL AGUA",
+             "id": "C0001",
+             "end": "2022-11-17 19:30:00",
+             "start": "2022-11-17 18:30:00",
+             "className": "proyecto",
+             "url":"../evento/2022/11/17/conferencia-agua.html"
+         }
 
      ]
 ,
