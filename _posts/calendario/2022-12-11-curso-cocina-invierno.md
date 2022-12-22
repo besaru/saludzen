@@ -16,4 +16,5 @@ author: Salud-Zen
 image: img/eventos/111222CocinaInvierno.jpg
 image_prop: img/eventos/111222CocinaInvierno_prop.jpg
 image2:
+link: https://ecoencuentro.es/taller/modulo-4-nutricion-energetica-y-cocina-macrobiotica-para-el-invierno/
 ---

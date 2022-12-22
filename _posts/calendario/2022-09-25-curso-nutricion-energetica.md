@@ -1,7 +1,7 @@
 ---
 layout: event
 categories: evento
-public: yes
+public: no
 public2: yes
 name: "Formación Profesional en: NUTRICIÓN ENERGÉTICA & SALUD NATURAL"
 title: "Formación Profesional en: <br> <br>NUTRICIÓN ENERGÉTICA & SALUD NATURAL <br> <br>Enfoque Holístico aunando el punto de vista de la Medicina Natural y Biológica con la Filosofía y Medicina Oriental"

@@ -1,7 +1,7 @@
 ---
 layout: event
 categories: evento
-public: yes
+public: no
 public2: yes
 name: "Fundamentos de la Medicina Natural & Oriental. Nutrición Holística"
 title: "Fundamentos de la Medicina Natural & Oriental. Nutrición Holística "

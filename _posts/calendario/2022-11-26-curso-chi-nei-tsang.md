@@ -1,7 +1,7 @@
 ---
 layout: event
 categories: evento
-public: yes
+public: no
 public2: yes
 name: "Formación - CHI NEI TSANG: Masaje de Órganos Internos"
 title: "Formación - CHI NEI TSANG: Masaje de Órganos Internos"

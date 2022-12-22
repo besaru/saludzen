@@ -144,7 +144,11 @@ permalink: /
               <div future-date="{{ post.date | date: '%Y%m%d' }}" >
 
                 <div class="clients-logo-img">
+                  {%if post.localizacion =='ECOENCUENTRO, c/Las Norias n°80, Majadahonda (Madrid)'%}
+                    <a href="{{post.link}}" class="bold" target="_new">
+                  {%else%}
                   <a href="{{ site.url }}{{ site.baseurl }}/{{ post.url }}" class="bold">
+                  {%endif%}
                     {% if post.image_prop %}
                       <img src="{{ site.url }}{{ site.baseurl }}/{{ post.image_prop}}" width="167" height="119" alt="{{ post.title }}">
                     {% else %}

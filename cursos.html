@@ -81,7 +81,11 @@ category: evento
                    <div class="portfolio-contant">
                      <ul id="portfolio-contant-active">
                        <li>
-                         <a href="{{ site.url }}{{ site.baseurl }}{{ post.url}}" class="bold">
+                         {%if post.localizacion =='ECOENCUENTRO, c/Las Norias n°80, Majadahonda (Madrid)'%}
+                           <a href="{{post.link}}" class="bold" target="_new">
+                         {%else%}
+                            <a href="{{ site.url }}{{ site.baseurl }}{{ post.url}}" class="bold">
+                          {%endif%}
                            {% if post.image_prop %}
                              <img src="{{ site.url }}{{ site.baseurl }}/{{ post.image_prop}}" alt="{{ post.title }}">
                            {% else %}
@@ -188,7 +192,11 @@ category: evento
                                        {% endcase %}
                                      </td>
                                      <td style="text-align: left;font-size:140%;">
-                                - <a href="{{ site.url }}{{ site.baseurl }}{{ post.url}}" class="bold"  style="text-decoration: none;color: inherit;">
+                                -{%if post.localizacion =='ECOENCUENTRO, c/Las Norias n°80, Majadahonda (Madrid)'%}
+                                  <a href="{{post.link}}" class="bold"  style="text-decoration: none;color: inherit;" target="_new">
+                                {%else%}
+                                <a href="{{ site.url }}{{ site.baseurl }}{{ post.url}}" class="bold"  style="text-decoration: none;color: inherit;">
+                                {%endif%}
                                     {{ post.name }}
                                   </a>
                               </td>

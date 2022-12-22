@@ -1289,7 +1289,28 @@
              "start": "2022-11-17 18:30:00",
              "className": "proyecto",
              "url":"../evento/2022/11/17/conferencia-agua.html"
+         },
+         {
+             "allDay": "false",
+             "title": "COCINA DE LA ABUELA SANA Y NATURAL.",
+             "name":"COCINA DE LA ABUELA SANA Y NATURAL. COCINA TRADICIONAL Y ENERGÉTICA",
+             "id": "C0001",
+             "end": "2023-01-15 18:00:00",
+             "start": "2023-01-15 09:00:00",
+             "className": "macrobiotica",
+             "url":"https://ecoencuentro.es/taller/modulo-5-cocina-de-la-abuela-sana-y-natural/"
          }
+         , {
+              "allDay": "false",
+              "title": "LA SALUD EMOCIONAL",
+              "name":"LA SALUD EMOCIONAL. LA ALIMENTACIÓN Y LAS EMOCIONES",
+              "id": "C0001",
+              "end": "2023-02-12 18:00:00",
+              "start": "2023-02-12 09:00:00",
+              "className": "macrobiotica",
+              "url":"https://ecoencuentro.es/taller/modulo-6-la-salud-emocional-la-alimentacion-y-las-emociones/"
+          }
+
 
      ]
 ,

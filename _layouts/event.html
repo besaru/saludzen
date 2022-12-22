@@ -40,6 +40,9 @@ layout: page
                         </p>
               {%else%}
                   {%if page.localizacion =='ECOENCUENTRO, c/Las Norias n°80, Majadahonda (Madrid)'%}
+                    <p>Si estás interesado, no olvides reservar tu plaza en <a href="{{page.link}}" target="_new">www.ecoencuentro.es</a>
+                    </p>
+                    <!--
                       {%  if page.name=='Taller- Desayunos Saludables'%}
                                   <p>Si estás interesado, no olvides reservar tu plaza en <a href="https://tienda.ecoencuentro.es/taller-desayunos-saludables" target="_new">www.ecoencuentro.es</a>
                                   </p>
@@ -49,11 +52,22 @@ layout: page
                                   </p>
 
                       {%else%}
+                      {% if page.name=='COCINA DE LA ABUELA SANA Y NATURAL'%}
+                                  <p>Si estás interesado, no olvides reservar tu plaza en <a href="https://ecoencuentro.es/taller/modulo-5-cocina-de-la-abuela-sana-y-natural/" target="_new">www.ecoencuentro.es</a>
+                                  </p>
+
+                      {%else%}
+                      {% if page.name=='LA SALUD EMOCIONAL. LA ALIMENTACIÓN Y LAS EMOCIONES'%}
+                                  <p>Si estás interesado, no olvides reservar tu plaza en <a href="https://ecoencuentro.es/taller/modulo-6-la-salud-emocional-la-alimentacion-y-las-emociones/" target="_new">www.ecoencuentro.es</a>
+                                  </p>
+
+                      {%else%}
                                   <p>Si estás interesado, no olvides reservar tu plaza en <a href="https://www.ecoencuentro.es" target="_new">www.ecoencuentro.es</a>
                                   </p>
                       {%endif%}
                       {%endif%}
-
+                      {%endif%}
+                      {%endif%}-->
                       {%else%}
 
 

@@ -1,7 +1,7 @@
 ---
 layout: event
 categories: evento
-public: yes
+public: no
 public2: yes
 name: "Conferencia- EL ARTE DE CURAR CON EL AGUA"
 title: "Conferencia- EL ARTE DE CURAR CON EL AGUA"

@@ -1,7 +1,7 @@
 ---
 layout: event
 categories: evento
-public: yes
+public: no
 public2: yes
 name: Conferencia- CÓMO ELIMINAR METALES PESADOS DE TU ORGANISMO
 title: Conferencia- CÓMO ELIMINAR METALES PESADOS DE TU ORGANISMO
