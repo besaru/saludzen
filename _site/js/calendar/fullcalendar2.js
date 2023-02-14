@@ -1195,7 +1195,7 @@
              "end": "2023-03-05 18:00:00",
              "start": "2023-03-05 09:00:00",
              "className": "macrobiotica",
-             "url":"../evento/2022/09/25/curso-nutricion-energetica.html"
+             "url":"https://ecoencuentro.es/taller/modulo-7-formacion-profesional-en-nutricion-energetica-salud-natural"
          },
          {
              "allDay": "false",
@@ -1205,7 +1205,7 @@
              "end": "2023-04-16 18:00:00",
              "start": "2023-04-16 09:00:00",
              "className": "macrobiotica",
-             "url":"../evento/2022/09/25/curso-nutricion-energetica.html"
+             "url":"https://ecoencuentro.es/taller/modulo-8-desayunos-energeticos-almuerzos-y-meriendas-saludables/"
          },
          {
              "allDay": "false",
@@ -1215,7 +1215,7 @@
              "end": "2023-05-07 18:00:00",
              "start": "2023-05-07 09:00:00",
              "className": "macrobiotica",
-             "url":"../evento/2022/09/25/curso-nutricion-energetica.html"
+             "url":"https://ecoencuentro.es/taller/modulo-9-detoxificacion-celular/"
          },
          {
              "allDay": "false",
@@ -1225,7 +1225,7 @@
              "end": "2023-06-04 18:00:00",
              "start": "2023-06-04 09:00:00",
              "className": "macrobiotica",
-             "url":"../evento/2022/09/25/curso-nutricion-energetica.html"
+             "url":"https://ecoencuentro.es/taller/modulo-10-nutricion-energetica-y-cocina-macrobiotica-para-el-verano/"
          },
          {
              "allDay": "false",

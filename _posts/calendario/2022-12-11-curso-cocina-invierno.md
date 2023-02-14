@@ -1,7 +1,7 @@
 ---
 layout: event
 categories: evento
-public: yes
+public: no
 public2: yes
 name: Cocina Macrobiótica para el Invierno
 title: "Nutrición Energética y Cocina Macrobiótica para el Invierno"
