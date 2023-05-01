@@ -1,7 +1,7 @@
 ---
 layout: event
 categories: evento
-public: yes
+public: no
 public2: yes
 name: DESAYUNOS ENERGÉTICOS. ALMUERZOS Y MERIENDAS SALUDABLES
 title: "DESAYUNOS ENERGÉTICOS. ALMUERZOS Y MERIENDAS SALUDABLES"

@@ -1,7 +1,7 @@
 ---
 layout: event
 categories: evento
-public: yes
+public: no
 public2: yes
 name: LA SALUD EMOCIONAL. LA ALIMENTACIÓN Y LAS EMOCIONES
 title: "LA SALUD EMOCIONAL. LA ALIMENTACIÓN Y LAS EMOCIONES"

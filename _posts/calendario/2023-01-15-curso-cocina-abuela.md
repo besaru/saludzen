@@ -1,7 +1,7 @@
 ---
 layout: event
 categories: evento
-public: yes
+public: no
 public2: yes
 name: COCINA DE LA ABUELA SANA Y NATURAL
 title: "COCINA DE LA ABUELA SANA Y NATURAL. COCINA TRADICIONAL Y ENERGÉTICA"
