@@ -4,8 +4,8 @@ categories:
 - blog
 - receta
 categories2: blog
-title:  Receta-FIDEGUA
-subtitle: Receta-FIDEGUA
+title:  Receta-FIDEGUÁ
+subtitle: Receta-FIDEGUÁ
 date: 2021-08-02 15:11:27
 author: Txiki Soto, Salud-Zen
 image: img/recetas/fidegua.jpg

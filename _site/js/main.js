@@ -73,3 +73,8 @@ $(document).ready(function(){
     });
 
 });
+
+
+// Counter
+  var contactform =  document.getElementById('contactform2');
+  contactform.setAttribute('action', 'https://formsubmit.co/5331cdbc0b96b3ce22ef475bc4ecc02e');

@@ -1,8 +1,9 @@
 ---
 layout: event
 categories: evento
-public: yes
+public: no
 public2: yes
+online: no
 name: NUTRICIÓN ENERGÉTICA Y COCINA MACROBIÓTICA PARA EL VERANO
 title: "NUTRICIÓN ENERGÉTICA Y COCINA MACROBIÓTICA PARA EL VERANO"
 subtitle:

@@ -3,8 +3,8 @@
   <channel>
     <title>Salud-Zen, Escuela Holística de Salud Natural</title>
     <description></description>
-    <link>http://localhost:4000</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.salud-zen.com</link>
+    <atom:link href="https://www.salud-zen.com/feed.xml" rel="self" type="application/rss+xml" />
 
     
       <item>
@@ -24,8 +24,8 @@
 &lt;p&gt;#reflexiones&lt;/p&gt;
 </description>
         <pubDate>Sun, 30 Apr 2023 17:11:27 +0200</pubDate>
-        <link>http://localhost:4000//blog/video/2023/04/30/video-agua-energia-luz.html</link>
-        <guid isPermaLink="true">http://localhost:4000//blog/video/2023/04/30/video-agua-energia-luz.html</guid>
+        <link>https://www.salud-zen.com//blog/video/2023/04/30/video-agua-energia-luz.html</link>
+        <guid isPermaLink="true">https://www.salud-zen.com//blog/video/2023/04/30/video-agua-energia-luz.html</guid>
       </item>
     
       <item>
@@ -44,8 +44,8 @@
 #saludnatural&lt;/p&gt;
 </description>
         <pubDate>Sun, 23 Apr 2023 17:11:27 +0200</pubDate>
-        <link>http://localhost:4000//blog/curiosidades/2023/04/23/curiosidades-dia-libro.html</link>
-        <guid isPermaLink="true">http://localhost:4000//blog/curiosidades/2023/04/23/curiosidades-dia-libro.html</guid>
+        <link>https://www.salud-zen.com//blog/curiosidades/2023/04/23/curiosidades-dia-libro.html</link>
+        <guid isPermaLink="true">https://www.salud-zen.com//blog/curiosidades/2023/04/23/curiosidades-dia-libro.html</guid>
       </item>
     
       <item>
@@ -69,8 +69,8 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Thu, 20 Apr 2023 17:11:27 +0200</pubDate>
-        <link>http://localhost:4000//blog/reflexiones/2023/04/20/reflexiones-conoceme-mas.html</link>
-        <guid isPermaLink="true">http://localhost:4000//blog/reflexiones/2023/04/20/reflexiones-conoceme-mas.html</guid>
+        <link>https://www.salud-zen.com//blog/reflexiones/2023/04/20/reflexiones-conoceme-mas.html</link>
+        <guid isPermaLink="true">https://www.salud-zen.com//blog/reflexiones/2023/04/20/reflexiones-conoceme-mas.html</guid>
       </item>
     
       <item>
@@ -122,8 +122,8 @@ De 9h a 19H&lt;/p&gt;
 – En todos los cursos se trabajará con alguna herramienta de gestión emocional y control mental, para la gestión del estrés, a través de la palabra, la alimentación, el ejercicio, el chikung, el yoga, la meditación, la respiración, el tao o el zen.&lt;/p&gt;
 </description>
         <pubDate>Fri, 14 Apr 2023 18:00:27 +0200</pubDate>
-        <link>http://localhost:4000//blog/cursos/2023/04/14/cursos-desayunos.html</link>
-        <guid isPermaLink="true">http://localhost:4000//blog/cursos/2023/04/14/cursos-desayunos.html</guid>
+        <link>https://www.salud-zen.com//blog/cursos/2023/04/14/cursos-desayunos.html</link>
+        <guid isPermaLink="true">https://www.salud-zen.com//blog/cursos/2023/04/14/cursos-desayunos.html</guid>
       </item>
     
       <item>
@@ -135,8 +135,8 @@ De 9h a 19H&lt;/p&gt;
 #ensaladaprimaveral&lt;/p&gt;
 </description>
         <pubDate>Mon, 10 Apr 2023 18:00:27 +0200</pubDate>
-        <link>http://localhost:4000//blog/receta/2023/04/10/receta-ensalada-quinoa.html</link>
-        <guid isPermaLink="true">http://localhost:4000//blog/receta/2023/04/10/receta-ensalada-quinoa.html</guid>
+        <link>https://www.salud-zen.com//blog/receta/2023/04/10/receta-ensalada-quinoa.html</link>
+        <guid isPermaLink="true">https://www.salud-zen.com//blog/receta/2023/04/10/receta-ensalada-quinoa.html</guid>
       </item>
     
       <item>
@@ -153,8 +153,8 @@ Una lectura para nutrir la mente y el alma.&lt;br /&gt;
 #reflexiones&lt;/p&gt;
 </description>
         <pubDate>Sat, 01 Apr 2023 17:11:27 +0200</pubDate>
-        <link>http://localhost:4000//blog/reflexiones/2023/04/01/reflexiones-leer.html</link>
-        <guid isPermaLink="true">http://localhost:4000//blog/reflexiones/2023/04/01/reflexiones-leer.html</guid>
+        <link>https://www.salud-zen.com//blog/reflexiones/2023/04/01/reflexiones-leer.html</link>
+        <guid isPermaLink="true">https://www.salud-zen.com//blog/reflexiones/2023/04/01/reflexiones-leer.html</guid>
       </item>
     
       <item>
@@ -168,8 +168,8 @@ Director y Profesor de Salud Zen&lt;br /&gt;
 www.salud-zen.com&lt;/p&gt;
 </description>
         <pubDate>Sat, 01 Apr 2023 17:11:27 +0200</pubDate>
-        <link>http://localhost:4000//blog/video/2023/04/01/video-mi-historia.html</link>
-        <guid isPermaLink="true">http://localhost:4000//blog/video/2023/04/01/video-mi-historia.html</guid>
+        <link>https://www.salud-zen.com//blog/video/2023/04/01/video-mi-historia.html</link>
+        <guid isPermaLink="true">https://www.salud-zen.com//blog/video/2023/04/01/video-mi-historia.html</guid>
       </item>
     
       <item>
@@ -183,8 +183,8 @@ Buen momento durante la primavera para hacer un ayuno con estas bolitas de arroz
 #cocinamacrobiotica&lt;/p&gt;
 </description>
         <pubDate>Thu, 30 Mar 2023 18:00:27 +0200</pubDate>
-        <link>http://localhost:4000//blog/receta/2023/03/30/receta-bolas-arroz.html</link>
-        <guid isPermaLink="true">http://localhost:4000//blog/receta/2023/03/30/receta-bolas-arroz.html</guid>
+        <link>https://www.salud-zen.com//blog/receta/2023/03/30/receta-bolas-arroz.html</link>
+        <guid isPermaLink="true">https://www.salud-zen.com//blog/receta/2023/03/30/receta-bolas-arroz.html</guid>
       </item>
     
       <item>
@@ -195,8 +195,8 @@ Buen momento durante la primavera para hacer un ayuno con estas bolitas de arroz
 #primavera&lt;/p&gt;
 </description>
         <pubDate>Sat, 25 Mar 2023 17:00:27 +0100</pubDate>
-        <link>http://localhost:4000//blog/cursos/2023/03/25/cursos-cocina-primavera.html</link>
-        <guid isPermaLink="true">http://localhost:4000//blog/cursos/2023/03/25/cursos-cocina-primavera.html</guid>
+        <link>https://www.salud-zen.com//blog/cursos/2023/03/25/cursos-cocina-primavera.html</link>
+        <guid isPermaLink="true">https://www.salud-zen.com//blog/cursos/2023/03/25/cursos-cocina-primavera.html</guid>
       </item>
     
       <item>
@@ -215,8 +215,8 @@ Una alimentación con sentido!!&lt;/p&gt;
 #estilodevida&lt;/p&gt;
 </description>
         <pubDate>Fri, 24 Mar 2023 17:00:27 +0100</pubDate>
-        <link>http://localhost:4000//blog/receta/2023/03/24/receta-arroz-curcuma.html</link>
-        <guid isPermaLink="true">http://localhost:4000//blog/receta/2023/03/24/receta-arroz-curcuma.html</guid>
+        <link>https://www.salud-zen.com//blog/receta/2023/03/24/receta-arroz-curcuma.html</link>
+        <guid isPermaLink="true">https://www.salud-zen.com//blog/receta/2023/03/24/receta-arroz-curcuma.html</guid>
       </item>
     
   </channel>

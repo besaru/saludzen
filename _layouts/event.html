@@ -2,24 +2,87 @@
 layout: page
 ---
 
+<!--contactform.setAttribute('action', 'https://formsubmit.co/estilodevida@salud-zen.com');-->
 <div class="post">
   <!-- Wrapper Start -->
   <section id="intro" style="border: 1px dotted #ddd;">
     <div class="container">
       <div class="row">
-        <div>
+        <div class="borde">
           <div class="block">
             <h1>{{ page.title }}</h1>
+
             <div class="post-info-wrapper">
               <p class="italic"> <span class="bold">{{ page.date_text}}</span>  <span class="bold">{{ page.horario }}</span> en {{ page.localizacion }}</p>
             </div>
             <hr />
-              <img src="{{ site.url }}{{ site.baseurl }}/{{ page.image }}" alt="{{ page.title }}">
+            </div>
+            <div class="block">
+                <div class="col-xs-12 col-sm-6 col-md-6 ">
+                  <img src="{{ site.url }}{{ site.baseurl }}/{{ page.image_prop }}" alt="{{ page.title }}">
+                </div>
+            </div>
+            <div class="block">
+                <div class="col-xs-12 col-md-6 col-sm-6">
+                    <div class= "event">
+                      <b>CURSO</b>:<br>
+                      {{ page.title2 }}<div align="center">{{page.date|date: '%d-%-m-%Y' }}</div>
+                    </div>
+                </div>
+                </div>
+                <br>
+                    <form action="https://formsubmit.co/5331cdbc0b96b3ce22ef475bc4ecc02e" target="_blank" method="POST">
+                    <div class="block">
+                      <div class="col-xs-12 col-md-6 col-sm-6">
 
-              {% if page.image2 %}
-                <img src="{{ site.url }}{{ site.baseurl }}/{{ page.image2 }}" alt="">
-              {%endif%}
-            <p>{{ content }}</p>
+                        <input type="hidden" name="_blacklist" value="spammy pattern, banned term, phrase">
+                        <input type="hidden" name="_next" value="{{ page.link}}" />
+                        <input type="hidden" name="_subject" value="Curso - {{ page.name}} {{page.date|date: '%d-%-m-%Y' }} " />
+                        <input type="text" name="_gotcha" style="display:none" />
+                        <div class="form-group">
+                          <input type="text" class="form-control" placeholder="Nombre *" name="Nombre" maxlength="15" minlength="3" pattern="^[a-zA-Z0-9_.-]*$" required>
+                        </div>
+
+                        <div class="form-group">
+                          <input type="email" class="form-control" placeholder="Correo Electrónico *" name="Correo Electrónico" required>
+                        </div>
+
+                        <div class="form-group">
+                          <input type="text" class="form-control" placeholder="Teléfono *" name="Telefono" pattern="^[0-9]*$" minlength="9" maxlength="9" required>
+                        </div>
+
+                      <div class="form-group">
+                        <textarea class="form-control" rows="4" placeholder="Mensaje" name="mensaje" maxlength="255"></textarea>
+                      </div>
+
+                      <input name="verifica" type="checkbox" required> Acepto la <a href="{{site.url}}{{site.baseurl}}/politicapd" target="_blank">Política de Privacidad.</a>
+                      <br>
+                  <center>
+                    <br>
+                    <br>
+                    <div class="event"><button type="submit">Comprar Curso</button></div>
+                  </center>
+
+                  </div><!--col-->
+                  </div><!--block-->
+                  </form>
+
+
+
+
+
+                {% if page.image2 %}
+                  <img src="{{ site.url }}{{ site.baseurl }}/{{ page.image2 }}" alt="">
+                {%endif%}
+              </div>
+              <div class="col-xs-12 col-md-12 col-sm-12">
+                <div class="event">
+                  <br>
+                  <br>
+                  {{ content }}
+                </div>
+              </div>
+            <!--
             {% if page.name=='Formación - CHI NEI TSANG: Masaje de Órganos Internos'%}
             <p>
               Para más información descárgate el <a href="{{site.url}}{{site.baseurl}}/img/eventos/ChiNeiTsang.pdf" target="_new">Programa de Formación</a>
@@ -67,7 +130,7 @@ layout: page
                       {%endif%}
                       {%endif%}
                       {%endif%}
-                      {%endif%}-->
+                      {%endif%}
                       {%else%}
 
 
@@ -77,14 +140,86 @@ layout: page
                 {%endif%}
 
             {%endif%}
-            {%endif%}
+            {%endif%}-->
+            <hr>
+            </div>
+            <div class="row">
+              <div class="col-md-12 col-sm-12">
+                <div class="block">
+                <p>Si estás interesado, puedes <b>comprar el curso</b> a través del siguiente formulario:</p>
+              </div><!--block-->
+            </div><!--col-->
+
+            <div class="block">
+              <div class="col-md-12 col-sm-12">
+
+                <div class= "event">
+                  <b>CURSO</b>:<br>
+                  {{ page.title2 }}
+                </div>
+              <div class="post-info-wrapper">
+                <p class="italic"> <span class="bold">{{ page.date_text}}</span>  <span class="bold">{{ page.horario }}</span> en {{ page.localizacion }}</p>
+              </div>
+              </div >
+            </div>
+
+
+
+              <form action="https://formsubmit.co/5331cdbc0b96b3ce22ef475bc4ecc02e" target="_blank" method="POST" >
+                <div class="block">
+                  <div class="col-md-6 col-sm-12">
+
+
+                  <input type="hidden" name="_next" value="{{ page.link}}" />
+                  <input type="hidden" name="_subject" value="Curso - {{ page.name}} {{page.date|date: '%d-%-m-%Y' }} " />
+
+                  <input type="hidden" class="form-control" placeholder="Asunto" name="Asunto" value="Curso: {{ page.name}} {{page.date|date: '%d-%-m-%Y' }}" readonly required>
+
+                  <input type="text" name="_gotcha" style="display:none" />
+                  <div class="form-group">
+                    <input type="text" class="form-control" placeholder="Nombre *" name="Nombre" maxlength="15" minlength="3" pattern="^[a-zA-Z0-9_.-]*$" required>
+                  </div>
+
+                  <div class="form-group">
+                    <input type="email" class="form-control" placeholder="Correo Electrónico *" name="Correo Electrónico" required>
+                  </div>
+
+                  <div class="form-group">
+                    <input type="text" class="form-control" placeholder="Teléfono *" name="Telefono" pattern="^[0-9]*$" minlength="9" maxlength="9" required>
+                  </div>
+                </div><!--block-->
+              </div><!--col-->
+              <div class="block">
+                <div class="col-md-6 col-sm-12">
+                  <div class="form-group">
+                    <textarea class="form-control" rows="4" placeholder="Mensaje" name="mensaje" maxlength="255"></textarea>
+                  </div>
+                  <input name="verifica" type="checkbox" required> Acepto la <a href="{{site.url}}{{site.baseurl}}/politicapd" target="_blank">Política de Privacidad.</a>
+                </div><!--block-->
+              </div><!--col-->
+              <div class="block">
+                <div class="col-md-12 col-sm-12">
+                  <center>
+                    <br>
+                    <br>
+                    <div class="event"><button type="submit">Comprar Curso</button></div>
+                  </center>
+                </div><!--block-->
+              </div><!--col-->
+            </form>
+
+            <!--contactform.setAttribute('action', 'https://formspree.io/' + 'f/xaygjjve'); 44d1a532acde9ecc11d5721dac1b0b5b-->
+          </div><!--row-->
+
+
+
+
+          <br>
+          <br>
             <p>Si tienes alguna consulta, ponte en <a href="{{site.url}}{{site.baseurl}}/contact">contacto</a> con nosotros</p>
-          </div>
-        </div><!-- .col-md-7 close -->
-      </div>
     </div>
   </section>
 </div>
 <p class="center-text" style="padding: 30px;">
-  <a href="{{site.url}}{{ site.baseurl }}/cursos/">Volver a Cursos</a>
+  <a href="{{site.url}}{{ site.baseurl }}/cursos2/">Volver a Cursos</a>
 </p>

@@ -1,0 +1,158 @@
+---
+layout: page
+title: Salud-Zen Blog
+permalink: /blog-recetas/
+category: artículos, conferencias, entrevistas, reflexiones, cursos, resumen, recetas, blog, yoga
+---
+<!-- Slider Start -->
+<section id="global-header-blog">
+  <section id="global-header">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="block">
+          <h1>Blog</h1>
+          <p>Novedades, Curiosidades, Artículos, Reflexiones y Cuentos</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+</section>
+<!-- Service -Accesos Directos -->
+<!--
+<section id="service">
+  <div class="container">
+    <div class="row ">
+      <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+        <div class="service-item">
+          <a href="{{ site.url }}{{ site.baseurl }}/blog-articulos/">
+            <h4>Artículos</h4>
+          </a>
+
+        </div>
+      </div>
+      <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+        <div class="service-item">
+          <a href="{{site.url}}{{site.baseurl}}/blog-conferencias/" target="_new" style="text-decoration: none;color: inherit;">
+            <h4>Conferencias & Vídeos</h4>
+          </a>
+
+        </div>
+      </div>
+      <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+        <div class="service-item">
+          <a href="{{site.url}}{{site.baseurl}}/blog-entrevistas/" target="_new" style="text-decoration: none;color: inherit;">
+            <h4>Entrevistas</h4>
+          </a>
+
+        </div>
+      </div>
+    </div>
+ </div>
+<div class="container">
+    <div class="row ">
+      <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+        <div class="service-item">
+          <a href="{{site.url}}{{site.baseurl}}/blog-reflexiones/" target="_new" style="text-decoration: none;color: inherit;">
+            <h4>Reflexiones</h4>
+          </a>
+
+        </div>
+      </div>
+      <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+        <div class="service-item">
+          <a href="{{site.url}}{{site.baseurl}}/blog-eventos/" target="_new" style="text-decoration: none;color: inherit;">
+          <h4>Cursos</h4>
+        </a>
+
+        </div>
+      </div>
+      <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+        <div class="service-item">
+            <h4 style="color:black"><u>Resumen</u></h4>
+
+        </div>
+    </div>
+    <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+      <div class="service-item">
+        <a href="{{site.url}}{{site.baseurl}}/blog-noticias/" target="_new" style="text-decoration: none;color: inherit;">
+          <h4>Noticias</h4>
+        </a>
+      </div>
+    </div>
+  </div>
+  </div>
+
+</section>
+-->
+  <hr>
+<section id="intro">
+  <div class="container">
+{% assign potsBlogs = site.posts | group_by_exp:"post", "post.categories" %}
+
+{% for category in potsBlogs %}
+
+  {% if category.name contains 'receta'%}
+  {% assign postsByYear = category.items | group_by_exp:"post", "post.date | date: '%Y'" %}
+
+  {% for year in postsByYear %}
+<h2>  {{year.name}}</h2>
+    {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%-m'" %}
+
+      {% for month in postsByMonth %}
+      <h1> {% case month.name %}
+
+        {% when '1' %}Enero
+        {% when '2' %}Febrero
+        {% when '3' %}Marzo
+        {% when '4' %}Abril
+        {% when '5' %}Mayo
+        {% when '6' %}Junio
+        {% when '7' %}Julio
+        {% when '8' %}Agosto
+        {% when '9' %}Septiembre
+        {% when '10' %}Octubre
+        {% when '11' %}Noviembre
+        {% when '12' %}Diciembre
+      {% endcase %}
+      </h1>
+      <ul>
+        {% for post in month.items %}
+          <div class="post-area">
+            <div class="row">
+              <div class="col-md-12","col-sm-12">
+                  <a href="{{ site.url }}{{ site.baseurl }}/{{ post.url}}" class="bold">{{ post.title }}</a>
+                  <p class="post-date">{{ post.date | date_to_long_string }}</p>
+              </div>
+            </div>
+
+
+            <div class="row">
+              <div class="col-md-4","col-sm-6">
+                <div class="block">
+
+                  <img src="{{ site.url }}{{ site.baseurl }}/{{ post.image }}"  alt="{{ post.title }} ">
+                </div>
+              </div>
+
+
+              <div class="col-md-8","col-sm-12">
+                <div class="block">
+                  <p>
+                  {{ post.content | strip_html | truncatewords: 50 }}
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        {% endfor %}
+      </ul>
+
+        {% endfor %}
+      {% endfor %}
+    {% endif %}
+{% endfor %}
+
+</div>
+</section>

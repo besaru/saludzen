@@ -36,3 +36,100 @@
   width: 75%;
   height: auto;
 }
+
+
+.event {
+  font-size: 18px;
+  padding-left: 20px;
+  padding-right: 40px;
+}
+
+.event p span{
+  font-size: 18px;
+  padding-left: 20px;
+  color: black;
+  padding-right: 40px;
+  color: black;
+}
+
+
+.event_text_noh3{
+  color: black;
+  padding-right: 40px;
+}
+.event h3{
+  background-color: #c4d4e9; /* Color de fondo */
+  background-color: #3e5e90;
+  background-color: #D4E0EF;
+  color: #fbfcfc;
+  color:#3e5e90;
+  display: inline-block; /* Mostrar como bloque en línea */
+  padding: 10px; /* Espaciado interno para el contenido */
+  width: 100%; /* Ancho del fondo */
+  margin: 10px auto; /* Margen superior e inferior, centrado horizontalmente */
+  font-weight: bold; /* Texto en negrita */
+}
+
+.event ul{
+  list-style-type: disc; /* Cambiar el tipo de viñeta aquí */
+  margin-left: 1.5em; /* Espacio entre la viñeta y el texto */
+  padding-left: 20px;
+}
+.event button{
+  font-size: 20px;
+  background-color: #c4d4e9;
+  background-color:#D5E6FD;
+  background-color:#D4E0EF;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: none;
+  padding: 10px 20px; /* Espaciado interno del botón */
+  border-radius: 10px;
+
+  color: #fbfcfc;
+  background-color: #3e5e90;
+  border: 2px solid #3e5e90;
+
+
+}
+
+.event button:hover{
+  border: 2px solid #3e5e90; /* tamaño y color de borde */
+  color:#3e5e90;
+  background-color:#D4E0EF;
+
+}
+
+.event a:link, .event a:visited {
+  font-size: 30px;
+  color: #333;
+}
+.event img{
+}
+
+.online a:link {
+  color: #FF0000;
+}
+
+.online a:hover {
+  color: 	#008000;
+}
+.index_event h1{
+  background-color: #c4d4e9; /* Color de fondo */
+}
+.borde {
+  padding-left: 2%; /* Color de fondo */
+  padding-right: 2%;
+}
+.index_borde{
+  padding-left: 2%; /* Color de fondo */
+  padding-right: 2%;
+  text-align: center;
+  font-weight: bold; /* Texto en negrita */
+  }
+
+.log_der {
+  align-content: right;
+}

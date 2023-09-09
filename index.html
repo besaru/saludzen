@@ -20,6 +20,7 @@ permalink: /
         <li data-target="#carousel-example-generic" data-slide-to="3"></li>
         <li data-target="#carousel-example-generic" data-slide-to="4"></li>
         <li data-target="#carousel-example-generic" data-slide-to="5"></li>
+        <li data-target="#carousel-example-generic" data-slide-to="6"></li>
       </ol>
 
       <!-- Wrapper for slides -->
@@ -34,9 +35,9 @@ permalink: /
 
         <div class="item">
           <a href="{{site.url}}{{site.baseurl}}/macrobiotica/">
-          <img src="{{site.url}}{{site.baseurl}}/img/index/escuelaMacro.jpg" alt="Escuela Macrobiótica & Medicina Oriental">
+          <img src="{{site.url}}{{site.baseurl}}/img/index/escuelaMacro.jpg" alt="Escuela de Nutrición Energética & Salud Natural">
           <div class="carousel-caption">
-            <h1 class="animated fadeInUp">Escuela Macrobiótica & Medicina Oriental</h1>
+            <h1 class="animated fadeInUp">Escuela de Nutrición Energética & Salud Natural</h1>
           </div>
           </a>
        </div>
@@ -57,6 +58,15 @@ permalink: /
             <h1 class="animated fadeInUp">Escuela de Qi Gong,Tao,Zen & Meditación</h1>
           </div>
          </a>
+        </div>
+
+        <div class="item">
+          <a href="https://www.cursosonlinesaludnatural.com/formacion/" target="_other">
+          <img src="{{site.url}}{{site.baseurl}}/img/index/online.jpg" alt="Blog: Artículos, Reflexiones, Novedades">
+          <div class="carousel-caption">
+            <h1 class="animated fadeInUp"> Escuela Online de Salud Natural</h1>
+          </div>
+        </a>
         </div>
 
       <div class="item">
@@ -94,6 +104,8 @@ permalink: /
       </a>
       </div>
 
+
+
       </div>
 
       <!-- Controls -->
@@ -114,64 +126,116 @@ permalink: /
 <section id="clients-logo-section">
   <div class="container">
     <div class="row">
-      <div class="col-md-12">
+      <div class="col-md-6">
         <div class="block">
 
-          {% assign sorted-posts = site.posts | where: "categories","evento"| where: "public2","true"|sort: 'date' %}
-          {% assign noevent = 'true' %}
+
 
           <ul class="social-icons" >
             <li>
               <a href="https://www.facebook.com/saludzen.estilodevida" target="new"><i class="fa fa-facebook"></i></a>
               <a href="https://www.instagram.com/saludzen/" target="new"><i class="fa fa-instagram"></i></a>
               <a href="https://www.youtube.com/channel/UCs2wmo-ncBA5mm8atYrnzMQ" target="new"><i class="fa fa-youtube"></i></a>
+              <!--<a href="http://www.cursosonlinesaludnatural.com" target="new" ><i><img src="{{site.url}}{{site.baseurl}}/img/index/logo_online4.png" alt="Escuela Online"></i></a>-->
+              <a href="https://www.cursosonlinesaludnatural.com/" target="new" ><i class="fa"><img src="{{site.url}}{{site.baseurl}}/img/index/logo_online6.png" alt="Salud Natural - Escuela Holística" width="100px"></i></a>
             </li>
           </ul>
-          <h2>Próximos Eventos:</h2>
 
-              {%
-                for post in sorted-posts
-
-               %}
-               <!-- {% if noevent %}-->
-
-               <!--  {% assign noevent = 'false' %}
-               {%endif%}-->
+          </div>
+          </div>
 
 
-              <div id="clients-logo" class="owl-carousel" >
-
-              <div future-date="{{ post.date | date: '%Y%m%d' }}" >
-
-                <div class="clients-logo-img">
-                  {%if post.localizacion =='ECOENCUENTRO, c/Las Norias n°80, Majadahonda (Madrid)'%}
-                    <a href="{{post.link}}" class="bold" target="_new">
-                  {%else%}
-                  <a href="{{ site.url }}{{ site.baseurl }}/{{ post.url }}" class="bold">
-                  {%endif%}
-                    {% if post.image_prop %}
-                      <img src="{{ site.url }}{{ site.baseurl }}/{{ post.image_prop}}" width="167" height="119" alt="{{ post.title }}">
-                    {% else %}
-                      <img src="{{ site.url }}{{ site.baseurl }}/{{ post.image}}"  width="167" height="119" alt="{{ post.title }} ">
-                    {%endif%}
-
-                    <p>{{ post.name }} <br>{{ post.date_imparticion}}</p>
-                  </a>
-                </div>
-
-
-              </div>
-            </div>
-{%endfor%}
-
-
-        </div>
-      </div>
     </div>
   </div>
 </section>
 
+<!-- <section id="service">-->
+  <div class="container">
+    <div class="row ">
+       <div class="block">
+        <div class="service-item">
+         <div class="index_borde">
+            <h3>EVENTOS:</h3>
+          </div>
+       </div>
+       </div>
+    </div>
 
+
+    <div class="row ">
+<div class="block">
+  <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+    <div class="service-item"><div class="index_borde">
+{% assign online-posts = site.posts | where: "categories","evento"| where: "public2","true"| where: "online","true"|sort: 'date' %}
+{%
+  for post in online-posts
+ %}
+
+
+  <a href="{{ post.link }}" class="bold" target="_new">
+    <p><div class="index_event"><h1><b>{{ post.dateVisible}}</b></h1></div></p>
+    <img src="{{ site.url }}{{ site.baseurl }}/{{ post.image_prop}}" width="300" height="300" alt="{{ post.title }}">
+  </a>
+
+
+{%endfor%}
+</div></div>
+</div>
+
+{% assign sorted-posts = site.posts | where: "categories","evento"| where: "public2","true"|sort: 'date' %}
+{% assign noevent = 'true' %}
+    {%
+      for post in sorted-posts
+
+     %}
+     <div future-date="{{ post.date | date: '%Y%m%d' }}" >
+     <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+       <div class="service-item"><div class="index_borde">
+
+       <a href="{{ site.url }}{{ site.baseurl }}/{{ post.url }}" class="bold">
+         <p><div class="index_event"><h1><b>{{ post.date_imparticion}}</b></h1></div></p>
+         <img src="{{ site.url }}{{ site.baseurl }}/{{ post.image_prop}}" width="300" height="300" alt="{{ post.title }}">
+
+       </a>
+     </div></div>
+      </div>
+
+       </div>
+
+     <!--
+    <div id="clients-logo" class="owl-carousel" >
+
+    <div future-date="{{ post.date | date: '%Y%m%d' }}" >
+
+      <div class="clients-logo-img">
+        {%if post.localizacion =='ECOENCUENTRO, c/Las Norias n°80, Majadahonda (Madrid)'%}
+          <a href="{{post.link}}" class="bold" target="_new">
+        {%else%}
+        <a href="{{ site.url }}{{ site.baseurl }}/{{ post.url }}" class="bold">
+        {%endif%}
+          {% if post.image_prop %}
+            <img src="{{ site.url }}{{ site.baseurl }}/{{ post.image_prop}}" width="200" height="200" alt="{{ post.title }}">
+          {% else %}
+            <img src="{{ site.url }}{{ site.baseurl }}/{{ post.image}}"  width="167" height="119" alt="{{ post.title }} ">
+          {%endif%}
+
+          <p>{{ post.name }} <br>{{ post.date_imparticion}}</p>
+        </a>
+      </div>
+
+
+    </div>
+  </div>
+  -->
+{%endfor%}
+
+
+</div>
+</div>
+</div>
+<!-- </section>-->
+
+<hr>
 
 <!-- Service -Accesos Directos -->
 <section id="service">
@@ -180,7 +244,7 @@ permalink: /
     <div class="row ">
       <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
         <div class="service-item">
-          <a href="{{site.url}}{{site.baseurl}}/cursos/" target="_new" style="text-decoration: none;color: inherit;"> <img src="{{ site.url }}{{ site.baseurl }}/img/index/cursos_lprop.jpg"alt="Cursos">
+          <a href="{{site.url}}{{site.baseurl}}/cursos2/" target="_new" style="text-decoration: none;color: inherit;"> <img src="{{ site.url }}{{ site.baseurl }}/img/index/cursos_lprop.jpg"alt="Cursos">
 <h3><b>CURSOS & EVENTOS</b></h3></a>
 
         </div>
@@ -293,7 +357,7 @@ permalink: /
           <i class="ion-ios-flower"></i>
         <!--  <i > <img src="{{ site.url }}{{ site.baseurl }}/img/macrobiotica.png"/>
 </i>-->
-          <h4><a href="{{site.url}}{{site.baseurl}}/macrobiotica/" target="_new" style="text-decoration: none;color: inherit;">Escuela de Macrobiótica & Medicina Oriental</a></h4>
+          <h4><a href="{{site.url}}{{site.baseurl}}/macrobiotica/" target="_new" style="text-decoration: none;color: inherit;">Escuela de Nutrición Energética & Salud Natural</a></h4>
           <p>
             Ofrecemos Formación de Consultor y Experto en Nutrición Energética & Macrobiótica y Medicina Natural, Cursos y Seminarios independientes, Clases particulares de cocina Macrobiótica, Asesoramiento particular y acompañamiento en compra.
           </p>

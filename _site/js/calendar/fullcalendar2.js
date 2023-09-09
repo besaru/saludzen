@@ -1310,6 +1310,113 @@
               "className": "macrobiotica",
               "url":"https://ecoencuentro.es/taller/modulo-6-la-salud-emocional-la-alimentacion-y-las-emociones/"
           }
+          , {
+               "allDay": "false",
+               "title": "LA SALUD DEL ESTOMAGO-BAZO-PÁNCREAS",
+               "name":"LA SALUD DEL ESTOMAGO-BAZO-PÁNCREAS",
+               "id": "C0001",
+               "end": "2023-09-24 19:00:00",
+               "start": "2023-09-24 09:00:00",
+               "className": "macrobiotica",
+               "url":"..evento/2023/09/24/curso-salud-estomago.html"
+           },
+          {
+                "allDay": "false",
+                "title": "LA SALUD DE LOS PULMONES Y DEL INTESTINO GRUESO",
+                "name":"LA SALUD DE LOS PULMONES Y DEL INTESTINO GRUESO",
+                "id": "C0001",
+                "end": "2023-10-22 19:00:00",
+                "start": "2023-10-22 09:00:00",
+                "className": "macrobiotica",
+                "url":"..evento/2023/10/22/curso-salud-pulmones.html"
+            },
+           {
+                 "allDay": "false",
+                 "title": "COOKING TRAINING ...",
+                 "name":"COOKING TRAINING ...",
+                 "id": "C0001",
+                 "end": "2023-11-12 19:00:00",
+                 "start": "2023-11-12 09:00:00",
+                 "className": "macrobiotica",
+                 "url":"..evento/2023/11/12/curso-platos.html"
+             },
+            {
+                  "allDay": "false",
+                  "title": "COCINA MACROBIÓTICA NAVIDEÑA, FESTIVA Y GOURMET",
+                  "name":"COCINA MACROBIÓTICA NAVIDEÑA, FESTIVA Y GOURMET",
+                  "id": "C0001",
+                  "end": "2023-12-17 18:00:00",
+                  "start": "2023-12-17 09:00:00",
+                  "className": "macrobiotica",
+                  "url":"..evento/2023/12/17/curso-navidad.html"
+              }
+              ,
+             {
+                   "allDay": "false",
+                   "title": "LA SALUD DE LOS RIÑONES Y LA VEJIGA",
+                   "name":"LA SALUD DE LOS RIÑONES Y LA VEJIGA",
+                   "id": "C0001",
+                   "end": "2024-01-14 19:00:00",
+                   "start": "2024-01-14 09:00:00",
+                   "className": "macrobiotica",
+                   "url":"..evento/2024/01/14/curso-salud-rinones.html"
+               }
+               ,
+              {
+                    "allDay": "false",
+                    "title": "LA SALUD DEL APARATO GENITAL Y REPRODUCTOR",
+                    "name":"LA SALUD DEL APARATO GENITAL Y REPRODUCTOR",
+                    "id": "C0001",
+                    "end": "2024-02-04 19:00:00",
+                    "start": "2024-02-04 09:00:00",
+                    "className": "macrobiotica",
+                    "url":"..evento/2024/02/04/curso-salud-genital.html"
+                }
+                ,
+               {
+                     "allDay": "false",
+                     "title": "LA SALUD DEL HÍGADO Y LA VESÍCULA BILIAR",
+                     "name":"LA SALUD DEL HÍGADO Y LA VESÍCULA BILIAR",
+                     "id": "C0001",
+                     "end": "2024-03-03 19:00:00",
+                     "start": "2024-03-03 09:00:00",
+                     "className": "macrobiotica",
+                     "url":"..evento/2024/03/03/curso-salud-higado.html"
+                 }
+                 ,
+                {
+                      "allDay": "false",
+                      "title": "FITOTERAPIA & TRAT. NATURALES ...",
+                      "name":"FITOTERAPIA CHINA CON PLANTAS OCCIDENTALES. TRATAMIENTOS NATURALES Y REMEDIOS MACROBIÓTICOS PARA LA SALUD",
+                      "id": "C0001",
+                      "end": "2024-04-14 19:00:00",
+                      "start": "2024-04-14 09:00:00",
+                      "className": "macrobiotica",
+                      "url":"..evento/2024/04/14/curso-fitoterapia.html"
+                  }
+                  ,
+                 {
+                       "allDay": "false",
+                       "title": "NUTR. ENERG. Y COCINA MACROB. PARA LOS NIÑOS Y LA FAMILIA",
+                       "name":"NUTRICIÓN ENERGÉTICA Y COCINA MACROBIÓTICA PARA LOS NIÑOS Y LA FAMILIA",
+                       "id": "C0001",
+                       "end": "2024-05-26 19:00:00",
+                       "start": "2024-05-26 09:00:00",
+                       "className": "macrobiotica",
+                       "url":"..evento/2024/05/26/curso-familia.html"
+                   }
+                   ,
+                  {
+                        "allDay": "false",
+                        "title": "LA SALUD DEL CORAZÓN Y DEL INTESTINO DELGADO",
+                        "name":"LA SALUD DEL CORAZÓN Y DEL INTESTINO DELGADO",
+                        "id": "C0001",
+                        "end": "2024-06-09 19:00:00",
+                        "start": "2024-06-09 09:00:00",
+                        "className": "macrobiotica",
+                        "url":"..evento/2024/06/09/curso-corazon.html"
+                    }
+
 
 
      ]

@@ -1,7 +1,7 @@
 ---
 layout: event
 categories: evento
-public: yes
+public: no
 public2: yes
 name: DETOXIFICACIÓN CELULAR
 title: "DETOXIFICACIÓN CELULAR"

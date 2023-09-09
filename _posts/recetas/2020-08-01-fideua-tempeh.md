@@ -1,7 +1,7 @@
 ---
 layout: recipe
 date: 2020-08-01
-title: Fideua de Tempeh con Tomate
+title: Fideuá de Tempeh con Tomate
 categories: Principal
 author: Salud-Zen
 featured_image: /img/recetas/fideua-tempeh.jpg
@@ -26,5 +26,5 @@ recipe:
     2. Pochar las cebollas, con el calabacín, el tempeh y un poco de shoyu.
     3. Después juntar con el tomate, el agua, la pasta, un chorrito de shoyu, una pizca de sal marina y orégano.
     4. Hervir a fuego lento tapado todo junto 20 min
-    5. Ponerlo en un tuper y a la playa!!
+    5. Ponerlo en un tupper y a la playa!!
 ---
