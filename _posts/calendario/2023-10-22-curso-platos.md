@@ -10,15 +10,15 @@ COCINA MACROBIÓTICA PARA LLEVAR"
 title: "COOKING TRAINING: 25 PLATOS EN 3 HORAS.
 COCINA MACROBIÓTICA PARA LLEVAR"
 subtitle:
-date: 12-11-2023
-dateVisible: 2023-11-12 23:00:00
-date_text: 12 de Noviembre de 2023
-date_imparticion: 12-11-2023
+date: 22-10-2023
+dateVisible: 2023-10-22 23:00:00
+date_text: 22 de Octubre de 2023
+date_imparticion: 22-10-2023
 horario: Domingo de 09 - 19 horas
 localizacion: Salud-Zen, C/ Castellón de la Plana 26, Arroyomolinos (Madrid)
 author: Salud-Zen
-image: img/eventos/121123Platos.jpg
-image_prop: img/eventos/121123Platos_prop.jpg
+image: img/eventos/221023Platos.jpg
+image_prop: img/eventos/221023Platos_prop.jpg
 image2:
 link: https://es.social-commerce.io/yGdKI8
 
@@ -47,29 +47,29 @@ Descubre cómo averiguar la constitución de una persona y su personalidad, y c�
 
 <br>
 <h3>Ponentes & Facilitadores </h3>
-<ul>
-  <li><ul style="list-style: none;">
+<ul><div class=ponentes>
+  <li><ul >
       <li>Piedad Pedraza</li>
   <li>Profesora de cocina sana, natural y energética</li>
   <li>Cocinera macrobiótica</li>
   </ul></li>
-  <li><ul style="list-style: none;">
+  <li><ul >
       <li>Ángel Jiménez</li>
   <li>Consultor en macrobiótica y medicina oriental</li>
   </ul></li>
 
-  <li><ul style="list-style: none;">
+  <li><ul >
       <li>Txiki Soto  </li>
       <li>Director & Profesor de SaludZen</li>
       <li>Escuela Holística de Salud Natural</li>
   </ul></li>
-</ul>
+</div></ul>
 
 
 <br>
 <h3>Día & hora</h3>
 <ul style="list-style: none;">
-    <li>Domingo 12 Noviembre 2023
+    <li>Domingo 22 Octubre 2023
     </li>
     <li>De 9h a 19h</li>
 

@@ -3,220 +3,336 @@
   <channel>
     <title>Salud-Zen, Escuela Holística de Salud Natural</title>
     <description></description>
-    <link>https://www.salud-zen.com</link>
-    <atom:link href="https://www.salud-zen.com/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
 
     
       <item>
-        <title>Video - Somos Agua, Energía y Luz</title>
-        <description>&lt;iframe src=&quot;https://www.facebook.com/plugins/video.php?height=476&amp;amp;href=https%3A%2F%2Fwww.facebook.com%2Fsaludzen.estilodevida%2Fvideos%2F231419932813714%2F&amp;amp;show_text=false&amp;amp;width=221&amp;amp;t=0&quot; width=&quot;221&quot; height=&quot;476&quot; style=&quot;border:none;overflow:hidden&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;true&quot; allow=&quot;autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share&quot;&gt;&lt;/iframe&gt;
+        <title>Reflexiones - Una mirada hacia dentro</title>
+        <description>&lt;p&gt;En nuestro afán de conocer y experimentar el mundo exterior, hemos perdido la conexión con el mundo interior.&lt;/p&gt;
 
-&lt;p&gt;Somos Agua, Energía y Luz.&lt;/p&gt;
+&lt;p&gt;Incluso a veces nos atrevemos a juzgar a quienes dedican unas prácticas espirituales o unos momentos de silencio al día para conectar con su Yo Profundo&lt;/p&gt;
 
-&lt;p&gt;Nuestra esencia es la misma en todos los seres humanos!!&lt;/p&gt;
+&lt;p&gt;Estas prácticas de Chi Kung o Meditación nos sitúan en el momento presente  dándonos calma, paz interna y sosiego mental. Nos conectan con nuestros dones y talentos, despiertan nuestro potencial genético y la consciencia para no dejarnos llevar por la marea humana hacia el deseo de crecer y crecer para alcanzar un éxito externo, reconocido socialmente, y hacia el deseo de placer y comodidad, a cualquier precio, desafiando a nuestra propia biología y a las leyes de la naturaleza.&lt;/p&gt;
 
-&lt;p&gt;Todos compartimos la misma naturaleza.&lt;/p&gt;
+&lt;p&gt;Crecimiento, placer y comodidad por supuesto que si pero no a cualquier precio.&lt;/p&gt;
 
-&lt;p&gt;Aunque cada uno de nosotros seamos físicamente diferentes y nos identifiquemos con nuestro personaje (ego) en esencia somos lo mismo.&lt;/p&gt;
+&lt;p&gt;Si no ponemos la mirada hacia dentro seguiremos  percibiendo que el dolor que sentimos viene de fuera, de otras personas y circunstancias, sin darnos cuenta que el dolor viene siempre de nuestros propios pensamientos.&lt;/p&gt;
 
-&lt;p&gt;Pura Luz y Energía&lt;/p&gt;
+&lt;p&gt;Si no ponemos la mirada hacia dentro nos seguiremos enojando por lo que dicen o hacen los demás, dando el control de nuestras emociones a otras personas.&lt;/p&gt;
 
-&lt;p&gt;#reflexiones&lt;/p&gt;
+&lt;p&gt;Al hacer Chi Kung y Meditar se calman los pensamientos, se para el ruido mental, se aquieta esa mirada permanente y fija  hacia el mundo exterior.&lt;/p&gt;
+
+&lt;p&gt;Empiezas a percibir un sentimiento más profundo de vida. Asumes que el dolor que sientes es tuyo, no es por culpa de otros, tiene que ver con tus heridas. Asumes la responsabilidad de tus pensamientos y sentimientos, dándote cuenta que el único o la única que tiene el control sobre ello eres sólo tu mism@.&lt;/p&gt;
+
+&lt;p&gt;Una mirada hacia dentro te conecta contigo mism@, con tu esencia, el amor que eres. Ese sentimiento de amor propio te permite amar a los demás de forma incondicional, dejar de enojarte con lo de afuera y poder sanar tus propias heridas.&lt;/p&gt;
+
+&lt;p&gt;Una mirada hacia dentro te da la oportunidad de soltar el control, te da la seguridad de sentir que todo esta bien y la confianza de fluir sin dolor y sin sufrimiento aceptando con amor  lo que la vida te trae.&lt;/p&gt;
+
+&lt;p&gt;#reflexiones&lt;br /&gt;
+#miradahaciadentro&lt;br /&gt;
+#chikung&lt;br /&gt;
+#meditacion&lt;/p&gt;
 </description>
-        <pubDate>Sun, 30 Apr 2023 17:11:27 +0200</pubDate>
-        <link>https://www.salud-zen.com//blog/video/2023/04/30/video-agua-energia-luz.html</link>
-        <guid isPermaLink="true">https://www.salud-zen.com//blog/video/2023/04/30/video-agua-energia-luz.html</guid>
+        <pubDate>Sun, 03 Sep 2023 17:11:27 +0200</pubDate>
+        <link>http://localhost:4000//blog/reflexiones/2023/09/03/reflexiones-mirada.html</link>
+        <guid isPermaLink="true">http://localhost:4000//blog/reflexiones/2023/09/03/reflexiones-mirada.html</guid>
       </item>
     
       <item>
-        <title>Curiosidades - El día del libro</title>
-        <description>&lt;p&gt;El Día del Libro coincide con la fiesta de Sant Jordi, ya que hace honor al fallecimiento el 23 de abril de emblemáticos escritores, como William Shakespeare, Miguel de Cervantes y Garcilaso de la Vega.&lt;/p&gt;
+        <title>Reflexiones - Proyecciones</title>
+        <description>&lt;p&gt;Recuerda,  todo aquello que estamos  proyectando en el otro, realmente proviene de nosotros mismos.
+Esa luz o esa sombra que está reflejando el sol en el agua o en la arena, proviene del sol. A pesar de que se ve en el agua o en la playa, es del sol.&lt;/p&gt;
 
-&lt;p&gt;Es una tradición histórica y popular que combina la cultura y el amor.&lt;/p&gt;
+&lt;p&gt;Constantemente nos estamos reflejando en el otro, lo que pasa que esto ocurre inconscientemente.&lt;br /&gt;
+Cuando atribuimos la responsabilidad de nuestros sentimientos y conductas en otra persona o circunstancia estamos proyectando.&lt;/p&gt;
 
-&lt;p&gt;En el día de hoy, la costumbre es que las parejas se intercambien regalos: los hombres reciben un libro y las mujeres una rosa.&lt;/p&gt;
+&lt;p&gt;Nos convertimos en víctimas porque perdemos el poder y la responsabilidad de nuestros propios sentimientos.&lt;/p&gt;
 
-&lt;p&gt;#diadellibro&lt;br /&gt;
-#santjordi&lt;br /&gt;
-#ichigoichie&lt;br /&gt;
-#hazdecadainstantealgounico&lt;br /&gt;
-#lectura&lt;br /&gt;
-#saludnatural&lt;/p&gt;
+&lt;p&gt;Cómo te sientes, tiene que ver contigo, con tu percepción de la situación en función de tu sistema de creencias y modelo mental.&lt;/p&gt;
+
+&lt;p&gt;¿Son sus sentimientos o los tuyos?&lt;/p&gt;
+
+&lt;p&gt;Sigmund Freud fue el primero que explico el concepto de proyección, el motivo por el cual el ser humano sufre tanto sin darse cuenta.&lt;/p&gt;
+
+&lt;p&gt;Se proyecta todo el rato, lo bueno y lo malo, lo que te gusta y lo que no te gusta.&lt;/p&gt;
+
+&lt;p&gt;La proyección te ayuda a enamorarte y unirte al otro o a odiarle y separarte de él. Pero todo tiene que ver contigo.&lt;/p&gt;
+
+&lt;p&gt;Recuerda, desde una conciencia de unidad en la que todos somos uno y todos somos lo mismo, nos estamos proyectando constantemente en otras personas y circunstancias.&lt;/p&gt;
+
+&lt;p&gt;Todo es un juego de proyecciones inconscientes y todas las personas que aparecen en nuestra vida son nuestros maestros, ya que muestran nuestra luz y nuestra sombra.&lt;/p&gt;
+
+&lt;p&gt;Despertar es darte cuenta de estas proyecciones, aceptarlas, abrazarlas y amarlas. De esta forma te estarás aceptando y amando a ti mism@.&lt;/p&gt;
+
+&lt;p&gt;Así Freud, con Psicoterapia, ayudaba a los demás a despertar y sanar sus propias heridas.&lt;/p&gt;
+
+&lt;p&gt;#reflexiones
+#freud&lt;br /&gt;
+#proyecciones&lt;br /&gt;
+#psicoterapia&lt;/p&gt;
 </description>
-        <pubDate>Sun, 23 Apr 2023 17:11:27 +0200</pubDate>
-        <link>https://www.salud-zen.com//blog/curiosidades/2023/04/23/curiosidades-dia-libro.html</link>
-        <guid isPermaLink="true">https://www.salud-zen.com//blog/curiosidades/2023/04/23/curiosidades-dia-libro.html</guid>
+        <pubDate>Fri, 01 Sep 2023 17:11:27 +0200</pubDate>
+        <link>http://localhost:4000//blog/reflexiones/2023/09/01/reflexiones-proyecciones.html</link>
+        <guid isPermaLink="true">http://localhost:4000//blog/reflexiones/2023/09/01/reflexiones-proyecciones.html</guid>
+      </item>
+    
+      <item>
+        <title>Reflexiones - Soltar</title>
+        <description>&lt;p&gt;Soltar el control y dejar al otro vivir su propia experiencia de vida, éste es el éxito de cualquier relación.&lt;/p&gt;
+
+&lt;p&gt;Amar es respetar la forma de ser de la otra persona y amarla por quien es, no por cómo es.&lt;/p&gt;
+
+&lt;p&gt;El cómo son los demás no puede determinar el amor entre dos personas porque sino se convierte en un trueque… te amo si eres como yo necesito sino me enfado y no te quiero a mi lado. Esto es una relación basada en carencias y en la necesidad de que el otro te dé lo que tú necesitas para sentirte bien. Y si no lo recibo respondo con frustración, rabia y enfado por no estar viviendo lo que quiero, me gusta o necesito. Todo esto es reflejo de una falta de aceptación hacia la otra persona.&lt;/p&gt;
+
+&lt;p&gt;El otro no siempre te puede dar lo que tu necesitas, lo que a ti te gusta o lo que tu quieres porque su forma de pensar, sus experiencias, sus creencias y su momento vital es diferente al tuyo.&lt;/p&gt;
+
+&lt;p&gt;El amor incondicional es respetar los tiempos y las formas del otro. Y no porque sean distintos te ama más o menos. Simplemente por eso mismo sus necesidades y formas de actuar son otras. &lt;br /&gt;
+Las relaciones actuales están basadas en apegos y dependencias emocionales por no haber sido educados en el amor incondicional.&lt;/p&gt;
+
+&lt;p&gt;Para poder aceptar y amar a los demás sin condiciones tenemos lo primero que aceptarnos y amarnos a nosotros mismos de forma incondicional. No se puede dar a los demás lo que no te das a ti mismo. A partir de la relación contigo mismo te relacionas con los demás.&lt;/p&gt;
+
+&lt;p&gt;Por todo esto tu pareja es tu espejo, tu maestro. Todo aquello que te molesta, te enfada o te frustra de tu pareja es lo que tienes que trabajar en ti, ya que estas volcando tus desconfianzas, miedos e inseguridades en el otro.&lt;/p&gt;
+
+&lt;p&gt;Actuamos como niños con rabietas, enfadándonos porque no recibimos lo que queremos y no somos capaces de darnos cuenta que eso que necesito me lo tengo que dar yo, a mi mism@, y asi podré dárselo a los demás.&lt;/p&gt;
+
+&lt;p&gt;El amor propio y el amor incondicional son las fuentes de toda transformación.&lt;/p&gt;
+
+&lt;p&gt;La pregunta es… ¿Estas dispuesto a transformarte?&lt;/p&gt;
+
+&lt;p&gt;La metamorfosis del ser humano pasa por aprender amar de forma incondicional.&lt;/p&gt;
+
+&lt;p&gt;¿Tú te aceptas? ¿Te amas incondicionalmente?&lt;/p&gt;
+
+&lt;p&gt;#reflexiones&lt;/p&gt;
+</description>
+        <pubDate>Fri, 25 Aug 2023 17:11:27 +0200</pubDate>
+        <link>http://localhost:4000//blog/reflexiones/2023/08/25/reflexiones-soltar.html</link>
+        <guid isPermaLink="true">http://localhost:4000//blog/reflexiones/2023/08/25/reflexiones-soltar.html</guid>
+      </item>
+    
+      <item>
+        <title>Reflexiones - Cuestión de actitud</title>
+        <description>&lt;p&gt;Cuando llevas el sol por dentro no importan las tormentas.&lt;/p&gt;
+
+&lt;p&gt;El mal tiempo o el buen tiempo se lleva por dentro.&lt;/p&gt;
+
+&lt;p&gt;Cuando conectas con tu luz interior los problemas dejan de ser problemas. Ya no los ves como un obstáculo sino como oportunidades de crecimiento.&lt;/p&gt;
+
+&lt;p&gt;Al encender tu sol interior dejas atrás lo que supuestamente viviste como  errores del pasado, soltando el equipaje que un día decidiste cargar sobre tu chepa. Al dejar ir esa mochila aprendes a confiar en el proceso de la vida y empiezas a caminar con firmeza y seguridad.&lt;/p&gt;
+
+&lt;p&gt;Cuanto menos peso cargues más rápido y fácil será tu camino.&lt;/p&gt;
+
+&lt;p&gt;Si tu camino se torna cuesta arriba, lleno de adversidades y notas que te cuesta avanzar es porqué vives muy apegad@ al pasado, cargas mucho peso y te has desconectado de tu propia lampara.&lt;br /&gt;
+Nadie ni nada puede alumbrar o apagar tu camino. Sólo tú con tu actitud y tu forma de percibir la vida puedes encender o apagar tu propia luz interior.&lt;/p&gt;
+
+&lt;p&gt;Todos nacemos con una luz propia, no dejes que tus sombras, las sombras de otras personas o cualquier circunstancia apague esa luz.&lt;/p&gt;
+
+&lt;p&gt;Si tu camino es complejo, no es porque sea complejo es porque tú lo percibes así.&lt;br /&gt;
+Si no te gusta lo que la vida te trae, cambia tu actitud y cambiará tu percepción. La realidad es neutra. Las cosas te gustan o no te gustan según tu percepción.&lt;/p&gt;
+
+&lt;p&gt;Entonces nuestro estado de ánimo, enfados o frustraciones no dependen de otras personas o de circunstancias externas, ni de que haga mal o buen tiempo ahí fuera. Sólo depende de ti, de tu actitud, de tu percepción, de cómo lo manejas y qué estas haciendo con ello. Siempre eres tú, tú y tú… y después tú. Responsabilízate. La responsabilidad te devuelve el poder. Empoderado eres protagonista de tu propia vida y te vuelves imparable.&lt;/p&gt;
+
+&lt;p&gt;El mundo exterior es un reflejo de tu mundo interior. Cambia tú y aunque las circunstancias que no dependan de ti no cambien, cambiará tu forma de vivirlas.&lt;/p&gt;
+
+&lt;p&gt;Hemos venido a ser felices. La felicidad está dentro de ti y no fuera. Tan sólo necesitas conectar contigo mism@ y vibrar desde la luz. Desde ahí todo se ve brillante y resplandeciente.&lt;/p&gt;
+
+&lt;p&gt;#reflexiones&lt;/p&gt;
+</description>
+        <pubDate>Fri, 25 Aug 2023 17:11:27 +0200</pubDate>
+        <link>http://localhost:4000//blog/reflexiones/2023/08/25/reflexiones-actitud.html</link>
+        <guid isPermaLink="true">http://localhost:4000//blog/reflexiones/2023/08/25/reflexiones-actitud.html</guid>
+      </item>
+    
+      <item>
+        <title>Reflexiones - El derecho natural a cada individuo</title>
+        <description>&lt;p&gt;Puedes elegir votar a unos o a otros o puedes elegir no votar. Toda las opciones son validas.
+Pero elijamos la que elijamos, meter un papelito en la urna no da derecho a ningún político, partido o gobierno a restringir nuestra libertad, controlar nuestras vidas y abolir nuestros derechos naturales, inherentes a nuestra condición de ser vivo, que van más allá de cualquier voto político.
+Darse cuenta de esto es lo realmente importante.&lt;/p&gt;
+
+&lt;p&gt;La sociedad es cada vez más dependiente de un estado cada vez más endeudado. La deuda de España supera ya su propio PIB. Y mientras tanto, nos convertimos en esclavos de un sistema que nos ofrece consumo, placer y diversión a cualquier precio, lo que hacen que no queramos huir de la cárcel que nosotros mismos nos hemos impuesto inconscientemente.&lt;/p&gt;
+
+&lt;p&gt;Yo particularmente no voto en este país porque en España no hay democracia.&lt;/p&gt;
+
+&lt;p&gt;Es una democracia totalmente intervenida.&lt;/p&gt;
+
+&lt;p&gt;Yo estudie en el colegio que la democracia es aquella en la que el pueblo ejerce el poder a través de sus representantes políticos.&lt;/p&gt;
+
+&lt;p&gt;Cosa que aquí no pasa. Aquí el estado no lo controla el pueblo, lo controla los partidos políticos, los cuales a su vez representan intereses de corporaciones internacionales, bancos y lobbies que son los que dominan el mundo.&lt;/p&gt;
+
+&lt;p&gt;Lo que hacen es dividirnos para vencernos y al final perdemos todos. Y mientras tanto nos cargamos el medio que nos da la vida. Todo esta relacionado.&lt;/p&gt;
+
+&lt;p&gt;Oliver Stone dijo:&lt;br /&gt;
+“El sistema no puede combatir la corrupción porque es el propio sistema es el que está corrompido”
+Los únicos capaces de cambiar el sistema somos nosotros mismos.&lt;/p&gt;
+
+&lt;p&gt;El verdadero voto no está en las urnas, está en nuestra manera de ser y estar en el mundo. En cómo vivimos, qué comemos, dónde invertimos nuestro dinero, qué economía hacemos crecer con nuestras acciones y en crear un nuestro estilo de vida sostenible que respete las leyes naturales.&lt;/p&gt;
+
+&lt;p&gt;Empecemos a tomar conciencia para poder devolver el derecho natural a cada individuo.&lt;/p&gt;
+
+&lt;p&gt;#reflexiones &lt;br /&gt;
+#estilodevidasaludable #receta &lt;br /&gt;
+ #nutricion #mujersaludable #alimentacionsana #yomecuido #snacksaludable #platosaludable&lt;br /&gt;
+#recetasaludable #recetassanas #recetasfitness  #recetafacil &lt;br /&gt;
+ #deporte&lt;/p&gt;
+</description>
+        <pubDate>Sun, 23 Jul 2023 17:11:27 +0200</pubDate>
+        <link>http://localhost:4000//blog/reflexiones/2023/07/23/reflexiones-derecho.html</link>
+        <guid isPermaLink="true">http://localhost:4000//blog/reflexiones/2023/07/23/reflexiones-derecho.html</guid>
+      </item>
+    
+      <item>
+        <title>Recetas - La energia de los alimentos</title>
+        <description>&lt;p&gt;Conocer la energía de los alimentos nos da libertad.&lt;/p&gt;
+
+&lt;p&gt;Ningún alimento es bueno o malo, cada uno viene a darnos una información  distinta , somos nosotr@s los que debemos elegir desde el conocimiento  y sentido común .&lt;/p&gt;
+
+&lt;p&gt;Tener la habilidad de escoger en cada momento  lo que necesitamos,  creando salud y bienestar más allá de formas rígidas de alimentarnos, es lo que nos dará libertad.&lt;/p&gt;
+
+&lt;p&gt;Sabemos que la vida es cambio y nosot@s debemos fluir con con ella sin resistencias, tan solo siendo conscientes de cual es la mejor manera de cuidarnos en cada momento.&lt;/p&gt;
+
+&lt;p&gt;Te invitamos a jugar en la cocina   creando platos nutritivos y flexibles.&lt;br /&gt;
+➡️Varía en los estilos de cocción, creando texturas diferentes.  &lt;br /&gt;
+➡️Utiliza variedad de verduras y hortalizas de temporada.&lt;br /&gt;
+➡️Incorpora cereales integrales  en tu menú diario.&lt;br /&gt;
+➡️Elige proteína de calidad, las legumbre son una muy buena opción. &lt;br /&gt;
+➡️Y sobretodo ponle mucho amor e intención.❤️&lt;/p&gt;
+
+&lt;p&gt;#estilodevidasaludable #receta  &lt;br /&gt;
+ #nutricion #mujersaludable #alimentacionsana #yomecuido #snacksaludable #platosaludable&lt;br /&gt;
+#recetasaludable #recetassanas #recetasfitness  #recetafacil &lt;br /&gt;
+ #deporte  &lt;br /&gt;
+#sanoyrico &lt;br /&gt;
+#macrobiotica&lt;br /&gt;
+#terapiasalternativas&lt;br /&gt;
+#formacionterapiasnaturales&lt;/p&gt;
+</description>
+        <pubDate>Sat, 22 Jul 2023 18:00:27 +0200</pubDate>
+        <link>http://localhost:4000//blog/receta/2023/07/22/receta-energia-alimentos.html</link>
+        <guid isPermaLink="true">http://localhost:4000//blog/receta/2023/07/22/receta-energia-alimentos.html</guid>
+      </item>
+    
+      <item>
+        <title>Curiosidades - Pera Ercolina</title>
+        <description>&lt;p&gt;🍐 ¡Te presentamos a la  Pera Ercolina! 🍐&lt;/p&gt;
+
+&lt;p&gt;La Pera Ercolina, es originaria de Italia, y se da en los meses de verano,  se caracteriza por su dulzura natural y su jugosidad irresistible.&lt;/p&gt;
+
+&lt;p&gt;Su color verde dorado y su textura suave hacen que sea irresistible a la vista y al paladar. Tanto si la disfrutas como un delicioso postre fresco, como si la incorporas en tus recetas favoritas, la Pera Ercolina siempre te deleitará con su sabor refrescante.&lt;/p&gt;
+
+&lt;p&gt;Además de su increíble sabor, la Pera Ercolina también aporta numerosos beneficios para tu salud. Es rica en fibra, ayudando a mejorar la digestión, y está llena de vitaminas y antioxidantes .
+En verano y especialmente con estas altas temperaturas, debemos refrescarnos y la fruta es una buena opción,  sabiendo elegir aquellas de temporada y locales.&lt;/p&gt;
+
+&lt;p&gt;🌞🌡En verano tenemos ciruelas, melocotones,  nectarinas,  paraguayos , peras ercolinas  melones , sandías…&lt;/p&gt;
+
+&lt;p&gt;Me encanta esperar la temporada de cada una de las variedades y disfrutarlas.😉&lt;/p&gt;
+
+&lt;p&gt;!!Elijamos con sabiduría!!🌟&lt;/p&gt;
+
+&lt;p&gt;🍉🥭🍐Cual es tu fruta de verano favorita??&lt;/p&gt;
+
+&lt;p&gt;#PeraErcolina #SaborNatural #FrescuraAbsoluta #Saludable #InspiraciónCulinaria#macrobiotica   #nutrición #medicina natural&lt;/p&gt;
+</description>
+        <pubDate>Sat, 22 Jul 2023 17:11:27 +0200</pubDate>
+        <link>http://localhost:4000//blog/curiosidades/2023/07/22/curiosidades-pera-ercolina.html</link>
+        <guid isPermaLink="true">http://localhost:4000//blog/curiosidades/2023/07/22/curiosidades-pera-ercolina.html</guid>
       </item>
     
       <item>
         <title>Reflexiones - Conóceme un poco más</title>
-        <description>&lt;p&gt;He dedicado parte de mi vida a las ciencias de la actividad física y del deporte, a la educación física, a la enseñanza de múltiples disciplinas deportivas y a la atención sanitaria.&lt;/p&gt;
+        <description>&lt;p&gt;La mente lo quiere controlar todo, hasta lo que no depende de nosotros.
+Mantener las cosas bajo nuestro control no es sencillo y nos provoca un gran desgaste.
+Ese control proviene de miedos e inseguridades que realmente no existen. El miedo no es real es una ilusión que crea la mente porque no confía en el proceso de la vida, en ella misma o en las personas que le rodean.&lt;/p&gt;
 
-&lt;p&gt;Actualmente formo parte del Servicio de Emergencias y Rescates de la Comunidad de Madrid, como Técnico en Emergencias Sanitarias y soy Osteópata de la Selección Española de Hockey.&lt;/p&gt;
+&lt;p&gt;El subconsciente nos juega una mala pasada y ese miedo nos puede hacer perder lo que realmente amamos.
+Solo desde el corazón se puede ver lo esencial. A la mente le gusta irse al pasado y al futuro, a lo que pasó y a lo que puede pasar. Pero se olvida de lo único importante. El amor que siente nuestro corazón en el momento presente.&lt;/p&gt;
 
-&lt;p&gt;Tras una experiencia personal, la vida me coloca y me lleva a investigar y practicar desde mi propia experiencia lo que hoy en día se denomina Medicina Integrativa y Holística.&lt;/p&gt;
+&lt;p&gt;Si quieres solucionar cualquier problema de tu vida sólo tienes que viajar al interior, acallar tu mente y sentir tu corazón.&lt;/p&gt;
 
-&lt;p&gt;Los extensos estudios y variadas experiencias en Medicina Natural y Biológica, Macrobiótica, Medicinas Orientales, Medicina Tradicional China, Nutrición Ortomolecular, Nutrición Celular, Psico-Neuro-Endocrino-Inmunologia, Micoterapia, Acupuntura, Auriculoterapia, Manopuntura, Cráneopuntura, Osteopatía, Manipulación Visceral, Sacro-Craneal, Chi Nei Tsang, Bioenergética, Biomagnetismo, Técnica Metamorfica, Reflexología Podal, Qi gong, Meditación, Enseñanzas Taoístas y Zen, entre otras disciplinas, me dan un punto de vista global, unificador y una comprensión holística del hombre, de su propia naturaleza y de su relación con el cosmos.&lt;/p&gt;
+&lt;p&gt;Los latidos de tu corazón y tu respiración sólo se producen en el momento presente, por eso es tan importante parar, respirar, agradecer y sentir que es lo realmente importante.&lt;/p&gt;
 
-&lt;p&gt;Bajo este prisma, descubro toda la sabiduría Taoísta y decido aunar lo más actual de los conocimientos científicos modernos junto con el indiscutible valor de las terapias naturales y la sabiduría milenaria de medicinas antiguas, creando así mi propia Escuela.&lt;/p&gt;
+&lt;p&gt;La meditación, el chi kung, las psicologías positivas, la espiritualidad…, nos ayudan a conectar con este sentimiento y a unir nuestro corazón y nuestra mente para solucionar cualquier problema de la vida.&lt;/p&gt;
 
-&lt;p&gt;Txiki Soto&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Director y Profesor de Salud-Zen Escuela de Luz y Consciencia, dedicada a la enseñanza de todo este arte.&lt;/li&gt;
-  &lt;li&gt;Creador del Proyecto Luz y Consciencia, para aportar conocimiento y educación, creando consciencia a través del pensamiento, del discernimiento y del sentido común para ser más libres para elegir.&lt;/li&gt;
-  &lt;li&gt;Terapeuta Holístico y Coach de Salud.&lt;/li&gt;
-  &lt;li&gt;Creador de un Programa de Salud Integral a través de una Consulta de Nutrición Holística &amp;amp; Salud Natural, y de una Consulta de Terapias Naturales Integradas.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Thu, 20 Apr 2023 17:11:27 +0200</pubDate>
-        <link>https://www.salud-zen.com//blog/reflexiones/2023/04/20/reflexiones-conoceme-mas.html</link>
-        <guid isPermaLink="true">https://www.salud-zen.com//blog/reflexiones/2023/04/20/reflexiones-conoceme-mas.html</guid>
-      </item>
-    
-      <item>
-        <title>Cursos - Desayunos Energéticos. Almuerzos y Meriendas Saludables⁣</title>
-        <description>&lt;p&gt;No te pierdas nuestro curso de este domingo:&lt;/p&gt;
-
-&lt;p&gt;Desayunos Energéticos. &lt;br /&gt;
-Almuerzos y Meriendas Saludables  &lt;br /&gt;
-Empieza el día con vitalidad y energía. &lt;br /&gt;
-Cómo deshacer el ayuno. &lt;br /&gt;
-El desayuno ideal. &lt;br /&gt;
-Desayunos dulces o salados. &lt;br /&gt;
-El desayuno y las estaciones. &lt;br /&gt;
-Efecto de los lácteos, las harinas y el azúcar en el organismo. &lt;br /&gt;
-Qué, cómo y cuándo almorzar y merendar.  &lt;br /&gt;
-Cocina Macrobiótica para Desayunar, Almorzar y Merendar  &lt;br /&gt;
-Cocinaremos y degustaremos más de 15 desayunos, almuerzos y meriendas saludables.&lt;/p&gt;
-
-&lt;p&gt;Ponente &amp;amp; Facilitador&lt;br /&gt;
-Txiki Soto&lt;br /&gt;
-Director &amp;amp; Profesor de SaludZen&lt;br /&gt;
-Escuela Holística de Salud Natural&lt;/p&gt;
-
-&lt;p&gt;Día &amp;amp; Hora&lt;br /&gt;
-Domingo 16 de Abril 2023&lt;br /&gt;
-De 9h a 19H&lt;/p&gt;
-
-&lt;p&gt;RESERVA DE PLAZA&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://ecoencuentro.es/taller/modulo-8-desayunos-energeticos-almuerzos-y-meriendas-saludables/&quot; target=&quot;_new&quot;&gt; www.salud-zen.com&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Lugar de celebración &lt;br /&gt;
-📍 Ecoencuentro, C/ Norias 80, Majadahonda (Madrid)&lt;/p&gt;
-
-&lt;p&gt;Incluye&lt;br /&gt;
-– La comida macróbiotica.&lt;br /&gt;
-– Almuerzo.&lt;br /&gt;
-– Merienda.&lt;br /&gt;
-– Apuntes.&lt;br /&gt;
-– Todo lo necesario para la realización del curso.&lt;/p&gt;
-
-&lt;p&gt;Metodología&lt;br /&gt;
-– Clases participativas.&lt;br /&gt;
-– Dinámicas grupales.&lt;br /&gt;
-– Clases teóricas.&lt;br /&gt;
-– Clases prácticas de cocina.&lt;br /&gt;
-– Enfoque holístico.&lt;br /&gt;
-– Aunando el punto de vista de la Medicina Natural y Biológica con la Filosofía y Medicina Oriental&lt;br /&gt;
-– En todos los cursos se trabajará con alguna herramienta de gestión emocional y control mental, para la gestión del estrés, a través de la palabra, la alimentación, el ejercicio, el chikung, el yoga, la meditación, la respiración, el tao o el zen.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 14 Apr 2023 18:00:27 +0200</pubDate>
-        <link>https://www.salud-zen.com//blog/cursos/2023/04/14/cursos-desayunos.html</link>
-        <guid isPermaLink="true">https://www.salud-zen.com//blog/cursos/2023/04/14/cursos-desayunos.html</guid>
-      </item>
-    
-      <item>
-        <title>Recetas - Ensalada de quinoa, fresas, sitakes y tempeh</title>
-        <description>&lt;p&gt;Ensalada completa de quinoa con fresas, sitakes y tempeh para estos días primaverales casi veraniegos.&lt;/p&gt;
-
-&lt;p&gt;#alimentacionconsciente&lt;br /&gt;
-#ensaladas&lt;br /&gt;
-#ensaladaprimaveral&lt;/p&gt;
-</description>
-        <pubDate>Mon, 10 Apr 2023 18:00:27 +0200</pubDate>
-        <link>https://www.salud-zen.com//blog/receta/2023/04/10/receta-ensalada-quinoa.html</link>
-        <guid isPermaLink="true">https://www.salud-zen.com//blog/receta/2023/04/10/receta-ensalada-quinoa.html</guid>
-      </item>
-    
-      <item>
-        <title>Reflexiones - Leer</title>
-        <description>&lt;iframe src=&quot;https://www.facebook.com/plugins/video.php?height=476&amp;amp;href=https%3A%2F%2Fwww.facebook.com%2Fsaludzen.estilodevida%2Fvideos%2F903178224102304%2F&amp;amp;show_text=false&amp;amp;width=267&amp;amp;t=0&quot; width=&quot;267&quot; height=&quot;476&quot; style=&quot;border:none;overflow:hidden&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;true&quot; allow=&quot;autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;LEER es para la MENTE, lo que el EJERCICIO FÍSICO es para el CUERPO.&lt;br /&gt;
-Mi truco, leer cada día 20 minutos.&lt;br /&gt;
-Una lectura para nutrir la mente y el alma.&lt;br /&gt;
-#leer&lt;br /&gt;
-#lectura&lt;br /&gt;
-#libros&lt;br /&gt;
-#mente&lt;br /&gt;
-#reflexiones&lt;/p&gt;
-</description>
-        <pubDate>Sat, 01 Apr 2023 17:11:27 +0200</pubDate>
-        <link>https://www.salud-zen.com//blog/reflexiones/2023/04/01/reflexiones-leer.html</link>
-        <guid isPermaLink="true">https://www.salud-zen.com//blog/reflexiones/2023/04/01/reflexiones-leer.html</guid>
-      </item>
-    
-      <item>
-        <title>Video - Os cuento mi historia personal ...</title>
-        <description>&lt;iframe src=&quot;https://www.facebook.com/plugins/video.php?height=314&amp;amp;href=https%3A%2F%2Fwww.facebook.com%2Fsaludzen.estilodevida%2Fvideos%2F1422480135228599%2F&amp;amp;show_text=false&amp;amp;width=560&amp;amp;t=0&quot; width=&quot;560&quot; height=&quot;314&quot; style=&quot;border:none;overflow:hidden&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;true&quot; allow=&quot;autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Os cuento mi historia personal y lo que me pasó para que la vida me pusiera donde me tenía que poner, y me dotara de recursos para ayudar a otras personas.&lt;/p&gt;
-
-&lt;p&gt;Txiki Soto&lt;br /&gt;
-Director y Profesor de Salud Zen&lt;br /&gt;
-www.salud-zen.com&lt;/p&gt;
-</description>
-        <pubDate>Sat, 01 Apr 2023 17:11:27 +0200</pubDate>
-        <link>https://www.salud-zen.com//blog/video/2023/04/01/video-mi-historia.html</link>
-        <guid isPermaLink="true">https://www.salud-zen.com//blog/video/2023/04/01/video-mi-historia.html</guid>
-      </item>
-    
-      <item>
-        <title>Recetas - Bolas de arroz integral con sésamo tostado o alga nori en copos </title>
-        <description>&lt;p&gt;Bolas de arroz integral con sésamo tostado o alga nori en copos.
-Buen momento durante la primavera para hacer un ayuno con estas bolitas de arroz 😉&lt;/p&gt;
-
-&lt;p&gt;#ayuno&lt;br /&gt;
-#bolasdearroz&lt;br /&gt;
-#cocina curativa&lt;br /&gt;
-#cocinamacrobiotica&lt;/p&gt;
-</description>
-        <pubDate>Thu, 30 Mar 2023 18:00:27 +0200</pubDate>
-        <link>https://www.salud-zen.com//blog/receta/2023/03/30/receta-bolas-arroz.html</link>
-        <guid isPermaLink="true">https://www.salud-zen.com//blog/receta/2023/03/30/receta-bolas-arroz.html</guid>
-      </item>
-    
-      <item>
-        <title>Cursos - Nutrición energética y cocina macrobiótica para la primavera</title>
-        <description>&lt;p&gt;Adaptar nuestra alimentación a cada estación es clave en nuestro proceso de salud&lt;br /&gt;
-#nutricionenergetica&lt;br /&gt;
+&lt;p&gt;#reflexiones&lt;br /&gt;
 #saludnatural&lt;br /&gt;
-#primavera&lt;/p&gt;
+#terapiasnaturales&lt;br /&gt;
+#meditacion&lt;br /&gt;
+#espiritualidad&lt;br /&gt;
+#psicologiaspositivas&lt;br /&gt;
+#alimentacionconsciente&lt;/p&gt;
 </description>
-        <pubDate>Sat, 25 Mar 2023 17:00:27 +0100</pubDate>
-        <link>https://www.salud-zen.com//blog/cursos/2023/03/25/cursos-cocina-primavera.html</link>
-        <guid isPermaLink="true">https://www.salud-zen.com//blog/cursos/2023/03/25/cursos-cocina-primavera.html</guid>
+        <pubDate>Mon, 17 Jul 2023 17:11:27 +0200</pubDate>
+        <link>http://localhost:4000//blog/reflexiones/2023/07/17/reflexiones-desde-corazon.html</link>
+        <guid isPermaLink="true">http://localhost:4000//blog/reflexiones/2023/07/17/reflexiones-desde-corazon.html</guid>
       </item>
     
       <item>
-        <title>Recetas - Arroz con cúrcuma, verduras con tofu y ensalada con huevo cocido </title>
-        <description>&lt;p&gt;Hoy toca arroz con curcuma, verduras con tofu y ensalada con huevo cocido.&lt;br /&gt;
-Todo espolvoreado con gomasio!! &lt;br /&gt;
-Fácil, rico y saludable.&lt;br /&gt;
-Una alimentación con sentido!!&lt;/p&gt;
+        <title>Noticias - Escuela Online Salud Natural</title>
+        <description>&lt;p&gt;Hola a tod@s! 👋 Estamos felices de presentaros un nuevo proyecto, nuestra ESCUELA ONLINE @saludnatural.formacion&lt;/p&gt;
 
-&lt;p&gt;#cocinaysalud&lt;br /&gt;
-#alimentaciónnatural&lt;br /&gt;
-#nutricionenergetica&lt;br /&gt;
-#cocinamacrobiotica&lt;br /&gt;
-#cocinacurativa&lt;br /&gt;
-#alimentaciónconsciente&lt;br /&gt;
-#estilodevida&lt;/p&gt;
+&lt;p&gt;Emprendemos un emocionante viaje hacia un estilo de vida más saludable.&lt;br /&gt;
+Amanda de @granvidaoficial y Txiki de @saludzen nos hemos unido en este proyecto para acompañaros de la mejor manera.&lt;/p&gt;
+
+&lt;p&gt;Somos amigos y compañeros de estudios y apasionados de la cocina, la buena alimentación y la salud natural.&lt;/p&gt;
+
+&lt;p&gt;Nuestro objetivo es inspiraros a adoptar hábitos  equilibrados y sostenibles.&lt;/p&gt;
+
+&lt;p&gt;¿Estás buscando cómo hacer para ordenar tu alimentación y cocinar rico y saludable?&lt;br /&gt;
+Entonces estás en el lugar correcto. En nuestra bio puedes acceder a nuestro primer &lt;a href=&quot;https://cursosonlinesaludnatural.com/formacion/&quot; target=&quot;_new&quot;&gt;CURSO ON LINE:
+ INTRODUCCIÓN A LA NUTRICION ENERGÉTICA Y  COCINA MACROBIÓTICA.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Podrás realizar el curso a tu ritmo, siempre guiado por los apuntes en pdf, la video-lecciones y las vídeo-recetas  para que no pierdas detalle, y si aún así  te surgen dudas, cuentas con asesoramiento individualizado y permanente.&lt;/p&gt;
+
+&lt;p&gt;¿Estás emocionad@?&lt;br /&gt;
+ ¡Nosotros también!&lt;br /&gt;
+¡Juntos, podemos marcar la diferencia en nuestras vidas y en nuestro bienestar.!
+¡Te esperamos en nuestra Cocina Saludable! 🥗✨💚.&lt;br /&gt;
+.&lt;br /&gt;
+.&lt;br /&gt;
+.&lt;br /&gt;
+.&lt;br /&gt;
+.&lt;br /&gt;
+.&lt;br /&gt;
+.#estilodevidasaludable #receta &lt;br /&gt;
+ #nutricion #mujersaludable #alimentacionsana #yomecuido #snacksaludable #platosaludable&lt;br /&gt;
+#recetasaludable #recetassanas #recetasfitness  #recetafacil &lt;br /&gt;
+ #deporte &lt;br /&gt;
+#sanoyrico &lt;br /&gt;
+#macrobiotica&lt;br /&gt;
+#terapiasalternativas&lt;br /&gt;
+#formacionterapiasnaturales&lt;/p&gt;
 </description>
-        <pubDate>Fri, 24 Mar 2023 17:00:27 +0100</pubDate>
-        <link>https://www.salud-zen.com//blog/receta/2023/03/24/receta-arroz-curcuma.html</link>
-        <guid isPermaLink="true">https://www.salud-zen.com//blog/receta/2023/03/24/receta-arroz-curcuma.html</guid>
+        <pubDate>Sun, 09 Jul 2023 17:11:27 +0200</pubDate>
+        <link>http://localhost:4000//blog/noticias/2023/07/09/noticias-escuela-online.html</link>
+        <guid isPermaLink="true">http://localhost:4000//blog/noticias/2023/07/09/noticias-escuela-online.html</guid>
+      </item>
+    
+      <item>
+        <title>Reflexiones - Conóceme un poco más</title>
+        <description>&lt;p&gt;Todos tenemos en el interior nuestro lado luminoso y nuestro lado oscuro. Nuestra LUZ y nuestra SOMBRA.&lt;/p&gt;
+
+&lt;p&gt;La luz nos ilumina el camino, nos muestra las virtudes y nos conecta con nuestro potencial para sacarlo hacia afuera. Aparentemente es lo mejor de nosotros, nuestra cara bonita y afable. Nuestro lado “positivo”.&lt;/p&gt;
+
+&lt;p&gt;La sombra es la parte más oscura de nosotros, nuestro lado “negativo”, es lo que nos cuesta reconocer y admitir de nosotros mismos. Lo que ignoramos y no queremos ver. Es la parte interior que no queremos aceptar porque no nos gusta, no queremos o no vemos que esta ahí. &lt;br /&gt;
+Todo pasa por reconocer y aceptar nuestras sombras. Cuando las aceptamos podemos transformarlas, nos empoderamos, descubrimos que el cambio y la evolución dependen de nosotros. Dejamos de ser víctimas para autodescubrirnos y reinventarnos.&lt;/p&gt;
+
+&lt;p&gt;Muchas veces la solución a nuestros problemas la encontramos en nuestras sombras y no en nuestras luces.&lt;/p&gt;
+
+&lt;p&gt;Jung decía que nuestras sombras eran el conjunto de las frustraciones, experiencias vergonzosas, dolorosas, temores o inseguridades que se alojan en lo inconsciente.
+Yo digo, por experiencia propia, que aquella persona que te muestra tus sombras es tu mejor maestro porque es quien más te puede hacer crecer.&lt;/p&gt;
+
+&lt;p&gt;Amar nuestra luz y nuestra sombra es aceptar y amar a todo tu ser. Amar a otros seres no es amar solo a su luz sino amar también a sus sombras. 😉&lt;/p&gt;
+
+&lt;p&gt;#reflexiones&lt;br /&gt;
+#luz&lt;br /&gt;
+#sombra&lt;br /&gt;
+#desarroyohumano&lt;br /&gt;
+#espiritualidad&lt;br /&gt;
+#saludnatural&lt;/p&gt;
+</description>
+        <pubDate>Sun, 25 Jun 2023 17:11:27 +0200</pubDate>
+        <link>http://localhost:4000//blog/reflexiones/2023/06/25/reflexiones-luces-sombras.html</link>
+        <guid isPermaLink="true">http://localhost:4000//blog/reflexiones/2023/06/25/reflexiones-luces-sombras.html</guid>
       </item>
     
   </channel>

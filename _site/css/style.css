@@ -133,3 +133,10 @@
 .log_der {
   align-content: right;
 }
+.ponentes ul{
+  
+  list-style: none;
+
+  margin-left: 0em; /* Espacio entre la viñeta y el texto */
+  padding-left: 0px;
+}

@@ -31,19 +31,19 @@ link: https://es.social-commerce.io/uf89ln
 </ul>
 <br>
 <h3>Ponentes & Facilitadores </h3>
-<ul>
-  <li><ul style="list-style: none;">
+<ul><div class=ponentes>
+  <li><ul >
       <li>Piedad Pedraza</li>
   <li>Profesora de cocina sana, natural y energética</li>
   <li>Cocinera macrobiótica</li>
   </ul></li>
 
-  <li><ul style="list-style: none;">
+  <li><ul >
       <li>Txiki Soto  </li>
       <li>Director & Profesor de SaludZen</li>
       <li>Escuela Holística de Salud Natural</li>
   </ul></li>
-</ul>
+</div></ul>
 
 
 <br>

@@ -1325,20 +1325,20 @@
                 "title": "LA SALUD DE LOS PULMONES Y DEL INTESTINO GRUESO",
                 "name":"LA SALUD DE LOS PULMONES Y DEL INTESTINO GRUESO",
                 "id": "C0001",
-                "end": "2023-10-22 19:00:00",
-                "start": "2023-10-22 09:00:00",
+                "end": "2023-11-12 19:00:00",
+                "start": "2023-11-12 09:00:00",
                 "className": "macrobiotica",
-                "url":"..evento/2023/10/22/curso-salud-pulmones.html"
+                "url":"..evento/2023/11/12/curso-salud-pulmones.html"
             },
            {
                  "allDay": "false",
                  "title": "COOKING TRAINING ...",
                  "name":"COOKING TRAINING ...",
                  "id": "C0001",
-                 "end": "2023-11-12 19:00:00",
-                 "start": "2023-11-12 09:00:00",
+                 "end": "2023-10-22 19:00:00",
+                 "start": "2023-10-22 09:00:00",
                  "className": "macrobiotica",
-                 "url":"..evento/2023/11/12/curso-platos.html"
+                 "url":"..evento/2023/10/22/curso-platos.html"
              },
             {
                   "allDay": "false",

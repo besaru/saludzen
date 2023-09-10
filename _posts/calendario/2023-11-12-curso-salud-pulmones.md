@@ -8,15 +8,15 @@ name: LA SALUD DE LOS PULMONES Y DEL INTESTINO GRUESO
 title: "LA SALUD DE LOS PULMONES Y DEL INTESTINO GRUESO"
 title2: "<ul><li><b>LA SALUD DE LOS PULMONES Y DEL INTESTINO GRUESO</b></li></ul>"
 subtitle: Desde el punto de vista de la Medicina Natural, Oriental & Biológica
-date: 22-10-2023
-dateVisible: 2023-10-22 23:00:00
-date_text: 22 de Octubre de 2023
-date_imparticion: 22-10-2023
+date: 12-11-2023
+dateVisible: 2023-11-12 23:00:00
+date_text: 12 de Noviembre de 2023
+date_imparticion: 12-11-2023
 horario: Domingo de 09 - 19 horas
 localizacion: Salud-Zen, C/ Castellón de la Plana 26, Arroyomolinos (Madrid)
 author: Salud-Zen
-image: img/eventos/221023SaludPulmones.jpg
-image_prop: img/eventos/220923SaludPulmones_prop.jpg
+image: img/eventos/121123SaludPulmones.jpg
+image_prop: img/eventos/121123SaludPulmones_prop.jpg
 image2:
 link: https://es.social-commerce.io/VVkj8f
 ---
@@ -36,7 +36,7 @@ link: https://es.social-commerce.io/VVkj8f
 
 <br>
 <h3>Ponente & Facilitador </h3>
-<ul style="list-style: none;">
+<ul style="list-style: none;" >
     <li>Txiki Soto  </li>
     <li>Director & Profesor de SaludZen</li>
     <li>Escuela Holística de Salud Natural</li>
@@ -45,7 +45,7 @@ link: https://es.social-commerce.io/VVkj8f
 <br>
 <h3>Día & hora</h3>
 <ul style="list-style: none;">
-    <li>Domingo 22 Octubre 2023
+    <li>Domingo 12 Noviembre 2023
     </li>
     <li>De 9h a 19h</li>
 
