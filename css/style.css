@@ -106,8 +106,7 @@
   font-size: 30px;
   color: #333;
 }
-.event img{
-}
+
 
 .online a:link {
   color: #FF0000;
@@ -119,6 +118,8 @@
 .index_event h1{
   background-color: #c4d4e9; /* Color de fondo */
 }
+
+
 .borde {
   padding-left: 2%; /* Color de fondo */
   padding-right: 2%;
@@ -130,11 +131,18 @@
   font-weight: bold; /* Texto en negrita */
   }
 
+.index_formacion{
+    text-align: center;
+    font-weight: bold; /* Texto en negrita */
+    padding-left: 2%; /* Color de fondo */
+    padding-right: 2%;
+    }
+
 .log_der {
   align-content: right;
 }
 .ponentes ul{
-  
+
   list-style: none;
 
   margin-left: 0em; /* Espacio entre la viñeta y el texto */

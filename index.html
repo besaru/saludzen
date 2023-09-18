@@ -160,80 +160,80 @@ permalink: /
        </div>
        </div>
     </div>
+<div class="row ">
+  <div class="block">
+    <div class="service-item">
 
-
-    <div class="row ">
-<div class="block">
-  <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-    <div class="service-item"><div class="index_borde">
-{% assign online-posts = site.posts | where: "categories","evento"| where: "public2","true"| where: "online","true"|sort: 'date' %}
-{%
-  for post in online-posts
- %}
-
-
-  <a href="{{ post.link }}" class="bold" target="_new">
-    <p><div class="index_event"><h1><b>{{ post.dateVisible}}</b></h1></div></p>
-    <img src="{{ site.url }}{{ site.baseurl }}/{{ post.image_prop}}" width="300" height="300" alt="{{ post.title }}">
-  </a>
-
-
-{%endfor%}
-</div></div>
+        <h1><div class="index_formacion">Formación Online</div></h1>
+        &nbsp;
+    </div>
+  </div>
 </div>
 
+<div class="row ">
+  <div class="block">
+    <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+      <div class="service-item">
+        <div class="index_borde">
+          {% assign online-posts = site.posts | where: "categories","evento"| where: "public2","true"| where: "online","true"|sort: 'date' %}
+
+          {%
+            for post in online-posts
+           %}
+              <a href="{{ post.link }}" class="bold" target="_new">
+                <!-- <p><div class="index_event"><h1><b>{{ post.dateVisible}}</b></h1></div></p>-->
+                <img src="{{ site.url }}{{ site.baseurl }}/{{ post.image_prop}}" width="300" height="300" alt="{{ post.title }}">
+              </a>
+          {%endfor%}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<br><br>
+<div class="row ">
+  <div class="block">
+    <div class="service-item">
+        <h1><div class="index_formacion">Formación Presencial</div></h1>
+    </div>
+  </div>
+</div>
+
+<div class="row ">
+<!--<div class="block">-->
 {% assign sorted-posts = site.posts | where: "categories","evento"| where: "public2","true"|sort: 'date' %}
 {% assign noevent = 'true' %}
+
     {%
       for post in sorted-posts
 
      %}
      <div future-date="{{ post.date | date: '%Y%m%d' }}" >
-     <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-       <div class="service-item"><div class="index_borde">
+       <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+         <div class="service-item"><div class="index_borde">
 
-       <a href="{{ site.url }}{{ site.baseurl }}/{{ post.url }}" class="bold">
-         <p><div class="index_event"><h1><b>{{ post.date_imparticion}}</b></h1></div></p>
-         <img src="{{ site.url }}{{ site.baseurl }}/{{ post.image_prop}}" width="300" height="300" alt="{{ post.title }}">
+           <a href="{{ site.url }}{{ site.baseurl }}/{{ post.url }}" class="bold">
+             <div class="index_event"><h1><b>{{ post.date_imparticion}}</b></h1></div>
+             <img src="{{ site.url }}{{ site.baseurl }}/{{ post.image_prop}}" width="300" height="300" alt="{{ post.title }}">
 
-       </a>
-     </div></div>
-      </div>
+           </a>
+
+         </div></div>
+         <p>&nbsp;</p>
+         <p>&nbsp;</p>
 
        </div>
 
-     <!--
-    <div id="clients-logo" class="owl-carousel" >
-
-    <div future-date="{{ post.date | date: '%Y%m%d' }}" >
-
-      <div class="clients-logo-img">
-        {%if post.localizacion =='ECOENCUENTRO, c/Las Norias n°80, Majadahonda (Madrid)'%}
-          <a href="{{post.link}}" class="bold" target="_new">
-        {%else%}
-        <a href="{{ site.url }}{{ site.baseurl }}/{{ post.url }}" class="bold">
-        {%endif%}
-          {% if post.image_prop %}
-            <img src="{{ site.url }}{{ site.baseurl }}/{{ post.image_prop}}" width="200" height="200" alt="{{ post.title }}">
-          {% else %}
-            <img src="{{ site.url }}{{ site.baseurl }}/{{ post.image}}"  width="167" height="119" alt="{{ post.title }} ">
-          {%endif%}
-
-          <p>{{ post.name }} <br>{{ post.date_imparticion}}</p>
-        </a>
-      </div>
+     </div>
 
 
-    </div>
-  </div>
-  -->
 {%endfor%}
 
 
 </div>
+<!--</div>
 </div>
-</div>
-<!-- </section>-->
+ </section>-->
 
 <hr>
 

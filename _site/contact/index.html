@@ -156,15 +156,17 @@
   <div class="container">
 
     <div class="row">
+      <!--  <form action="https://formspree.io/f/xaygjdyk" method="POST">-->
       <form action="https://formspree.io/f/xaygjdyk" method="POST">
-      <!--  <form action="https://formsubmit.co/estilodevida.contactoweb@salud-zen.com"-->
-
-      <div class="col-md-6 col-sm-12">
         <div class="block">
-          <!--<input type="hidden" name="_next" value="" />
-          <input type="hidden" name="_subject" value="Curso - contact.html  " />
-          <input type="text" name="_gotcha" style="display:none" />-->
+        <div class="col-sm-12 col-md-6 ">
 
+          <!--<input type="hidden" name="_next" value="" />
+          <input type="hidden" name="_next" value="http://localhost:4000/contact" />
+        -->
+
+          <input type="hidden" name="_blacklist" value="spammy pattern, banned term, phrase">
+          <input type="text" name="_gotcha" style="display:none" />
           <div class="form-group">
             <input type="text" class="form-control" placeholder="Nombre *" name="Nombre" maxlength="15" minlength="3" pattern="^[a-zA-Z0-9_.-]*$" required>
           </div>
@@ -180,11 +182,11 @@
           </div>
         </div><!--block-->
       </div><!--col-->
+      <div class="block">
+        <div class="col-sm-12 col-md-6 ">
 
-      <div class="col-md-6 col-sm-12">
-        <div class="block">
           <div class="form-group-2">
-            <textarea class="form-control" rows="4" placeholder="Mensaje" name="mensaje" maxlength="255"></textarea>
+            <textarea class="form-control" rows="4" placeholder="Mensaje *" name="mensaje" maxlength="255" required></textarea>
           </div>
           <input name="verifica" type="checkbox" required> Acepto la <a href="http://localhost:4000/politicapd" target="_blank">Política de Privacidad.</a>
 
@@ -193,6 +195,8 @@
       </div><!--col-->
     </form>
   </div><!--row-->
+</div><!--container-->
+</section>
 
  <section id="contact-box">
   <div class="container">
@@ -306,8 +310,6 @@
     <!--  </div>--> <!--col-->
 <!--</div>--><!--row-->
 
-</div><!--container-->
-</section>
 </div><!--container-->
 </section>
 
