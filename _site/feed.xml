@@ -3,9 +3,92 @@
   <channel>
     <title>Salud-Zen, Escuela Holística de Salud Natural</title>
     <description></description>
-    <link>http://localhost:4000</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.salud-zen.com</link>
+    <atom:link href="https://www.salud-zen.com/feed.xml" rel="self" type="application/rss+xml" />
 
+    
+      <item>
+        <title>Cursos - La Salud de los Pulmones y del Intestino Grueso⁣</title>
+        <description>&lt;p&gt;En uno de nuestros cursos de nuestra formación de Experto en Nutrición Energética &amp;amp; Salud Natural.&lt;/p&gt;
+
+&lt;p&gt;Este Domingo La Salud de los Pulmones y del Intestino Grueso desde el punto de vista de la Macrobiótica, la Medicina Natural &amp;amp; Oriental.&lt;/p&gt;
+
+&lt;p&gt;#saludnatural&lt;br /&gt;
+#nutricionenergetica&lt;br /&gt;
+#cocinamacrobiotica&lt;br /&gt;
+#medicinanatural&lt;br /&gt;
+#filosofiaoriental&lt;br /&gt;
+#cocinaysalud&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 08 Nov 2023 17:00:27 +0100</pubDate>
+        <link>https://www.salud-zen.com//blog/cursos/2023/11/08/cursos-salud-pulmones.html</link>
+        <guid isPermaLink="true">https://www.salud-zen.com//blog/cursos/2023/11/08/cursos-salud-pulmones.html</guid>
+      </item>
+    
+      <item>
+        <title>Video - Sabiduria Macrobiotica</title>
+        <description>&lt;p&gt;Ver reel de facebook &lt;a href=&quot;https://www.facebook.com/reel/345395271364336&quot; target=&quot;_new&quot;&gt;aquí&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Es la sabiduría macrobiótica la que te enseña a adaptar la alimentación en función de la estación, tus necesidades internas y tu constitución.&lt;/p&gt;
+
+&lt;p&gt;#macrobiotica&lt;br /&gt;
+#nutricionenergetica&lt;br /&gt;
+#cocinacurativa&lt;br /&gt;
+#dolores&lt;br /&gt;
+#alimentacion&lt;br /&gt;
+#artritis&lt;br /&gt;
+#artrosis&lt;br /&gt;
+#osteoporosis&lt;br /&gt;
+#alimentacionconsciente&lt;br /&gt;
+#medicinanatural&lt;br /&gt;
+#saludnaturalyvidasana&lt;/p&gt;
+</description>
+        <pubDate>Thu, 12 Oct 2023 17:11:27 +0200</pubDate>
+        <link>https://www.salud-zen.com//blog/video/2023/10/12/video-sabiduria-macrobiotica.html</link>
+        <guid isPermaLink="true">https://www.salud-zen.com//blog/video/2023/10/12/video-sabiduria-macrobiotica.html</guid>
+      </item>
+    
+      <item>
+        <title>Noticias - Cesta desde Asturias</title>
+        <description>&lt;p&gt;Esta cesta me trajo una paciente que vino hoy desde Asturias a mi consulta de Madrid.&lt;br /&gt;
+Frutas, verduras, frutos secos… directo de su huerto y de sus árboles.&lt;br /&gt;
+Ahora que está entrando el otoño haré compotas de manzana, melocotón o calabaza!!&lt;/p&gt;
+
+&lt;p&gt;No hay nada mejor como hacer un cambio profundo de estilo de vida, experimentar en tus entrañas sus valiosos beneficios y mostrarte agradecido.&lt;/p&gt;
+
+&lt;p&gt;#saludnatural&lt;br /&gt;
+#medicinanatural&lt;br /&gt;
+#macrobiotica&lt;br /&gt;
+#nutricionenergetica&lt;br /&gt;
+#cocinacurativa&lt;/p&gt;
+</description>
+        <pubDate>Tue, 19 Sep 2023 17:11:27 +0200</pubDate>
+        <link>https://www.salud-zen.com//blog/noticias/2023/09/19/noticias-cesta.html</link>
+        <guid isPermaLink="true">https://www.salud-zen.com//blog/noticias/2023/09/19/noticias-cesta.html</guid>
+      </item>
+    
+      <item>
+        <title>Cursos - LA SALUD DEL ESTÓMAGO BAZO PÁNCREAS⁣</title>
+        <description>&lt;p&gt;Ya podéis ver desde la web todos los cursos que tenemos programados para este año!! 😊&lt;/p&gt;
+
+&lt;p&gt;El 24 de Septiembre empezamos con este CURSO👇&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.salud-zen.com/evento/2023/09/24/curso-salud-estomago.html&quot;&gt;LA SALUD DEL ESTÓMAGO BAZO PÁNCREAS&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Cualquier pregunta, no dudes en &lt;a href=&quot;https://www.salud-zen.com/contact/&quot;&gt;consultarnos&lt;/a&gt;!!&lt;/p&gt;
+
+&lt;p&gt;#cursos&lt;br /&gt;
+#lasaluddelestomagobazopancreas&lt;br /&gt;
+#saludnatural&lt;br /&gt;
+#saludzen&lt;br /&gt;
+#escuelaholistica&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 13 Sep 2023 18:00:27 +0200</pubDate>
+        <link>https://www.salud-zen.com//blog/cursos/2023/09/13/cursos-salud-estomago.html</link>
+        <guid isPermaLink="true">https://www.salud-zen.com//blog/cursos/2023/09/13/cursos-salud-estomago.html</guid>
+      </item>
     
       <item>
         <title>Reflexiones - Una mirada hacia dentro</title>
@@ -35,8 +118,8 @@
 #meditacion&lt;/p&gt;
 </description>
         <pubDate>Sun, 03 Sep 2023 17:11:27 +0200</pubDate>
-        <link>http://localhost:4000//blog/reflexiones/2023/09/03/reflexiones-mirada.html</link>
-        <guid isPermaLink="true">http://localhost:4000//blog/reflexiones/2023/09/03/reflexiones-mirada.html</guid>
+        <link>https://www.salud-zen.com//blog/reflexiones/2023/09/03/reflexiones-mirada.html</link>
+        <guid isPermaLink="true">https://www.salud-zen.com//blog/reflexiones/2023/09/03/reflexiones-mirada.html</guid>
       </item>
     
       <item>
@@ -73,8 +156,8 @@ Cuando atribuimos la responsabilidad de nuestros sentimientos y conductas en otr
 #psicoterapia&lt;/p&gt;
 </description>
         <pubDate>Fri, 01 Sep 2023 17:11:27 +0200</pubDate>
-        <link>http://localhost:4000//blog/reflexiones/2023/09/01/reflexiones-proyecciones.html</link>
-        <guid isPermaLink="true">http://localhost:4000//blog/reflexiones/2023/09/01/reflexiones-proyecciones.html</guid>
+        <link>https://www.salud-zen.com//blog/reflexiones/2023/09/01/reflexiones-proyecciones.html</link>
+        <guid isPermaLink="true">https://www.salud-zen.com//blog/reflexiones/2023/09/01/reflexiones-proyecciones.html</guid>
       </item>
     
       <item>
@@ -107,8 +190,8 @@ Las relaciones actuales están basadas en apegos y dependencias emocionales por 
 &lt;p&gt;#reflexiones&lt;/p&gt;
 </description>
         <pubDate>Fri, 25 Aug 2023 17:11:27 +0200</pubDate>
-        <link>http://localhost:4000//blog/reflexiones/2023/08/25/reflexiones-soltar.html</link>
-        <guid isPermaLink="true">http://localhost:4000//blog/reflexiones/2023/08/25/reflexiones-soltar.html</guid>
+        <link>https://www.salud-zen.com//blog/reflexiones/2023/08/25/reflexiones-soltar.html</link>
+        <guid isPermaLink="true">https://www.salud-zen.com//blog/reflexiones/2023/08/25/reflexiones-soltar.html</guid>
       </item>
     
       <item>
@@ -140,8 +223,8 @@ Si no te gusta lo que la vida te trae, cambia tu actitud y cambiará tu percepci
 &lt;p&gt;#reflexiones&lt;/p&gt;
 </description>
         <pubDate>Fri, 25 Aug 2023 17:11:27 +0200</pubDate>
-        <link>http://localhost:4000//blog/reflexiones/2023/08/25/reflexiones-actitud.html</link>
-        <guid isPermaLink="true">http://localhost:4000//blog/reflexiones/2023/08/25/reflexiones-actitud.html</guid>
+        <link>https://www.salud-zen.com//blog/reflexiones/2023/08/25/reflexiones-actitud.html</link>
+        <guid isPermaLink="true">https://www.salud-zen.com//blog/reflexiones/2023/08/25/reflexiones-actitud.html</guid>
       </item>
     
       <item>
@@ -177,8 +260,8 @@ Los únicos capaces de cambiar el sistema somos nosotros mismos.&lt;/p&gt;
  #deporte&lt;/p&gt;
 </description>
         <pubDate>Sun, 23 Jul 2023 17:11:27 +0200</pubDate>
-        <link>http://localhost:4000//blog/reflexiones/2023/07/23/reflexiones-derecho.html</link>
-        <guid isPermaLink="true">http://localhost:4000//blog/reflexiones/2023/07/23/reflexiones-derecho.html</guid>
+        <link>https://www.salud-zen.com//blog/reflexiones/2023/07/23/reflexiones-derecho.html</link>
+        <guid isPermaLink="true">https://www.salud-zen.com//blog/reflexiones/2023/07/23/reflexiones-derecho.html</guid>
       </item>
     
       <item>
@@ -208,131 +291,8 @@ Los únicos capaces de cambiar el sistema somos nosotros mismos.&lt;/p&gt;
 #formacionterapiasnaturales&lt;/p&gt;
 </description>
         <pubDate>Sat, 22 Jul 2023 18:00:27 +0200</pubDate>
-        <link>http://localhost:4000//blog/receta/2023/07/22/receta-energia-alimentos.html</link>
-        <guid isPermaLink="true">http://localhost:4000//blog/receta/2023/07/22/receta-energia-alimentos.html</guid>
-      </item>
-    
-      <item>
-        <title>Curiosidades - Pera Ercolina</title>
-        <description>&lt;p&gt;🍐 ¡Te presentamos a la  Pera Ercolina! 🍐&lt;/p&gt;
-
-&lt;p&gt;La Pera Ercolina, es originaria de Italia, y se da en los meses de verano,  se caracteriza por su dulzura natural y su jugosidad irresistible.&lt;/p&gt;
-
-&lt;p&gt;Su color verde dorado y su textura suave hacen que sea irresistible a la vista y al paladar. Tanto si la disfrutas como un delicioso postre fresco, como si la incorporas en tus recetas favoritas, la Pera Ercolina siempre te deleitará con su sabor refrescante.&lt;/p&gt;
-
-&lt;p&gt;Además de su increíble sabor, la Pera Ercolina también aporta numerosos beneficios para tu salud. Es rica en fibra, ayudando a mejorar la digestión, y está llena de vitaminas y antioxidantes .
-En verano y especialmente con estas altas temperaturas, debemos refrescarnos y la fruta es una buena opción,  sabiendo elegir aquellas de temporada y locales.&lt;/p&gt;
-
-&lt;p&gt;🌞🌡En verano tenemos ciruelas, melocotones,  nectarinas,  paraguayos , peras ercolinas  melones , sandías…&lt;/p&gt;
-
-&lt;p&gt;Me encanta esperar la temporada de cada una de las variedades y disfrutarlas.😉&lt;/p&gt;
-
-&lt;p&gt;!!Elijamos con sabiduría!!🌟&lt;/p&gt;
-
-&lt;p&gt;🍉🥭🍐Cual es tu fruta de verano favorita??&lt;/p&gt;
-
-&lt;p&gt;#PeraErcolina #SaborNatural #FrescuraAbsoluta #Saludable #InspiraciónCulinaria#macrobiotica   #nutrición #medicina natural&lt;/p&gt;
-</description>
-        <pubDate>Sat, 22 Jul 2023 17:11:27 +0200</pubDate>
-        <link>http://localhost:4000//blog/curiosidades/2023/07/22/curiosidades-pera-ercolina.html</link>
-        <guid isPermaLink="true">http://localhost:4000//blog/curiosidades/2023/07/22/curiosidades-pera-ercolina.html</guid>
-      </item>
-    
-      <item>
-        <title>Reflexiones - Conóceme un poco más</title>
-        <description>&lt;p&gt;La mente lo quiere controlar todo, hasta lo que no depende de nosotros.
-Mantener las cosas bajo nuestro control no es sencillo y nos provoca un gran desgaste.
-Ese control proviene de miedos e inseguridades que realmente no existen. El miedo no es real es una ilusión que crea la mente porque no confía en el proceso de la vida, en ella misma o en las personas que le rodean.&lt;/p&gt;
-
-&lt;p&gt;El subconsciente nos juega una mala pasada y ese miedo nos puede hacer perder lo que realmente amamos.
-Solo desde el corazón se puede ver lo esencial. A la mente le gusta irse al pasado y al futuro, a lo que pasó y a lo que puede pasar. Pero se olvida de lo único importante. El amor que siente nuestro corazón en el momento presente.&lt;/p&gt;
-
-&lt;p&gt;Si quieres solucionar cualquier problema de tu vida sólo tienes que viajar al interior, acallar tu mente y sentir tu corazón.&lt;/p&gt;
-
-&lt;p&gt;Los latidos de tu corazón y tu respiración sólo se producen en el momento presente, por eso es tan importante parar, respirar, agradecer y sentir que es lo realmente importante.&lt;/p&gt;
-
-&lt;p&gt;La meditación, el chi kung, las psicologías positivas, la espiritualidad…, nos ayudan a conectar con este sentimiento y a unir nuestro corazón y nuestra mente para solucionar cualquier problema de la vida.&lt;/p&gt;
-
-&lt;p&gt;#reflexiones&lt;br /&gt;
-#saludnatural&lt;br /&gt;
-#terapiasnaturales&lt;br /&gt;
-#meditacion&lt;br /&gt;
-#espiritualidad&lt;br /&gt;
-#psicologiaspositivas&lt;br /&gt;
-#alimentacionconsciente&lt;/p&gt;
-</description>
-        <pubDate>Mon, 17 Jul 2023 17:11:27 +0200</pubDate>
-        <link>http://localhost:4000//blog/reflexiones/2023/07/17/reflexiones-desde-corazon.html</link>
-        <guid isPermaLink="true">http://localhost:4000//blog/reflexiones/2023/07/17/reflexiones-desde-corazon.html</guid>
-      </item>
-    
-      <item>
-        <title>Noticias - Escuela Online Salud Natural</title>
-        <description>&lt;p&gt;Hola a tod@s! 👋 Estamos felices de presentaros un nuevo proyecto, nuestra ESCUELA ONLINE @saludnatural.formacion&lt;/p&gt;
-
-&lt;p&gt;Emprendemos un emocionante viaje hacia un estilo de vida más saludable.&lt;br /&gt;
-Amanda de @granvidaoficial y Txiki de @saludzen nos hemos unido en este proyecto para acompañaros de la mejor manera.&lt;/p&gt;
-
-&lt;p&gt;Somos amigos y compañeros de estudios y apasionados de la cocina, la buena alimentación y la salud natural.&lt;/p&gt;
-
-&lt;p&gt;Nuestro objetivo es inspiraros a adoptar hábitos  equilibrados y sostenibles.&lt;/p&gt;
-
-&lt;p&gt;¿Estás buscando cómo hacer para ordenar tu alimentación y cocinar rico y saludable?&lt;br /&gt;
-Entonces estás en el lugar correcto. En nuestra bio puedes acceder a nuestro primer &lt;a href=&quot;https://cursosonlinesaludnatural.com/formacion/&quot; target=&quot;_new&quot;&gt;CURSO ON LINE:
- INTRODUCCIÓN A LA NUTRICION ENERGÉTICA Y  COCINA MACROBIÓTICA.&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Podrás realizar el curso a tu ritmo, siempre guiado por los apuntes en pdf, la video-lecciones y las vídeo-recetas  para que no pierdas detalle, y si aún así  te surgen dudas, cuentas con asesoramiento individualizado y permanente.&lt;/p&gt;
-
-&lt;p&gt;¿Estás emocionad@?&lt;br /&gt;
- ¡Nosotros también!&lt;br /&gt;
-¡Juntos, podemos marcar la diferencia en nuestras vidas y en nuestro bienestar.!
-¡Te esperamos en nuestra Cocina Saludable! 🥗✨💚.&lt;br /&gt;
-.&lt;br /&gt;
-.&lt;br /&gt;
-.&lt;br /&gt;
-.&lt;br /&gt;
-.&lt;br /&gt;
-.&lt;br /&gt;
-.#estilodevidasaludable #receta &lt;br /&gt;
- #nutricion #mujersaludable #alimentacionsana #yomecuido #snacksaludable #platosaludable&lt;br /&gt;
-#recetasaludable #recetassanas #recetasfitness  #recetafacil &lt;br /&gt;
- #deporte &lt;br /&gt;
-#sanoyrico &lt;br /&gt;
-#macrobiotica&lt;br /&gt;
-#terapiasalternativas&lt;br /&gt;
-#formacionterapiasnaturales&lt;/p&gt;
-</description>
-        <pubDate>Sun, 09 Jul 2023 17:11:27 +0200</pubDate>
-        <link>http://localhost:4000//blog/noticias/2023/07/09/noticias-escuela-online.html</link>
-        <guid isPermaLink="true">http://localhost:4000//blog/noticias/2023/07/09/noticias-escuela-online.html</guid>
-      </item>
-    
-      <item>
-        <title>Reflexiones - Conóceme un poco más</title>
-        <description>&lt;p&gt;Todos tenemos en el interior nuestro lado luminoso y nuestro lado oscuro. Nuestra LUZ y nuestra SOMBRA.&lt;/p&gt;
-
-&lt;p&gt;La luz nos ilumina el camino, nos muestra las virtudes y nos conecta con nuestro potencial para sacarlo hacia afuera. Aparentemente es lo mejor de nosotros, nuestra cara bonita y afable. Nuestro lado “positivo”.&lt;/p&gt;
-
-&lt;p&gt;La sombra es la parte más oscura de nosotros, nuestro lado “negativo”, es lo que nos cuesta reconocer y admitir de nosotros mismos. Lo que ignoramos y no queremos ver. Es la parte interior que no queremos aceptar porque no nos gusta, no queremos o no vemos que esta ahí. &lt;br /&gt;
-Todo pasa por reconocer y aceptar nuestras sombras. Cuando las aceptamos podemos transformarlas, nos empoderamos, descubrimos que el cambio y la evolución dependen de nosotros. Dejamos de ser víctimas para autodescubrirnos y reinventarnos.&lt;/p&gt;
-
-&lt;p&gt;Muchas veces la solución a nuestros problemas la encontramos en nuestras sombras y no en nuestras luces.&lt;/p&gt;
-
-&lt;p&gt;Jung decía que nuestras sombras eran el conjunto de las frustraciones, experiencias vergonzosas, dolorosas, temores o inseguridades que se alojan en lo inconsciente.
-Yo digo, por experiencia propia, que aquella persona que te muestra tus sombras es tu mejor maestro porque es quien más te puede hacer crecer.&lt;/p&gt;
-
-&lt;p&gt;Amar nuestra luz y nuestra sombra es aceptar y amar a todo tu ser. Amar a otros seres no es amar solo a su luz sino amar también a sus sombras. 😉&lt;/p&gt;
-
-&lt;p&gt;#reflexiones&lt;br /&gt;
-#luz&lt;br /&gt;
-#sombra&lt;br /&gt;
-#desarroyohumano&lt;br /&gt;
-#espiritualidad&lt;br /&gt;
-#saludnatural&lt;/p&gt;
-</description>
-        <pubDate>Sun, 25 Jun 2023 17:11:27 +0200</pubDate>
-        <link>http://localhost:4000//blog/reflexiones/2023/06/25/reflexiones-luces-sombras.html</link>
-        <guid isPermaLink="true">http://localhost:4000//blog/reflexiones/2023/06/25/reflexiones-luces-sombras.html</guid>
+        <link>https://www.salud-zen.com//blog/receta/2023/07/22/receta-energia-alimentos.html</link>
+        <guid isPermaLink="true">https://www.salud-zen.com//blog/receta/2023/07/22/receta-energia-alimentos.html</guid>
       </item>
     
   </channel>
