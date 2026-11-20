@@ -19,4 +19,4 @@ Si bailas seguro que sonríes, es muy muy difícil bailar serio. Por lo tanto ba
 
 Y además como podéis ver en este video, no necesitamos nada para bailar!! 🕺💃
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YIBjuNvatrs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="about:blank" data-cookie-src="https://www.youtube-nocookie.com/embed/YIBjuNvatrs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

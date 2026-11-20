@@ -21,6 +21,6 @@ Utilicemosla para alumbrar el camino de los que más lo necesitan.
 
 Enciende tu propia lámpara!!!💡💫💫💫  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FgLhDvxV6g8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="about:blank" data-cookie-src="https://www.youtube-nocookie.com/embed/FgLhDvxV6g8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Alma de Tao

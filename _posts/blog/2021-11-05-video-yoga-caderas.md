@@ -13,7 +13,7 @@ linkfacebook: https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fsalud-ze
 ---
 
 Video - LIBERA TUS CADERAS Yoga para la Salud
- <iframe width="560" height="315" src="https://www.youtube.com/embed/QAA-fgol818" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <iframe width="560" height="315" src="about:blank" data-cookie-src="https://www.youtube-nocookie.com/embed/QAA-fgol818" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
  Muchos problemas de salud tanto del aparato locomotor como a nivel visceral u orgánico (rodillas, intestinos, genitales ...) están relacionados directamente por la rigidez en las caderas.     
 

@@ -13,4 +13,4 @@ linkfacebook: https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fsalud-ze
 ---
 
 Video - Té Bancha, el té de la excelencia
- <iframe width="560" height="315" src="https://www.youtube.com/embed/bk2OA2rBajk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <iframe width="560" height="315" src="about:blank" data-cookie-src="https://www.youtube-nocookie.com/embed/bk2OA2rBajk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -13,7 +13,7 @@ linkfacebook: https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fsalud-ze
 ---
 
 Video - MOVILIZA TU CINTURA ESCAPULAR Y PÉLVICA
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vAIFvRD9AIE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="about:blank" data-cookie-src="https://www.youtube-nocookie.com/embed/vAIFvRD9AIE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
  Txiki Soto, Director & Profesor de SaludZen nos explica mediante un ejercicio muy práctico y saludable, cómo puedes mejorar la movilidad y flexibilidad de tu cintura escapular y pélvica
 

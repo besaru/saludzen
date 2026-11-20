@@ -11,7 +11,7 @@ author: Salud-Zen, Txiki Soto
 image: img/blog/291022Ayuno.jpg
 linkfacebook: https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.salud-zen.com%2Fblog%2F2022%2F10%2F29%2Fvideo-ayuno.html&amp;src=sdkpreparse
 ---   
-<iframe src="https://www.facebook.com/plugins/video.php?height=308&href=https%3A%2F%2Fwww.facebook.com%2Fsaludzen.estilodevida%2Fvideos%2F848664309791491%2F&show_text=false&width=560&t=0" width="560" height="308" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+<iframe src="about:blank" data-cookie-src="https://www.facebook.com/plugins/video.php?height=308&href=https%3A%2F%2Fwww.facebook.com%2Fsaludzen.estilodevida%2Fvideos%2F848664309791491%2F&show_text=false&width=560&t=0" width="560" height="308" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
 
 ¿CUÁNTO TIEMPO PODEMOS AGUANTAR SIN COMER?  

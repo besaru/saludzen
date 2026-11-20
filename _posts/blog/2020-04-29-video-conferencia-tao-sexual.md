@@ -13,4 +13,4 @@ linkfacebook: https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.salu
 ---
 “Conferencia - Sexo, Amor y Tantra. Tao Sexual"
 
-<div align = "center"><iframe width="560" height="315" align = "middle" src="https://www.youtube.com/embed/LV_wP1vRtpg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div align = "center"><iframe width="560" height="315" align = "middle" src="about:blank" data-cookie-src="https://www.youtube-nocookie.com/embed/LV_wP1vRtpg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>

@@ -13,19 +13,19 @@ linkfacebook: https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fsalud-ze
 ---
 
 Video - Chikung para calmar el Espíritu
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FDU2Bagbd3E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+<iframe width="560" height="315" src="about:blank" data-cookie-src="https://www.youtube-nocookie.com/embed/FDU2Bagbd3E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
- Txiki Soto, Profesor & Director de SaludZen nos presenta un movimiento junto con el Sonido Curativo Taoísta para Calmar el Shen (Espiritu).    
+ Txiki Soto, Profesor & Director de SaludZen nos presenta un movimiento junto con el Sonido Curativo Taoísta para Calmar el Shen (Espiritu).
 
-A través de este Movimiento y este Sonido Curativo podemos calmar nuestro Espíritu, conseguimos mayor Claridad Mental,  Bajamos el Fuego de la Cabeza que según la Medicina China está detrás del Estrés, el Dolor de Cabeza, el Estancamiento de Sangre en la parte alta del cuerpo, la Ansiedad y un Sistema Nervioso Sobreestimulado y Contraído.    
+A través de este Movimiento y este Sonido Curativo podemos calmar nuestro Espíritu, conseguimos mayor Claridad Mental,  Bajamos el Fuego de la Cabeza que según la Medicina China está detrás del Estrés, el Dolor de Cabeza, el Estancamiento de Sangre en la parte alta del cuerpo, la Ansiedad y un Sistema Nervioso Sobreestimulado y Contraído.
 
-Podéis hacerlo durante unos minutos varias veces al día.  
-No esperemos a estar mal para practicar ejercicios de autocontrol.  
-Trabajemos a diario sobre nuestros pensamientos y emociones. 😉    
+Podéis hacerlo durante unos minutos varias veces al día.
+No esperemos a estar mal para practicar ejercicios de autocontrol.
+Trabajemos a diario sobre nuestros pensamientos y emociones. 😉
 
-Txiki Soto  
+Txiki Soto
 
-SaludZen  
-Escuela Holística de Salud Natural  
-Un Proyecto de Educación para la Consciencia    
+SaludZen
+Escuela Holística de Salud Natural
+Un Proyecto de Educación para la Consciencia

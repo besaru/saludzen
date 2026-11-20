@@ -16,7 +16,7 @@ Después de unos intensos meses, ahora toca descansar, nos vamos de vacaciones!!
 En breve publicaremos los próximos eventos, no dejes de visitar nuestra página web o facebook si no quieres perdértelo!!
 
 <center>
-<iframe width="420" height="315" src="https://www.youtube.com/embed/oxPSEv-Xeqs" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="about:blank" data-cookie-src="https://www.youtube-nocookie.com/embed/oxPSEv-Xeqs" frameborder="0" allowfullscreen></iframe>
 </center>
 
 [Ver vídeo][video]: https://www.youtube.com/embed/oxPSEv-Xeqs

@@ -16,7 +16,7 @@ Cada vez somos más los que estamos interesados en la salud natural y consciente
 Esta vez hablamos sobre los ayunos durante 2 horas haciendo un análisis y una reflexión desde un enfoque holístico e integrador.
 
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fsaludzen.estilodevida%2Fvideos%2F2631206250444329%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+<iframe src="about:blank" data-cookie-src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fsaludzen.estilodevida%2Fvideos%2F2631206250444329%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
 Gracias a todos los que vinisteis!! 😉
 

@@ -19,7 +19,7 @@ Aquí os dejo un resumen de las primeras [jornadas del Bienestar & Salud Natural
 ![Curso Jornada-Imagen3][img3]
 ![Curso Jornada-Imagen4][img4]
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fsaludzen.estilodevida%2Fvideos%2F2415459355352354%2F&show_text=0&width=476" width="476" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+<iframe src="about:blank" data-cookie-src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fsaludzen.estilodevida%2Fvideos%2F2415459355352354%2F&show_text=0&width=476" width="476" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
 [curso]:{{site.url}}{{site.baseurl}}/evento/2019/05/25/curso-jornada-bienestar.html
 [img1]:{{site.url}}{{site.baseurl}}/img/blog/300519_JornadaBienestar_1.jpg

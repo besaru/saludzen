@@ -11,7 +11,7 @@ author: Txiki Soto, Salud-Zen
 image: img/blog/160621HarinaAmaranto.jpg
 linkfacebook: https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.salud-zen.com%2Fblog%2Fnoticias%2F2021%2F06%2F16%2Fcuriosidades-harina.html&amp;src=sdkpreparse
 ---
-<iframe src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Fsaludzen.estilodevida%2Fvideos%2F3080858202145796%2F&show_text=false&width=476&t=0" width="476" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+<iframe src="about:blank" data-cookie-src="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Fsaludzen.estilodevida%2Fvideos%2F3080858202145796%2F&show_text=false&width=476&t=0" width="476" height="476" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
 👉Moliendo al momento nuestra propia harina de amaranto en nuestro último curso, para hacer un pan de quinoa.  
 👉La harina pierde su integridad energética a las 24h de ser molida por lo que se recomienda molerla al momento. Nosotros utilizamos en la escuela un molinillo de piedra eléctrico muy chulo!!   

@@ -13,4 +13,4 @@ linkfacebook: https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.salu
 ---
 Txiki Soto, Director & Profesor de SaludZen nos cuenta todas las propiedades de esta Bebida Medicinal para relajar el sistema nervioso, controlar la ansiedad, gestionar el estrés, regular los niveles de glucosa en sangre y tomarla durante los ayunos
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xMP7GWMcz2U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="about:blank" data-cookie-src="https://www.youtube-nocookie.com/embed/xMP7GWMcz2U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

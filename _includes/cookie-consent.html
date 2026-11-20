@@ -20,6 +20,14 @@
     bottom: 0.5rem;
     left: 0.5rem;
   }
+  .external-content-placeholder {
+    margin: 1rem auto;
+    padding: 1.5rem;
+    max-width: 40rem;
+    border: 1px solid #ccc;
+    background: #f7f7f7;
+    text-align: center;
+  }
 </style>
 
 <div id="cookie-notice" role="dialog" aria-live="polite" aria-label="Preferencias de cookies">
@@ -67,6 +75,36 @@
 
     function enableOptionalServices() {
       loadScript('facebook-jssdk', 'https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v3.0');
+      var embeds = document.querySelectorAll('iframe[data-cookie-src]');
+      for (var i = 0; i < embeds.length; i += 1) {
+        embeds[i].src = embeds[i].getAttribute('data-cookie-src');
+        embeds[i].style.display = '';
+        var placeholder = embeds[i].previousElementSibling;
+        if (placeholder && placeholder.classList.contains('external-content-placeholder')) {
+          placeholder.parentNode.removeChild(placeholder);
+        }
+      }
+    }
+
+    function prepareOptionalEmbeds() {
+      var embeds = document.querySelectorAll('iframe[data-cookie-src]');
+      for (var i = 0; i < embeds.length; i += 1) {
+        if (embeds[i].previousElementSibling && embeds[i].previousElementSibling.classList.contains('external-content-placeholder')) {
+          continue;
+        }
+        embeds[i].style.display = 'none';
+        var placeholder = document.createElement('div');
+        placeholder.className = 'external-content-placeholder';
+        placeholder.textContent = 'Este contenido externo está bloqueado hasta que aceptes las cookies.';
+        var button = document.createElement('button');
+        button.className = 'btn btn-default btn-sm';
+        button.type = 'button';
+        button.textContent = 'Configurar cookies';
+        button.addEventListener('click', showNotice);
+        placeholder.appendChild(document.createElement('br'));
+        placeholder.appendChild(button);
+        embeds[i].parentNode.insertBefore(placeholder, embeds[i]);
+      }
     }
 
     function showNotice() {
@@ -78,6 +116,8 @@
       notice.style.display = 'none';
       settings.style.display = 'inline-block';
     }
+
+    prepareOptionalEmbeds();
 
     var consent = readCookie(consentCookie);
     if (!consent && readCookie('cookie-notice-dismissed') === 'true') {

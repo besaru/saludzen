@@ -12,7 +12,7 @@ image: img/blog/180821ArrozRojo.jpg
 linkfacebook: https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.salud-zen.com%2Fblog%2Fnoticias%2F2021%2F08%2F18%2Fcuriosidades-arroz-rojo.html&amp;src=sdkpreparse
 ---
 ENSALADA VERANIEGA DE ARROZ ROJO  
-<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fsaludzen.estilodevida%2Fvideos%2F183259267091080%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+<iframe src="about:blank" data-cookie-src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fsaludzen.estilodevida%2Fvideos%2F183259267091080%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
 ¿Sabías que el arroz rojo es un arroz muy curativo?   
 ¿Conoces sus propiedades?   

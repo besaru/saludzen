@@ -15,7 +15,7 @@ linkfacebook: https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.salu
 
 ---
 
-<iframe src="https://player.vimeo.com/video/42842952" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="about:blank" data-cookie-src="https://player.vimeo.com/video/42842952" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 
 [“Soltar el control”, el corto que nos enseña a abrazar la vida][corto].

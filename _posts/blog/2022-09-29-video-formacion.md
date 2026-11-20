@@ -11,7 +11,7 @@ author: Salud-Zen, Txiki Soto
 image: img/blog/290922Formacion.jpg
 linkfacebook: https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.salud-zen.com%2Fblog%2F2022%2F09%2F29%2Fvideo-formacion.html&amp;src=sdkpreparse
 ---  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Mk4Fo0h8Elg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="about:blank" data-cookie-src="https://www.youtube-nocookie.com/embed/Mk4Fo0h8Elg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Así de bien comenzamos el Experto en Nutrición Energética & Salud Natural.  
 Con este grupo súper motivado cargado de ganas de aprender, participar y mejorar un poquito el mundo, a través de nuestra propia transformación.   

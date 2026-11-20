@@ -13,4 +13,4 @@ linkfacebook: https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.salu
 ---
 “Conferencia - ¿Qué es el TAO?”
 
-<div align = "center"><iframe width="560" height="315" align = "middle" src="https://www.youtube.com/embed/svI1obtTZvU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div align = "center"><iframe width="560" height="315" align = "middle" src="about:blank" data-cookie-src="https://www.youtube-nocookie.com/embed/svI1obtTZvU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>

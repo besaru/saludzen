@@ -20,7 +20,7 @@ También salimos a la Naturaleza y sentimos el movimiento interno que tienen los
 
 Impresionante percibir todo esto con vosotros... fue muy intenso!!!😉
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fsaludzen.estilodevida%2Fvideos%2F2306777829553841%2F&show_text=0&width=560" width="560" height="308" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+<iframe src="about:blank" data-cookie-src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fsaludzen.estilodevida%2Fvideos%2F2306777829553841%2F&show_text=0&width=560" width="560" height="308" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 
 ![Curso OsteopatiaCraneoSacro-Imagen1][img1]
 ![Curso OsteopatiaCraneoSacro-Imagen2][img2]
