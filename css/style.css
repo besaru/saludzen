@@ -115,7 +115,8 @@
 .online a:hover {
   color: 	#008000;
 }
-.index_event h1{
+.index_event h1,
+.index_event h3 {
   background-color: #c4d4e9; /* Color de fondo */
 }
 
@@ -147,4 +148,14 @@
 
   margin-left: 0em; /* Espacio entre la viñeta y el texto */
   padding-left: 0px;
+}
+
+/* Indicador visible para quienes navegan con teclado. */
+a:focus,
+button:focus,
+input:focus,
+textarea:focus,
+select:focus {
+  outline: 3px solid #1f6fb2 !important;
+  outline-offset: 2px;
 }
