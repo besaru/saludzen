@@ -1,7 +1,7 @@
 ---
 layout: event
 categories: evento
-public: yes
+public: no
 public2: yes
 online: no
 name: "COCINA MACROBIÓTICA NAVIDEÑA, FESTIVA Y GOURMET"

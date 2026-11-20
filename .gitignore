@@ -9,3 +9,6 @@ vendor/
 
 *.log
 *.psd
+
+.vscode/
+* copy.md

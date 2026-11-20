@@ -1,7 +1,7 @@
 ---
 layout: event
 categories: evento
-public: yes
+public: no
 public2: yes
 online: no
 name: "COOKING TRAINING: 25 PLATOS EN 3 HORAS.

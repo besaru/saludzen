@@ -1,8 +1,8 @@
 ---
 layout: event
 categories: evento
-public: yes
-public2: yes
+public: no
+public2: no
 online: no
 name: "LA SALUD DEL CORAZÓN Y DEL INTESTINO DELGADO"
 title: "LA SALUD DEL CORAZÓN Y DEL INTESTINO DELGADO"
@@ -51,7 +51,7 @@ link: https://es.social-commerce.io/jNEFkI
 
 
 <br>
-<h3>Lugar de celebración </h3>  
+<h3>Lugar de celebración </h3>
 <ul style="list-style: none;">
     <li><i class="fa fa-map-marker"></i> Salud-Zen, C/ Castellón de la Plana 26, Arroyomolinos (Madrid)
     </li>
@@ -62,10 +62,10 @@ link: https://es.social-commerce.io/jNEFkI
 <h3>Incluye </h3>
 
 <ul >
-  <li> La comida macrobiótica (degustación de todo lo cocinado)</li>  
-  <li> Almuerzo.</li>  
-  <li> Merienda.</li>  
-  <li> Apuntes.</li>  
+  <li> La comida macrobiótica (degustación de todo lo cocinado)</li>
+  <li> Almuerzo.</li>
+  <li> Merienda.</li>
+  <li> Apuntes.</li>
   <li> Todo lo necesario para la realización del curso.  </li>
 </ul>
 
@@ -84,7 +84,7 @@ link: https://es.social-commerce.io/jNEFkI
 
 <br>
 <h3>Inversión económica</h3>
-<p>  
+<p>
 <span>
 120 €
 </span>
