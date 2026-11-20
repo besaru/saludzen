@@ -6,6 +6,7 @@ exclude:
   - "README.md"
   - "LICENSE.md"
   - "*.gemspec"
+  - "index_old/"
 include: ['.htaccess']
 
 keep_files:
@@ -17,7 +18,7 @@ future: true
 
 # Site settings
 name: "Salud-Zen, Escuela Holística de Salud Natural"
-description: ""
+description: "Escuela Holística de Salud Natural con cursos, consultas y formación en nutrición energética, terapias naturales, Qi Gong, Tao, Zen y meditación."
 title: Salud-Zen
 subtitle: "Escuela Holística de Salud Natural"
 #url: "http://salud-zen.sytechcom.com/" # the base hostname & protocol for your site
