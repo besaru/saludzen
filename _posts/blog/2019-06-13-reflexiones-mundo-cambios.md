@@ -15,6 +15,6 @@ linkfacebook: https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fsalud-ze
 Espero que os guste el último artículo publicado en la revista espacio humano.  
 
 
-<a href="https://espaciohumano.com/el-mundo-de-los-cambios/?fbclid=IwAR2DrH_43FwChbVFs61SXzbk0kcmd9mKRD8p8Bx5wWJp1ASKG5NeJRCqVMM" target="new">El mundo de los Cambios</a>
+<a href="https://espaciohumano.com/el-mundo-de-los-cambios/?fbclid=IwAR2DrH_43FwChbVFs61SXzbk0kcmd9mKRD8p8Bx5wWJp1ASKG5NeJRCqVMM" target="_blank" rel="noopener noreferrer">El mundo de los Cambios</a>
 
 Txiki Soto

@@ -43,7 +43,7 @@ category: Desayuno, Cremas, Principal
           {% for recipe in site.posts %}
             {% if recipe.categories contains 'Desayuno' %}
             <div>
-                <p><a href="{{ recipe.url | prepend: site.baseurl |prepend: site.url }}" class="bold" target="_blank"><span>{{ recipe.name }}</span> {{ recipe.title }}</a></p>
+                <p><a href="{{ recipe.url | prepend: site.baseurl |prepend: site.url }}" class="bold"><span>{{ recipe.name }}</span> {{ recipe.title }}</a></p>
             </div>
             {% endif %}
         {% endfor %}
@@ -59,7 +59,7 @@ category: Desayuno, Cremas, Principal
             {% for recipe in site.categories.Desayuno %}
             {% if recipe.featured_image != " " %}
             <div>
-              <a href="{{ recipe.url | prepend: site.baseurl |prepend: site.url }}" class="bold" target="_blank">
+              <a href="{{ recipe.url | prepend: site.baseurl |prepend: site.url }}" class="bold">
                 <p><span>{{ recipe.name }}</span> {{ recipe.title }}</p>
                 <img src="{{ recipe.featured_image }}" alt="Receta - {{ recipe.title }}">
               </a>
@@ -84,7 +84,7 @@ category: Desayuno, Cremas, Principal
         {% for recipe in site.posts %}
           {% if recipe.categories contains 'Cremas' %}
           <div>
-              <p><a href="{{ recipe.url | prepend: site.baseurl |prepend: site.url }}" class="bold" target="_blank"><span>{{ recipe.name }}</span> {{ recipe.title }}</a></p>
+              <p><a href="{{ recipe.url | prepend: site.baseurl |prepend: site.url }}" class="bold"><span>{{ recipe.name }}</span> {{ recipe.title }}</a></p>
           </div>
           {% endif %}
       {% endfor %}
@@ -100,7 +100,7 @@ category: Desayuno, Cremas, Principal
           {% if recipe.featured_image != " " %}
 
           <div>
-            <a href="{{ recipe.url | prepend: site.baseurl |prepend: site.url }}" class="bold" target="_blank">
+            <a href="{{ recipe.url | prepend: site.baseurl |prepend: site.url }}" class="bold">
               <p><span>{{ recipe.name }}</span> {{ recipe.title }}</p>
               <img src="{{ recipe.featured_image }}" alt="Receta - {{ recipe.title }}">
             </a>
@@ -125,7 +125,7 @@ category: Desayuno, Cremas, Principal
         {% for recipe in site.posts %}
           {% if recipe.categories contains 'Principal' %}
           <div>
-              <p><a href="{{ recipe.url | prepend: site.baseurl |prepend: site.url }}" class="bold" target="_blank"><span>{{ recipe.name }}</span> {{ recipe.title }}</a></p>
+              <p><a href="{{ recipe.url | prepend: site.baseurl |prepend: site.url }}" class="bold"><span>{{ recipe.name }}</span> {{ recipe.title }}</a></p>
           </div>
           {% endif %}
       {% endfor %}
@@ -141,7 +141,7 @@ category: Desayuno, Cremas, Principal
           {% if recipe.featured_image != " " %}
 
           <div>
-            <a href="{{ recipe.url | prepend: site.baseurl |prepend: site.url }}" class="bold" target="_blank">
+            <a href="{{ recipe.url | prepend: site.baseurl |prepend: site.url }}" class="bold">
               <p><span>{{ recipe.name }}</span> {{ recipe.title }}</p>
               <img src="{{ recipe.featured_image }}" alt="Receta - {{ recipe.title }}">
             </a>
@@ -166,7 +166,7 @@ category: Desayuno, Cremas, Principal
             {% for recipe in site.posts %}
               {% if recipe.categories contains 'Postres' %}
               <div>
-                  <p><a href="{{ recipe.url | prepend: site.baseurl |prepend: site.url }}" class="bold" target="_blank"><span>{{ recipe.name }}</span> {{ recipe.title }}</a></p>
+                  <p><a href="{{ recipe.url | prepend: site.baseurl |prepend: site.url }}" class="bold"><span>{{ recipe.name }}</span> {{ recipe.title }}</a></p>
               </div>
               {% endif %}
           {% endfor %}
@@ -180,7 +180,7 @@ category: Desayuno, Cremas, Principal
             <div id="testimonial-slider4" class="owl-carousel">
               {% for recipe in site.categories.Postres %}
               <div>
-                <a href="{{ recipe.url | prepend: site.baseurl |prepend: site.url }}" class="bold" target="_blank">
+                <a href="{{ recipe.url | prepend: site.baseurl |prepend: site.url }}" class="bold">
                   <p><span>{{ recipe.name }}</span> {{ recipe.title }}</p>
                   <img src="{{ recipe.featured_image }}" alt="Receta - {{ recipe.title }}">
                 </a>

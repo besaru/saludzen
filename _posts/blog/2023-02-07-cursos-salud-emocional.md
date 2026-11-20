@@ -14,7 +14,7 @@ linkfacebook: https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.salu
 Si quieres aprender a seguir a tu ❤️ corazón apúntate este domingo a nuestro curso sobre:⁣
 ⁣  
 𝗟𝗮 𝗦𝗮𝗹𝘂𝗱 𝗘𝗺𝗼𝗰𝗶𝗼𝗻𝗮𝗹, 𝗹𝗮 𝗔𝗹𝗶𝗺𝗲𝗻𝘁𝗮𝗰𝗶𝗼́𝗻 𝘆 𝗹𝗮𝘀 𝗘𝗺𝗼𝗰𝗶𝗼𝗻𝗲𝘀⁣  
-<a href="https://ecoencuentro.es/taller/modulo-6-la-salud-emocional-la-alimentacion-y-las-emociones/" target="_new"> Más Información</a>
+<a href="https://ecoencuentro.es/taller/modulo-6-la-salud-emocional-la-alimentacion-y-las-emociones/" target="_blank" rel="noopener noreferrer"> Más Información</a>
 ⁣  
 ⁣
  𝓣𝔁𝓲𝓴𝓲 𝓢𝓸𝓽𝓸⁣⁣  

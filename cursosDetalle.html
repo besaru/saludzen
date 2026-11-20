@@ -3,6 +3,7 @@ layout: page
 title: Salud-Zen Calendario
 permalink: /cursos2/
 category: evento
+calendar: true
 ---
 <!-- Slider Start -->
 <section id="global-header-eventos">
@@ -52,8 +53,8 @@ category: evento
             <div class="portfolio-contant">
               <ul id="portfolio-contant-active">
                 <li>
-                    <a href="{{ post.link }}" class="bold" target="_new">
-                      <img src="{{ site.url }}{{ site.baseurl }}/{{ post.image_prop}}" alt="{{ post.title }}">
+                    <a href="{{ post.link }}" class="bold" target="_blank" rel="noopener noreferrer">
+                      <img src="{{ site.url }}{{ site.baseurl }}/{{ post.image_prop}}" alt="{{ post.title }}" loading="lazy">
                         <div class="overly">
                           <div class="position-left">
                             <h2> {{post.dateVisible}}</h2>
@@ -122,14 +123,14 @@ category: evento
                      <ul id="portfolio-contant-active">
                        <li>
                          {%if post.localizacion =='ECOENCUENTRO, c/Las Norias n°80, Majadahonda (Madrid)'%}
-                           <a href="{{post.link}}" class="bold" target="_new">
+                           <a href="{{post.link}}" class="bold" target="_blank" rel="noopener noreferrer">
                          {%else%}
                             <a href="{{ site.url }}{{ site.baseurl }}{{ post.url}}" class="bold">
                           {%endif%}
                            {% if post.image_prop %}
-                             <img src="{{ site.url }}{{ site.baseurl }}/{{ post.image_prop}}" alt="{{ post.title }}">
+                             <img src="{{ site.url }}{{ site.baseurl }}/{{ post.image_prop}}" alt="{{ post.title }}" loading="lazy">
                            {% else %}
-                             <img src="{{ site.url }}{{ site.baseurl }}/{{ post.image}}"  alt="{{ post.title }} ">
+                             <img src="{{ site.url }}{{ site.baseurl }}/{{ post.image}}"  alt="{{ post.title }} " loading="lazy">
                            {%endif%}
                              <div class="overly">
                               <div class="position-left">
@@ -209,7 +210,7 @@ category: evento
                             {{post.dateVisible}}
                           </td>
                           <td style="text-align: left;font-size:140%;">
-                            <a href="{{post.link}}" class="bold"  style="text-decoration: none;color: inherit;" target="_new">
+                            <a href="{{post.link}}" class="bold"  style="text-decoration: none;color: inherit;" target="_blank" rel="noopener noreferrer">
                               {{ post.name }}
                             </a>
                           </td>
@@ -262,7 +263,7 @@ category: evento
                                      </td>
                                      <td style="text-align: left;font-size:140%;">
                                 -{%if post.localizacion =='ECOENCUENTRO, c/Las Norias n°80, Majadahonda (Madrid)'%}
-                                  <a href="{{post.link}}" class="bold"  style="text-decoration: none;color: inherit;" target="_new">
+                                  <a href="{{post.link}}" class="bold"  style="text-decoration: none;color: inherit;" target="_blank" rel="noopener noreferrer">
                                 {%else%}
                                 <a href="{{ site.url }}{{ site.baseurl }}{{ post.url}}" class="bold"  style="text-decoration: none;color: inherit;">
                                 {%endif%}

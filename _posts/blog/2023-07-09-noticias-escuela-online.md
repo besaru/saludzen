@@ -21,7 +21,7 @@ Somos amigos y compañeros de estudios y apasionados de la cocina, la buena alim
 Nuestro objetivo es inspiraros a adoptar hábitos  equilibrados y sostenibles.  
 
 ¿Estás buscando cómo hacer para ordenar tu alimentación y cocinar rico y saludable?  
-Entonces estás en el lugar correcto. En nuestra bio puedes acceder a nuestro primer <a href="https://cursosonlinesaludnatural.com/formacion/" target="_new">CURSO ON LINE:
+Entonces estás en el lugar correcto. En nuestra bio puedes acceder a nuestro primer <a href="https://cursosonlinesaludnatural.com/formacion/" target="_blank" rel="noopener noreferrer">CURSO ON LINE:
  INTRODUCCIÓN A LA NUTRICION ENERGÉTICA Y  COCINA MACROBIÓTICA.</a>
 
 Podrás realizar el curso a tu ritmo, siempre guiado por los apuntes en pdf, la video-lecciones y las vídeo-recetas  para que no pierdas detalle, y si aún así  te surgen dudas, cuentas con asesoramiento individualizado y permanente.  

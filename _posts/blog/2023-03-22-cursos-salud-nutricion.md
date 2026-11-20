@@ -13,4 +13,4 @@ linkfacebook: https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.salu
 ---
 Seguimos ahora con todos los cursos de Nutrición Holística y Medicina Natural en Ecoencuentro, Majadahonda.
 
-<a href="https://www.instagram.com/reel/CqENILaO6GL/?igshid=MDJmNzVkMjY%3D&fbclid=IwAR3yWztfnk5hYErQ1oiTywAc8_HeUevDe17CZLwuo__9AOHSRdCkgafBfjs" target="_new"> Instagram</a>
+<a href="https://www.instagram.com/reel/CqENILaO6GL/?igshid=MDJmNzVkMjY%3D&fbclid=IwAR3yWztfnk5hYErQ1oiTywAc8_HeUevDe17CZLwuo__9AOHSRdCkgafBfjs" target="_blank" rel="noopener noreferrer"> Instagram</a>

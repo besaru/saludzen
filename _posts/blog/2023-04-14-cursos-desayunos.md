@@ -36,7 +36,7 @@ De 9h a 19H
 
 RESERVA DE PLAZA  
 
-<a href="https://ecoencuentro.es/taller/modulo-8-desayunos-energeticos-almuerzos-y-meriendas-saludables/" target="_new"> www.salud-zen.com</a>   
+<a href="https://ecoencuentro.es/taller/modulo-8-desayunos-energeticos-almuerzos-y-meriendas-saludables/" target="_blank" rel="noopener noreferrer"> www.salud-zen.com</a>
 
 Lugar de celebración   
 📍 Ecoencuentro, C/ Norias 80, Majadahonda (Madrid)  

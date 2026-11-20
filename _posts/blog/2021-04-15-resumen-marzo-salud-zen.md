@@ -13,6 +13,6 @@ linkfacebook: https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.salu
 ---
 Asi fue Marzo para Salud-Zen
 
-<a href="https://www.facebook.com/100006649392873/videos/367919701138530/" target="_blank" >Ver video</a>.
+<a href="https://www.facebook.com/100006649392873/videos/367919701138530/" target="_blank" rel="noopener noreferrer" >Ver video</a>.
 
 #saludzen…
