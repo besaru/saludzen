@@ -1,0 +1,235 @@
+---
+layout: page
+---
+
+<div class="post">
+  <!-- Wrapper Start -->
+  <section id="intro" style="border: 1px dotted #ddd; padding: 30px;">
+    <style>
+      #intro form:first-of-type {
+        position: relative;
+        z-index: 10;
+      }
+      #intro img {
+        pointer-events: none;
+      }
+    </style>
+            <div class="block">
+                <div class="col-xs-12 col-sm-6 col-md-6 ">
+                  <img src="{{ site.url }}{{ site.baseurl }}/{{ page.image_prop }}" alt="{{ page.title }}">
+                </div>
+            </div>
+            <div class="block">
+                <div class="col-xs-12 col-md-6 col-sm-6">
+                    <div class= "event">
+                      <b>CURSO</b>:<br>
+                      {{ page.title2 }}
+                      <div align="center">{{ page.date_text}}</div>
+                    </div>
+                </div>
+            </div>
+                <br>
+                    <form action="https://formsubmit.co/5331cdbc0b96b3ce22ef475bc4ecc02e" target="_blank" method="POST">
+                    <div class="block">
+                      <div class="col-xs-12 col-md-6 col-sm-6">
+
+                        <input type="hidden" name="_blacklist" value="spammy pattern, banned term, phrase"/>
+                        <input type="hidden" name="_next" value="{{ page.link}}" />
+                        <input type="hidden" name="_subject" value="Curso - {{ page.name}} {{page.date|date: '%d-%-m-%Y' }} " />
+                        <input type="text" name="_gotcha" tabindex="-1" autocomplete="off" aria-hidden="true" style="display:none">
+                        <div class="form-group">
+                          <label for="event-primary-name">Nombre *</label>
+                          <input id="event-primary-name" type="text" class="form-control" placeholder="Nombre y apellidos" name="Nombre" minlength="2" maxlength="80" autocomplete="name" required>
+                        </div>
+
+                        <div class="form-group">
+                          <label for="event-primary-email">Correo electrónico *</label>
+                          <input id="event-primary-email" type="email" class="form-control" placeholder="nombre@ejemplo.com" name="CorreoElectronico" maxlength="254" autocomplete="email" required>
+                        </div>
+
+                        <div class="form-group">
+                          <label for="event-primary-phone">Teléfono *</label>
+                          <input id="event-primary-phone" type="tel" class="form-control" placeholder="600 000 000" name="Telefono" inputmode="tel" autocomplete="tel" pattern="[0-9+\(\) .\-]{9,20}" minlength="9" maxlength="20" required>
+                        </div>
+
+                      <div class="form-group">
+                        <label for="event-primary-message">Mensaje</label>
+                        <textarea id="event-primary-message" class="form-control" rows="4" placeholder="Información adicional" name="mensaje" maxlength="1000"></textarea>
+                      </div>
+                      <input type="hidden" name="_autoresponse" value="Hola {Nombre}!&#10;- Se ha enviado correctamente la reserva de la plaza en el curso.&#10;¡Gracias por confiar en nosotros!">
+                      <input id="event-primary-privacy" name="verifica" type="checkbox" required>
+                      <label for="event-primary-privacy">Acepto la <a href="{{ '/politicapd/' | relative_url }}" target="_blank" rel="noopener noreferrer">Política de Privacidad</a>.</label>
+                      <p class="help-block">El envío de esta reserva se procesa mediante FormSubmit.</p>
+                      <br>
+                      <br>
+                      <br>
+                    <center>
+
+                    <div class="event"><button type="submit">Reserva Plaza</button></div>
+                    </center>
+
+                  </div><!--col-->
+                  </div><!--block-->
+                  </form>
+
+
+
+
+
+                {% if page.image2 %}
+                  <img src="{{ site.url }}{{ site.baseurl }}/{{ page.image2 }}" alt="">
+                {%endif%}
+              <!--</div>-->
+              <div class="col-xs-12 col-md-12 col-sm-12">
+                <div class="event">
+                  <br>
+                  <br>
+                  {{ content }}
+                </div>
+              </div>
+            <!--
+            {% if page.name=='Formación - CHI NEI TSANG: Masaje de Órganos Internos'%}
+            <p>
+              Para más información descárgate el <a href="{{site.url}}{{site.baseurl}}/img/eventos/ChiNeiTsang.pdf" target="_new">Programa de Formación</a>
+            </p>
+            {%endif%}
+
+            {% if page.name=='Formación Profesional en: NUTRICIÓN ENERGÉTICA & SALUD NATURAL'%}
+              <img src="{{ site.url }}{{ site.baseurl }}/{{ page.image3 }}" alt="">
+              <p>
+                Para más información descárgate el <a href="{{site.url}}{{site.baseurl}}/img/eventos/NutricionEnergeticaSaludNatural.pdf" target="_new">Programa de Formación</a>
+              </p>
+              <p>Si estás interesado, no olvides reservar tu plaza en <a href="https://tienda.ecoencuentro.es/nutricion-energetica-salud-natural" target="_new">www.ecoencuentro.es</a>
+              </p>
+            {%else%}
+              {% if page.localizacion =='Acal Bio Food, c/ Del Potro n°7, Arroyomolinos (Madrid)' %}
+                        <p>Si estás interesado, no olvides reservar tu plaza. Nati Alcázar
+                          661614603/916897337
+                        </p>
+              {%else%}
+                  {%if page.localizacion =='ECOENCUENTRO, c/Las Norias n°80, Majadahonda (Madrid)'%}
+                    <p>Si estás interesado, no olvides reservar tu plaza en <a href="{{page.link}}" target="_new">www.ecoencuentro.es</a>
+                    </p>
+
+                      {%  if page.name=='Taller- Desayunos Saludables'%}
+                                  <p>Si estás interesado, no olvides reservar tu plaza en <a href="https://tienda.ecoencuentro.es/taller-desayunos-saludables" target="_new">www.ecoencuentro.es</a>
+                                  </p>
+                      {%else%}
+                      {% if page.name=='Presentación de la Formación: NUTRICIÓN ENERGÉTICA & SALUD NATURAL'%}
+                                  <p>Si estás interesado, no olvides reservar tu plaza en <a href="https://tienda.ecoencuentro.es/presentacion-gratuita-nutricion-energetica-salud-natural" target="_new">www.ecoencuentro.es</a>
+                                  </p>
+
+                      {%else%}
+                      {% if page.name=='COCINA DE LA ABUELA SANA Y NATURAL'%}
+                                  <p>Si estás interesado, no olvides reservar tu plaza en <a href="https://ecoencuentro.es/taller/modulo-5-cocina-de-la-abuela-sana-y-natural/" target="_new">www.ecoencuentro.es</a>
+                                  </p>
+
+                      {%else%}
+                      {% if page.name=='LA SALUD EMOCIONAL. LA ALIMENTACIÓN Y LAS EMOCIONES'%}
+                                  <p>Si estás interesado, no olvides reservar tu plaza en <a href="https://ecoencuentro.es/taller/modulo-6-la-salud-emocional-la-alimentacion-y-las-emociones/" target="_new">www.ecoencuentro.es</a>
+                                  </p>
+
+                      {%else%}
+                                  <p>Si estás interesado, no olvides reservar tu plaza en <a href="https://www.ecoencuentro.es" target="_new">www.ecoencuentro.es</a>
+                                  </p>
+                      {%endif%}
+                      {%endif%}
+                      {%endif%}
+                      {%endif%}
+                      {%else%}
+
+
+                    <p>Si estás interesado, no olvides
+                      <a href="mailto:estilodevida@salud-zen.com?Subject=Reserva%20de%20Plaza: {{ page.name}} {{page.date|date: '%d-%-m-%Y' }}&body=Me gustaría reservar una plaza para: {{page.title}}  {{ page.date_text}}. Mis datos Personales son:%0A%0A   -Nombre:%0A%0A   -Apellidos:%0A%0A   -Fecha de nacimiento:%0A%0A   -Teléfono:%0A%0A    -Correo Electrónico:%0A%0A">reservar tu plaza</a>.
+                    </p>
+                {%endif%}
+
+            {%endif%}
+            {%endif%}-->
+            <hr>
+            <!--</div>-->
+            <div class="row" style="padding: 30px;">
+              <div class="col-md-12 col-sm-12">
+                <div class="block">
+                <p>Si estás interesado, puedes <b>reservar tu plaza para el curso</b> a través del siguiente formulario:</p>
+              </div><!--block-->
+            </div><!--col-->
+          </div>
+            <div class="block">
+              <div class="col-md-12 col-sm-12">
+
+                <div class= "event">
+                  <b>CURSO</b>:<br>
+                  {{ page.title2 }}
+                </div>
+              <div class="post-info-wrapper">
+                <p class="italic"> <span class="bold">{{ page.date_text}}</span>  <span class="bold">{{ page.horario }}</span> en {{ page.localizacion }}</p>
+              </div>
+              </div >
+            </div>
+
+
+
+              <form action="https://formsubmit.co/5331cdbc0b96b3ce22ef475bc4ecc02e" target="_blank" method="POST" >
+                <div class="block">
+                  <div class="col-md-6 col-sm-12">
+
+
+                  <input type="hidden" name="_next" value="{{ page.link}}" />
+                  <input type="hidden" name="_subject" value="Curso - {{ page.name}} {{page.date|date: '%d-%-m-%Y' }} " />
+
+                  <input type="hidden" class="form-control" placeholder="Asunto" name="Asunto" value="Curso: {{ page.name}} {{page.date|date: '%d-%-m-%Y' }}" readonly required>
+
+                  <input type="text" name="_gotcha" tabindex="-1" autocomplete="off" aria-hidden="true" style="display:none">
+                  <div class="form-group">
+                    <label for="event-secondary-name">Nombre *</label>
+                    <input id="event-secondary-name" type="text" class="form-control" placeholder="Nombre y apellidos" name="Nombre" minlength="2" maxlength="80" autocomplete="name" required>
+                  </div>
+
+                  <div class="form-group">
+                    <label for="event-secondary-email">Correo electrónico *</label>
+                    <input id="event-secondary-email" type="email" class="form-control" placeholder="nombre@ejemplo.com" name="Correo Electrónico" maxlength="254" autocomplete="email" required>
+                  </div>
+
+                  <div class="form-group">
+                    <label for="event-secondary-phone">Teléfono *</label>
+                    <input id="event-secondary-phone" type="tel" class="form-control" placeholder="600 000 000" name="Telefono" inputmode="tel" autocomplete="tel" pattern="[0-9+\(\) .\-]{9,20}" minlength="9" maxlength="20" required>
+                  </div>
+                </div><!--block-->
+              </div><!--col-->
+              <div class="block">
+                <div class="col-md-6 col-sm-12">
+                  <div class="form-group">
+                    <label for="event-secondary-message">Mensaje</label>
+                    <textarea id="event-secondary-message" class="form-control" rows="4" placeholder="Información adicional" name="mensaje" maxlength="1000"></textarea>
+                  </div>
+                  <input id="event-secondary-privacy" name="verifica" type="checkbox" required>
+                  <label for="event-secondary-privacy">Acepto la <a href="{{ '/politicapd/' | relative_url }}" target="_blank" rel="noopener noreferrer">Política de Privacidad</a>.</label>
+                  <p class="help-block">El envío de esta reserva se procesa mediante FormSubmit.</p>
+                </div><!--block-->
+              </div><!--col-->
+              <div class="block">
+                <div class="col-md-12 col-sm-12">
+                  <center>
+                    <br>
+                    <br>
+                    <div class="event"><button type="submit">Reserva Plaza</button></div>
+                  </center>
+                </div><!--block-->
+              </div><!--col-->
+            </form>
+
+          <!--</div>row-->
+
+
+
+
+          <br>
+          <br>
+            <p>Si tienes alguna consulta, ponte en <a href="{{site.url}}{{site.baseurl}}/contact">contacto</a> con nosotros</p>
+    <!--</div>-->
+  </section>
+</div>
+<p class="center-text" style="padding: 30px;">
+  <a href="{{site.url}}{{ site.baseurl }}/cursos2/">Volver a Cursos</a>
+</p>
