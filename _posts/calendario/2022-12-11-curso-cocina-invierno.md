@@ -13,7 +13,7 @@ date_imparticion: 11-12-2022
 horario: Domingo de 09 - 18 horas
 localizacion: ECOENCUENTRO, c/Las Norias n°80, Majadahonda (Madrid)
 author: Salud-Zen
-image: img/eventos/111222CocinaInvierno.jpg
+image: img/eventos/111222CocinaInvierno_web.jpg
 image_prop: img/eventos/111222CocinaInvierno_prop.jpg
 image2:
 link: https://ecoencuentro.es/taller/modulo-4-nutricion-energetica-y-cocina-macrobiotica-para-el-invierno/

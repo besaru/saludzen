@@ -13,7 +13,7 @@ date_imparticion: 23-10-2022
 horario: Domingo de 09 - 18 horas
 localizacion: ECOENCUENTRO, c/Las Norias n°80, Majadahonda (Madrid)
 author: Salud-Zen
-image: img/eventos/231022CocinaOtono.jpg
+image: img/eventos/231022CocinaOtono_web.jpg
 image_prop: img/eventos/231022CocinaOtono_prop.jpg
 image2:
 ---

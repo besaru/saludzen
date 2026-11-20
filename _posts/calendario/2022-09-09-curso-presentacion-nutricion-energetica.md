@@ -13,7 +13,7 @@ date_imparticion: 09-09-2022
 horario: Viernes a las 19:00 horas
 localizacion: Acal Bio Food, c/ Del Potro n°7, Arroyomolinos (Madrid)
 author: Salud-Zen
-image: img/eventos/PresentacionNutricionEnergetica.jpg
-image_prop: img/eventos/PresentacionNutricionEnergetica_prop.jpg
+image: img/eventos/PresentacionNutricionEnergetica_web.jpg
+image_prop: img/eventos/PresentacionNutricionEnergetica_prop_web.jpg
 image2:
 ---

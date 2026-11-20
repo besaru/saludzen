@@ -13,7 +13,7 @@ date_imparticion: 08-09-2022
 horario: Jueves a las 20:00 horas
 localizacion: ECOENCUENTRO, c/Las Norias n°80, Majadahonda (Madrid)
 author: Salud-Zen
-image: img/eventos/PresentacionNutricionEnergetica.jpg
-image_prop: img/eventos/PresentacionNutricionEnergetica_prop.jpg
+image: img/eventos/PresentacionNutricionEnergetica_web.jpg
+image_prop: img/eventos/PresentacionNutricionEnergetica_prop_web.jpg
 image2:
 ---

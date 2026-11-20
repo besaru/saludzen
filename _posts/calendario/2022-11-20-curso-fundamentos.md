@@ -13,7 +13,7 @@ date_imparticion: 20-11-2022
 horario: Domingo de 09 - 18 horas
 localizacion: ECOENCUENTRO, c/Las Norias n°80, Majadahonda (Madrid)
 author: Salud-Zen
-image: img/eventos/201122Fundamentos.jpg
+image: img/eventos/201122Fundamentos_web.jpg
 image_prop: img/eventos/201122Fundamentos_prop.jpg
 image2:
 ---
