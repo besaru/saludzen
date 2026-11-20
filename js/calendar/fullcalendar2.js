@@ -1318,7 +1318,7 @@
                "end": "2023-09-24 19:00:00",
                "start": "2023-09-24 09:00:00",
                "className": "macrobiotica",
-               "url":"..evento/2023/09/24/curso-salud-estomago.html"
+               "url":"../evento/2023/09/24/curso-salud-estomago.html"
            },
           {
                 "allDay": "false",
@@ -1328,7 +1328,7 @@
                 "end": "2023-11-12 19:00:00",
                 "start": "2023-11-12 09:00:00",
                 "className": "macrobiotica",
-                "url":"..evento/2023/11/12/curso-salud-pulmones.html"
+                "url":"../evento/2023/11/12/curso-salud-pulmones.html"
             },
            {
                  "allDay": "false",
@@ -1338,7 +1338,7 @@
                  "end": "2023-10-22 19:00:00",
                  "start": "2023-10-22 09:00:00",
                  "className": "macrobiotica",
-                 "url":"..evento/2023/10/22/curso-platos.html"
+                 "url":"../evento/2023/10/22/curso-platos.html"
              },
             {
                   "allDay": "false",
@@ -1348,7 +1348,7 @@
                   "end": "2023-12-17 18:00:00",
                   "start": "2023-12-17 09:00:00",
                   "className": "macrobiotica",
-                  "url":"..evento/2023/12/17/curso-navidad.html"
+                  "url":"../evento/2023/12/17/curso-navidad.html"
               }
               ,
              {
@@ -1359,7 +1359,7 @@
                    "end": "2024-01-14 19:00:00",
                    "start": "2024-01-14 09:00:00",
                    "className": "macrobiotica",
-                   "url":"..evento/2024/01/14/curso-salud-rinones.html"
+                   "url":"../evento/2024/01/14/curso-salud-rinones.html"
                }
                ,
               {
@@ -1370,7 +1370,7 @@
                     "end": "2024-02-04 19:00:00",
                     "start": "2024-02-04 09:00:00",
                     "className": "macrobiotica",
-                    "url":"..evento/2024/02/04/curso-salud-genital.html"
+                    "url":"../evento/2024/02/04/curso-salud-genital.html"
                 }
                 ,
                {
@@ -1381,7 +1381,7 @@
                      "end": "2024-03-03 19:00:00",
                      "start": "2024-03-03 09:00:00",
                      "className": "macrobiotica",
-                     "url":"..evento/2024/03/03/curso-salud-higado.html"
+                     "url":"../evento/2024/03/03/curso-salud-higado.html"
                  }
                  ,
                 {
@@ -1392,7 +1392,7 @@
                       "end": "2024-04-14 19:00:00",
                       "start": "2024-04-14 09:00:00",
                       "className": "macrobiotica",
-                      "url":"..evento/2024/04/14/curso-fitoterapia.html"
+                      "url":"../evento/2024/04/14/curso-fitoterapia.html"
                   }
                   ,
                  {
@@ -1403,7 +1403,7 @@
                        "end": "2024-05-26 19:00:00",
                        "start": "2024-05-26 09:00:00",
                        "className": "macrobiotica",
-                       "url":"..evento/2024/05/26/curso-familia.html"
+                       "url":"../evento/2024/05/26/curso-familia.html"
                    }
                    ,
                   {
@@ -1414,10 +1414,372 @@
                         "end": "2024-06-09 19:00:00",
                         "start": "2024-06-09 09:00:00",
                         "className": "macrobiotica",
-                        "url":"..evento/2024/06/09/curso-corazon.html"
+                        "url":"../evento/2024/06/09/curso-corazon.html"
                     }
+                    ,
+                    {
+                          "allDay": "false",
+                          "title": "NUTRICIÓN ENERGÉTICA ACTIVIDAD FÍSICA Y DEPORTE",
+                          "name":"NUTRICIÓN ENERGÉTICA ACTIVIDAD FÍSICA Y DEPORTE",
+                          "id": "C0001",
+                          "end": "2024-09-15 19:00:00",
+                          "start": "2024-09-15 09:00:00",
+                          "className": "macrobiotica",
+                          "url":"../evento/2024/09/15/curso-actividad-fisica.html"
+                      }
+                      ,
+                    {
+                          "allDay": "false",
+                          "title": "LA SALUD DEL SISTEMA INMUNE",
+                          "name":"LA SALUD DEL SISTEMA INMUNE",
+                          "id": "C0001",
+                          "end": "2024-10-06 19:00:00",
+                          "start": "2024-10-06 09:00:00",
+                          "className": "macrobiotica",
+                          "url":"../evento/2024/10/06/curso-salud-sistema-inmune.html"
+                      }
+                      ,
+                      {
+                            "allDay": "false",
+                            "title": "Introducción a la Nutrición Energética & Cocina Macrobiótica",
+                            "name":"Introducción a la Nutrición Energética & Cocina Macrobiótica",
+                            "id": "C0001",
+                            "end": "2024-10-13 19:00:00",
+                            "start": "2024-10-13 09:00:00",
+                            "className": "macrobiotica",
+                            "url":"../evento/2024/10/13/curso-nutricion-energetica-cocina-macrobiotica.html"
+                        }
+                        ,
+                      {
+                            "allDay": "false",
+                            "title": "La Salud del Sistema Nervioso y Endocrino.",
+                            "name":"La Salud del Sistema Nervioso y Endocrino.Cómo Equilibrar la Mente y las Emociones",
+                            "id": "C0001",
+                            "end": "2024-11-10 19:00:00",
+                            "start": "2024-11-10 09:00:00",
+                            "className": "macrobiotica",
+                            "url":"../evento/2024/11/10/curso-salud-sistema-nervioso-endocrino.html"
+                        }
+                        ,
+                        {
+                              "allDay": "false",
+                              "title": "Chi Kung",
+                              "name":"Chi Kung - Tao Curativo. Bioenergética taoísta",
+                              "id": "C0001",
+                              "end": "2024-12-15 19:00:00",
+                              "start": "2024-12-15 09:00:00",
+                              "className": "macrobiotica",
+                              "url":"../evento/2024/12/15/curso-chi-kung-tao-curativo.html"
+                          }
+                          ,
+                          {
+                                "allDay": "false",
+                                "title": "Abordaje Holístico en Enfermedades",
+                                "name":"Abordaje Holístico en Enfermedades Crónicas Inflamatorias y Degenerativas",
+                                "id": "C0001",
+                                "end": "2024-12-15 19:00:00",
+                                "start": "2024-12-15 09:00:00",
+                                "className": "macrobiotica",
+                                "url":"../evento/2025/01/19/curso-enfermedades-cronicas.html"
+                            }
+                            ,
+                            {
+                                  "allDay": "false",
+                                  "title": "Abordaje Holístico en Enfermedades",
+                                  "name":"Abordaje Holístico en Enfermedades Crónicas Inflamatorias y Degenerativas",
+                                  "id": "C0001",
+                                  "end": "2025-01-19 19:00:00",
+                                  "start": "2025-01-19 09:00:00",
+                                  "className": "macrobiotica",
+                                  "url":"../evento/2025/01/19/curso-enfermedades-cronicas.html"
+                              }
+                              ,
+                              {
+                                    "allDay": "false",
+                                    "title": "Visión Holística del Cáncer",
+                                    "name":"Visión Holística del Cáncer",
+                                    "id": "C0001",
+                                    "end": "2025-02-02 19:00:00",
+                                    "start": "2025-02-02 09:00:00",
+                                    "className": "macrobiotica",
+                                    "url":"../evento/2025/02/02/curso-vision-holistica-cancer.html"
+                                }
+                                ,
+                                {
+                                      "allDay": "false",
+                                      "title": "Diagnóstico Natural y Oriental",
+                                      "name":"Diagnóstico Natural y Oriental ¿Cómo Leer el Cuerpo e Interpretar sus Señales?",
+                                      "id": "C0001",
+                                      "end": "2025-03-16 19:00:00",
+                                      "start": "2025-03-16 09:00:00",
+                                      "className": "macrobiotica",
+                                      "url":"../evento/2025/03/16/curso-diagnostico-natural-oriental.html"
+                                  }
+                                  ,
+                                  {
+                                        "allDay": "false",
+                                        "title": "Iridología. Diagnóstico por el Iris.",
+                                        "name":"Iridología. Diagnóstico por el Iris.",
+                                        "id": "C0001",
+                                        "end": "2025-04-27 19:00:00",
+                                        "start": "2025-04-27 09:00:00",
+                                        "className": "macrobiotica",
+                                        "url":"../evento/2025/04/27/curso-iridologia-diagnostico-por-el-iris.html"
+                                    }
+                                    ,
+                                    {
+                                        "allDay": "false",
+                                        "title": "BIOHACKING & REACTIVACIÓN CELULAR",
+                                        "name":"BIOHACKING & REACTIVACIÓN CELULAR",
+                                        "id": "C0001",
+                                        "end": "2025-05-09 20:30:00",
+                                        "start": "2025-05-09 18:30:00",
+                                        "className": "macrobiotica",
+                                        "url":"../evento/2025/05/09/conferencia-biohacking-reactivacion-celular.html"
+                                    }
+                                    ,
+                                    {
+                                          "allDay": "false",
+                                          "title": "Interpretación de Analíticas de Sangre",
+                                          "name":"Interpretación de Analíticas de Sangre",
+                                          "id": "C0001",
+                                          "end": "2025-05-11 19:00:00",
+                                          "start": "2025-05-11 09:00:00",
+                                          "className": "macrobiotica",
+                                          "url":"../evento/2025/05/11/curso-interpretacion-analiticas-sangre.html"
+                                      }
+                                      ,
+                                      {
+                                            "allDay": "false",
+                                            "title": "¿Cómo guiar una consulta?",
+                                            "name":"¿Cómo guiar una consulta? Prácticas con casos clínicos y pacientes reales.",
+                                            "id": "C0001",
+                                            "end": "2025-05-25 19:00:00",
+                                            "start": "2025-05-25 09:00:00",
+                                            "className": "macrobiotica",
+                                            "url":"../evento/2025/05/25/curso-guiar-consulta-practicas-clinicas.html"
+                                        },
+                                        {
+                                            "allDay": "false",
+                                            "title": "Masaje Facial Japonés 1-2",
+                                            "name": "Masaje Kobido. Reflexología de la Cara. Lifting y Rejuvenecimiento Facial.",
+                                            "id": "C0002",
+                                            "end": "2025-09-21 18:00:00",
+                                            "start": "2025-09-21 09:00:00",
+                                            "className": "terapias",
+                                            "url": "../evento/2025/09/21/curso-masaje-facial-japones1-2.html"
+                                        },
 
-
+                                        {
+                                            "allDay": "false",
+                                            "title": "Masaje Facial Japonés 2-2",
+                                            "name": "Masaje Kobido. Reflexología de la Cara. Lifting y Rejuvenecimiento Facial.",
+                                            "id": "C0003",
+                                            "end": "2025-10-19 18:00:00",
+                                            "start": "2025-10-19 09:00:00",
+                                            "className": "terapias",
+                                            "url": "../evento/2025/09/21/curso-masaje-facial-japones1-2.html"
+                                        },
+                                        {
+                                            "allDay": "false",
+                                            "title": "Chi Nei Tsang 1-2",
+                                            "name": "Masaje Terapéutico de Órganos Internos & Osteopatía Visceral",
+                                            "id": "C0004",
+                                            "end": "2025-11-23 18:00:00",
+                                            "start": "2025-11-23 09:00:00",
+                                            "className": "terapias",
+                                            "url": "../evento/2025/11/23/curso-chi-nei-tsang1-2.html"
+                                        },
+                                        {
+                                            "allDay": "false",
+                                            "title": "Chi Nei Tsang 2-2",
+                                            "name": "Masaje Terapéutico de Órganos Internos & Osteopatía Visceral",
+                                            "id": "C0005",
+                                            "end": "2025-12-14 18:00:00",
+                                            "start": "2025-12-14 09:00:00",
+                                            "className": "terapias",
+                                            "url": "../evento/2025/11/23/curso-chi-nei-tsang1-2.html"
+                                        },
+                                        {
+                                            "allDay": "false",
+                                            "title": "Masaje Metamórfico 1-2",
+                                            "name": "Masaje Metamórfico. Energía, Emoción, Cromoterapia y Principios Universales.",
+                                            "id": "C0006",
+                                            "end": "2026-01-18 18:00:00",
+                                            "start": "2026-01-18 09:00:00",
+                                            "className": "terapias",
+                                            "url": "../evento/2026/01/18/curso-masaje-metamorfico1-2.html"
+                                        },
+                                        {
+                                            "allDay": "false",
+                                            "title": "Masaje Metamórfico 2-2",
+                                            "name": "Masaje Metamórfico. Energía, Emoción, Cromoterapia y Principios Universales.",
+                                            "id": "C0007",
+                                            "end": "2026-02-08 18:00:00",
+                                            "start": "2026-02-08 09:00:00",
+                                            "className": "terapias",
+                                            "url": "../evento/2026/01/18/curso-masaje-metamorfico1-2.html"
+                                        },
+                                        {
+                                            "allDay": "false",
+                                            "title": "Reflexología Podal Holística 1-5",
+                                            "name": "Reflexología Podal Holística. Enfoque Físico, Emocional y Energético.",
+                                            "id": "C0008",
+                                            "end": "2026-03-01 18:00:00",
+                                            "start": "2026-03-01 09:00:00",
+                                            "className": "terapias",
+                                            "url": "../evento/2026/03/01/curso-reflexologia-podal-holistica1-5.html"
+                                        },
+                                        {
+                                            "allDay": "false",
+                                            "title": "Reflexología Podal Holística 2-5",
+                                            "name": "Reflexología Podal Holística. Enfoque Físico, Emocional y Energético.",
+                                            "id": "C0009",
+                                            "end": "2026-04-12 18:00:00",
+                                            "start": "2026-04-12 09:00:00",
+                                            "className": "terapias",
+                                            "url": "../evento/2026/03/01/curso-reflexologia-podal-holistica1-5.html"
+                                        },
+                                        {
+                                            "allDay": "false",
+                                            "title": "Reflexología Podal Holística 3-5",
+                                            "name": "Reflexología Podal Holística. Enfoque Físico, Emocional y Energético.",
+                                            "id": "C0010",
+                                            "end": "2026-05-17 18:00:00",
+                                            "start": "2026-05-17 09:00:00",
+                                            "className": "terapias",
+                                            "url": "../evento/2026/03/01/curso-reflexologia-podal-holistica1-5.html"
+                                        },
+                                        {
+                                            "allDay": "false",
+                                            "title": "Reflexología Podal Holística 4-5",
+                                            "name": "Reflexología Podal Holística. Enfoque Físico, Emocional y Energético.",
+                                            "id": "C0011",
+                                            "end": "2026-06-14 18:00:00",
+                                            "start": "2026-06-14 09:00:00",
+                                            "className": "terapias",
+                                            "url": "../evento/2026/03/01/curso-reflexologia-podal-holistica1-5.html"
+                                        },
+                                        {
+                                            "allDay": "false",
+                                            "title": "Reflexología Podal Holística 5-5",
+                                            "name": "Reflexología Podal Holística. Enfoque Físico, Emocional y Energético.",
+                                            "id": "C0012",
+                                            "end": "2026-06-28 18:00:00",
+                                            "start": "2026-06-28 09:00:00",
+                                            "className": "terapias",
+                                            "url": "../evento/2026/03/01/curso-reflexologia-podal-holistica1-5.html"
+                                        },
+                                        {
+                                            "allDay": "false",
+                                            "title": "Terapia Sacro Craneal 1-2",
+                                            "name": "Terapia Sacro Craneal",
+                                            "id": "C0013",
+                                            "end": "2026-09-27 18:00:00",
+                                            "start": "2026-09-27 09:00:00",
+                                            "className": "terapias",
+                                            "url": "../evento/2026/09/27/curso-sacro-craneal1-2.html"
+                                        },
+                                        {
+                                            "allDay": "false",
+                                            "title": "Terapia Sacro Craneal 2-2",
+                                            "name": "Terapia Sacro Craneal",
+                                            "id": "C0014",
+                                            "end": "2026-10-18 18:00:00",
+                                            "start": "2026-10-18 09:00:00",
+                                            "className": "terapias",
+                                            "url": "../evento/2026/09/27/curso-sacro-craneal1-2.html"
+                                        },
+                                        {
+                                            "allDay": "false",
+                                            "title": "Bioenergética",
+                                            "name": "Bioenergética",
+                                            "id": "C0015",
+                                            "end": "2026-11-08 18:00:00",
+                                            "start": "2026-11-08 09:00:00",
+                                            "className": "terapias",
+                                            "url": "../evento/2026/11/08/curso-bioenergetica.html"
+                                        },
+                                        {
+                                            "allDay": "false",
+                                            "title": "Auriculoterapia 1-2",
+                                            "name": "Auriculoterapia",
+                                            "id": "C0016",
+                                            "end": "2026-12-13 18:00:00",
+                                            "start": "2026-12-13 09:00:00",
+                                            "className": "terapias",
+                                            "url": "../evento/2026/12/13/curso-auriculoterapia1-2.html"
+                                        },
+                                        {
+                                            "allDay": "false",
+                                            "title": "Auriculoterapia 2-2",
+                                            "name": "Auriculoterapia",
+                                            "id": "C0017",
+                                            "end": "2027-01-17 18:00:00",
+                                            "start": "2027-01-17 09:00:00",
+                                            "className": "terapias",
+                                            "url": "../evento/2026/12/13/curso-auriculoterapia1-2.html"
+                                        },
+                                        {
+                                            "allDay": "false",
+                                            "title": "Acupuntura Clínica 1-6",
+                                            "name": "Acupuntura Clínica",
+                                            "id": "C0018",
+                                            "end": "2027-02-21 18:00:00",
+                                            "start": "2027-02-21 09:00:00",
+                                            "className": "terapias",
+                                            "url": "../evento/2027/02/21/curso-acupuntura-clinica1-6.html"
+                                        },
+                                        {
+                                            "allDay": "false",
+                                            "title": "Acupuntura Clínica 2-6",
+                                            "name": "Acupuntura Clínica",
+                                            "id": "C0019",
+                                            "end": "2027-03-07 18:00:00",
+                                            "start": "2027-03-07 09:00:00",
+                                            "className": "terapias",
+                                            "url": "../evento/2027/02/21/curso-acupuntura-clinica1-6.html"
+                                        },
+                                        {
+                                            "allDay": "false",
+                                            "title": "Acupuntura Clínica 3-6",
+                                            "name": "Acupuntura Clínica",
+                                            "id": "C0020",
+                                            "end": "2027-04-11 18:00:00",
+                                            "start": "2027-04-11 09:00:00",
+                                            "className": "terapias",
+                                            "url": "../evento/2027/02/21/curso-acupuntura-clinica1-6.html"
+                                        },
+                                        {
+                                            "allDay": "false",
+                                            "title": "Acupuntura Clínica 4-6",
+                                            "name": "Acupuntura Clínica",
+                                            "id": "C0021",
+                                            "end": "2027-05-16 18:00:00",
+                                            "start": "2027-05-16 09:00:00",
+                                            "className": "terapias",
+                                            "url": "../evento/2027/02/21/curso-acupuntura-clinica1-6.html"
+                                        },
+                                        {
+                                            "allDay": "false",
+                                            "title": "Acupuntura Clínica 5-6",
+                                            "name": "Acupuntura Clínica",
+                                            "id": "C0022",
+                                            "end": "2027-06-06 18:00:00",
+                                            "start": "2027-06-06 09:00:00",
+                                            "className": "terapias",
+                                            "url": "../evento/2027/02/21/curso-acupuntura-clinica1-6.html"
+                                        },
+                                        {
+                                            "allDay": "false",
+                                            "title": "Acupuntura Clínica 6-6",
+                                            "name": "Acupuntura Clínica",
+                                            "id": "C0023",
+                                            "end": "2027-06-20 18:00:00",
+                                            "start": "2027-06-20 09:00:00",
+                                            "className": "terapias",
+                                            "url": "../evento/2027/02/20/curso-acupuntura-clinica1-6.html"
+                                        }
 
      ]
 ,
@@ -1432,55 +1794,4 @@
      				$('#loading').toggle(bool);
      			}
       });
-  });
-
-/*
- 			// THIS KEY WON'T WORK IN PRODUCTION!!!
- 			// To make your own Google API key, follow the directions here:
- 			// http://fullcalendar.io/docs/google_calendar/
- 		 googleCalendarApiKey:'AIzaSyAAMhWuXaPjEI8YafyvRze8uPUQEXJ0elc',
-      // US Holidays
- 		eventSources: [ {
-            googleCalendarId:'ggm4elj55rqd72jiveg21vrk9o@group.calendar.google.com',
-            className: 'proyecto'
-          },
-          {
-            googleCalendarId:'n6uqmliu0no52mjea6qn4cnehs@group.calendar.google.com',
-            className: 'terapias'
-          },
-          {
-          googleCalendarId:'fnjqbdufufr0ek0on5go20as3c@group.calendar.google.com',
-          className: 'macrobiotica'
-        },
-        {
-        googleCalendarId:'nn88r760s9rncnho1j4dt1ua08@group.calendar.google.com',
-        className: 'biodanza'
-      }
-
-
-             ],
-
-    //  'en.usa#holiday@group.v.calendar.google.com',
-      //ggm4elj55rqd72jiveg21vrk9o@group.calendar.google.com
- 			eventClick: function(event) {
- 				// opens events in a popup window
- 				window.open(event.url, 'gcalevent', 'width=700,height=600');
- 				return false;
- 			},
-
- 			loading: function(bool) {
- 				$('#loading').toggle(bool);
- 			}
-
- 		});
-
- 	});
-
-*/
-/*
-//  $('#calendar').fullCalendar({
-
-//    eventSources: [
-//        '../js/calendar/source.json'
-//    ],
-//  });*/
+	  });
