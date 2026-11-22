@@ -5,101 +5,103 @@ permalink: /contact/
 ---
 
 <!-- Slider Start -->
-<section id="global-header">
+<section id="global-header-contacto">
+  <section id="global-header">
   <div class="container">
     <div class="row">
       <div class="col-md-12">
         <div class="block">
           <h1>Déjanos tu consulta</h1>
-          <p>A través del siguiente formulario puedes ponerte en contacto con nosotros y no olvides ver los próximos eventos en nuestra agenda</p>
+          <p>A través del siguiente formulario puedes ponerte en contacto con nosotros </p>
         </div>
       </div>
     </div>
   </div>
+</section>
 </section>
 
 <!-- contact form start -->
 <section id="contact-form">
   <div class="container">
+
     <div class="row">
-      <form action="https://formspree.io/besaru@gmail.com"
-            method="POST">
-      <div class="col-md-6 col-sm-12">
+      <!--  <form action="https://formspree.io/f/xaygjdyk" method="POST">-->
+      <form action="https://formspree.io/f/xaygjdyk" method="POST">
         <div class="block">
+        <div class="col-sm-12 col-md-6 ">
 
+          <!--<input type="hidden" name="_next" value="{{ page.link}}" />
+          <input type="hidden" name="_next" value="{{site.url}}{{site.baseurl}}/contact" />
+        -->
 
+          <input type="hidden" name="_blacklist" value="spammy pattern, banned term, phrase">
+          <input type="text" name="_gotcha" tabindex="-1" autocomplete="off" aria-hidden="true" style="display:none">
+          <div class="form-group">
+            <label for="contact-name">Nombre *</label>
+            <input id="contact-name" type="text" class="form-control" placeholder="Nombre y apellidos" name="Nombre" minlength="2" maxlength="80" autocomplete="name" required>
+          </div>
 
-
-            <div class="form-group">
-              <input type="text" class="form-control" placeholder="Nombre" name="Nombre">
-            </div>
-            <div class="form-group">
-              <input type="text" class="form-control" placeholder="Correo Electrónico" name="Correo Electrónico">
-            </div>
-            <div class="form-group">
-              <input type="text" class="form-control" placeholder="Asunto" name="Asunto">
-            </div>
-      <!--    </form> -->
-
+          <div class="form-group">
+            <label for="contact-email">Correo electrónico *</label>
+            <input id="contact-email" type="email" class="form-control" placeholder="nombre@ejemplo.com" name="Correo Electrónico" maxlength="254" autocomplete="email" required>
+          </div>
+          <div class="form-group">
+            <label for="contact-subject">Asunto *</label>
+            <input id="contact-subject" type="text" class="form-control" placeholder="Motivo de la consulta" name="Asunto" maxlength="100" required>
+          </div>
+          <div class="form-group">
+            <label for="contact-phone">Teléfono *</label>
+            <input id="contact-phone" type="tel" class="form-control" placeholder="600 000 000" name="Telefono" inputmode="tel" autocomplete="tel" pattern="[0-9+\(\) .\-]{9,20}" minlength="9" maxlength="20" required>
+          </div>
         </div><!--block-->
       </div><!--col-->
-      <div class="col-md-6 col-sm-12">
-        <div class="block">
-<!--
-          <form>-->
-            <div class="form-group-2">
-              <textarea class="form-control" rows="3" placeholder="Mensaje" name="mensaje"></textarea>
-            </div>
-            <button class="btn btn-default" type="submit">Enviar Mensaje</button>
-      <!--    </form>-->
+      <div class="block">
+        <div class="col-sm-12 col-md-6 ">
 
+          <div class="form-group-2">
+            <label for="contact-message">Mensaje *</label>
+            <textarea id="contact-message" class="form-control" rows="4" placeholder="Escribe tu consulta" name="mensaje" maxlength="1000" required></textarea>
+          </div>
+          <input id="contact-privacy" name="verifica" type="checkbox" required>
+          <label for="contact-privacy">Acepto la <a href="{{ '/politicapd/' | relative_url }}" target="_blank" rel="noopener noreferrer">Política de Privacidad</a>.</label>
+          <p class="help-block">El envío de este formulario se procesa mediante Formspree.</p>
+
+            <button class="btn btn-default" type="submit">Enviar Mensaje</button>
         </div><!--block-->
       </div><!--col-->
     </form>
-    </div><!--row-->
+  </div><!--row-->
+</div><!--container-->
+</section>
 
-    <div id="contact-box" class="row">
+ <section id="contact-box">
+  <div class="container">
+    <div  class="row">
       <h2>Información de Contacto</h2>
-
         <div class="col-md-6 col-sm-12">
           <div class="block">
-
+            <br>
             <ul class="address-block">
               <li>
-                <i class="fa fa-map-marker"></i><b>Sede central: </b>C/ Castellón de la Plana, 26 Arroyomolinos
+                <i class="fa fa-map-marker"></i><b>Escuela: </b>C/ Castellón de la Plana, 26 Arroyomolinos
               </li>
-              <li>
+              <!--<li>
                 <i class="fa fa-map-marker"></i><b>Sede adscrita: </b>Carretera de Guadarrama, 70 Alpedrete
               </li>
+              <br>-->
               <li>
-                <i class="fa fa-envelope-o"></i>Email: <a href="estilodevida@salud-zen.com">estilodevida@salud-zen.com</a>
+                <i class="fa fa-envelope-o"></i>Email: <a href="mailto:estilodevida@salud-zen.com">estilodevida@salud-zen.com</a>
               </li>
               <li>
-                <i class="fa fa-phone"></i>Teléfono:+88 01672 506 744
+                <i class="fa fa-phone"></i>Teléfono: Txiki-> 646 17 13 01  <!-- Verónica-> 655 35 04 18-->
               </li>
             </ul>
-
             <ul class="social-icons">
+              Redes Sociales:
               <li>
-                <a href="https://www.facebook.com/saludzen.estilodevida"><i class="fa fa-google"></i></a>
-              </li>
-              <li>
-                <a href="https://www.facebook.com/saludzen.estilodevida"><i class="fa fa-linkedin"></i></a>
-              </li>
-              <li>
-                <a href="https://www.facebook.com/saludzen.estilodevida"><i class="fa fa-pinterest"></i></a>
-              </li>
-              <li>
-                <a href="https://www.facebook.com/saludzen.estilodevida"><i class="fa fa-dribbble"></i></a>
-              </li>
-              <li>
-                <a href="https://www.facebook.com/saludzen.estilodevida"><i class="fa fa-behance"></i></a>
-              </li>
-              <li>
-                <a href="https://www.facebook.com/saludzen.estilodevida"><i class="fa fa-twitter"></i></a>
-              </li>
-              <li>
-                <a href="https://www.facebook.com/saludzen.estilodevida"><i class="fa fa-facebook"></i></a>
+                <a href="https://www.facebook.com/saludzen.estilodevida" target="_blank" rel="noopener noreferrer" aria-label="Salud-Zen en Facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                <a href="https://www.instagram.com/saludzen/" target="_blank" rel="noopener noreferrer" aria-label="Salud-Zen en Instagram"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+                <a href="https://www.youtube.com/channel/UCs2wmo-ncBA5mm8atYrnzMQ" target="_blank" rel="noopener noreferrer" aria-label="Salud-Zen en YouTube"><i class="fa fa-youtube" aria-hidden="true"></i></a>
               </li>
             </ul>
 
@@ -110,82 +112,49 @@ permalink: /contact/
           <div class="block">
             <ul class="address-block">
               <li>
-                <img src="{{ site.url }}{{ site.baseurl }}/img/instalaciones1.jpg" alt="Instalaciones">
-
+                {% if site.data.instalaciones.size > 0 %}
+                <div class="testimonial-carousel">
+                  <div id="testimonial-slider" class="owl-carousel">
+                    {% for instalaciones in site.data.instalaciones %}
+                    <div>
+                       <p><span>{{ instalaciones.name }}</span>: {{ instalaciones.title }}</p>
+                       <img loading="lazy" decoding="async" src="{{ site.url }}{{ site.baseurl }}/{{ instalaciones.image }}" alt="Instalaciones-{{instalaciones.name}}">
+                    </div>
+                    {% endfor %}
+                  </div>
+                </div>
+                {% endif %}
               </li>
-
             </ul>
           </div>
         </div>
-
-<!--
-        <div class="col-md-12 col-sm-12">
-          <div class="block">
-          <ul class="social-icons">
-            <li>
-              <a href="https://www.facebook.com/saludzen.estilodevida"><i class="fa fa-google"></i></a>
-            </li>
-            <li>
-              <a href="https://www.facebook.com/saludzen.estilodevida"><i class="fa fa-linkedin"></i></a>
-            </li>
-            <li>
-              <a href="https://www.facebook.com/saludzen.estilodevida"><i class="fa fa-pinterest"></i></a>
-            </li>
-            <li>
-              <a href="https://www.facebook.com/saludzen.estilodevida"><i class="fa fa-dribbble"></i></a>
-            </li>
-            <li>
-              <a href="https://www.facebook.com/saludzen.estilodevida"><i class="fa fa-behance"></i></a>
-            </li>
-            <li>
-              <a href="https://www.facebook.com/saludzen.estilodevida"><i class="fa fa-twitter"></i></a>
-            </li>
-            <li>
-              <a href="https://www.facebook.com/saludzen.estilodevida"><i class="fa fa-facebook"></i></a>
-            </li>
-          </ul>
-        </div>
       </div>
--->
-      <div id="contact-box" class="row">
-        <h2>Ubicación de las Instalaciones</h2>
+
+      <div class="row">
+        <h2>Ubicación</h2>
           <div class="col-md-6 col-sm-12">
             <div class="block">
               <ul class="address-block">
               <li>
                 <div class="google-map" id="map">
-                  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3044.359482785578!2d-3.9051386847960865!3d40.26776407261012!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd418d616dce1f1f%3A0x46969132270f6d18!2sCalle+de+Castell%C3%B3n+de+la+Plana%2C+26%2C+28939+Arroyomolinos%2C+Madrid!5e0!3m2!1ses!2ses!4v1503453626837" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
-                <!-- <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1paqDGX8jTnZxTiYOt4F-MgDQ-zc" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>-->
+                  <iframe loading="lazy" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3044.359482785578!2d-3.9051386847960865!3d40.26776407261012!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd418d616dce1f1f%3A0x46969132270f6d18!2sCalle+de+Castell%C3%B3n+de+la+Plana%2C+26%2C+28939+Arroyomolinos%2C+Madrid!5e0!3m2!1ses!2ses!4v1503453626837" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
                 </div>
               </li>
             </ul>
           </div>
           </div>
-          <div class="col-md-6 col-sm-12">
+          <!--<div class="col-md-6 col-sm-12">
             <div class="block">
             <ul class="address-block">
               <li>
                 <div class="google-map" id="map">
-                  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3026.7468460686296!2d-4.051454049118161!3d40.657510479236386!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd41734281f5b61b%3A0x1858ebcb32f9339e!2sCalle+Guadarrama%2C+70%2C+28430+Guadarrama%2C+Madrid!5e0!3m2!1ses!2ses!4v1504028676504" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+                  <iframe loading="lazy" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3026.4838401520296!2d-4.050002684950603!3d40.6633070485306!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDDCsDM5JzQ3LjkiTiA0wrAwMic1Mi4xIlc!5e0!3m2!1ses!2ses!4v1519694394695" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
                 </div>
              </li>
            </ul>
-        </div> <!--block-->
-      </div> <!--col-->
-  </div><!--row-->
+        </div>--> <!--block-->
+    <!--  </div>--> <!--col-->
+<!--</div>--><!--row-->
+
 </div><!--container-->
 </section>
-<!-- Call to action Start
-<section id="call-to-action">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-12">
-        <div class="block">
-          <h2>We design delightful digital experiences.</h2>
-          <p>Read more about what we do and our philosophy of design. Judge for yourself The work and results we’ve achieved for other clients, and meet our highly experienced Team who just love to design.</p>
-          <a class="btn btn-default btn-call-to-action" href="#" >Tell Us Your Story</a>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>-->

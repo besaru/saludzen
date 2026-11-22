@@ -1,0 +1,258 @@
+- name: "seminario"
+  id: 1
+  title: "INTRODUCCION: NUTRICION ENERGETICA, SALUD Y COCINA MACROBIOTICA."
+  duration:
+  description:
+  image: "img/eventos/Introduccion_prop.jpg"
+- name: "seminario"
+  id: 2
+  title: "El ORDEN DEL UNIVERSO. Conocimiento Energético y Medicina Vibracional."
+  duration:
+  description:
+  image: "img/eventos/OrdenUniverso.jpg"
+- name: "seminario"
+  id: 3
+  title: "Fundamentos de la MEDICINA ORIENTAL. Ciclo de la Salud."
+  duration:
+  description:
+  image: " "
+- name: "seminario"
+  id: 4
+  title: "Cocina Macrobiótica con VERDURAS Y ALGAS. Estudio Energético de las Verduras del Mar y la Tierra. "
+  duration:
+  description:
+  image: " "
+- name: "seminario"
+  id: 5
+  title: "Cocina Energética y Biodinámica con CEREALES INTEGRALES, LEGUMBRES, SEMILLAS Y FRUTOS SECOS. Estudio Energético de la gran variedad de las verdaderas simientes de la vida."
+  duration:
+  description:
+  image: " "
+- name: "seminario"
+  id: 6
+  title: "Cocina Macrobiótica con PROTEINAS VEGETALES. Estudio Energético de las Proteínas Vegetales y Animales."
+  duration:
+  description:
+  image: " "
+- name: "seminario"
+  id: 7
+  title: "DESAYUNOS ENERGETICOS. Empieza el día con Vitalidad y Energía. "
+  duration:
+  description:
+  image: "img/eventos/DesayunosAlmuerzos.jpg"
+- name: "seminario"
+  id: 8
+  title: "ALMUERZOS & MERIENDAS SALUDABLES."
+  duration:
+  description:
+  image: " "
+- name: "seminario"
+  id: 9
+  title: "POSTRES MACROBIOTICOS SANOS Y NATURALES."
+  duration:
+  description:
+  image: " "
+- name: "seminario"
+  id: 10
+  title: "REMEDIOS NATURALES Y CONDIMENTOS CURATIVOS."
+  duration:
+  description:
+  image: " "
+- name: "seminario"
+  id: 11
+  title: "COCINA DE LA ABUELA SANA Y NATURAL. Cocina Tradicional y Energética."
+  duration:
+  description:
+  image: " "
+- name: "seminario"
+  id: 12
+  title: "COOKING TRAINING. 15 PLATOS EN 2 HORAS. COCINA RAPIDA, SANA Y FACIL"
+  duration:
+  description:
+  image: "img/eventos/CookingTraining.jpg"
+- name: "seminario"
+  id: 13
+  title: "COMIDA SANA PARA LLEVAR. Formas de ahorrar tiempo  en la cocina. Embotados. Cocina Angélica. Preparados para varios días."
+  duration:
+  description:
+  image: " "
+- name: "seminario"
+  id: 14
+  title: "COCINA ENERGETICA CONTINENTAL. 8 Menús: Cocina Libanesa, Griega, Marroquí, Italiana, Japonesa, China, India, Tapas Españolas."
+  duration:
+  description:
+  image: " "
+- name: "seminario"
+  id: 15
+  title: "Alimentación Energética con FERMENTOS CURATIVOS Y SALUDABLES. Miso, Tempeh, Shoyu, Tamari, Natto, Pan con masa madre, Pickles, Encurtidos, Quesos y Yogures veganos."
+  duration:
+  description:
+  image: " "
+- name: "seminario"
+  id: 16
+  title: "COCINA MACROBIOTICA NAVIDEÑA Y FESTIVA. Macrobiótica Gourmet. Recetas Energéticas y Saludables para Navidad."
+  duration:
+  description:
+  image: " "
+- name: "seminario"
+  id: 17
+  title: "ESPECIAL DETOX. Cómo Ayudar al organismo a Limpiar y Descargar lo acumulado durante el Invierno para afrontar la Primavera con Vitalidad y Energía."
+  duration:
+  description:
+  image: " "
+- name: "seminario"
+  id: 18
+  title: "Nutrición Energética y Cocina Macrobiótica para la SALUD DE LAS MAMAS Y NUESTROS HIJOS. Alimentación natural durante el EMBARAZO, la LACTANCIA, la NIÑEZ y la ADOLESCENCIA. Cocina Macrobiótica para la SALUD DE LAS FAMILIAS."
+  duration:
+  description:
+  image: " "
+- name: "seminario"
+  id: 19
+  title: "Nutrición Energética y Cocina Macrobiótica para la SALUD EMOCIONAL. LA ALIMENTACION Y LAS EMOCIONES."
+  duration:
+  description:
+  image: " "
+- name: "seminario"
+  id: 20
+  title: "Estudio de Nuestra CONSTITUCION Y CONDICION."
+  duration:
+  description:
+  image: " "
+- name: "seminario"
+  id: 21
+  title: "NUTRICION ENERGETICA, ACTIVIDAD FISICA Y DEPORTE."
+  duration:
+  description:
+  image: " "
+- name: "seminario"
+  id: 22
+  title: "SETAS MEDICINALES. Su poder Curativo. Manejo y Suplementación con Hongos."
+  duration:
+  description:
+  image: " "
+- name: "seminario"
+  id: 23
+  title: "LIMPIEZA VITAL. EL ARTE DE AYUNAR. OBESIDAD. PERDIDA DE PESO. TRASTORNOS DE LA ALIMENTACION."
+  duration:
+  description:
+  image: " "
+- name: "seminario"
+  id: 24
+  title: "Nutrición Energética, Cocina Macrobiótica y Medicina Oriental para la SALUD DEL SISTEMA INMUNE."
+  duration:
+  description:
+  image: " "
+- name: "seminario"
+  id: 25
+  title: "Nutrición Energética, Cocina Macrobiótica y Medicina Oriental para la SALUD DE LOS SENTIDOS. Visión, Audición, Olfato, Gusto, Boca, Dientes."
+  duration:
+  description:
+  image: " "
+- name: "seminario"
+  id: 26
+  title: "Nutrición Energética, Cocina Macrobiótica y Medicina Oriental para la SALUD DEL SISTEMA NERVIOSO."
+  duration:
+  description:
+  image: " "
+- name: "seminario"
+  id: 27
+  title: "Nutrición Energética, Cocina Macrobiótica y Medicina Oriental para la SALUD DEL EJE ENDOCRINO."
+  duration:
+  description:
+  image: " "
+- name: "seminario"
+  id: 28
+  title: "Nutrición Energética, Cocina Curativa y Medicina Oriental para la SALUD DEL APARATO GENITAL."
+  duration:
+  description:
+  image: " "
+- name: "seminario"
+  id: 29
+  title: "Nutrición Energética, Cocina Curativa y Medicina Oriental en ENFERMEDADES DEGENERATIVAS."
+  duration:
+  description:
+  image: " "
+- name: "seminario"
+  id: 30
+  title: "MEDICINA ORIENTAL DEL ELEMENTO TIERRA. Nutrición Energética y Cocina Macrobiótica para la SALUD DEL ESTOMAGO, BAZO Y PANCREAS."
+  duration:
+  description:
+  image: " "
+- name: "seminario"
+  id: 31
+  title: "Nutrición Energética y Cocina Macrobiótica para el OTOÑO."
+  duration:
+  description:
+  image: " "
+- name: "seminario"
+  id: 32
+  title: "MEDICNA ORIENTAL DEL ELEMENTO METAL. Nutrición Energética y Cocina Macrobiótica para la SALUD DE LOS PULMONES E INTESTINO GRUESO."
+  duration:
+  description:
+  image: " "
+- name: "seminario"
+  id: 33
+  title: "Nutrición Energética y Cocina Macrobiótica para el INVIERNO."
+  duration:
+  description:
+  image: "img/eventos/CocinaInvierno.jpg"
+- name: "seminario"
+  id: 34
+  title: "MEDICINA ORIENTAL DEL ELEMENTO AGUA. Nutrición Energética y Cocina Macrobiótica para la SALUD DE LOS RIÑONES Y VEJIGA."
+  duration:
+  description:
+  image: " "
+- name: "seminario"
+  id: 35
+  title: "Nutrición Energética y Cocina Macrobiótica para la PRIMAVERA."
+  duration:
+  description:
+  image: "img/eventos/CocinaPrimavera.jpg"
+- name: "seminario"
+  id: 36
+  title: "MEDICNA ORIENTAL DEL ELEMENTO MADERA. Nutrición Energética y Cocina Macrobiótica para la SALUD DEL HÍGADO Y LA VESICULA BILIAR."
+  duration:
+  description:
+  image: " "
+- name: "seminario"
+  id: 37
+  title: "Nutrición Energética y Cocina Macrobiótica para el VERANO."
+  duration:
+  description:
+  image: " "
+- name: "seminario"
+  id: 38
+  title: "MEDICNA ORIENTAL DEL ELEMENTO FUEGO. Nutrición Energética y Cocina Macrobiótica para la SALUD DEL CORAZÓN Y EL INTESTINO DELGADO."
+  duration:
+  description:
+  image: " "
+- name: "seminario"
+  id: 39
+  title: "DIAGNÓSTICO ORIENTAL. Diagnóstico de la Cara, Esclerótica de los Ojos, Lengua, Orejas, Abdomen, Manos, Pies, Piernas, Antebrazos, Meridianos, Cuerpo, Postura, Constitución según el Ki de las 9 Estrellas, Pulsos, Interrogatorio, Lectura Energética, Historia Clínica, Cómo Guiar una Consulta."
+  duration:
+  description:
+  image: " "
+- name: "seminario"
+  id: 40
+  title: "MEDICINA NATURAL: MANEJO Y ESTUDIO DE COMPLEMENTOS NATURALES. FITOTERAPIA. USO DE PLANTAS MEDICINALES. DIAGNÓSTICO POR EL IRIS. IRIDIOLOGIA. TRATAMIENTOS ESPECÍFICOS."
+  duration:
+  description:
+  image: " "
+- name: "seminario"
+  id: 41
+  title: "INTERPRETACIÓN DE ANALÍTICAS DE SANGRE. Cómo corregir las alteraciones en la Analítica a través de la Alimentación, los Complementos Naturales y el Verdadero Estilo de Vida Saludable."
+  duration:
+  description:
+  image: " "
+- name: "seminario"
+  id: 42
+  title: "VISION HOLISTICA DEL CANCER desde el punto de vista de la Macrobiótica, Medicina Natural, Oriental y Biológica."
+  duration:
+  description:
+  image: " "
+- name: "seminario"
+  id: 43
+  title: "BIOENERGETICA TAOISTA. QI GONG – TAO CURATIVO. Programa de Desarrollo Personal basado en el Sistema Taoísta para transformar el estrés en vitalidad."
+  duration:
+  description:
+  image: "img/eventos/BioenergeticaTaoista.jpg"

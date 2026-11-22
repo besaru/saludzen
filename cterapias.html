@@ -1,0 +1,81 @@
+---
+layout: page
+title: Salud-Zen Consultas Terapias Naturales
+permalink: /cterapias/
+---
+
+    <!-- Slider Start -->
+<section id="global-header-consultas2">
+<section id="global-header">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="block">
+                    <h1>Consulta de Terapias Naturales Integradas</h1>
+                    <!--<p>La Sabiduría Macrobiótica es Única.<br> Alimentarse de esta manera no obedece a una moda pasajera sino que es la aplicación de las Leyes del Universo a la Alimentación y la Cocina.</p>-->
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+</section>
+
+
+
+
+<!-- Call to action Start -->
+
+<!-- Wrapper Start -->
+
+<!-- Wrapper Start -->
+<section id="intro">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12 col-sm-12">
+        <div class="block">
+          <div class="section-title">
+            <h2>Consulta de Terapias Naturales Integradas</h2>
+            <p> Según el estado de Salud las necesidades de a persona se recomendarán la Terapias Naturales adecuadas integradas dentro de cada sesión Holística.
+              Con la estrategia terapeútica adecuada se estimularaán las funciones orgánicas para que el organismo recupere el equilibrio y la armonía.</p>
+         </div>
+       </div>
+    </div><!-- .col-md-7 close -->
+    </div>
+    <div class="col-md-8 col-sm-12">
+      <div class="block">
+    {% if site.data.tnaturales.size > 0 %}
+      {% for terapia in site.data.tnaturales %}
+
+              <br><b>{{terapia.name}}</b>
+              <br>{{terapia.content}}
+              <br>
+              {% endfor %}
+            {% endif %}
+            </div><!-- .col-md-4 close -->
+          </div>
+
+          <div class="col-md-4 col-sm-12">
+            <div class="block">
+              <br><br>
+              <img src="{{ site.url }}{{ site.baseurl }}/img/tnaturales/acupuntura2_web.jpg" alt="Consultas de Terapias Naturales1">
+              <br><br>
+              <img src="{{ site.url }}{{ site.baseurl }}/img/tnaturales/tnaturales.jpg" alt="Consultas de Terapias Naturales2">
+
+              <br><br>
+              <img src="{{ site.url }}{{ site.baseurl }}/img/tnaturales/rpostural.jpg" alt="Consultas de Terapias Naturales3">
+                <br><br>
+              <img src="{{ site.url }}{{ site.baseurl }}/img/tnaturales/acupuntura3_web.jpg" alt="Consultas de Terapias Naturales4">
+
+
+            </div>
+        </div>
+        <br>
+        <br>
+        Si quieres una consulta ponte en <a href="{{ site.url }}{{ site.baseurl }}/contact/ ">contacto por email o teléfono.</a>
+</div>
+
+<p class="center-text" style="padding: 30px;">
+  <a href="{{ site.url }}{{ site.baseurl }}/consultas/">Volver a Consultas</a>
+</p>
+
+</section>

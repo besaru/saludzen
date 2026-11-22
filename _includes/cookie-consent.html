@@ -1,0 +1,150 @@
+<style>
+  #cookie-notice {
+    display: none;
+    position: fixed;
+    z-index: 10000;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 1rem;
+    text-align: center;
+    background: #222;
+    color: #fff;
+  }
+  #cookie-notice p { margin: 0 0 0.75rem; }
+  #cookie-notice .btn { margin: 0.25rem; }
+  #cookie-settings {
+    display: none;
+    position: fixed;
+    z-index: 9999;
+    bottom: 0.5rem;
+    left: 0.5rem;
+  }
+  .external-content-placeholder {
+    margin: 1rem auto;
+    padding: 1.5rem;
+    max-width: 40rem;
+    border: 1px solid #ccc;
+    background: #f7f7f7;
+    text-align: center;
+  }
+</style>
+
+<div id="cookie-notice" role="dialog" aria-live="polite" aria-label="Preferencias de cookies">
+  <p>Utilizamos cookies de redes sociales solo si das tu consentimiento.</p>
+  <button id="cookie-notice-accept" class="btn btn-primary btn-sm" type="button">Aceptar</button>
+  <button id="cookie-notice-reject" class="btn btn-default btn-sm" type="button">Rechazar</button>
+  <a href="{{ '/politicacookies/' | relative_url }}" class="btn btn-default btn-sm">Más información</a>
+</div>
+<button id="cookie-settings" class="btn btn-default btn-xs" type="button">Configurar cookies</button>
+
+<script>
+  (function () {
+    'use strict';
+
+    var consentCookie = 'saludzen-cookie-consent';
+    var notice = document.getElementById('cookie-notice');
+    var settings = document.getElementById('cookie-settings');
+
+    function readCookie(name) {
+      var prefix = name + '=';
+      var cookies = document.cookie.split(';');
+      for (var i = 0; i < cookies.length; i += 1) {
+        var cookie = cookies[i].trim();
+        if (cookie.indexOf(prefix) === 0) {
+          return decodeURIComponent(cookie.substring(prefix.length));
+        }
+      }
+      return null;
+    }
+
+    function writeCookie(name, value, days) {
+      var maxAge = days * 24 * 60 * 60;
+      var secure = window.location.protocol === 'https:' ? '; Secure' : '';
+      document.cookie = name + '=' + encodeURIComponent(value) + '; Max-Age=' + maxAge + '; Path=/; SameSite=Lax' + secure;
+    }
+
+    function loadScript(id, source) {
+      if (document.getElementById(id)) return;
+      var script = document.createElement('script');
+      script.id = id;
+      script.async = true;
+      script.src = source;
+      document.head.appendChild(script);
+    }
+
+    function enableOptionalServices() {
+      loadScript('facebook-jssdk', 'https://connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v3.0');
+      var embeds = document.querySelectorAll('iframe[data-cookie-src]');
+      for (var i = 0; i < embeds.length; i += 1) {
+        embeds[i].src = embeds[i].getAttribute('data-cookie-src');
+        embeds[i].style.display = '';
+        var placeholder = embeds[i].previousElementSibling;
+        if (placeholder && placeholder.classList.contains('external-content-placeholder')) {
+          placeholder.parentNode.removeChild(placeholder);
+        }
+      }
+    }
+
+    function prepareOptionalEmbeds() {
+      var embeds = document.querySelectorAll('iframe[data-cookie-src]');
+      for (var i = 0; i < embeds.length; i += 1) {
+        if (embeds[i].previousElementSibling && embeds[i].previousElementSibling.classList.contains('external-content-placeholder')) {
+          continue;
+        }
+        embeds[i].style.display = 'none';
+        var placeholder = document.createElement('div');
+        placeholder.className = 'external-content-placeholder';
+        placeholder.textContent = 'Este contenido externo está bloqueado hasta que aceptes las cookies.';
+        var button = document.createElement('button');
+        button.className = 'btn btn-default btn-sm';
+        button.type = 'button';
+        button.textContent = 'Configurar cookies';
+        button.addEventListener('click', showNotice);
+        placeholder.appendChild(document.createElement('br'));
+        placeholder.appendChild(button);
+        embeds[i].parentNode.insertBefore(placeholder, embeds[i]);
+      }
+    }
+
+    function showNotice() {
+      notice.style.display = 'block';
+      settings.style.display = 'none';
+    }
+
+    function hideNotice() {
+      notice.style.display = 'none';
+      settings.style.display = 'inline-block';
+    }
+
+    prepareOptionalEmbeds();
+
+    var consent = readCookie(consentCookie);
+    if (!consent && readCookie('cookie-notice-dismissed') === 'true') {
+      consent = 'accepted';
+      writeCookie(consentCookie, consent, 180);
+    }
+
+    if (consent === 'accepted') {
+      enableOptionalServices();
+      hideNotice();
+    } else if (consent === 'rejected') {
+      hideNotice();
+    } else {
+      showNotice();
+    }
+
+    document.getElementById('cookie-notice-accept').addEventListener('click', function () {
+      writeCookie(consentCookie, 'accepted', 180);
+      enableOptionalServices();
+      hideNotice();
+    });
+
+    document.getElementById('cookie-notice-reject').addEventListener('click', function () {
+      writeCookie(consentCookie, 'rejected', 180);
+      window.location.reload();
+    });
+
+    settings.addEventListener('click', showNotice);
+  }());
+</script>

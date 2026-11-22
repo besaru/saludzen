@@ -89,7 +89,8 @@ header .navbar-default .navbar-nav {
 }
 header .navbar-default .navbar-nav li a {
   color: #333333;
-  padding: 10px 26px;
+  /*-padding: 10px 26px;--*/
+
   font-size: 15px;
 }
 font header .navbar-default .navbar-nav li a:hover {
@@ -102,7 +103,8 @@ font header .navbar-default .navbar-nav li a:hover {
 	Slider Start
 --*/
 #slider {
-  background: url("../img/slider-bg.jpg") no-repeat;/*----imagen ppal*/
+
+ background: url("../img/slider-bg.jpg") no-repeat;/*----imagen ppal*/
   background-size: cover;
   background-attachment: fixed;
   background-position: 10% 0%;
@@ -143,7 +145,7 @@ font header .navbar-default .navbar-nav li a:hover {
 	wrapper Start
 --*/
 #intro {
-  padding: 100px 0;
+  padding: 30px 0;
 }
 #intro .block h2 {
   padding-top: 35px;
@@ -193,6 +195,15 @@ font header .navbar-default .navbar-nav li a:hover {
 /*--
 	call-to-action Start
 --*/
+#call-to-action-escuelas {
+  background: url("../img/florVida.png") no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  padding: 70px 0px;
+  position: relative;
+  text-align: center;
+  color: #fff;
+}
 #call-to-action {
   background: url("../img/call-to-action-bg.jpg") no-repeat;
   background-size: cover;
@@ -202,6 +213,20 @@ font header .navbar-default .navbar-nav li a:hover {
   text-align: center;
   color: #fff;
 }
+
+#call-to-action-escuelas:before {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
+  background: #D8D8D8;
+  opacity: 0.8;
+}
+
 #call-to-action:before {
   content: "";
   position: absolute;
@@ -220,10 +245,19 @@ font header .navbar-default .navbar-nav li a:hover {
   margin: 0;
   font-size: 30px;
 }
+#call-to-action-escuelas h2 {
+  padding-bottom: 20px;
+  line-height: 33px;
+  margin: 0;
+  font-size: 30px;
+}
 #call-to-action p {
   font-size: 14px;
   line-height: 1.6;
 }
+
+
+
 #call-to-action .btn-call-to-action {
   padding: 15px 35px;
   border: none;
@@ -235,8 +269,31 @@ font header .navbar-default .navbar-nav li a:hover {
 /*--
 	Feature Start
 --*/
+#feature2 {
+  background: url("../img/index/featue-bg-fondo.jpg");
+  background-position: 50% 94px;
+  width: 100%;
+  display: block;
+  position: relative;
+  overflow: visible;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-color: #fff;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  padding: 100px 0;
+}
+
 #feature {
-  background: url("../img/featue-bg.jpg");
+  background: url("../img/index/featue-bg-fondo_3.jpg");
   background-position: 50% 94px;
   width: 100%;
   display: block;
@@ -351,10 +408,10 @@ font header .navbar-default .navbar-nav li a:hover {
 --*/
 #clients-logo-section {
   padding-top: 30px;
-  padding-bottom: 75px;
+  padding-bottom: 10px;
 }
 #clients-logo-section .clients-logo-img {
-  padding: 0px 50px;
+  padding: 0px 0px;
 }
 /*---------------------------------------------
 					Work Start
@@ -362,14 +419,116 @@ font header .navbar-default .navbar-nav li a:hover {
 /*--
 	Slider-work Start
 --*/
-#global-header {
-  background: url("../img/slider-bg.jpg") no-repeat;
+#global-header-team  {
+  background: url("../img/team/conferencias.jpg") no-repeat;
   background-size: cover;
   padding-top: 150px;
   padding-bottom: 107px;
   position: relative;
   background-attachment: fixed;
+  }
+
+#global-header-proyecto  {
+  background: url("../img/index/ppal.jpg") no-repeat;
+  background-size: cover;
+  padding-top: 150px;
+  padding-bottom: 107px;
+  position: relative;
+  background-attachment: fixed;
+  }
+#global-header-escuelas  {
+  background: url("../img/index/escuelaMacro.jpg") no-repeat;
+  background-size: cover;
+  padding-top: 150px;
+  padding-bottom: 107px;
+  position: relative;
+  background-attachment: fixed;
+  }
+
+  #global-header-macrobiotica  {
+    background: url("../img/index/escuelaMacro.jpg") no-repeat;
+    background-size: cover;
+    padding-top: 150px;
+    padding-bottom: 107px;
+    position: relative;
+    background-attachment: fixed;
+    }
+
+    #global-header-terapias  {
+      background: url("../img/index/tnaturales.jpg") no-repeat;
+      background-size: cover;
+      padding-top: 150px;
+      padding-bottom: 107px;
+      position: relative;
+      background-attachment: fixed;
+      }
+      #global-header-qigong  {
+        background: url("../img/index/qigong.jpg") no-repeat;
+        background-size: cover;
+        padding-top: 150px;
+        padding-bottom: 107px;
+        position: relative;
+        background-attachment: fixed;
+        }
+      #global-header-consultas  {
+        background: url("../img/index/consulta.jpg") no-repeat;
+        background-size: cover;
+        padding-top: 150px;
+        padding-bottom: 107px;
+        position: relative;
+        background-attachment: fixed;
+        }
+        #global-header-consultas2  {
+          background: url("../img/index/consulta_tn.jpg") no-repeat;
+          background-size: cover;
+          padding-top: 150px;
+          padding-bottom: 107px;
+          position: relative;
+          background-attachment: fixed;
+          }
+
+        #global-header-eventos  {
+          background: url("../img/eventos/cursos_2.jpg") no-repeat;
+          background-size: cover;
+          padding-top: 150px;
+          padding-bottom: 107px;
+          position: relative;
+          background-attachment: fixed;
+
+          }
+          #global-header-blog  {
+            background: url("../img/blog/blog_2.jpg") no-repeat;
+            background-size: cover;
+            padding-top: 150px;
+            padding-bottom: 107px;
+            position: relative;
+            background-attachment: fixed;
+
+            }
+
+            #global-header-contacto  {
+              background: url("../img/index/contacto.jpg") no-repeat;
+              background-size: cover;
+              padding-top: 150px;
+              padding-bottom: 107px;
+              position: relative;
+              background-attachment: fixed;
+
+              }
+
+#global-header-eventos:before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(to left, #928dab, #1f1c2c 70%);
+  opacity: 0.3;
 }
+
 #global-header:before {
   content: "";
   position: absolute;
@@ -380,13 +539,15 @@ font header .navbar-default .navbar-nav li a:hover {
   width: 100%;
   height: 100%;
   background: linear-gradient(to left, #928dab, #1f1c2c 70%);
-  opacity: 0.8;
+  opacity: 0.5;
 }
 #global-header .block {
-  color: #E3E3E4;
+
+  color: #FFFFFF;
   margin: 0 auto;
-  padding-left: 90px;
+  padding-left: 10px;
   text-align: center;
+  font-weight: bold;
 }
 #global-header .block h1 {
   font-weight: 100;
@@ -395,10 +556,12 @@ font header .navbar-default .navbar-nav li a:hover {
   padding-bottom: 15px;
   margin-top: 0;
   text-transform: capitalize;
+  font-weight: bold;
 }
 #global-header .block p {
-  font-size: 16px;
+  font-size: 24px;
   font-weight: 300;
+  font-weight: bold;
   letter-spacing: 1px;
   word-spacing: 3px;
 }
@@ -407,7 +570,7 @@ font header .navbar-default .navbar-nav li a:hover {
 --*/
 #portfolio-work {
   overflow: hidden;
-  padding: 80px 0;
+  padding: 30px 0;
 }
 #portfolio-work .block .portfolio-menu {
   padding-bottom: 30px;
@@ -473,7 +636,7 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 #portfolio-work .block .portfolio-contant ul li {
   float: left;
-  width: 32.22%;
+  width: 31.5%;
   overflow: hidden;
   margin: 6px;
   position: relative;
@@ -523,10 +686,24 @@ font header .navbar-default .navbar-nav li a:hover {
   transition: .3s all;
   text-align: center;
 }
+#portfolio-work .block .portfolio-contant .position-left {
+  position: absolute;
+  top: 1%;
+  left: 1%;
+  -webkit-transform: translate(0%, 1%);
+  -moz-transform: translate(0%, 1%);
+  -ms-transform: translate(0%, 1%);
+  transform: translate(0%, 1%);
+  -webkit-transition: .5s all;
+  -o-transition: .5s all;
+  transition: .5s all;
+}
+
+
 #portfolio-work .block .portfolio-contant .position-center {
   position: absolute;
   top: 50%;
-  left: 10%;
+  left: 15%;
   -webkit-transform: translate(0%, 50%);
   -moz-transform: translate(0%, 50%);
   -ms-transform: translate(0%, 50%);

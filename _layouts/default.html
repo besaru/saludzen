@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html class="no-js">
+<html lang="es" class="no-js">
   <head>
 
     {% include head.html %}
@@ -8,20 +8,15 @@
   <body>
 
 
-    {% include header.html %}
 
+    {% include header.html %}
 
     {{ content }}
 
-
-
-
-
-
-
-
-
     {% include footer.html %}
+   {% if jekyll.environment == 'production' %}
+      {% include cookie-consent.html %}
+    {% endif %}
 
     </body>
 </html>

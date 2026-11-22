@@ -6,35 +6,35 @@ exclude:
   - "README.md"
   - "LICENSE.md"
   - "*.gemspec"
+  - "index_old/"
+  - "nueva-web/"
+include: ['.htaccess']
 
 keep_files:
   - "CNAME"
   - ".git"
   - ".gitignore"
 
+future: true
 
 # Site settings
+name: "Salud-Zen, Escuela Holística de Salud Natural"
+description: "Escuela Holística de Salud Natural con cursos, consultas y formación en nutrición energética, terapias naturales, Qi Gong, Tao, Zen y meditación."
 title: Salud-Zen
-subtitle: "A free HTML5 agency template"
-url: "https://salud-zen.000webhostapp.com/" # the base hostname & protocol for your site
+subtitle: "Escuela Holística de Salud Natural"
+#url: "http://salud-zen.sytechcom.com/" # the base hostname & protocol for your site
+#url: "https://salud-zen.000webhostapp.com" # the base hostname & protocol for your site
+#url: "https://besaru.github.io/saludzen/"
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
-baseurl: ''
-#url: "https://besaru.github.io"
+url: "https://www.salud-zen.com"
+baseurl: ""
+#url: "http://salud-zen.ml/"
 #baseurl: '/saludzen'
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
 
+
 # Build settings
 markdown: kramdown
-
 # Google analytics
-# ga_tracking_id: "UA-XXXX-1"
-
-# Category descriptions (for archive pages)
-
-descriptions:
-  - cat: jekyll
-    desc: "Posts describing Jekyll setup techniques."
-
-  - cat: dummy
-    desc: "Just some placeholder posts, lorem ipsum and the rest."
+# ga_tracking_id: "UA-109788432-1"

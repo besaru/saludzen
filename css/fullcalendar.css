@@ -397,25 +397,32 @@ temporary rendered events).
 }
 
 
-.fc-event.curso{
-    background-color: #FDEBD0;
-		color: #D68910;
+.fc-event.macrobiotica{
+    background-color: #E2A9F3;
+		color: #BF00FF;
 		text-decoration: none; /* if <a> has an href */
-		border-color: #D68910;
+		border-color: #BF00FF;
 		font-weight:normal;
 }
-.fc-event.seminario{
+.fc-event.proyecto{
     background-color: #D1F2EB;
 		color: #239B56;
 		text-decoration: none; /* if <a> has an href */
 		border-color: #239B56;
 		font-weight:normal;
 }
-.fc-event.taller{
+.fc-event.terapias{
     background-color: #D4E6F1;
 		color: #2874A6;
 		text-decoration: none; /* if <a> has an href */
 		border-color: #2874A6;
+		font-weight:normal;
+}
+.fc-event.biodanza{
+    background-color: #F6CEEC;
+		color: #FA58D0;
+		text-decoration: none; /* if <a> has an href */
+		border-color: #FA58D0;
 		font-weight:normal;
 }
 .fc-event.success{
@@ -738,7 +745,8 @@ TODO: more distinction between this file and common.css
 }
 
 .fc-unthemed td.fc-today {
-	background: #fcf8e3;
+	background: #F3E2A9;
+	color: #666;
 }
 
 .fc-unthemed .fc-disabled-day {
@@ -1021,6 +1029,7 @@ NOTE: use percentage font sizes or else old IE chokes
 .fc-view > table { /* so dragged elements can be above the view's main element */
 	position: relative;
 	z-index: 1;
+
 }
 
 

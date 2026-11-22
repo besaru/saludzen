@@ -1,21 +1,21 @@
-<<<<<<< HEAD
-# _Airspace_ for Jekyll
-![screenshot](screenshots/home.png "Description goes here")
+# # Salud-Zen
 
-This Jekyll theme is a port of ThemeFisher's Airspace template. It is released under ThemeFisher's free license, which requires attribution.
+Sitio web de Salud-Zen, Escuela Holística de Salud Natural.
 
-## Usage
-To start your project, [fork this respository](https://github.com/luminousrubyist/airspace-jekyll/fork), put in your content, and go!
+El proyecto reúne información sobre:
 
-## Examples
-Here are some projects that have used this Jekyll Theme:
-* [BOYUAN Open Source 博辕开源](https://boyuanitsm.github.io)
-* [Campus VC](https://mrchildneo.github.io/mrchildneo/)
-* [Mãos de amar](https://www.maosdeamar.com.br/)
-* [ATK Team](http://www.atksec.com/)
-* [Coding Club](https://ourcodingclub.github.io/)
-* [Dev Empathy Book Club](http://www.devempathybook.club/)
-* [DKAN Open Data Catalog](http://getdkan.com) (modified version of this theme)
-=======
-# SaludZen
->>>>>>> 3016a2707767391a6e2319964e6ba91eb9b36624
+- Nutrición energética, macrobiótica y medicina oriental.
+- Terapias naturales y artes orientales.
+- Qi Gong, Tao, Zen y meditación.
+- Consultas de nutrición y salud.
+- Cursos, talleres, conferencias y otras actividades.
+- Artículos, recetas y contenidos divulgativos.
+
+## Desarrollo local
+
+El sitio utiliza Jekyll.
+
+Para generar la web:
+
+```bash
+LC_ALL=en_US.UTF-8 LANG=en_US.UTF-8 bundle exec jekyll build

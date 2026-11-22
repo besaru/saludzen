@@ -1,0 +1,289 @@
+---
+layout: page
+title: Salud-Zen Calendario
+permalink: /cursos2/
+category: evento
+calendar: true
+---
+<!-- Slider Start -->
+<section id="global-header-eventos">
+  <section id="global-header" >
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="block">
+          <h1>Cursos</h1>
+          <p>No te pierdas los próximos cursos, talleres, seminarios ...</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+</section>
+<section id="intro">
+
+  <div class="container">
+
+    <div class="row">
+      <div class="col-md-12 col-sm-12">
+        <div class="block">
+          <div class="section-title">
+              <h2>Cursos</h2>
+            <!--<p>Este proyecto nace de uno de nuestros propósitos de vida: Poner a disposición del Universo y del Mundo Entero nuestro granito de arena aportando Conocimiento y creando Consciencia a través del Pensamiento, del Discernimiento y del Sentido Común para ser más Libres para elegir y así entre todos crear un Mundo Mejor, más sostenible, con más recursos naturales y desde una consciencia mucho más Humana, Global y Universal.</p>-->
+          </div>
+          <p>Si estás interesado, ahora puedes <b>comprar tu curso desde la web</b>, tanto de modalidad online como presencial. <br>
+          Si tienes alguna consulta, ponte en <a href="{{site.url}}{{site.baseurl}}/contact">contacto</a> con nosotros.</p>
+        </div>
+      </div><!-- .col-md-7 close -->
+
+    </div>
+  </div>
+</section>
+
+<hr>
+
+<section id="portfolio-work">
+    <div class="container">
+      <div class="block">
+
+        {% assign online-posts = site.posts | where: "categories","evento"| where: "public","true"| where: "online","true"|sort: 'date' %}
+        {%for post in online-posts%}
+         <div class="row">
+          <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+            <div class="portfolio-contant">
+              <ul id="portfolio-contant-active">
+                <li>
+                    <a href="{{ post.link }}" class="bold" target="_blank" rel="noopener noreferrer">
+                      <img src="{{ site.url }}{{ site.baseurl }}/{{ post.image_prop}}" alt="{{ post.title }}" loading="lazy">
+                        <div class="overly">
+                          <div class="position-left">
+                            <h2> {{post.dateVisible}}</h2>
+                          </div><!--position-left-->
+                          <div class="position-center">
+                            <h2>{{ post.name }}</h2>
+                            <p>
+                              <i class="ion-clock"> &nbsp;&nbsp;{{ post.horario}}</i>
+                                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                              <i class="fa fa-map-marker">&nbsp;&nbsp;{{ post.localizacion }}</i>
+                            </p>
+
+                          </div><!--position-center-->
+                        </div><!--overly-->
+                      </a>
+
+                  </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      {% endfor %}
+
+    </div>
+  </div>
+</section>
+
+<hr>
+<section id="portfolio-work">
+    <div class="container">
+      <div class="block">
+
+        {% assign sorted-posts = site.posts | where: "categories","evento"| where: "online","false" %}
+        {% assign sorted-posts2 = sorted-posts | where: "public","true" |sort: 'date'%}
+        {% assign postsByYear = sorted-posts2 | group_by_exp:"post", "post.date | date: '%-y'"|sort: 'date'  %}
+        {% capture nowYear %} {{'now' | date: '%y'}} {% endcapture %}
+
+        {% for year in postsByYear %}
+
+          {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%-m'"|sort: 'date'  %}
+          {% for month in postsByMonth %}
+          <div class="row">
+            <div class="col-md-12">
+              <h2> {% case month.name %}
+
+                   {% when '1' %}Enero
+                   {% when '2' %}Febrero
+                   {% when '3' %}Marzo
+                   {% when '4' %}Abril
+                   {% when '5' %}Mayo
+                   {% when '6' %}Junio
+                   {% when '7' %}Julio
+                   {% when '8' %}Agosto
+                   {% when '9' %}Septiembre
+                   {% when '10' %}Octubre
+                   {% when '11' %}Noviembre
+                   {% when '12' %}Diciembre
+                 {% endcase %}
+                 '{{year.name}}
+               </h2>
+             <ul>
+               {%assign  events= month.items|sort: 'date' %}
+               {% for post in events %}
+
+                   <div class="portfolio-contant">
+                     <ul id="portfolio-contant-active">
+                       <li>
+                         {%if post.localizacion =='ECOENCUENTRO, c/Las Norias n°80, Majadahonda (Madrid)'%}
+                           <a href="{{post.link}}" class="bold" target="_blank" rel="noopener noreferrer">
+                         {%else%}
+                            <a href="{{ site.url }}{{ site.baseurl }}{{ post.url}}" class="bold">
+                          {%endif%}
+                           {% if post.image_prop %}
+                             <img src="{{ site.url }}{{ site.baseurl }}/{{ post.image_prop}}" alt="{{ post.title }}" loading="lazy">
+                           {% else %}
+                             <img src="{{ site.url }}{{ site.baseurl }}/{{ post.image}}"  alt="{{ post.title }} " loading="lazy">
+                           {%endif%}
+                             <div class="overly">
+                              <div class="position-left">
+
+                                 <h1>{{post.date | date: "%d"}}
+                                 <h2>{% case month.name %}
+
+                                          {% when '1' %}Ene
+                                          {% when '2' %}Feb
+                                          {% when '3' %}Mar
+                                          {% when '4' %}Abr
+                                          {% when '5' %}May
+                                          {% when '6' %}Jun
+                                          {% when '7' %}Jul
+                                          {% when '8' %}Ago
+                                          {% when '9' %}Sep
+                                          {% when '10' %}Oct
+                                          {% when '11' %}Nov
+                                          {% when '12' %}Dic
+                                        {% endcase %}
+                                 </h2></h1>
+                               </div><!--position-left-->
+                                 <div class="position-center">
+                                   <h2>{{ post.name }}</h2>
+                                   <p>
+                                     <i class="ion-clock"> &nbsp;&nbsp;{{ post.horario}}</i>
+                                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                     <i class="fa fa-map-marker">&nbsp;&nbsp;{{ post.localizacion }}</i>
+                                   </p>
+
+                               </div><!--position-center-->
+                             </div><!--overly-->
+                         </a>
+
+                       </li>
+                     </ul>
+                   </div>
+
+               {% endfor %}
+               </ul>
+
+               <br>
+             </div><!--col-->
+           </div><!--row-->
+         {% endfor %}
+
+          {% endfor %}
+        </div><!--block-->
+      </div><!--container-->
+ </section>
+
+
+ <section id="call-to-action">
+   <div class="container">
+     <div class="row">
+
+       <div class="col-xs-12 col-sm-6 col-md-6 ">
+         <div class="block">
+            <div id='loading'>loading...</div>
+            <div id='calendar'></div>
+          </div>
+        </div>
+
+      <div class="col-xs-12 col-sm-6 col-md-6 ">
+
+          <div class="block">
+            <ul><h2 align="left"> > Permanente:</h2>
+
+              <table>
+              {%for post in online-posts%}
+              <tr>
+                  <div >
+                    <ul >
+                      <li>
+                        <div class="position-center" style="text-align: left;font-size:160%;">
+                          <td style="text-align: left;font-size:120%;">
+                            {{post.dateVisible}}
+                          </td>
+                          <td style="text-align: left;font-size:140%;">
+                            <a href="{{post.link}}" class="bold"  style="text-decoration: none;color: inherit;" target="_blank" rel="noopener noreferrer">
+                              {{ post.name }}
+                            </a>
+                          </td>
+                        </div><!--position-center-->
+                      </li>
+                    </ul>
+                  </div>
+                </tr>
+                {% endfor %}
+                </table>
+              </ul>
+            </div>
+
+          <div class="block">
+            <ul><h2 align="left"> > Próximos Eventos:</h2>
+              {% capture now %}{{site.time | date: '%s'}}{% endcapture %}
+              <table>
+
+              {% for post in sorted-posts2 %}
+
+
+                  {% capture posttime %}{{post.dateVisible | date: '%s'}}{% endcapture %}
+
+                  {% if now <= posttime %}
+              <tr>
+
+
+                  <div >
+
+                    <ul >
+                      <li>
+                            <div class="position-center" style="text-align: left;font-size:160%;">
+                              <td style="text-align: left;font-size:120%;">
+                                {{post.date | date: "%d"}}
+                                  {% capture month %}{{post.date | date: "%m"}}{% endcapture %}
+                                    {% case month %}
+                                         {% when '01' %}Ene
+                                         {% when '02' %}Feb
+                                         {% when '03' %}Mar
+                                         {% when '04' %}Abr
+                                         {% when '05' %}May
+                                         {% when '06' %}Jun
+                                         {% when '07' %}Jul
+                                         {% when '08' %}Ago
+                                         {% when '09' %}Sep
+                                         {% when '10' %}Oct
+                                         {% when '11' %}Nov
+                                         {% when '12' %}Dic
+                                       {% endcase %}
+                                     </td>
+                                     <td style="text-align: left;font-size:140%;">
+                                -{%if post.localizacion =='ECOENCUENTRO, c/Las Norias n°80, Majadahonda (Madrid)'%}
+                                  <a href="{{post.link}}" class="bold"  style="text-decoration: none;color: inherit;" target="_blank" rel="noopener noreferrer">
+                                {%else%}
+                                <a href="{{ site.url }}{{ site.baseurl }}{{ post.url}}" class="bold"  style="text-decoration: none;color: inherit;">
+                                {%endif%}
+                                    {{ post.name }}
+                                  </a>
+                              </td>
+                               </div><!--position-center-->
+                      </li>
+                    </ul>
+                  </div>
+                </tr>
+                {% endif %}
+
+              {% endfor %}
+            </table>
+              </ul>
+          </div>
+      </div>
+
+
+                </div>
+              </div>
+            </section>
